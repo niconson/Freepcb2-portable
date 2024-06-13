@@ -1,0 +1,41 @@
+name: "Pad2x2"
+author: "Duxah"
+package: "Pad2x2"
+description: "Pads"
+units: NM
+sel_rect: -1500000 -1000000 1500000 1000000
+ref_text: 900000 1300000 700000 0 150000
+value_text: 700000 1200000 -300000 0 100000
+centroid: 0 0 0 0
+n_pins: 1
+pin: "1" 0 0 0 0 ""
+top_pad: 5 2000000 1500000 1500000 1000000
+top_mask: 2 2000000 1000000 1000000 0
+
+name: "4148"
+author: "Allan Wright @ freepcb.com"
+package: "4148"
+description: "Diode,Molded Body;5.01mm L X 2.49mm W X 2.31mm H"
+  units: NM
+  sel_rect: -3475000 -1460900 3475000 1460900
+  ref_text: 1270000 0 2900000 0 177800
+  value_text: 1270000 0 -4170000 0 177800
+  centroid: 0 0 0 0
+  outline_polyline: 177800 -632000 1256000 1 0 4
+    next_corner: -2748000 1256000 0
+    next_corner: -2748000 1372000 0
+    next_corner: 2632000 1372000 0
+    next_corner: 2632000 1256000 0
+  outline_polyline: 177800 -632000 -1256000 1 0 4
+    next_corner: -2632000 -1256000 0
+    next_corner: -2632000 -1372000 0
+    next_corner: 2632000 -1372000 0
+    next_corner: 2632000 -1256000 0
+  outline_polyline: 177800 -500000 1372000 1 1 4
+    next_corner: -500000 -1372000 0
+  n_pins: 2
+    pin: "2" 0 -2150000 0 0 ""
+      top_pad: 3 1750000 1325000 1325000 0
+    pin: "1" 0 2150000 0 0 ""
+      top_pad: 3 1750000 1325000 1325000 0
+

@@ -1,0 +1,185 @@
+  (compInst "R10"
+    (compRef "0805_0")
+    (originalName "0805")
+  )
+  (compInst "R11"
+    (compRef "0805_0")
+    (originalName "0805")
+  )
+  (compInst "VT2"
+    (compRef "TO-252AA-3_0")
+    (originalName "TO-252AA-3")
+  )
+  (compInst "VT1"
+    (compRef "TO-252AA-3_0")
+    (originalName "TO-252AA-3")
+  )
+  (compInst "DA2"
+    (compRef "LGA14_0")
+    (originalName "LGA14")
+  )
+  (compInst "R9"
+    (compRef "0805_0")
+    (originalName "0805")
+  )
+  (compInst "R8"
+    (compRef "0805_0")
+    (originalName "0805")
+  )
+  (compInst "HL2"
+    (compRef "LED-T1_0")
+    (originalName "LED-T1")
+  )
+  (compInst "VT3"
+    (compRef "SOT-23_0")
+    (originalName "SOT-23")
+  )
+  (compInst "R6"
+    (compRef "0805_0")
+    (originalName "0805")
+  )
+  (compInst "R7"
+    (compRef "0805_0")
+    (originalName "0805")
+  )
+  (compInst "DA1"
+    (compRef "SOT-23-5_0")
+    (originalName "SOT-23-5")
+  )
+  (compInst "X1"
+    (compRef "X1_0")
+    (originalName "X1")
+  )
+  (compInst "C1"
+    (compRef "0603_0")
+    (originalName "0603")
+  )
+  (compInst "VD1"
+    (compRef "SOD-123_0")
+    (originalName "SOD-123")
+  )
+  (compInst "C2"
+    (compRef "0603_0")
+    (originalName "0603")
+  )
+  (compInst "X3"
+    (compRef "X1_0")
+    (originalName "X1")
+  )
+  (compInst "R2"
+    (compRef "0805_0")
+    (originalName "0805")
+  )
+  (compInst "R3"
+    (compRef "0805_0")
+    (originalName "0805")
+  )
+  (compInst "HL1"
+    (compRef "LED-T1_0")
+    (originalName "LED-T1")
+  )
+  (compInst "DD1"
+    (compRef "QSOP-20_0")
+    (originalName "QSOP-20")
+  )
+  (compInst "R1"
+    (compRef "0805_0")
+    (originalName "0805")
+  )
+  (compInst "C3"
+    (compRef "0603_0")
+    (originalName "0603")
+  )
+  (compInst "X2"
+    (compRef "X1_0")
+    (originalName "X1")
+  )
+  (compInst "R4"
+    (compRef "0805_0")
+    (originalName "0805")
+  )
+  (compInst "C4"
+    (compRef "0603_0")
+    (originalName "0603")
+  )
+  (compInst "R5"
+    (compRef "0805_0")
+    (originalName "0805")
+  )
+  (compInst "X4"
+    (compRef "PLS-3_0")
+    (originalName "PLS-3")
+  )
+  (compInst "VIA1"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+  (compInst "VIA2"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+  (compInst "VIA3"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+  (compInst "VIA4"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+  (compInst "VIA5"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+  (compInst "VIA6"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+  (compInst "VIA7"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+  (compInst "VIA8"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+  (compInst "VIA9"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+  (compInst "VIA10"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+  (compInst "VIA11"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+  (compInst "VIA12"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+  (compInst "VIA13"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+  (compInst "VIA14"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+  (compInst "VIA15"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+  (compInst "VIA16"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+  (compInst "VIA17"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+  (compInst "VIA18"
+    (compRef "ID5348146_0")
+    (originalName "ID5348146")
+  )
+END

@@ -1,0 +1,8 @@
+Report for VPL storage (19.10.2020 11:23:28)
+    Armkor-1-1.vpl
+        new elements
+            1) DS18B20  TO92
+            2) INA826  SO8
+            3) 32M  NX2016
+            4) TPS80403DBV  SOT235
+            5) STLQ015M30R  SOT235

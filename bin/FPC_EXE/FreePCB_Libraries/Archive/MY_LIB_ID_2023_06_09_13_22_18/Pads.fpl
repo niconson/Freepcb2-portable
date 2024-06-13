@@ -1,0 +1,50 @@
+name: "Pad2x2"
+author: "Duxah"
+description: "Pads"
+units: NM
+sel_rect: -1525270 -1024890 1525270 1024890
+ref_text: 900000 1300000 700000 0 150000
+value_text: 700000 1200000 -300000 0 100000
+centroid: 0 0 0 0
+text: "220V" 1000000 -1800000 1300000 0 100000 0 4
+n_pins: 1
+pin: "1" 0 0 0 0 ""
+top_pad: 5 2000000 1500000 1500000 1000000
+top_mask: 2 2000000 1000000 1000000 0
+
+name: "SHield"
+author: "Duxah"
+description: "Pads"
+units: NM
+sel_rect: -524510 -524510 524510 524510
+ref_text: 900000 1300000 700000 0 150000
+value_text: 700000 1200000 -300000 0 100000
+centroid: 0 0 0 0
+n_pins: 1
+pin: "1" 0 0 0 0 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 2 1000000 500000 500000 0
+
+name: "SMD3X5"
+author: "Duxah"
+description: "Pads"
+units: MIL
+sel_rect: -113.188976 -73.818898 113.188976 73.818898
+ref_text: 33 -94.488189 -47.244094 0 5
+value_text: 10 -86.614173 47.244094 0 1
+centroid: 0 0 0 0
+outline_polyline: 5.905512 -90.551181 70.866142 1 0 4
+next_corner: -110.23622 51.181102 2
+next_corner: -110.23622 -51.181102 0
+next_corner: -90.551181 -70.866142 2
+next_corner: 90.551181 -70.866142 0
+next_corner: 110.23622 -51.181102 2
+next_corner: 110.23622 51.181102 0
+next_corner: 90.551181 70.866142 2
+close_polyline: 0
+n_pins: 2
+pin: "1" 0 -68.897638 0 0 ""
+top_pad: 4 118 29.527559 29.527559 8
+pin: "2" 0 68.897638 0 0 ""
+top_pad: 4 118 29.527559 29.527559 8
+

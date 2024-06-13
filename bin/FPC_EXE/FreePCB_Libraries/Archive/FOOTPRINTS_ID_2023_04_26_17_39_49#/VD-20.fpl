@@ -1,0 +1,74 @@
+name: "TO-220A"
+author: "Ivex"
+package: "TO-220"
+description: "none"
+units: NM
+sel_rect: -1853000 -6170999 6933000 2361000
+ref_text: 1270000 2540000 3556000 0 177800
+value_text: 1270000 2540000 1016000 0 177800
+centroid: 0 2540000 0 0
+outline_polyline: 150000 -1778000 -1778000 1 0 4
+next_corner: 2540000 -6095999 2
+next_corner: 6858000 -1778000 2
+next_corner: 6858000 2286000 0
+next_corner: -1778000 2286000 0
+close_polyline: 0
+outline_polyline: 150000 -1778000 1778000 1 0 4
+next_corner: 6858000 1778000 0
+n_pins: 3
+pin: "1" 0 0 0 0 ""
+top_pad: 2 2200000 1100000 1100000 0
+top_mask: 2 2000000 1000000 1000000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+pin: "2" 0 2540000 -4500000 0 ""
+top_pad: 2 2200000 1100000 1100000 0
+top_mask: 2 2000000 1000000 1000000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+pin: "3" 0 5080000 0 0 ""
+top_pad: 2 2200000 1100000 1100000 0
+top_mask: 2 2000000 1000000 1000000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+
+name: "VD-20"
+package: "DO-201AE"
+  units: NM
+  sel_rect: -13250000 -3180900 13250000 3180900
+  ref_text: 1270000 0 5200000 0 177800
+  value_text: 1270000 0 -6470000 0 177800
+  centroid: 0 0 0 0
+  outline_polyline: 177800 -12027000 1331000 1 0 4
+    next_corner: -5761000 1331000 0
+    next_corner: -4000000 3092000 0
+    next_corner: 4000000 3092000 0
+    next_corner: 5761000 1331000 0
+    next_corner: 12027000 1331000 0
+  outline_polyline: 177800 -12027000 -1331000 1 0 4
+    next_corner: -5761000 -1331000 0
+    next_corner: -4000000 -3092000 0
+    next_corner: 4000000 -3092000 0
+    next_corner: 5761000 -1331000 0
+    next_corner: 12027000 -1331000 0
+  outline_polyline: 177800 1000000 -1000000 1 1 4
+    next_corner: 1000000 1000000 0
+  outline_polyline: 177800 1000000 0 1 0 4
+    next_corner: -1000000 -1000000 0
+    next_corner: -1000000 1000000 0
+    close_polyline: 0
+  outline_polyline: 177800 1500000 0 1 1 4
+    next_corner: -1500000 0 0
+  outline_polyline: 2000000 -10000000 0 1 1 15
+    next_corner: -3500000 0 0
+  outline_polyline: 2000000 3750000 0 1 1 15
+    next_corner: 10250000 0 0
+  n_pins: 4
+    pin: "1" 0 -11150000 0 0 ""
+      top_pad: 3 2500000 2000000 2000000 0
+      top_mask: 3 1700000 2100000 2100000 0
+    pin: "2" 0 11150000 0 0 ""
+      top_pad: 3 2500000 2000000 2000000 0
+      top_mask: 3 1700000 2100000 2100000 0
+    pin: "1" 0 -3000000 0 0 ""
+      top_pad: 2 2500000 1250000 1250000 0
+    pin: "2" 0 3000000 0 0 ""
+      top_pad: 2 2500000 1250000 1250000 0
+

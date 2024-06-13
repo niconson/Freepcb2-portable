@@ -1,0 +1,55 @@
+name: "FERR-4"
+author: "Allan Wright @ freepcb.com"
+package: "FERR-4"
+description: "Oscillator,J-lead;4 pin,8.85mm L X 12.80mm W X 4.70mm H"
+  units: NM
+  sel_rect: -7588570 -4504000 7588900 4504000
+  ref_text: 1270000 0 7900000 0 177800
+  value_text: 1270000 0 -9170000 0 177800
+  centroid: 0 0 0 0
+  outline_polyline: 254000 -5627000 4000000 1 0 4
+    next_corner: -5250000 4377000 1
+    next_corner: -4873000 4000000 1
+    next_corner: -5250000 3623000 1
+    close_polyline: 1
+  outline_polyline: 177800 6000000 2500000 1 1 4
+    next_corner: 7000000 2500000 0
+    next_corner: 7500000 2000000 1
+    next_corner: 7000000 1500000 1
+    next_corner: 7500000 1000000 1
+    next_corner: 7000000 500000 1
+    next_corner: 7500000 0 1
+    next_corner: 7000000 -500000 1
+    next_corner: 7500000 -1000000 1
+    next_corner: 7000000 -1500000 1
+    next_corner: 7500000 -2000000 1
+    next_corner: 7000000 -2500000 1
+    next_corner: 6000000 -2500000 0
+  outline_polyline: 177800 -5999670 -2500000 1 1 4
+    next_corner: -6999670 -2500000 0
+    next_corner: -7499670 -2000000 1
+    next_corner: -6999670 -1500000 1
+    next_corner: -7499670 -1000000 1
+    next_corner: -6999670 -500000 1
+    next_corner: -7499670 0 1
+    next_corner: -6999670 500000 1
+    next_corner: -7499670 1000000 1
+    next_corner: -6999670 1500000 1
+    next_corner: -7499670 2000000 1
+    next_corner: -6999670 2500000 1
+    next_corner: -5999670 2500000 0
+  outline_polyline: 254000 4623000 -4000000 1 0 4
+    next_corner: 5000000 -3623000 1
+    next_corner: 5377000 -4000000 1
+    next_corner: 5000000 -4377000 1
+    close_polyline: 1
+  n_pins: 4
+    pin: "1" 0 -4100000 2540000 0 ""
+      top_pad: 3 1250000 1600000 1600000 0
+    pin: "2" 0 -4100000 -2540000 0 ""
+      top_pad: 3 1250000 1600000 1600000 0
+    pin: "3" 0 4100000 -2540000 0 ""
+      top_pad: 3 1250000 1600000 1600000 0
+    pin: "4" 0 4100000 2540000 0 ""
+      top_pad: 3 1250000 1600000 1600000 0
+

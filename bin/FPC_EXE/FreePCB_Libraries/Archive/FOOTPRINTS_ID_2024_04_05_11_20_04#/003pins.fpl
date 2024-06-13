@@ -1,0 +1,1162 @@
+name: "DG125-5.0-03P"
+package: "DG125-5.0-03P"
+author: "Ivex"
+description: "none"
+units: NM
+sel_rect: -19550000 -4588900 7588900 17650000
+ref_text: 1270000 -2500000 -3500000 0 177800
+value_text: 1270000 -2500000 -6040000 0 177800
+centroid: 0 0 0 0
+outline_polyline: 177800 -7500000 -4500000 1 0 4
+next_corner: 7500000 -4500000 0
+next_corner: 7500000 4500000 0
+next_corner: 6300000 4500000 0
+next_corner: 6300000 4000000 0
+next_corner: 3700000 4000000 0
+next_corner: 3700000 4400000 0
+next_corner: 1300000 4400000 0
+next_corner: 1300000 4000000 0
+next_corner: -1300000 4000000 0
+next_corner: -1300000 4400000 0
+next_corner: -3700000 4400000 0
+next_corner: -3700000 4000000 0
+next_corner: -6300000 4000000 0
+next_corner: -6300000 4500000 0
+next_corner: -7500000 4500000 0
+close_polyline: 0
+openscad_data: "// // // // // // // // // // // // // // // // // // // Global lift -3.5mm //|||||||||||||||||||// // // // // // // // // // // // // // // // // // // Global rotation 0.0 //|||||||||||||||||||"
+outline_polyline: 100000 -19500000 4000000 0 0 7
+next_corner: -10500000 4000000 0
+next_corner: -10500000 13000000 0
+next_corner: -11105550 12998320 0
+next_corner: -12500000 17600000 0
+next_corner: -17500000 17600000 0
+next_corner: -19500000 11000000 0
+close_polyline: 0
+openscad_data: "// Rotation around vertex1 //|// // // // // Global rotation 0.0 //|||||// // // // // Global lift -3.5mm //|||||// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Blue` )|{|    *corner1*, 0.0 ])|    {|        rotate([ 90.000,  0.000,  90.000 ])|        {|            linear_extrude( 15.000, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+outline_polyline: 100000 -15500000 14000000 0 0 7
+next_corner: -15500000 9000000 0
+next_corner: -18500000 9000000 0
+next_corner: -18500000 14000000 0
+close_polyline: 0
+openscad_data: "// it's a hole //|// Rotation around vertex1 //|// // // // Global rotation 0.0 //||||// // // // Global lift -3.5mm //||||// matrix: 3 1 1 5.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  0.000,  1.000 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 5.000, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+outline_polyline: 100000 -17300000 8000000 0 0 7
+next_corner: -17500000 8200000 0
+next_corner: -17500000 8800000 0
+next_corner: -17300000 9000000 0
+next_corner: -16700000 9000000 0
+next_corner: -16500000 8800000 0
+next_corner: -16500000 8200000 0
+next_corner: -16700000 8000000 0
+close_polyline: 0
+openscad_data: "// Rotation around vertex1 //|// Global rotation 0.000 //|// Global lift -3.500mm //|// matrix: 3 1 1 5.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  0.000,  -3.500 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 5.000, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+outline_polyline: 100000 -18500000 8400000 0 0 7
+next_corner: -18500000 8600000 0
+next_corner: -17100000 10000000 1
+next_corner: -16900000 10000000 0
+next_corner: -15500000 8600000 1
+next_corner: -15500000 8400000 0
+next_corner: -15900000 8400000 0
+next_corner: -15900000 8600000 0
+next_corner: -18100000 8600000 0
+next_corner: -18100000 8400000 0
+close_polyline: 0
+openscad_data: "// it's a hole //|// Rotation around vertex1 //|// // Global rotation 0.0 //||// // Global lift -3.5mm //||// matrix: 3 1 1 5.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  0.000,  13.400 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 1.000, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+outline_polyline: 100000 -15500000 8400000 0 0 7
+next_corner: -15500000 8200000 0
+next_corner: -16900000 6800000 1
+next_corner: -17100000 6800000 0
+next_corner: -18500000 8200000 1
+next_corner: -18500000 8400000 0
+next_corner: -18100000 8400000 0
+next_corner: -18100000 8200000 0
+next_corner: -15900000 8200000 0
+next_corner: -15900000 8400000 0
+close_polyline: 0
+openscad_data: "// it's a hole //|// Rotation around vertex1 //|// // // Global rotation 0.0 //|||// // // Global lift -3.5mm //|||// matrix: 3 1 1 5.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  0.000,  13.400 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 1.000, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+n_pins: 3
+pin: "1" 1500000 -5000000 0 0 ""
+top_pad: 1 3000000 1500000 1500000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 3000000 1500000 1500000 0
+pin: "2" 1500000 0 0 0 ""
+top_pad: 1 3000000 1500000 1500000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 3000000 1500000 1500000 0
+pin: "3" 1500000 5000000 0 0 ""
+top_pad: 1 3000000 1500000 1500000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 3000000 1500000 1500000 0
+
+name: "K78"
+package: "K78"
+author: "Ivex"
+description: "none"
+units: NM
+sel_rect: -88900 -88900 11688900 7688900
+ref_text: 1270000 5799891 -2274901 0 177800
+value_text: 1270000 5799891 -4814901 0 177800
+centroid: 0 5800000 2200000 0
+outline_polyline: 177800 0 0 1 0 4
+next_corner: 0 7600000 0
+next_corner: 11600000 7600000 0
+next_corner: 11600000 0 0
+close_polyline: 0
+openscad_data: "// Rotation around vertex1 //|// Global rotation 0.000 //|// Global lift 0.000 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Brown` )|{|    *corner1*, 0.0 ])|    {|        linear_extrude( 10.200, scale= 1.000, convexity=2 )|        {|            polygon([ *content* ]);|        }|    }|}|"
+outline_polyline: 100000 1200000 1600000 1 1 4
+next_corner: 700000 1099999 0
+next_corner: 1200000 600000 0
+next_corner: 1700000 1100000 0
+close_polyline: 0
+openscad_data: "// it's a hole //|// Rotation around vertex1 //|// // Global rotation 0.000 //||// // Global lift 0.000 //||// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Azure` )|{|    translate([ 0.000,  0.000,  9.500 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 1.000, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+n_pins: 3
+pin: "1" 1143000 3300001 2200000 270 ""
+top_pad: 1 2000000 1000000 1000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2000000 1000000 1000000 0
+pin: "2" 1143000 5800000 2199999 270 ""
+top_pad: 1 2000000 1000000 1000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2000000 1000000 1000000 0
+pin: "3" 1143000 8300000 2199999 270 ""
+top_pad: 1 2000000 1000000 1000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2000000 1000000 1000000 0
+
+name: "PLS-3"
+author: "Ivex"
+package: "PLS-3"
+description: "none"
+units: NM
+sel_rect: -5425000 -2899410 4358640 1649000
+ref_text: 1270000 4622800 -2540000 0 177800
+value_text: 1270000 4622800 -5080000 0 177800
+centroid: 0 0 0 0
+text: "SWDIO" 1000000 -4300000 -2850000 0 100000 0 4
+text: "SWCLK" 1000000 858270 -2839700 0 100000 0 4
+outline_polyline: 250000 -1270000 1016000 1 0 4
+next_corner: -1778000 1524000 0
+next_corner: -3556000 1524000 0
+next_corner: -4064000 1016000 0
+next_corner: -4064000 -1016000 0
+next_corner: -3556000 -1524000 0
+next_corner: -1778000 -1524000 0
+next_corner: -1270000 -1016000 0
+next_corner: -762000 -1524000 0
+next_corner: 762000 -1524000 0
+next_corner: 1270000 -1016000 0
+next_corner: 1778000 -1524000 0
+next_corner: 3556000 -1524000 0
+next_corner: 4064000 -1016000 0
+next_corner: 4064000 1016000 0
+next_corner: 3556000 1524000 0
+next_corner: 1778000 1524000 0
+next_corner: 1270000 1016000 0
+next_corner: 762000 1524000 0
+next_corner: -762000 1524000 0
+close_polyline: 0
+openscad_data: "// Global lift -2.500mm //|// Global rotation 0.000 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Black` )|{|    *corner1*, 0.0 ])|    {|        linear_extrude( 3.000, scale= 1.000, convexity=2 )|        {|            polygon([ *content* ]);|        }|    }|}|"
+outline_polyline: 400000 -2700000 150000 1 0 7
+next_corner: -2700000 -150000 0
+next_corner: -2400000 -150000 0
+next_corner: -2400000 150000 0
+close_polyline: 0
+openscad_data: "// Consider line width //|// Global rotation 0.000 //|// Global lift -2.500mm //|// matrix: 3 1 1 2.540 0.000 0.000 //|// resolution $fn = 8 //|color( `Aqua` )|{|    minkowski()|    {|        $fn = 8;|        translate([ 0.000,  0.000,  -2.500 ])|        {|            *corner1*, 0.0 ])|            {|                linear_extrude( 12.000, scale= 1.000, convexity=2 )|                {|                    polygon([ *content* ]);|                }|            }|        }|        sphere( *width* );|    }|}|"
+outline_polyline: 250000 -5300000 400000 1 1 4
+next_corner: -5300000 -300000 0
+next_corner: -4600000 -300000 0
+next_corner: -4600000 400000 0
+close_polyline: 0
+n_pins: 3
+pin: "1" 1143000 -2540000 0 0 ""
+top_pad: 1 2032000 1016000 1016000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2032000 1016000 1016000 0
+pin: "2" 1143000 0 0 0 ""
+top_pad: 1 2032000 1016000 1016000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2032000 1016000 1016000 0
+pin: "3" 1143000 2540000 0 0 ""
+top_pad: 1 2032000 1016000 1016000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2032000 1016000 1016000 0
+
+name: "PLS-3R"
+package: "PLS-3"
+author: "Ivex"
+description: "none"
+units: NM
+sel_rect: -7649210 -1649000 7900670 4700000
+ref_text: 1270000 4600000 -2100000 0 177800
+value_text: 1270000 4622800 -5080000 0 177800
+centroid: 0 0 -5050000 0
+text: "SWDIO" 1000000 -7600000 700000 0 100000 0 4
+text: "SWCLK" 1000000 4400000 700000 0 100000 0 4
+outline_polyline: 250000 -3556000 -1524000 1 0 4
+next_corner: -1778000 -1524000 0
+next_corner: -1270000 -1016000 0
+next_corner: -762000 -1524000 0
+next_corner: 762000 -1524000 0
+next_corner: 1270000 -1016000 0
+next_corner: 1778000 -1524000 0
+next_corner: 3556000 -1524000 0
+next_corner: 4064000 -1016000 0
+next_corner: 4064000 1016000 0
+next_corner: 3556000 1524000 0
+next_corner: 1778000 1524000 0
+next_corner: 1270000 1016000 0
+next_corner: 762000 1524000 0
+next_corner: -762000 1524000 0
+next_corner: -1270000 1016000 0
+next_corner: -1778000 1524000 0
+next_corner: -3556000 1524000 0
+next_corner: -4064000 1016000 0
+next_corner: -4064000 -1016000 0
+close_polyline: 0
+openscad_data: "// Rotation around vertex1 //|// // // // // // // // // // // // // // // Global rotation 0.000 //|||||||||||||||// // // // // // // // // // // // // // // Global lift -2mm //|||||||||||||||// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Black` )|{|    *corner1*, 0.0 ])|    {|        rotate([ 90.000,  0.000,  0.000 ])|        {|            linear_extrude( 3.000, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+outline_polyline: 400000 -2400000 200000 0 1 7
+next_corner: -2400000 4300000 0
+next_corner: 7700000 4300000 0
+next_corner: 7700000 4500000 0
+next_corner: -2600000 4500000 0
+next_corner: -2600000 200000 0
+close_polyline: 0
+openscad_data: "// Consider line width //|// Rotation around vertex1 //|// Global rotation 0.000 //|// Global lift -2.000mm //|// matrix: 3 1 1 2.540 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    minkowski()|    {|        $fn = 20;|        translate([ 0.000,  0.000,  -2.650 ])|        {|            *corner1*, 0.0 ])|            {|                rotate([ 90.000,  0.000,  -90.000 ])|                {|                    linear_extrude( 0.200, scale= 1.000, convexity=2 )|                    {|                        polygon([ *content* ]);|                    }|                }|            }|        }|        sphere( *width* );|    }|}|"
+n_pins: 3
+pin: "1" 1143000 -2540000 0 0 ""
+top_pad: 1 2032000 1016000 1016000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2032000 1016000 1016000 0
+pin: "2" 1143000 0 0 0 ""
+top_pad: 1 2032000 1016000 1016000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2032000 1016000 1016000 0
+pin: "3" 1143000 2540000 0 0 ""
+top_pad: 1 2032000 1016000 1016000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2032000 1016000 1016000 0
+
+name: "SMALLSWT"
+package: "SMALLSWT"
+author: "Ivex"
+description: "none"
+units: NM
+sel_rect: -22750000 -3898900 7708900 22688900
+ref_text: 1270000 838200 5080000 0 177800
+value_text: 1270000 838200 2540000 0 177800
+centroid: 0 0 0 0
+text: "max" 1000000 -6600000 -3000000 0 100000 0 4
+text: "min" 1000000 4013350 -3000000 0 100000 0 4
+outline_polyline: 177800 -7620000 2540000 1 0 4
+next_corner: -7620000 -3810000 0
+openscad_data: "// Global lift -3.5mm //|// Global rotation 0.0 //|"
+outline_polyline: 177800 -7620000 -3810000 1 0 4
+next_corner: 7620000 -3810000 0
+openscad_data: "// Global lift -3.5mm //|// Global rotation 0.0 //|"
+outline_polyline: 177800 7620000 -3810000 1 0 4
+next_corner: 7620000 3810000 0
+openscad_data: "// Global lift -3.5mm //|// Global rotation 0.0 //|"
+outline_polyline: 177800 7620000 3810000 1 0 4
+next_corner: -7620000 3810000 0
+openscad_data: "// Global lift -3.5mm //|// Global rotation 0.0 //|"
+outline_polyline: 177800 -7620000 3810000 1 0 4
+next_corner: -7620000 2540000 0
+openscad_data: "// Global lift -3.5mm //|// Global rotation 0.0 //|"
+outline_polyline: 177800 -4987910 3745510 1 1 7
+next_corner: -5000000 7200000 0
+next_corner: 5048340 7200000 0
+next_corner: 5048340 3798050 0
+openscad_data: "// Global lift -3.5mm //|// Global rotation 0.0 //|"
+outline_polyline: 177800 -2600000 7200000 1 1 7
+next_corner: -2600000 22600000 0
+next_corner: 2600000 22600000 0
+next_corner: 2600000 7200000 0
+openscad_data: "// Global lift -3.5mm //|// Global rotation 0.0 //|"
+outline_polyline: 100000 -22700000 6600000 0 0 7
+next_corner: -13700000 6600000 0
+next_corner: -13700000 15600000 0
+next_corner: -14305550 15598320 0
+next_corner: -15700000 20200000 0
+next_corner: -20700000 20200000 0
+next_corner: -22700000 13600000 0
+close_polyline: 0
+openscad_data: "// Rotation around vertex1 //|// Global rotation 0.000 //|// Global lift -3.500mm //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Blue` )|{|    *corner1*, 0.0 ])|    {|        rotate([ 90.000,  0.000,  90.000 ])|        {|            linear_extrude( 15.000, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+outline_polyline: 100000 -18700000 16600000 0 0 7
+next_corner: -18700000 11600000 0
+next_corner: -21700000 11600000 0
+next_corner: -21700000 16600000 0
+close_polyline: 0
+openscad_data: "// Global lift -3.5mm //|// Global rotation 0.0 //|// it's a hole //|// Rotation around vertex1 //|// // // |||// // // |||// matrix: 3 1 1 5.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  0.000,  1.000 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 5.000, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+outline_polyline: 100000 -20500000 10600000 0 0 7
+next_corner: -20700000 10800000 0
+next_corner: -20700000 11400000 0
+next_corner: -20500000 11600000 0
+next_corner: -19900000 11600000 0
+next_corner: -19700000 11400000 0
+next_corner: -19700000 10800000 0
+next_corner: -19900000 10600000 0
+close_polyline: 0
+openscad_data: "// Global lift -3.5mm //|// Global rotation 0.0 //|// Rotation around vertex1 //|// matrix: 3 1 1 5.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  0.000,  -3.500 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 5.000, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+outline_polyline: 100000 -21700000 11000000 0 0 7
+next_corner: -21700000 11200000 0
+next_corner: -20300000 12600000 1
+next_corner: -20100000 12600000 0
+next_corner: -18700000 11200000 1
+next_corner: -18700000 11000000 0
+next_corner: -19100000 11000000 0
+next_corner: -19100000 11200000 0
+next_corner: -21300000 11200000 0
+next_corner: -21300000 11000000 0
+close_polyline: 0
+openscad_data: "// Global lift -3.5mm //|// Global rotation 0.0 //|// it's a hole //|// Rotation around vertex1 //|// |// |// matrix: 3 1 1 5.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  0.000,  13.400 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 1.000, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+outline_polyline: 100000 -18700000 11000000 0 0 7
+next_corner: -18700000 10800000 0
+next_corner: -20100000 9400000 1
+next_corner: -20300000 9400000 0
+next_corner: -21700000 10800000 1
+next_corner: -21700000 11000000 0
+next_corner: -21300000 11000000 0
+next_corner: -21300000 10800000 0
+next_corner: -19100000 10800000 0
+next_corner: -19100000 11000000 0
+close_polyline: 0
+openscad_data: "// Global lift -3.5mm //|// Global rotation 0.0 //|// it's a hole //|// Rotation around vertex1 //|// // ||// // ||// matrix: 3 1 1 5.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  0.000,  13.400 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 1.000, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+n_pins: 3
+pin: "3" 2000000 5080000 0 0 ""
+top_pad: 5 5080000 1500000 1500000 1500000
+top_mask: 1 2800000 1400000 1400000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 5 5080000 1500000 1500000 1500000
+bottom_mask: 1 2800000 1400000 1400000 0
+pin: "2" 2000000 0 0 0 ""
+top_pad: 5 5080000 1500000 1500000 1500000
+top_mask: 1 2800000 1400000 1400000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 5 5080000 1500000 1500000 1500000
+bottom_mask: 1 2800000 1400000 1400000 0
+pin: "1" 2000000 -5080000 0 0 ""
+top_pad: 5 5080000 1500000 1500000 1500000
+top_mask: 1 2800000 1400000 1400000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 5 5080000 1500000 1500000 1500000
+bottom_mask: 1 2800000 1400000 1400000 0
+
+name: "SOT-23"
+package: "SOT-23"
+author: "Duxah"
+description: "Chips"
+units: NM
+sel_rect: -1812700 -2395600 4973000 1109600
+ref_text: 900000 1621000 1643000 0 100000
+value_text: 600000 1367000 754000 0 100000
+centroid: 0 3018000 -643000 0
+outline_polyline: 100000 2383000 246000 1 0 4
+next_corner: 1367000 246000 0
+next_corner: 1113000 -8000 0
+next_corner: 1113000 -1151000 0
+next_corner: 1367000 -1405000 0
+next_corner: 1367000 -1405000 0
+openscad_data: "// Global lift 0.0 //|// Global rotation 90.0 //|"
+outline_polyline: 100000 3653000 246000 1 0 4
+next_corner: 4669000 246000 0
+next_corner: 4923000 -8000 0
+next_corner: 4923000 -1151000 0
+next_corner: 4669000 -1405000 0
+next_corner: 4669000 -1405000 0
+openscad_data: "// // // // // // // // Global lift 0.0 //||||||||// // // // // // // // Global rotation 90.0 //||||||||"
+outline_polyline: 100000 2637000 -1405000 1 0 4
+next_corner: 3399000 -1405000 0
+openscad_data: "// // // // // // // // Global lift 0.0 //||||||||// // // // // // // // Global rotation 90.0 //||||||||"
+outline_polyline: 25400 -1300000 500000 0 0 7
+next_corner: -1200000 1000000 0
+next_corner: 0 1000000 0
+next_corner: 100000 500000 0
+next_corner: 0 0 0
+next_corner: -1200000 0 0
+close_polyline: 0
+openscad_data: "// Rotation around vertex1 //|// Global rotation 90.000 //|// Global lift 0.000 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Brown` )|{|    *corner1*, 0.0 ])|    {|        rotate([ 90.000,  0.000,  0.000 ])|        {|            linear_extrude( 3.000, scale= 1.000 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+outline_polyline: 25400 -1100000 500000 0 0 7
+next_corner: -1100000 700000 0
+next_corner: -1500000 700000 0
+next_corner: -1600000 100000 0
+next_corner: -1800000 100000 0
+next_corner: -1800000 -100000 0
+next_corner: -1500000 -100000 0
+next_corner: -1400000 500000 0
+close_polyline: 0
+openscad_data: "// // // // // // // // Global lift 0.0 //||||||||// // // // // // // // Global rotation 90.0 //||||||||// Rotation around vertex1 //|// matrix: 1 2 1 0.000 2.000 0.000 //|// resolution $fn = 20 //|translate([ 0.000,  -2.200,  0.000 ])|{|    *corner1*, 0.0 ])|    {|        rotate([ 90.000,  0.000,  0.000 ])|        {|            color( `Aqua` )|            {|                linear_extrude( 0.600 )|                {|                    polygon([ *content* ]);|                }|            }|        }|    }|}|"
+outline_polyline: 25400 -100000 500000 0 0 7
+next_corner: -100000 700000 0
+next_corner: 300000 700000 0
+next_corner: 400000 100000 0
+next_corner: 600000 100000 0
+next_corner: 600000 -100000 0
+next_corner: 300000 -100000 0
+next_corner: 200000 500000 0
+close_polyline: 0
+openscad_data: "// // // // // // // // Global lift 0.0 //||||||||// // // // // // // // Global rotation 90.0 //||||||||// Rotation around vertex1 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|translate([ 0.000,  -1.200,  0.000 ])|{|    *corner1*, 0.0 ])|    {|        rotate([ 90.000,  0.000,  0.000 ])|        {|            color( `Aqua` )|            {|                linear_extrude( 0.600 )|                {|                    polygon([ *content* ]);|                }|            }|        }|    }|}|"
+n_pins: 3
+pin: "3" 0 3018000 500000 0 ""
+top_pad: 3 1219200 508000 508000 0
+pin: "1" 0 2002000 -1786000 0 ""
+top_pad: 3 1219200 508000 508000 0
+pin: "2" 0 4034000 -1786000 0 ""
+top_pad: 3 1219200 508000 508000 0
+
+name: "TO-220"
+author: "Ivex"
+package: "TO-220"
+description: "none"
+  units: NM
+  sel_rect: -16775000 -5425000 6933000 15625000
+  ref_text: 1270000 2540000 3556000 0 177800
+  value_text: 1270000 2540000 1016000 0 177800
+  centroid: 0 2540000 200000 0
+  outline_polyline: 150000 -1778000 -1778000 1 0 4
+    next_corner: 6858000 -1778000 0
+    next_corner: 6858000 2286000 0
+    next_corner: -1778000 2286000 0
+    close_polyline: 0
+    openscad_data: "// Global lift -2mm //|// Global rotation 0.0 //|"
+  outline_polyline: 150000 -1778000 1778000 1 0 4
+    next_corner: 6858000 1778000 0
+    openscad_data: "// Global lift -2mm //|// Global rotation 0.0 //|"
+  outline_polyline: 150000 -16700000 350000 0 0 7
+    next_corner: -5300000 350000 0
+    next_corner: -5300000 15550000 0
+    next_corner: -11000000 15550000 0
+    next_corner: -16700000 15550000 0
+    close_polyline: 0
+    openscad_data: "// Global lift -2mm //|// Global rotation 0.0 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Azure` )|{|    *corner1*, 0.0 ])|    {|        rotate([ 90.000,  0.000,  0.000 ])|        {|            linear_extrude( 1.000, scale= 1.000, convexity=Convexity )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+  outline_polyline: 150000 -11000000 350000 0 0 7
+    next_corner: -11000002 11549998 0
+    next_corner: -9250000 13300000 2
+    next_corner: -11000000 15050000 2
+    next_corner: -12750000 13300000 2
+    next_corner: -11000000 11550000 2
+    close_polyline: 0
+    openscad_data: "// Global lift -2mm //|// Global rotation 0.0 //|// it's a hole //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  1.000,  0.000 ])|    {|        *corner1*, 0.0 ])|        {|            rotate([ 90.000,  0.000,  0.000 ])|            {|                linear_extrude( 3.000, scale= 1.000, convexity=Convexity )|                {|                    polygon([ *content* ]);|                }|            }|        }|    }|}|"
+  outline_polyline: 150000 -16700000 350000 0 0 7
+    next_corner: -5300000 350000 0
+    next_corner: -5300000 11050000 0
+    next_corner: -16700000 11050000 0
+    close_polyline: 0
+    openscad_data: "// Global rotation 0.000 //|// Global lift -2.000mm //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Brown` )|{|    translate([ 0.000,  -1.000,  0.000 ])|    {|        *corner1*, 0.0 ])|        {|            rotate([ 90.000,  0.000,  0.000 ])|            {|                *center1*, 0.0 ])|                {|                    linear_extrude( 3.000, scale= 0.900, convexity=Convexity )|                    {|                        polygon([ *content* ]);|                    }|                }|            }|        }|    }|}|"
+  outline_polyline: 150000 -13900000 850000 0 0 7
+    next_corner: -13100000 850000 0
+    next_corner: -13100000 -5350000 0
+    next_corner: -13900000 -5350000 0
+    close_polyline: 0
+    openscad_data: "// Global lift -2mm //|// Global rotation 0.0 //|// matrix: 3 1 1 2.540 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  -2.500,  2.000 ])|    {|        *corner1*, 0.0 ])|        {|            rotate([ 90.000,  0.000,  0.000 ])|            {|                linear_extrude( 0.500, scale= 1.000, convexity=Convexity )|                {|                    polygon([ *content* ]);|                }|            }|        }|    }|}|"
+  n_pins: 3
+    pin: "1" 1000000 0 0 0 ""
+      top_pad: 2 2200000 1100000 1100000 0
+      top_mask: 2 2000000 1000000 1000000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 2 2200000 1100000 1100000 0
+      bottom_mask: 2 2000000 1000000 1000000 0
+    pin: "2" 1000000 2540000 0 0 ""
+      top_pad: 2 2200000 1100000 1100000 0
+      top_mask: 2 2000000 1000000 1000000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 2 2200000 1100000 1100000 0
+      bottom_mask: 2 2000000 1000000 1000000 0
+    pin: "3" 1000000 5080000 0 0 ""
+      top_pad: 2 2200000 1100000 1100000 0
+      top_mask: 2 2000000 1000000 1000000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 2 2200000 1100000 1100000 0
+      bottom_mask: 2 2000000 1000000 1000000 0
+
+name: "TO-220A"
+package: "TO-220"
+author: "Ivex"
+description: "none"
+units: NM
+sel_rect: -5775000 -14121000 26180000 15275000
+ref_text: 1270000 25470000 -7315000 0 177800
+value_text: 1270000 25470000 -9220000 0 177800
+centroid: 0 20390000 -1200000 0
+outline_polyline: 150000 16072000 -9728000 1 0 4
+next_corner: 20390000 -14046000 2
+next_corner: 24708000 -9728000 2
+next_corner: 24708000 -6299000 0
+next_corner: 16072000 -6299000 0
+close_polyline: 0
+openscad_data: "// Global lift -1.5mm //|// Global rotation 0.0 //|"
+outline_polyline: 150000 20390000 -11125000 1 1 4
+next_corner: 20390000 -5410000 0
+openscad_data: "// Global lift -1.5mm //|// Global rotation 0.0 //|"
+outline_polyline: 150000 17850000 -6680000 1 1 4
+next_corner: 17850000 -5410000 0
+openscad_data: "// Global lift -1.5mm //|// Global rotation 0.0 //|"
+outline_polyline: 150000 22930000 -6680000 1 1 4
+next_corner: 22930000 -5410000 0
+openscad_data: "// Global lift -1.5mm //|// Global rotation 0.0 //|"
+outline_polyline: 150000 17850000 -5410000 1 1 7
+next_corner: 17850000 -3800000 0
+openscad_data: "// Global lift -1.5mm //|// Global rotation 0.0 //|"
+outline_polyline: 150000 22930000 -5410000 1 1 7
+next_corner: 22930000 -3800000 0
+openscad_data: "// Global lift -1.5mm //|// Global rotation 0.0 //|"
+outline_polyline: 150000 14675000 6360000 1 1 7
+next_corner: 26105000 6360000 0
+openscad_data: "// Global lift -1.5mm //|// Global rotation 0.0 //|"
+outline_polyline: 150000 20390000 10805000 1 0 7
+next_corner: 18485000 8900000 2
+next_corner: 20390000 6995000 2
+next_corner: 22295000 8900000 2
+close_polyline: 2
+openscad_data: "// Global lift -1.5mm //|// Global rotation 0.0 //|"
+outline_polyline: 150000 17850000 -3750000 1 1 7
+next_corner: 14650000 -3750000 0
+next_corner: 14650000 11450000 0
+next_corner: 26050000 11450000 0
+next_corner: 26050000 -3750000 0
+next_corner: 22930000 -3750000 0
+openscad_data: "// Global lift -1.5mm //|// Global rotation 0.0 //|"
+outline_polyline: 150000 0 15200000 0 0 7
+next_corner: -5700000 15200000 0
+next_corner: -5700000 0 0
+next_corner: 0 0 0
+next_corner: 5700000 0 0
+next_corner: 5700000 15200000 0
+close_polyline: 0
+openscad_data: "// Global lift -1.5mm //|// Global rotation 0.0 //|// Rotation around vertex1 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Azure` )|{|    *corner1*, 0.0 ])|    {|        linear_extrude( 1.000, scale= 1.000, convexity=2 )|        {|            polygon([ *content* ]);|        }|    }|}|"
+outline_polyline: 150000 0 14700000 0 0 7
+next_corner: -1750000 12950001 2
+next_corner: 0 11200000 2
+next_corner: 1750000 12950001 2
+close_polyline: 2
+openscad_data: "// Global lift -1.5mm //|// Global rotation 0.0 //|// it's a hole //|// Rotation around vertex1 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  0.000,  -1.000 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 3.000, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+outline_polyline: 150000 -5700000 10700000 0 0 7
+next_corner: -5700000 0 0
+next_corner: 5700000 0 0
+next_corner: 5700000 10700000 0
+close_polyline: 0
+openscad_data: "// Rotation around vertex1 //|// Global rotation 0.000 //|// Global lift -1.500mm //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Brown` )|{|    translate([ 0.000,  0.000,  1.000 ])|    {|        *corner1*, 0.0 ])|        {|            *center1*, 0.0 ])|            {|                linear_extrude( 3.000, scale= 0.900, convexity=2 )|                {|                    polygon([ *content* ]);|                }|            }|        }|    }|}|"
+outline_polyline: 150000 -2900000 500000 0 0 7
+next_corner: -2100000 500000 0
+next_corner: -2100000 -5700000 0
+next_corner: -2900000 -5700000 0
+close_polyline: 0
+openscad_data: "// Global lift -1.5mm //|// Global rotation 0.0 //|// Rotation around vertex1 //|// matrix: 2 1 1 5.080 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  0.000,  1.500 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 0.500, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+outline_polyline: 150000 -400000 500000 0 0 7
+next_corner: 400000 500000 0
+next_corner: 400000 -10300000 0
+next_corner: -400000 -10300000 0
+close_polyline: 0
+openscad_data: "// Global lift -1.5mm //|// Global rotation 0.0 //|// Rotation around vertex1 //|// matrix: 1 1 1 5.080 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  0.000,  1.500 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 0.500, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+n_pins: 3
+pin: "1" 0 17850000 -7950000 0 ""
+top_pad: 2 2200000 1100000 1100000 0
+top_mask: 2 2000000 1000000 1000000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+pin: "2" 0 20390000 -12450000 0 ""
+top_pad: 2 2200000 1100000 1100000 0
+top_mask: 2 2000000 1000000 1000000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+pin: "3" 0 22930000 -7950000 0 ""
+top_pad: 2 2200000 1100000 1100000 0
+top_mask: 2 2000000 1000000 1000000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+
+name: "TO-220B"
+package: "TO-220"
+author: "Ivex"
+description: "none"
+units: NM
+sel_rect: -3484880 -1878400 8564880 22024340
+ref_text: 1270000 2540000 3556000 0 177800
+value_text: 1270000 2540000 1016000 0 177800
+centroid: 0 2540000 0 0
+outline_polyline: 150000 -1778000 -1778000 1 0 4
+next_corner: 6858000 -1778000 0
+next_corner: 6858000 2286000 0
+next_corner: -1778000 2286000 0
+close_polyline: 0
+outline_polyline: 150000 -1778000 1778000 1 0 4
+next_corner: 6858000 1778000 0
+n_pins: 5
+pin: "1" 0 0 0 0 ""
+top_pad: 2 2200000 1100000 1100000 0
+top_mask: 2 2000000 1000000 1000000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+pin: "2" 0 2540000 0 0 ""
+top_pad: 2 2200000 1100000 1100000 0
+top_mask: 2 2000000 1000000 1000000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+pin: "3" 0 5080000 0 0 ""
+top_pad: 2 2200000 1100000 1100000 0
+top_mask: 2 2000000 1000000 1000000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+pin: "2" 0 2540000 3800000 0 ""
+top_pad: 3 6000000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 0 2540000 14000000 0 ""
+top_pad: 3 16000000 6000000 6000000 0
+top_mask: 3 15000000 5500000 5500000 0
+top_paste: 0 0 0 0 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+
+name: "TO-220C"
+package: "TO-220"
+author: "Ivex"
+description: "none"
+units: NM
+sel_rect: -22275000 -1853000 7000000 23000000
+ref_text: 1270000 0 3556000 0 177800
+value_text: 1270000 0 1016000 0 177800
+centroid: 0 0 11000000 0
+outline_polyline: 150000 -4318000 -1778000 1 0 4
+next_corner: 4318000 -1778000 0
+next_corner: 4318000 2286000 0
+next_corner: -4318000 2286000 0
+close_polyline: 0
+openscad_data: "// Global lift 0.0mm //|// Global rotation 0.0 //|"
+outline_polyline: 150000 -4318000 1778000 1 0 4
+next_corner: 4318000 1778000 0
+openscad_data: "// Global lift 0.0mm //|// Global rotation 0.0 //|"
+outline_polyline: 150000 -16500000 22750000 0 0 7
+next_corner: -22200000 22750000 0
+next_corner: -22200000 7550000 0
+next_corner: -16500000 7550000 0
+next_corner: -10800000 7550000 0
+next_corner: -10800000 22750000 0
+close_polyline: 0
+openscad_data: "// Global lift 0.0mm //|// Global rotation 0.0 //|// Rotation around vertex1 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Azure` )|{|    *corner1*, 0.0 ])|    {|        linear_extrude( 1.000, scale= 1.000, convexity=2 )|        {|            polygon([ *content* ]);|        }|    }|}|"
+outline_polyline: 150000 -16500000 22250000 0 0 7
+next_corner: -18250000 20500000 2
+next_corner: -16500000 18750000 2
+next_corner: -14750000 20500000 2
+close_polyline: 2
+openscad_data: "// Global lift 0.0mm //|// Global rotation 0.0 //|// it's a hole //|// Rotation around vertex1 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  0.000,  -1.000 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 3.000, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+outline_polyline: 150000 -22200000 18250000 0 0 7
+next_corner: -22200000 7550000 0
+next_corner: -10800000 7550000 0
+next_corner: -10800000 18250000 0
+close_polyline: 0
+openscad_data: "// Global lift 0.0mm //|// Global rotation 0.0 //|// Rotation around vertex1 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Brown` )|{|    translate([ 0.000,  0.000,  1.000 ])|    {|        *corner1*, 0.0 ])|        {|            *center1*, 0.0 ])|            {|                linear_extrude( 3.000, scale= 0.900, convexity=2 )|                {|                    polygon([ *content* ]);|                }|            }|        }|    }|}|"
+outline_polyline: 150000 -19400000 8050000 0 0 7
+next_corner: -18600000 8050000 0
+next_corner: -18600000 1850000 0
+next_corner: -19400000 1850000 0
+close_polyline: 0
+openscad_data: "// Rotation around vertex1 //|// Global rotation 0.000 //|// Global lift 0.000mm //|// matrix: 3 1 1 2.540 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  0.000,  1.500 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 0.500, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+n_pins: 53
+pin: "1" 0 -2540000 0 0 ""
+top_pad: 2 2200000 1100000 1100000 0
+top_mask: 2 2000000 1000000 1000000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+pin: "2" 0 0 0 0 ""
+top_pad: 2 2200000 1100000 1100000 0
+top_mask: 2 2000000 1000000 1000000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+pin: "3" 0 2540000 0 0 ""
+top_pad: 2 2200000 1100000 1100000 0
+top_mask: 2 2000000 1000000 1000000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+pin: "2" 0 0 3800000 0 ""
+top_pad: 3 6000000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 0 14000000 0 ""
+top_pad: 3 18000000 7000000 7000000 0 3
+top_mask: 3 15000000 5500000 5500000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 3
+bottom_pad: 3 18000000 7000000 7000000 0 3
+bottom_mask: 3 15000000 5500000 5500000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -2000000 14000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 2000000 14000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 2000000 12000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -2000000 12000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -4000000 12000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -4000000 14000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 4000000 12000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 4000000 14000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 4000000 10000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -4000000 10000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -2000000 10000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 2000000 10000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 2000000 8000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -2000000 8000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -4000000 8000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 4000000 8000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 0 8000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 0 10000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 0 12000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 0 6000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 4000000 6000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -4000000 6000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -2000000 6000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 2000000 6000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -6000000 6000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -6000000 8000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -6000000 10000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -6000000 14000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -6000000 12000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 6000000 6000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 6000000 8000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 6000000 10000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 6000000 14000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 6000000 12000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -6000000 20000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -6000000 22000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -6000000 18000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -6000000 16000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 6000000 16000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 6000000 18000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 6000000 22000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 6000000 20000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 0 22000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 4000000 22000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -4000000 22000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 -2000000 22000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 1000000 2000000 22000000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 4000000 0 18500000 0 ""
+top_pad: 0 2200000 1100000 1100000 0
+top_mask: 0 2000000 1000000 1000000 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 2200000 1100000 1100000 0
+bottom_mask: 0 2000000 1000000 1000000 0
+bottom_paste: 0 0 0 0 0
+
+name: "TO-252AA-3"
+package: "TO-252AA-3"
+author: "unknown"
+description: "none"
+units: NM
+sel_rect: -3350000 -7450000 3450000 4550000
+ref_text: 0 2540000 5080000 0 254000
+value_text: 0 2540000 0 0 254000
+centroid: 0 0 -2100000 0
+outline_polyline: 100000 -3300000 -3000000 0 0 7
+next_corner: -3300000 2550000 0
+next_corner: -2550000 3300000 0
+next_corner: 2650000 3300000 0
+next_corner: 3400000 2550000 0
+next_corner: 3400000 -3000000 0
+close_polyline: 0
+openscad_data: "// Rotation around vertex1 //|// // // // // Global rotation 0.000 //|||||// // // // // Global lift 0.000 //|||||// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Teal` )|{|    *corner1*, 0.0 ])|    {|        *center1*, 0.0 ])|        {|            linear_extrude( 2.400, scale= 0.900 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+outline_polyline: 100000 -2200000 -2850000 0 0 7
+next_corner: -1650000 -2850000 0
+next_corner: -1650000 -4200000 0
+next_corner: -2550000 -4800000 0
+next_corner: -2550000 -5750000 0
+next_corner: -3150000 -5750000 0
+next_corner: -3150000 -4500000 0
+next_corner: -2200000 -3900000 0
+close_polyline: 0
+openscad_data: "// Rotation around vertex1 //|// // // // // // // // // // // Global rotation 0.000 //|||||||||||// // // // // // // // // // // Global lift 0.000 //|||||||||||// matrix: 2 1 1 5.080 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  0.000,  1.000 ])|    {|        *corner1*, 0.0 ])|        {|            rotate([ 0.000,  -90.000,  0.000 ])|            {|                linear_extrude( 0.600, scale= 1.000 )|                {|                    polygon([ *content* ]);|                }|            }|        }|    }|}|"
+outline_polyline: 100000 2650000 -2100000 0 0 7
+next_corner: 2650000 4000000 0
+next_corner: 2150000 4500000 0
+next_corner: -2050000 4500000 0
+next_corner: -2550000 4000000 0
+next_corner: -2550000 -2100000 0
+close_polyline: 0
+openscad_data: "// Rotation around vertex1 //|// // // // // // // // // // // // // // // Global rotation 0.000 //|||||||||||||||// // // // // // // // // // // // // // // Global lift 0.000 //|||||||||||||||// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    *corner1*, 0.0 ])|    {|        linear_extrude( 0.500, scale= 1.000 )|        {|            polygon([ *content* ]);|        }|    }|}|"
+outline_polyline: 100000 -2900000 -7400000 0 1 7
+next_corner: -2900000 -6800000 0
+next_corner: -2600000 -7100000 0
+next_corner: -2300000 -6800000 0
+next_corner: -2000000 -7100000 0
+next_corner: -1700000 -6800000 0
+next_corner: -1700000 -7400000 0
+openscad_data: "// // // // // // // // // // // Global lift 0.000 //|||||||||||// // // // // // // // // // // Global rotation 0.000 //|||||||||||"
+outline_polyline: 100000 300000 -2850000 0 0 7
+next_corner: 900000 -2850000 0
+next_corner: 900000 -3950000 0
+next_corner: 300000 -3950000 0
+close_polyline: 0
+openscad_data: "// Rotation around vertex1 //|// Global rotation 0.000 //|// Global lift 0.000mm //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  0.000,  1.000 ])|    {|        *corner1*, 0.0 ])|        {|            rotate([ 0.000,  -90.000,  0.000 ])|            {|                linear_extrude( 0.600, scale= 1.000, convexity=2 )|                {|                    polygon([ *content* ]);|                }|            }|        }|    }|}|"
+n_pins: 3
+pin: "4" 0 0 0 0 ""
+top_pad: 3 6400000 2900000 2900000 0
+pin: "1" 0 -2300000 -6300000 0 ""
+top_pad: 3 2200000 600000 600000 0
+pin: "3" 0 2300000 -6300000 0 ""
+top_pad: 3 2200000 600000 600000 0
+
+name: "X2H"
+package: "CK05"
+author: "Ivex"
+description: "none"
+units: NM
+sel_rect: -4063500 -3063500 8063500 5063500
+ref_text: 1270000 0 -5500000 0 177800
+value_text: 1270000 -2000000 6000000 0 177800
+centroid: 0 0 0 0
+outline_polyline: 127000 6000000 5000000 1 0 4
+next_corner: -2000000 5000000 0
+next_corner: -4000000 3000000 2
+next_corner: -4000000 -1000000 0
+next_corner: -2000000 -3000000 2
+next_corner: 6000000 -3000000 0
+next_corner: 8000000 -1000000 2
+next_corner: 8000000 3000000 0
+close_polyline: 2
+n_pins: 6
+pin: "1" 1500000 -2000000 0 0 ""
+top_pad: 5 4000000 1500000 1500000 1500000
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 5 4000000 1500000 1500000 1500000
+pin: "2" 1500000 2000000 0 0 ""
+top_pad: 5 4000000 1500000 1500000 1500000
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 5 4000000 1500000 1500000 1500000
+pin: "2" 1500000 2000000 3500000 0 ""
+top_pad: 0 4000000 1500000 1500000 1500000
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 4000000 1500000 1500000 1500000
+pin: "1" 1500000 -2000000 3500000 0 ""
+top_pad: 0 4000000 1500000 1500000 1500000
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 4000000 1500000 1500000 1500000
+pin: "3" 1500000 6000500 3500600 0 ""
+top_pad: 0 4000000 1500000 1500000 1500000
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 4000000 1500000 1500000 1500000
+pin: "3" 1500000 6000500 600 0 ""
+top_pad: 5 4000000 1500000 1500000 1500000
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 5 4000000 1500000 1500000 1500000
+

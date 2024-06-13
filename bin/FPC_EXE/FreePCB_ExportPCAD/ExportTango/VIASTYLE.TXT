@@ -1,0 +1,11 @@
+  (viaStyleDef "0.7000vs0.3000"
+    (holeDiam 0.3000)
+    (StartRange 1)
+    (EndRange 2)
+    (viaShape (layerNumRef 1) (viaShapeType Ellipse) (shapeWidth 0.7000) (shapeHeight 0.7000) )
+    (viaShape (layerNumRef 2) (viaShapeType Ellipse) (shapeWidth 0.7000) (shapeHeight 0.7000) )
+    (viaShape (layerType Signal) (viaShapeType Ellipse) (shapeWidth 0.7000) (shapeHeight 0.7000) )
+    (viaShape (layerType Plane) (viaShapeType Direct) (shapeWidth 0.0) (shapeHeight 0.0) )
+    (viaShape (layerType NonSignal) (viaShapeType Ellipse) (shapeWidth 0.0) (shapeHeight 0.0) )
+  )
+END

@@ -1,0 +1,2 @@
+Микроконтроллер STM32G031F8P6, Arm® Cortex®
+Arm® Cortex® -M0+ 32-bit MCU, up to 64 KB Flash, 8 KB RAM, 2x USART, timers, ADC, comm. I/Fs, 1.7-3.6V

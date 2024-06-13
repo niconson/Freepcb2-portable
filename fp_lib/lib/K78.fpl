@@ -1,0 +1,35 @@
+name: "K78"
+package: "K78"
+author: "Ivex"
+description: "none"
+units: NM
+sel_rect: -88900 -88900 11688900 7688900
+ref_text: 1270000 5799891 -2274901 0 177800
+value_text: 1270000 5799891 -4814901 0 177800
+centroid: 0 5800000 2200000 0
+outline_polyline: 177800 0 0 1 0 4
+next_corner: 0 7600000 0
+next_corner: 11600000 7600000 0
+next_corner: 11600000 0 0
+close_polyline: 0
+openscad_data: "// Rotation around vertex1 //|// Global rotation 0.000 //|// Global lift 0.000 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Brown` )|{|    *corner1*, 0.0 ])|    {|        linear_extrude( 10.200, scale= 1.000, convexity=2 )|        {|            polygon([ *content* ]);|        }|    }|}|"
+outline_polyline: 100000 1200000 1600000 1 1 4
+next_corner: 700000 1099999 0
+next_corner: 1200000 600000 0
+next_corner: 1700000 1100000 0
+close_polyline: 0
+openscad_data: "// it's a hole //|// Rotation around vertex1 //|// // Global rotation 0.000 //||// // Global lift 0.000 //||// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Azure` )|{|    translate([ 0.000,  0.000,  9.500 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 1.000, scale= 1.000, convexity=2 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+n_pins: 3
+pin: "1" 1143000 3300001 2200000 270 ""
+top_pad: 1 2000000 1000000 1000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2000000 1000000 1000000 0
+pin: "2" 1143000 5800000 2199999 270 ""
+top_pad: 1 2000000 1000000 1000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2000000 1000000 1000000 0
+pin: "3" 1143000 8300000 2199999 270 ""
+top_pad: 1 2000000 1000000 1000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2000000 1000000 1000000 0
+

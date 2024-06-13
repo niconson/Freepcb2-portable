@@ -1,0 +1,1840 @@
+feeder number  value                                  package                            file
+                                                                                         DBSens-1-0
+0081                                                  M31                                DBSens-1-0
+0087                                                  HOLE1.5                            DBSens-1-0
+0099                                                  CC0805                             DBSens-1-0
+0100                                                  7SIP50PROG                         DBSens-1-0
+0109                                                  ROBOTHOLES                         DBSens-1-0
+0112                                                  HOLE3.5                            DBSens-1-0
+0113                                                  THRUPAD                            DBSens-1-0
+0114                                                  HOLE2.6                            DBSens-1-0
+0120                                                  P1THRU                             DBSens-1-0
+0125                                                  ANT24G                             DBSens-1-0
+0126                                                  VIA0.8X0.4                         DBSens-1-0
+0592                                                  RC0805                             DBSens-1-0
+1051           +19.6V                                 VIA59HOLE39                        DBSens-1-0
+1050           +5V                                    VIA59HOLE39                        DBSens-1-0
+0068           +AB                                    EPLABEL                            DBSens-1-0
+0069           +EPA                                   EPLABEL                            DBSens-1-0
+1049           +EPA                                   KT6                                DBSens-1-0
+0022           0.01                                   0805                               DBSens-1-0
+0180           0.01                                   0603                               DBSens-1-0
+0228           0.01                                   CC0805                             DBSens-1-0
+0549           0.01                                   C0805                              DBSens-1-0
+1404           0.015                                                                     DBSens-1-0
+1374           0.01UF                                 C0805                              DBSens-1-0
+1791           0.01UF+10%50V                          C0603                              DBSens-1-0
+1811           0.01UF+10%50V                          C0805                              DBSens-1-0
+0036           0.022                                  0805                               DBSens-1-0
+0088           0.022                                  CC0805                             DBSens-1-0
+0552           0.022                                  C0805                              DBSens-1-0
+1375           0.022UF                                C0805                              DBSens-1-0
+1792           0.022UF+10%50V                         C0603                              DBSens-1-0
+1812           0.022UF+10%50V                         C0805                              DVM-1-11
+0921           0.033                                  CC0805                             DVM-1-11
+1376           0.033UF                                C0805                              DVM-1-11
+1813           0.033UF+10%50V                         C0805                              DVM-1-11
+0177           0.047                                  0603                               DVM-1-11
+0445           0.047                                  CC0805                             DVM-1-11
+1405           0.047                                                                     DVM-1-11
+1377           0.047UF                                C0805                              DVM-1-11
+1793           0.047UF+10%50V                         C0603                              DVM-1-11
+1814           0.047UF+10%50V                         C0805                              DVM-1-11
+1393           0.047UF160V                                                               DVM-1-11
+0017           0.1                                    0805                               DVM-1-11
+0082           0.1                                    CC0805                             DVM-1-11
+0129           0.1                                    0603                               DVM-1-11
+0197           0.1                                    1812                               DVM-1-11
+0547           0.1                                    C0805                              DVM-1-11
+0646           0.1                                    CC0603                             DVM-1-11
+0653           0.1                                    C0603                              DVM-1-11
+0684           0.1                                    CC0805NT                           DVM-1-11
+0946           0.1                                    RC0805                             DVM-1-11
+1058           0.1                                    WIMA01                             DVM-1-11
+0434           0.1E1%                                 RC1206                             DVM-1-11
+0442           0.1E1%                                 RC2512                             DVM-1-11
+1731           0.1OHM1%                               R1206                              DVM-1-11
+1739           0.1OHM1%                               R2512                              DVM-1-11
+1761           0.1OHM5%                                                                  DVM-1-11
+0131           0.1T                                   CC1812                             DVM-1-11
+1378           0.1UF                                  C0805                              DVM-1-11
+1388           0.1UF                                  C1812                              DVM-1-11
+1794           0.1UF+10%50V                           C0603                              DVM-1-11
+1815           0.1UF+10%50V                           C0805                              DVM-1-11
+1825           0.1UF63V10%PETSMDTC03100KA00KP00       C1812                              DVM-1-11
+0285           0.1X50V                                CC0805                             DVM-1-11
+0034           0.22                                   0805                               DVM-1-11
+0083           0.22                                   CC0805                             DVM-1-11
+1379           0.22UF                                 C0805                              DVM-1-11
+1816           0.22UF+10%50V                          C0805                              DVM-1-11
+0630           0.22X630V                              SMDTJ                              DVM-1-11
+0306           0.47                                   CC0805                             DVM-1-11
+0550           0.47                                   C0805                              DVM-1-11
+0945           0.47                                   SMD5X8                             DVM-1-11
+1044           0.47                                   SMW5.7                             DVM-1-11
+1057           0.47                                   0805                               DVM-1-11
+1380           0.47UF                                 C0805                              DVM-1-11
+1817           0.47UF+10%50V                          C0805                              DVM-1-11
+1390           0.47UF63V                              SMW5.7                             DVM-1-11
+0065           0E                                     0805                               DVM-1-11
+0173           0E                                     0603                               DVM-1-13
+0218           0E                                     RC0805                             DVM-1-13
+0656           0E                                     R0805                              DVM-1-13
+1039           0E                                     CC0805                             DVM-1-13
+1606           0OHM5%                                 R0603                              DVM-1-13
+1686           0OHM5%                                 R0805                              DVM-1-13
+0072           1                                      VIAINDUCTOR                        DVM-1-13
+0512           1                                      CC0805                             DVM-1-13
+0037           1.0                                    0805                               DVM-1-13
+0086           1.0                                    CC0805                             DVM-1-13
+0134           1.0                                    0603                               DVM-1-13
+0557           1.0                                    C0805                              DVM-1-13
+0340           1.2K1%                                 RC0805                             DVM-1-13
+1629           1.2KOHM1%                              R0805                              DVM-1-13
+0341           1.2M                                   RC0805                             DVM-1-13
+0332           1.2M1%                                 RC0805                             DVM-1-13
+1082           1.2M1%                                 0805                               DVM-1-13
+1630           1.2MOHM1%                              R0805                              DVM-1-13
+0003           1.5K1%                                 0805                               DVM-1-13
+0634           1.5M                                   RC0805                             DVM-1-13
+0163           1.5M1%                                 0603                               DVM-1-13
+0518           1.5M1%                                 RC0805                             DVM-1-13
+0575           1.5M1%                                 R0805                              DVM-1-13
+1631           1.5MOHM1%                              R0805                              DVM-1-13
+1607           1.5MOHM5%                              R0603                              DVM-1-13
+1687           1.5MOHM5%                              R0805                              DVM-1-13
+1599           1.5MOM1%                               R0603                              DVM-1-13
+0149           1.62K1%                                0603                               DVM-1-13
+0234           1.62K1%                                0805                               DVM-1-13
+0314           1.62K1%                                RC0805                             DVM-1-13
+1632           1.62KOHM1%                             R0805                              DVM-1-13
+0054           1.6K                                   0805                               DVM-1-13
+0093           1.6K                                   RC0805                             DVM-1-13
+1688           1.6KOHM5%                              R0805                              DVM-1-13
+0473           1.6M                                   RC0805                             DVM-1-13
+1689           1.6MOHM5%                              R0805                              DVM-1-13
+0261           10                                     CC0805                             DVM-1-13
+0510           10                                     ATYPE                              DVM-1-13
+0556           10                                     C0805                              DVM-1-13
+0038           10.0                                   0805                               DVM-1-13
+0101           10.0                                   CC0805                             DVM-1-13
+0240           10.0                                   ATYPE                              DVM-1-13
+0295           10.0                                   CC1812                             DVM-1-13
+0944           10.0                                   CTYPE                              DVM-1-13
+1077           10.0+                                  ATYPE                              DVM-1-13
+0135           10.0T                                  ATYPE                              DVM-1-13
+0033           10.0UF                                 ATYPE                              DVM-1-13
+0015           100.0                                  CTYPE                              DVM-1-13
+0987           100.0                                  DTYPE                              Inc-bt-1-14M
+1022           100.0                                  ECAS47.0X6.3                       Inc-bt-1-14M
+0529           1000.0                                 CC1812                             Inc-bt-1-14M
+0675           1000.0                                 CC18121                            Inc-bt-1-14M
+0699           1000.0                                 NL4532                             Inc-bt-1-14M
+0130           1000PF                                 0603                               Inc-bt-1-14M
+0194           1000PF                                 0805                               Inc-bt-1-14M
+0227           1000PF                                 CC0805                             Inc-bt-1-14M
+0546           1000PF                                 C0805                              Inc-bt-1-14M
+1782           1000PF+5%50V                           C0603                              Inc-bt-1-14M
+1399           1000UF25V                                                                 Inc-bt-1-14M
+1796           1000РF5%50V                            C0805                              Inc-bt-1-14M
+0059           100E                                   0805                               Inc-bt-1-14M
+0106           100E                                   RC0805                             Inc-bt-1-14M
+0157           100E                                   0603                               Inc-bt-1-14M
+0501           100E                                   CAT16J4                            Inc-bt-1-14M
+0531           100E1%                                 RC0805                             Inc-bt-1-14M
+0049           100K                                   0805                               Inc-bt-1-14M
+0095           100K                                   RC0805                             Inc-bt-1-14M
+0160           100K                                   0603                               Inc-bt-1-14M
+0566           100K                                   R0805                              Inc-bt-1-14M
+0648           100K                                   RC0603                             Inc-bt-1-14M
+0655           100K                                   R0603                              Inc-bt-1-14M
+0728           100K0.1%                               RC0805                             Inc-bt-1-14M
+0190           100K1%                                 0603                               Inc-bt-1-14M
+0214           100K1%                                 0805                               Inc-bt-1-14M
+0277           100K1%                                 RC0805                             Inc-bt-1-14M
+0563           100K1%                                 R0805                              Inc-bt-1-14M
+1743           100KOHM                                R3323                              Inc-bt-1-14M
+1625           100KOHM0.1%                            R0805                              Inc-bt-1-14M
+1633           100KOHM1%                              R0805                              Inc-bt-1-14M
+1608           100KOHM5%                              R0603                              Inc-bt-1-14M
+1690           100KOHM5%                              R0805                              Inc-bt-1-14M
+0304           100M                                   RC1206                             Inc-bt-1-14M
+1691           100MOHM5%                              R0805                              Inc-bt-1-14M
+1634           100OHM1%                               R0805                              Inc-bt-1-14M
+1609           100OHM5%                               R0603                              Inc-bt-1-14M
+1692           100OHM5%                               R0805                              Inc-bt-1-14M
+0195           100PF                                  0805                               Inc-bt-1-14M
+0241           100PF                                  CC0805                             Inc-bt-1-14M
+0551           100PF                                  C0805                              Inc-bt-1-14M
+1783           100PF+5%50V                            C0603                              Inc-bt-1-14M
+1410           100UF                                  DTYPE                              Inc-bt-1-14M
+1395           100UF16V                                                                  Inc-bt-1-14M
+0062           10E                                    0805                               Inc-bt-1-14M
+0110           10E                                    RC0805                             Inc-bt-1-14M
+0155           10E                                    0603                               Inc-bt-1-14M
+0539           10E                                    RC2010                             Inc-bt-1-14M
+0050           10K                                    0805                               Inc-bt-1-14M
+0084           10K                                    RC0805                             Inc-bt-1-14M
+0150           10K                                    0603                               Onix-bt-1-13
+0565           10K                                    R0805                              Onix-bt-1-13
+0727           10K0.1%                                RC0805                             Onix-bt-1-13
+0001           10K1%                                  0805                               Onix-bt-1-13
+0103           10K1%                                  RC0805                             Onix-bt-1-13
+0152           10K1%                                  0603                               Onix-bt-1-13
+0647           10K1%                                  RC0603                             Onix-bt-1-13
+0654           10K1%                                  R0603                              Onix-bt-1-13
+1742           10KOHM                                 R3323                              Onix-bt-1-13
+1626           10KOHM0.1%                             R0805                              Onix-bt-1-13
+1600           10KOHM1%                               R0603                              Onix-bt-1-13
+1635           10KOHM1%                               R0805                              Onix-bt-1-13
+1610           10KOHM5%                               R0603                              Onix-bt-1-13
+1693           10KOHM5%                               R0805                              Onix-bt-1-13
+0255           10M                                    RC0805                             Onix-bt-1-13
+0297           10M1%                                  RC0805                             Onix-bt-1-13
+1636           10MOHM1%                               R0805                              Onix-bt-1-13
+1694           10MOHM5%                               R0805                              spectr-4-431bt
+1695           10OHM5%                                R0805                              spectr-4-431bt
+1737           10OHM5%                                R2010                              spectr-4-431bt
+0035           10PF                                   0805                               spectr-4-431bt
+0085           10PF                                   CC0805                             spectr-4-431bt
+1784           10PF+5%50V                             C0603                              spectr-4-431bt
+1797           10PF+5%50V                             C0805                              spectr-4-431bt
+1386           10UF                                   C0805                              spectr-4-431bt
+1407           10UF                                   ATYPE                              spectr-4-431bt
+1788           10UF+10%50V                            C0603                              spectr-4-431bt
+1823           10UF+80%~20%16V                        C0805                              spectr-4-431bt
+1637           11KOHM1%                               R0805                              spectr-4-431bt
+0483           120K1%                                 RC0805                             spectr-4-431bt
+1638           120KOHM1%                              R0805                              spectr-4-431bt
+0303           12K1%                                  RC0805                             spectr-4-431bt
+1011           12K1%                                  0805                               spectr-4-431bt
+1639           12KOHM1%                               R0805                              spectr-4-431bt
+0225           12MHZ                                  KX7                                spectr-4-431bt
+0694           12MHZ                                  KX71                               spectr-4-431bt
+1055           13.1072MHZ                             Z1                                 spectr-4-431bt
+1075           13.1072MHZ                             HC49U                              spectr-4-431bt
+1740           13OHM5%                                R2512                              spectr-4-431bt
+0329           15.0                                   SR0603                             spectr-4-431bt
+0337           15.0                                   CDRH5D28NP                         spectr-4-431bt
+0457           15.0                                   CDRH4D28CLD                        spectr-4-431bt
+0558           15.0                                   CDRH4D28NP                         spectr-4-431bt
+0695           15.0                                   CDRH4D28LD                         spectr-4-431bt
+0243           1500PF                                 CC0805                             spectr-4-431bt
+0553           1500PF                                 C0805                              spectr-4-431bt
+1078           1500PF                                 0805                               spectr-4-431bt
+1381           1500РF                                 C0805                              spectr-4-431bt
+1818           1500РF+10%50V                          C0805                              spectr-4-431bt
+0641           150K                                   RC0805                             TDS-1-51
+0211           150K1%                                 0805                               TDS-1-51
+0462           150K1%                                 RC0805                             TDS-1-51
+0690           150K1%                                 RC0805NT                           TDS-1-51
+1640           150KOHM1%                              R0805                              TDS-1-51
+1696           150KOHM5%                              R0805                              TDS-1-51
+0484           150PF                                  CC0805                             TDS-1-51
+1798           150PF+5%50V                            C0805                              TDS-1-51
+0649           15E                                    RC0805                             TDS-1-51
+0004           15K                                    0805                               TDS-1-51
+0111           15K                                    RC0805                             TDS-1-51
+0171           15K                                    0603                               TDS-1-51
+0573           15K                                    R0805                              TDS-1-51
+0159           15K1%                                  0603                               Text files
+0348           15K1%                                  RC0805                             Text files
+1641           15KOHM1%                               R0805                              Text files
+1611           15KOHM5%                               R0603                              Text files
+1697           15KOHM5%                               R0805                              Text files
+0208           15MH                                   CDRH4D28LD                         Text files
+1612           15OHM5%                                R0603                              Text files
+1698           15OHM5%                                R0805                              Text files
+0117           15PF                                   CC0805                             Text files
+0133           15PF                                   0603                               Text files
+0196           15PF                                   0805                               Text files
+0555           15PF                                   C0805                              Text files
+1799           15PF+5%50V                             C0805                              Text files
+0516           15UH                                   CDRH5D28NP                         Text files
+0959           15UH                                   CDRH4D28CLD                        Text files
+1746           160                                                                       Text files
+0976           174K1%                                 RC0805                             Text files
+1642           174KOHM1%                              R0805                              Text files
+0962           175K1%                                 RC0805                             Text files
+1747           180                                                                       Text files
+0318           1E                                     RC0805                             Text files
+0569           1E                                     R0805                              Text files
+0626           1E                                     RC1218                             Text files
+1070           1E                                     0805                               Text files
+1736           1E                                     R1218                              Text files
+1091           1EDN7550BXTSA1                         1EDN7550BXTSA1                     Text files
+0007           1K                                     0805                               Text files
+0091           1K                                     RC0805                             Text files
+0168           1K                                     0603                               Text files
+0560           1K                                     R0805                              Text files
+0409           1K0.1%                                 RC1206                             Text files
+0301           1K1%                                   RC0805                             Text files
+1732           1KOHM0.1%                              R1206                              Text files
+1643           1KOHM1%                                R0805                              Text files
+1699           1KOHM5%                                R0805                              Text files
+0275           1M                                     RC0805                             Text files
+1003           1M                                     0805                               Text files
+1026           1M                                     RC0805T                            Text files
+0739           1M0.1%                                 RC0805                             Text files
+0008           1M1%                                   0805                               Text files
+0296           1M1%                                   RC0805                             Text files
+0562           1M1%                                   R0805                              Text files
+1627           1MOHM0.1%                              R0805                              Text files
+1644           1MOHM1%                                R0805                              Text files
+1700           1MOHM5%                                R0805                              Text files
+1701           1OHM5%                                 R0805                              Text files
+0742           1PF                                    CC0805                             Text files
+1800           1PF+5%50V                              C0805                              Text files
+1382           1UF                                    C0805                              Text files
+1795           1UF+10%50V                             C0603                              Text files
+1819           1UF+10%50V                             C0805                              Text files
+0074           2                                      VIAINDUCTOR                        Text files
+0018           2.2                                    0805                               Text files
+0079           2.2                                    CC0805                             Text files
+0127           2.2                                    0603                               Text files
+0548           2.2                                    C0805                              Text files
+0682           2.2                                    CC0805NT                           Text files
+0316           2.2M                                   RC0805                             Text files
+1008           2.2M                                   0805                               Text files
+0380           2.2M1%                                 RC0805                             Text files
+1012           2.2M1%                                 0805                               Text files
+1645           2.2MOHM1%                              R0805                              Text files
+1613           2.2MOHM5%                              R0603                              Text files
+1702           2.2MOHM5%                              R0805                              Text files
+1766           2.2OHM5%                                                                  Text files
+1383           2.2UF                                  C0805                              Text files
+1789           2.2UF+10%50V                           C0603                              Text files
+1820           2.2UF+10%50V                           C0805                              Text files
+0663           2.4K                                   RC0805                             Text files
+0051           2.4K1%                                 0805                               Text files
+0097           2.4K1%                                 RC0805                             Text files
+1646           2.4KOHM1%                              R0805                              Text files
+0471           2.5                                    SR0603                             Text files
+0621           2.5                                    CDRH5D28NP                         Text files
+0997           2.5UH                                  SR0603                             Text files
+1710           2®HM5%                                 R0805                              Text files
+1748           200                                                                       Text files
+0006           200E                                   0805                               Text files
+0169           200E                                   0603                               Text files
+0315           200E                                   RC0805                             Text files
+0576           200E                                   R0805                              Text files
+0729           200E0.1%                               RC0805                             Text files
+0414           200E1%                                 RC0805                             Text files
+0611           200K                                   RC1206                             Text files
+0662           200K                                   RC0805                             Text files
+1005           200K                                   0805                               Text files
+0353           200K1%                                 RC0805                             Text files
+0568           200K1%                                 R0805                              Text files
+1000           200K1%                                 0805                               Text files
+1647           200KOHM1%                              R0805                              Text files
+1703           200KOHM5%                              R0805                              Text files
+1733           200KOHM5%                              R1206                              Text files
+1628           200OHM0.1%                             R0805                              Text files
+1648           200OHM1%                               R0805                              Text files
+1614           200OHM5%                               R0603                              Text files
+1704           200OHM5%                               R0805                              Text files
+0676           20E                                    RC0805                             Text files
+0005           20K                                    0805                               Text files
+0090           20K                                    RC0805                             Text files
+0151           20K                                    0603                               Text files
+0572           20K                                    R0805                              Text files
+0691           20K                                    RC0805NT                           Text files
+0057           20K1%                                  0805                               Text files
+0104           20K1%                                  RC0805                             Text files
+0153           20K1%                                  0603                               Text files
+0561           20K1%                                  R0805                              Text files
+1601           20KOHM1%                               R0603                              Text files
+1649           20KOHM1%                               R0805                              Text files
+1615           20KOHM5%                               R0603                              Text files
+1705           20KOHM5%                               R0805                              Text files
+1706           20OHM5%                                R0805                              Text files
+1729           20OHM5%                                R1206                              Text files
+0020           20PF                                   0805                               Text files
+0132           20PF                                   0603                               Text files
+0284           20PF                                   CC0805                             Text files
+0650           20PF                                   CC0603                             Text files
+1785           20PF+5%50V                             C0603                              Text files
+1801           20PF+5%50V                             C0805                              Text files
+0511           22                                     ATYPE                              Text files
+0226           22.0                                   ATYPE                              Text files
+0439           22.0                                   CTYPE                              Text files
+0426           22.0X16V                               CTYPE                              Text files
+1749           220                                                                       Text files
+0198           2200PF                                 0805                               Text files
+0333           2200PF                                 CC0805                             Text files
+1389           2200PF                                 C1812                              Text files
+1826           2200PF50V5%LDECC1220KA5N               C1812                              Text files
+1400           2200UF25V                                                                 Text files
+1384           2200РF                                 C0805                              Text files
+1821           2200РF+10%50V                          C0805                              Text files
+0963           220E                                   RC0805                             Text files
+0019           220PF                                  0805                               Text files
+0595           220PF                                  CC0805                             Text files
+1802           220PF+5%50V                            C0805                              Text files
+1396           220UF6.3V                                                                 Text files
+1827           2220PPS0.47UF10%63V                    SMW5.7                             Text files
+0964           22E                                    RC0805                             Text files
+0115           22E1%                                  RC0805                             Text files
+0172           22E1%                                  0603                               Text files
+0212           22E1%                                  0805                               Text files
+0965           22K                                    RC0805                             Text files
+0016           22MH                                   CDRH5D28NP                         Text files
+1650           22OHM1%                                R0805                              Text files
+1408           22UF                                   ATYPE                              Text files
+1750           240                                                                       Text files
+0215           240K                                   0805                               Text files
+0460           240K                                   RC0805                             Text files
+0236           240K1%                                 0805                               Text files
+0933           240K1%                                 RC0805                             Text files
+1651           240KOHM1%                              R0805                              Text files
+1616           240KOHM5%                              R0603                              Text files
+1707           240KOHM5%                              R0805                              Text files
+0300           24K1%                                  RC0805                             Text files
+1001           24K1%                                  0805                               Text files
+1652           24KOHM1%                               R0805                              Text files
+0349           25.5K1%                                RC0805                             Text files
+1653           25.5KOHM1%                             R0805                              Text files
+1833           25V                                    ТИПD293D476X9025D2TE3              Text files
+1751           270                                                                       Text files
+0540           270K                                   RC0805                             Text files
+0298           270K1%                                 RC0805                             Text files
+1654           270KOHM1%                              R0805                              Text files
+0372           27E                                    RC2010                             Text files
+0338           27K1%                                  RC0805                             Text files
+1655           27KOHM1%                               R0805                              Text files
+1741           27OHM                                                                     Text files
+1738           27OHM5%                                R2010                              Text files
+0412           2E                                     RC0805                             Text files
+1083           2E                                     0805                               Text files
+0053           2K                                     0805                               Text files
+0096           2K                                     RC0805                             Text files
+0213           2K1%                                   0805                               Text files
+0378           2K1%                                   RC0805                             Text files
+1656           2KOHM1%                                R0805                              Text files
+1708           2KOHM5%                                R0805                              Text files
+0960           2M                                     RC0805                             Text files
+0961           2M1%                                   RC0805                             Text files
+1709           2MOHM5%                                R0805                              Text files
+0283           2PF                                    CC0805                             Text files
+1367           2PF                                    C0805                              Text files
+1803           2PF+5%50V                              C0805                              Text files
+0073           3                                      VIAINDUCTOR                        Text files
+1760           3.0                                                                       Text files
+0166           3.01K1%                                0603                               Text files
+0330           3.01K1%                                RC0805                             Text files
+0564           3.01K1%                                R0805                              Text files
+1040           3.01K1%                                RC0805NT                           Text files
+1069           3.01K1%                                0805                               Text files
+1657           3.01KOHM1%                             R0805                              Text files
+1762           3.65KOHM1%                                                                Text files
+0472           3.9K                                   RC0805                             Text files
+0431           3.9K1%                                 RC0805                             Text files
+1658           3.9KOHM1%                              R0805                              Text files
+1752           300                                                                       Text files
+0009           300E                                   0805                               Text files
+0542           300E                                   RC0805                             Text files
+0217           300E1%                                 0805                               Text files
+0413           300E1%                                 RC0805                             Text files
+0210           300K                                   0805                               Text files
+0317           300K                                   RC0805                             Text files
+0188           300K1%                                 0603                               Text files
+0276           300K1%                                 RC0805                             Text files
+1065           300K1%                                 0805                               Text files
+1603           300KOHM1%                              R0603                              Text files
+1659           300KOHM1%                              R0805                              Text files
+1617           300KOHM5%                              R0603                              Text files
+1711           300KOHM5%                              R0805                              Text files
+1602           300OHM1%                               R0603                              Text files
+1660           300OHM1%                               R0805                              Text files
+1712           300OHM5%                               R0805                              Text files
+0425           300PF                                  CC0805                             Text files
+1368           300PF                                  C0805                              Text files
+1804           300PF+5%50V                            C0805                              Text files
+0257           30E                                    RC0805                             Text files
+0574           30E                                    R0805                              Text files
+1009           30E                                    0805                               Text files
+0474           30K                                    RC0805                             Text files
+1004           30K                                    0805                               Text files
+0189           30K1%                                  0603                               Text files
+0254           30K1%                                  RC0805                             Text files
+1002           30K1%                                  0805                               Text files
+1604           30KOHM1%                               R0603                              Text files
+1661           30KOHM1%                               R0805                              Text files
+1713           30KOHM5%                               R0805                              Text files
+1714           30OHM5%                                R0805                              Text files
+0280           32768HZ                                NX3215SA                           Text files
+0968           32768HZ                                32768                              Text files
+1074           32768HZ                                DT38                               Text files
+0934           32MHZ                                  KX7                                Text files
+1753           330                                                                       Text files
+0750           330.0                                  CDRH105R                           Text files
+1079           3300.0                                 3300UF                             Text files
+1406           3300UF10V                                                                 Text files
+1715           330OHM5%                               R0805                              Text files
+0178           33PF                                   0603                               Text files
+0242           33PF                                   CC0805                             Text files
+0554           33PF                                   C0805                              Text files
+0986           33PF                                   0805                               Text files
+1786           33PF+5%50V                             C0603                              Text files
+1805           33PF+5%50V                             C0805                              Text files
+1754           360                                                                       Text files
+1765           360OHM                                                                    Text files
+1755           390                                                                       Text files
+0541           390E                                   RC0805                             Text files
+0500           390K                                   RC0805                             Text files
+1006           390K                                   0805                               Text files
+0331           390K1%                                 RC0805                             Text files
+0999           390K1%                                 0805                               Text files
+1662           390KOHM1%                              R0805                              Text files
+1716           390KOHM5%                              R0805                              Text files
+1663           390OHM1%                               R0805                              Text files
+1717           390OHM5%                               R0805                              Text files
+0052           3K                                     0805                               Text files
+0089           3K                                     RC0805                             Text files
+0167           3K                                     0603                               Text files
+0441           3K1%                                   RC0805                             Text files
+1013           3K1%                                   0805                               Text files
+1618           3KOHM5%                                R0603                              Text files
+1718           3KOHM5%                                R0805                              Text files
+0056           3M                                     0805                               Text files
+0092           3M                                     RC0805                             Text files
+0165           3M1%                                   0603                               Text files
+0371           3M1%                                   RC0805                             Text files
+1068           3M1%                                   0805                               Text files
+1664           3MOHM1%                                R0805                              Text files
+1719           3MOHM5%                                R0805                              Text files
+0021           4.7                                    0805                               Text files
+0094           4.7                                    CC0805                             Text files
+0128           4.7                                    0603                               Text files
+0458           4.7                                    CDRH127                            Text files
+0683           4.7                                    CC0805NT                           Text files
+0158           4.7K                                   0603                               Text files
+0625           4.7K                                   RC0805                             Text files
+0299           4.7K1%                                 RC0805                             Text files
+1665           4.7KOHM1%                              R0805                              Text files
+1387           4.7UF                                  C0805                              Text files
+1790           4.7UF+10%16V                           C0603                              Text files
+1824           4.7UF+80%~20%50V                       C0805                              Text files
+0375           4.7X25V                                CC0805                             Text files
+0286           4.7X50V                                CC0805                             Text files
+0984           4.7X50V                                0805                               Text files
+1756           430                                                                       Text files
+0339           43K1%                                  RC0805                             Text files
+1666           43KOHM1%                               R0805                              Text files
+0136           47.0                                   ATYPE                              Text files
+0267           47.0                                   DTYPE                              Text files
+0321           47.0                                   CTYPE                              Text files
+0666           47.0                                   DTYPE2                             Text files
+1017           47.0                                   ECAS47.0X6.3                       Text files
+0039           47.0UF                                 ATYPE                              Text files
+0014           47.0X25V                               DTYPE                              Text files
+1757           470                                                                       Text files
+0322           4700PF                                 CC0805                             Text files
+1385           4700РF                                 C0805                              Text files
+1822           4700РF+10%50V                          C0805                              Text files
+0058           470E                                   0805                               Text files
+0105           470E                                   RC0805                             Text files
+0156           470E                                   0603                               Text files
+0570           470E                                   R0805                              Text files
+0302           470E1%                                 RC0805                             Text files
+0216           470K                                   0805                               Text files
+0418           470K                                   RC0805                             Text files
+0408           470K1%                                 RC0805                             Text files
+0567           470K1%                                 R0805                              Text files
+1064           470K1%                                 0805                               Text files
+1667           470KOHM1%                              R0805                              Text files
+1619           470KOHM5%                              R0603                              Text files
+1720           470KOHM5%                              R0805                              Text files
+1668           470OHM1%                               R0805                              Text files
+1620           470OHM5%                               R0603                              Text files
+1721           470OHM5%                               R0805                              Text files
+0523           470PF                                  CC0805                             Text files
+1369           470PF                                  C0805                              Text files
+1806           470PF+5%50V                            C0805                              Text files
+1401           470UF10V                                                                  Text files
+1402           470UF16V                                                                  Text files
+1403           470UF25V                                                                  Text files
+0055           47K                                    0805                               Text files
+0080           47K                                    RC0805                             Text files
+0154           47K                                    0603                               Text files
+0627           47K                                    RC1206                             Text files
+0164           47K1%                                  0603                               Text files
+0379           47K1%                                  RC0805                             Text files
+1010           47K1%                                  0805                               Text files
+1730           47KOHM                                 R1206                              Text files
+1669           47KOHM1%                               R0805                              Text files
+1621           47KOHM5%                               R0603                              Text files
+1722           47KOHM5%                               R0805                              Text files
+0596           47PF                                   CC0805                             Text files
+0985           47PF                                   0805                               Text files
+1370           47PF                                   C0805                              Text files
+1807           47PF+5%50V                             C0805                              Text files
+1409           47UF                                   ATYPE                              Text files
+1411           47UF                                   DTYPE                              Text files
+1397           47UF25V                                                                   Text files
+1398           47UF6.3V                                                                  Text files
+0187           49.9E1%                                0603                               Text files
+0482           49.9E1%                                RC0805                             Text files
+1605           49.9OHM1%                              R0603                              Text files
+1670           49.9OHM1%                              R0805                              Text files
+0060           5.1K                                   0805                               Text files
+0116           5.1K                                   RC0805                             Text files
+0170           5.1K                                   0603                               Text files
+0571           5.1K                                   R0805                              Text files
+0161           5.1K1%                                 0603                               Text files
+1671           5.1KOHM1%                              R0805                              Text files
+1763           5.1KOHM1%                                                                 Text files
+1622           5.1KOHM5%                              R0603                              Text files
+1723           5.1KOHM5%                              R0805                              Text files
+0610           5.1M                                   RC1206                             Text files
+1724           5.1MOHM5%                              R0805                              Text files
+1734           5.1MOHM5%                              R1206                              Text files
+0102           5.1PF                                  CC0805                             Text files
+0179           5.1PF                                  0603                               Text files
+1371           5.1PF                                  C0805                              Text files
+1787           5.1PF+5%50V                            C0603                              Text files
+1808           5.1PF+5%50V                            C0805                              Text files
+0481           5.6K1%                                 RC0805                             Text files
+1672           5.6KOHM1%                              R0805                              Text files
+1767           5.6OHM5%                                                                  Text files
+0067           5015KEYSTONE                           5015KEYSTONE                       Text files
+0507           5015KEYSTONE                           RC0805                             Text files
+1744           50KOHM                                 R3323                              Text files
+0612           510K                                   RC1206                             Text files
+1735           510KOHM5%                              R1206                              Text files
+0061           51E                                    0805                               Text files
+0438           51E                                    RC0805                             Text files
+0002           51K1%                                  0805                               Text files
+0370           51K1%                                  RC0805                             Text files
+1673           51KOHM1%                               R0805                              Text files
+1623           51OHM5%                                R0603                              Text files
+1725           51OHM5%                                R0805                              Text files
+0433           536E1%                                 RC0805                             Text files
+0998           536E1%                                 0805                               Text files
+1674           536OHM1%                               R0805                              Text files
+0975           542E1%                                 RC0805                             Text files
+0459           56.0                                   CDRH5D28NP                         Text files
+1758           560                                                                       Text files
+1391           560.0UF25V                                                                Text files
+1828           560.0UF25V                             A750MS567M1EAAE015                 Text files
+1745           5OHM5%                                                                    Text files
+0981           6.2K1%                                 RC0805                             Text files
+1675           6.2KOHM1%                              R0805                              Text files
+1764           6.2KOHM5%                                                                 Text files
+1372           6.2PF                                  C0805                              Text files
+1809           6.2PF+5%50V                            C0805                              Text files
+0313           6.8                                    CDRH5D28NP                         Text files
+0347           6.8                                    CDRH3D16NP                         Text files
+0559           6.8                                    W7                                 Text files
+1021           6.8                                    CDRH4D28CLD                        Text files
+1043           6.8                                    CDRH5D28NPB                        Text files
+0256           6.8K1%                                 RC0805                             Text files
+1676           6.8KOHM1%                              R0805                              Text files
+0233           6.8MH                                  CDRH5D28NP                         Text files
+0996           6.8MH                                  CDRH3D16NP                         Text files
+0517           6.8UH                                  CDRH3D16NP                         Text files
+0958           6.8UH                                  CDRH5D28NP                         Text files
+1025           6.8UH                                  CDRH4D28CLD                        Text files
+1033           6.8UH                                  W7                                 Text files
+0369           604K1%                                 RC0805                             Text files
+1067           604K1%                                 0805                               Text files
+1677           604KOHM1%                              R0805                              Text files
+0432           61.9K1%                                RC0805                             Text files
+1678           61.9KOHM1%                             R0805                              Text files
+1089           613932433                              613932433                          Text files
+1679           620OHM1%                               R0805                              Text files
+0609           680.0                                  CDRH127                            Text files
+0983           680K1%                                 RC0805                             Text files
+1680           680KOHM1%                              R0805                              Text files
+0741           680PF                                  CC0805                             Text files
+1373           680PF                                  C0805                              Text files
+1810           680PF+5%50V                            C0805                              Text files
+1007           7.5K                                   0805                               Text files
+1624           7.5KOHM5%                              R0603                              Text files
+1726           7.5KOHM5%                              R0805                              Text files
+1092           74AC244N                               74AC244N                           Text files
+1412           74AC299                                                                   Text files
+0749           74AHCT1G02                             SOT235                             Text files
+1413           74AHCT1G02DBV                          SOT235                             Text files
+0941           74HC04                                 SO14                               Text files
+1414           74HC04D                                SO14                               Text files
+0733           74HC137                                SO16                               Text files
+1415           74HC137D                               SO16                               Text files
+0937           74HC4020                               SO16                               Text files
+1416           74HC4020D                              SO16                               Text files
+0476           74HC4046                               SO16                               Text files
+1417           74HC4046AM                             SO16                               Text files
+0638           74HC4051                               SO16                               Text files
+0732           74HC4051D                              SO16                               Text files
+0044           74HC4060                               SO16                               Text files
+1093           74HC4060BQ                             74HC4060BQ                         Text files
+1418           74HC4060M                              SO16                               Text files
+1094           74HC4066D                              74HC4066D                          Text files
+0939           74HC4520                               SO16                               Text files
+1419           74HC4520D                              SO16                               Text files
+0327           74HC595                                SO16                               Text files
+0588           74HC595D                               SO16                               Text files
+0957           74HC6323AD                             SO8                                Text files
+1095           74HCT10PW                              74HCT10PW                          Text files
+1420           74LV4051AD                             SO16                               Text files
+1096           74LV4060D.118NXP                       74LV4060D.118NXP                   Text files
+1097           74LVC1G00DBV                           74LVC1G00DBV                       Text files
+0456           74LVC1G02GV                            SOT235                             Text files
+0591           74LVC1G04                              SOT235                             Text files
+1421           74LVC1G04DBV                           SOT235                             Text files
+1098           74LVC1G04DCKR                          74LVC1G04DCKR                      Text files
+0506           74LVC1G04GV                            SOT235                             Text files
+0430           74LVC1G07GV                            SOT235                             Text files
+0328           74LVC1G08                              SOT235                             Text files
+1422           74LVC1G08DBV                           SOT235                             Text files
+0231           74LVC1G08DBVR                          SOT23                              Text files
+1099           74LVC1G08GW                            74LVC1G08GW                        Text files
+1100           74LVC1G126                             74LVC1G126                         Text files
+1423           74LVC1G17DBV                           SOT235                             Text files
+1101           74LVC1G3157DCK                         74LVC1G3157DCK                     Text files
+1102           74LVC1G32DBV                           74LVC1G32DBV                       Text files
+1103           74LVC1G332DBV                          74LVC1G332DBV                      Text files
+0271           74LVC1G66                              SOT235                             Text files
+1424           74LVC1G66DBV                           SOT235                             Text files
+0480           74LVC1G86DBV                           SOT235                             Text files
+1104           74LVC2G07DCK                           74LVC2G07DCK                       Text files
+0207           74LVC2T45DC                            VSSOP8                             Text files
+1105           74VHCT244A                             74VHCT244A                         Text files
+1106           74VHCT244AM                            74VHCT244AM                        Text files
+0423           750E                                   RC0805                             Text files
+0463           750E1%                                 RC0805                             Text files
+0162           750K1%                                 0603                               Text files
+0235           750K1%                                 0805                               Text files
+1682           750KOHM1%                              R0805                              Text files
+1681           750OHM1%                               R0805                              Text files
+1727           750OHM5%                               R0805                              Text files
+0373           75K                                    RC0805                             Text files
+0368           75K1%                                  RC0805                             Text files
+1066           75K1%                                  0805                               Text files
+1683           75KOHM1%                               R0805                              Text files
+1728           75KOHM5%                               R0805                              Text files
+0900           798.19500                              BOTTOM                             Text files
+0903           798.27500                              BOTTOM                             Text files
+0910           799.14750                              BOTTOM                             Text files
+1071           7SIP100                                7SIP50PROG                         Text files
+1084           7SIP50PROG                             7SIP50PROG                         Text files
+0530           8.87K1%                                RC0805                             Text files
+1684           8.87KOHM1%                             R0805                              Text files
+0917           801.21125                              TOP                                Text files
+0906           801.37000                              BOTTOM                             Text files
+0830           801.84625                              BOTTOM                             Text files
+0899           802.00500                              BOTTOM                             Text files
+0754           802.48125                              BOTTOM                             Text files
+0861           802.79875                              BOTTOM                             Text files
+0862           804.22750                              BOTTOM                             Text files
+0907           804.86250                              BOTTOM                             Text files
+0908           805.65625                              BOTTOM                             Text files
+0898           805.81500                              BOTTOM                             Text files
+0835           806.60875                              BOTTOM                             Text files
+0767           806.76750                              BOTTOM                             Text files
+0759           806.92625                              BOTTOM                             Text files
+0850           808.03750                              BOTTOM                             Text files
+0831           808.35500                              BOTTOM                             Text files
+0918           808.79825                              TOP                                Text files
+0829           809.14875                              BOTTOM                             Text files
+0885           809.30750                              BOTTOM                             Text files
+0839           809.78375                              BOTTOM                             Text files
+0837           809.94250                              BOTTOM                             Text files
+0930           80MHZ                                  KXOV97                             Text files
+0755           810.73625                              BOTTOM                             Text files
+0858           811.05375                              BOTTOM                             Text files
+0884           811.21250                              BOTTOM                             Text files
+0760           811.37125                              BOTTOM                             Text files
+0847           811.84750                              BOTTOM                             Text files
+0762           812.00625                              BOTTOM                             Text files
+0902           812.16500                              BOTTOM                             Text files
+0832           812.48250                              BOTTOM                             Text files
+0768           812.64125                              BOTTOM                             Text files
+0761           812.95875                              BOTTOM                             Text files
+0913           813.75250                              TOP                                Text files
+0870           814.38750                              BOTTOM                             Text files
+0901           814.70500                              BOTTOM                             Text files
+0889           815.18125                              BOTTOM                             Text files
+0769           815.81625                              BOTTOM                             Text files
+0793           815.97500                              BOTTOM                             Text files
+0863           816.13375                              BOTTOM                             Text files
+0763           816.45125                              BOTTOM                             Text files
+0914           816.65325                              TOP                                Text files
+0890           816.76875                              BOTTOM                             Text files
+0864           816.92750                              BOTTOM                             Text files
+0891           817.56250                              BOTTOM                             Text files
+0868           818.03875                              BOTTOM                             Text files
+0887           818.19750                              TOP                                Text files
+0757           818.67375                              BOTTOM                             Text files
+0781           818.83250                              BOTTOM                             Text files
+0897           819.62625                              BOTTOM                             Text files
+0790           819.94375                              BOTTOM                             Text files
+0770           820.10250                              BOTTOM                             Text files
+0888           820.57875                              BOTTOM                             Text files
+0756           820.73750                              BOTTOM                             Text files
+0865           820.89625                              BOTTOM                             Text files
+0836           821.05500                              BOTTOM                             Text files
+0758           821.69000                              BOTTOM                             Text files
+0852           822.64250                              BOTTOM                             Text files
+0792           822.80125                              TOP                                Text files
+0840           822.96000                              BOTTOM                             Text files
+0892           823.27750                              BOTTOM                             Text files
+0886           823.91250                              BOTTOM                             Text files
+0859           824.07125                              BOTTOM                             Text files
+0893           824.23000                              BOTTOM                             Text files
+0823           825.02375                              BOTTOM                             Text files
+0919           825.34125                              BOTTOM                             Text files
+0771           825.81750                              BOTTOM                             Text files
+0920           825.97625                              BOTTOM                             Text files
+0854           826.13500                              BOTTOM                             Text files
+0895           826.61125                              BOTTOM                             Text files
+0860           827.40500                              BOTTOM                             Text files
+0871           827.56375                              BOTTOM                             Text files
+0822           827.72250                              BOTTOM                             Text files
+0772           828.04000                              BOTTOM                             Text files
+0856           828.19875                              BOTTOM                             Text files
+0894           828.35750                              BOTTOM                             Text files
+0825           828.99250                              BOTTOM                             Text files
+0872           829.31000                              BOTTOM                             Text files
+0915           829.79750                              TOP                                Text files
+0855           830.26250                              BOTTOM                             Text files
+0824           831.05625                              BOTTOM                             Text files
+0834           831.21500                              BOTTOM                             Text files
+0883           832.00875                              BOTTOM                             Text files
+0356           832.01000                              KPTB16125SURKQKPTB16125SURKQTOP    Text files
+0869           832.16750                              BOTTOM                             Text files
+0867           832.96125                              BOTTOM                             Text files
+0909           833.91375                              BOTTOM                             Text files
+0821           834.54875                              TOP                                Text files
+0820           834.70750                              BOTTOM                             Text files
+0853           835.18375                              BOTTOM                             Text files
+0810           835.34250                              TOP                                Text files
+0813           835.50125                              TOP                                Text files
+0828           835.66000                              TOP                                Text files
+0803           835.81875                              TOP                                Text files
+0819           836.29500                              BOTTOM                             Text files
+0798           836.61250                              TOP                                Text files
+0866           837.24750                              BOTTOM                             Text files
+0826           837.40625                              TOP                                Text files
+0905           837.88250                              TOP                                Text files
+0827           838.20000                              TOP                                Text files
+0785           838.35875                              BOTTOM                             Text files
+0912           839.05375                              TOP                                Text files
+0808           839.15250                              TOP                                Text files
+0804           839.62875                              TOP                                Text files
+0818           839.62875                              BOTTOM                             Text files
+0783           841.21625                              BOTTOM                             Text files
+0795           841.21625                              TOP                                Text files
+0896           841.53375                              BOTTOM                             Text files
+0784           842.01000                              BOTTOM                             Text files
+0797           842.16875                              TOP                                Text files
+0782           842.80375                              BOTTOM                             Text files
+0805           842.80375                              TOP                                Text files
+0776           842.96250                              BOTTOM                             Text files
+0806           842.96250                              TOP                                Text files
+0880           844.07375                              BOTTOM                             Text files
+0777           844.23250                              BOTTOM                             Text files
+0799           844.55000                              TOP                                Text files
+0849           844.86750                              BOTTOM                             Text files
+0787           845.18500                              BOTTOM                             Text files
+0843           845.66125                              BOTTOM                             Text files
+0775           845.82000                              BOTTOM                             Text files
+0811           846.13750                              TOP                                Text files
+0873           847.09000                              BOTTOM                             Text files
+0807           847.72500                              TOP                                Text files
+0842           848.36000                              BOTTOM                             Text files
+0812           848.51875                              BOTTOM                             Text files
+0874           848.67750                              BOTTOM                             Text files
+0802           849.15375                              TOP                                Text files
+0800           849.31250                              TOP                                Text files
+0911           849.55000                              TOP                                Text files
+0773           849.63000                              BOTTOM                             Text files
+0875           849.78875                              BOTTOM                             Text files
+0786           850.10625                              BOTTOM                             Text files
+0779           850.42375                              BOTTOM                             Text files
+0841           850.58250                              BOTTOM                             Text files
+0796           850.90000                              TOP                                Text files
+0814           851.05875                              TOP                                Text files
+0788           851.37625                              BOTTOM                             Text files
+0848           852.01125                              BOTTOM                             Text files
+0789           852.17000                              BOTTOM                             Text files
+0778           852.32875                              BOTTOM                             Text files
+0857           852.64625                              TOP                                Text files
+0846           852.96375                              BOTTOM                             Text files
+0774           853.12250                              BOTTOM                             Text files
+0801           853.28125                              TOP                                Text files
+0851           853.28125                              BOTTOM                             Text files
+0817           853.44000                              TOP                                Text files
+0876           854.23375                              BOTTOM                             Text files
+0809           854.39250                              TOP                                Text files
+0845           854.39250                              BOTTOM                             Text files
+0791           854.55125                              BOTTOM                             Text files
+0882           854.86875                              BOTTOM                             Text files
+0780           855.50375                              BOTTOM                             Text files
+0879           855.66250                              BOTTOM                             Text files
+0765           855.98000                              BOTTOM                             Text files
+0877           856.45625                              BOTTOM                             Text files
+0881           856.93250                              BOTTOM                             Text files
+0833           857.09125                              BOTTOM                             Text files
+0794           857.56750                              BOTTOM                             Text files
+0838           858.52000                              BOTTOM                             Text files
+0766           859.31375                              BOTTOM                             Text files
+0878           859.47250                              BOTTOM                             Text files
+0904           859.55300                              BOTTOM                             Text files
+0764           859.63125                              BOTTOM                             Text files
+0844           860.26625                              BOTTOM                             Text files
+0815           860.58375                              BOTTOM                             Text files
+0816           860.74250                              BOTTOM                             Text files
+0916           861.37750                              TOP                                Text files
+0193           8MHZ                                   ABM3                               Text files
+1685           9.1KOHM1%                              R0805                              Text files
+1759           910                                                                       Text files
+0023           ABM3                                   ABM3                               Text files
+1107           ACS712ELCTR05BT                        ACS712ELCTR05BT                    Text files
+0405           AD1582                                 SOT23                              Text files
+1425           AD1582ARTR2                            SOT23                              Text files
+1108           AD22105                                AD22105                            Text files
+1109           AD5161BCPZ10                           AD5161BCPZ10                       Text files
+0737           AD5161BRMZ10                           MINISO10                           Text files
+0419           AD5200BRM10                            MINISO10                           Text files
+1426           AD5200BRMZ10                           MINISO10                           Text files
+0661           AD5241                                 SO14                               Text files
+0745           AD5241BR10                             SO14                               Text files
+0716           AD5241BRU10                            SO14                               Text files
+1427           AD5241BRZ10                            SO14                               Text files
+1428           AD5246BKS50                                                               Text files
+1429           AD5282BRU20                            QSOP16                             Text files
+0600           AD5282BRU50                            QSOP16                             Text files
+1430           AD5301BRM                              MINISO8                            Text files
+0927           AD5301BRMZ                             MINISO8                            Text files
+0467           AD5443YRM                              MINISO10                           Text files
+1110           AD5934                                 AD5934                             Text files
+0287           AD627A                                 SO8                                Text files
+1111           AD627A                                 AD627A                             Text files
+1112           AD7192BRUZ                             AD7192BRUZ                         Text files
+1113           AD7414ART                              AD7414ART                          Text files
+1114           AD7482BAST                             AD7482BAST                         Text files
+0469           AD7495AR                               SO8                                Text files
+1431           AD7495ARM                              SO8                                Text files
+0404           AD7708BRU                              TSSOP28                            Text files
+0952           AD7766                                 TSSOP16                            Text files
+1024           AD7766BRU2                             TSSOP16                            Text files
+0205           AD7766BRUZ                             TSSOP16                            Text files
+0673           AD7766BRUZ                             TSSOP161                           Text files
+0708           AD7766BRUZ                             AD7766BRUZ                         Text files
+1432           AD7766BRUZ                             QSOP16                             Text files
+1433           AD7780BRZ                              SO14                               Text files
+0436           AD7792                                 QSOP16                             Text files
+0251           AD7792BRU                              QSOP16                             Text files
+1434           AD7792BRUZ                             QSOP16                             Text files
+1115           AD7793BRUZ                             AD7793BRUZ                         Text files
+0440           AD7887ARZ                              SO8                                Text files
+0526           AD7943                                 SSOP20M                            Text files
+0360           AD7943ARS                              SSOP20M                            Text files
+1435           AD7943ARSB                             SSOP20                             Text files
+0477           AD8005ART                              SOT235                             Text files
+1436           AD8005ARTZ                             SOT235                             Text files
+1437           AD8032AR                                                                  Text files
+1116           AD8038AKSZ                             AD8038AKSZ                         Text files
+1438           AD8223ARZ                                                                 Text files
+1045           AD8226ARMZ                             MINISO8                            Text files
+0250           AD8231                                 AD8231                             Text files
+0204           AD8231ACPZ                             CP164                              Text files
+0672           AD8231ACPZ                             CP1641                             Text files
+0707           AD8231ACPZ                             AD8231ACPZ                         Text files
+1439           AD8231ACPZR7                           CP164                              Text files
+0292           AD8293G160                             SOT238                             Text files
+1440           AD8293G160ARJZ                         SOT238                             Text files
+1117           AD8293G80BRTZ                          AD8293G80BRTZ                      Text files
+0925           AD8330ARQ                              QSOP16                             Text files
+1441           AD8330ARQ                              SSOP16                             Text files
+1118           AD8338ACPZR7                           AD8338ACPZR7                       Text files
+1119           AD8421ARZ                              AD8421ARZ                          Text files
+1120           AD8422APMZ                             AD8422APMZ                         Text files
+1121           AD8510AR                               AD8510AR                           Text files
+0363           AD8531AKS                              SC705                              Text files
+0687           AD8531AKS                              SC7051                             Text files
+0950           AD8531AKS                              SOT235                             Text files
+1018           AD8531AKS                              UNIVERSAL2                         Text files
+1122           AD8532                                 AD8532                             Text files
+0928           AD8538AUJ                              SOT235                             Text files
+1442           AD8538AUJZ                             SOT235                             Text files
+0470           AD8541                                 SOT235                             Text files
+0355           AD8541ART                              SOT235                             Text files
+0323           AD8542AR                               SO8                                Text files
+1123           AD8552AR                               AD8552AR                           Text files
+0307           AD8557ARZ                              SO8                                Text files
+0479           AD8561AR                               SO8                                Text files
+0951           AD8603                                 SOT235                             Text files
+0249           AD8603AUJ                              SOT235                             Text files
+1443           AD8603AUJREEL7                         SOT235                             Text files
+1124           AD8605ART                              AD8605ART                          Text files
+1125           AD8607                                 AD8607                             Text files
+0143           AD8613                                 SOT235                             Text files
+1126           AD8613AUJZ                             AD8613AUJZ                         Text files
+1127           AD8616                                 AD8616                             Text files
+0604           AD8631ART                              SOT235                             Text files
+1444           AD8631ARTR2                            SOT235                             Text files
+1128           AD8632                                 AD8632                             Text files
+1129           AD8641                                 AD8641                             Text files
+1445           AD8642ARZ                              SO8                                Text files
+1130           AD8661                                 AD8661                             Text files
+0602           AD9235BRU20                            TSSOP28M                           Text files
+0632           AD9235BRU20                            TSSOP28                            Text files
+0926           AD9629BCPZ80                           CP3204                             Text files
+1131           AD9837ACPZRL7                          AD9837ACPZRL7                      Text files
+1132           ADA45222ARZ@AD                         ADA45222ARZ@AD                     Text files
+1133           ADA45281ARMZ                           ADA45281ARMZ                       Text files
+1134           ADA48071ARJZ                           ADA48071ARJZ                       Text files
+0599           ADA48411                               SO8                                Text files
+1446           ADA48411YRZ                            SO8                                Text files
+0533           ADA48412                               SO8                                Text files
+1447           ADA48412YRZ                            SO8                                Text files
+1135           ADA48511YRJZ                           ADA48511YRJZ                       Text files
+1448           ADA48531AKS                            SC706                              Text files
+0617           ADA4853AKS                             SC706                              Text files
+1136           ADA48911ARJZR7                         ADA48911ARJZR7                     Text files
+1137           ADA48971ARJZ                           ADA48971ARJZ                       Text files
+0924           ADA49401ARZ                            SO8                                Text files
+0659           ADA49411                               SO8                                Text files
+1449           ADA49411YRZ                            SO8                                Text files
+1138           ADCMP600BRJ                            ADCMP600BRJ                        Text files
+1139           ADCMP600BRJZ                           ADCMP600BRJZ                       Text files
+0291           ADG5436BRU                             QSOP16                             Text files
+0248           ADG619                                 MINISO8                            Text files
+0485           ADG619BRM                              MINISO8                            Text files
+0670           ADG619BRM                              MINISO82                           Text files
+0705           ADG619BRM                              ADG619BRM                          Text files
+1140           ADG701BRM                              ADG701BRM                          Text files
+1141           ADG701BRS                              ADG701BRS                          Text files
+0735           ADG704BRM                              MINISO10                           Text files
+1450           ADG704BRMZ                             MINISO10                           Text files
+0722           ADG708BRU                              QSOP16                             Text files
+0731           ADG709                                 QSOP16                             Text files
+0734           ADG709BRU                              QSOP16                             Text files
+0724           ADG721                                 MINISO8                            Text files
+1451           ADG721BRMZ                                                                Text files
+1142           ADG736BRM                              ADG736BRM                          Text files
+0640           ADM2483                                SO167.5                            Text files
+1452           ADM2483BRWZ                            SO1675                             Text files
+1143           ADM3075EAR                             ADM3075EAR                         Text files
+0029           ADM3075EARZ                            SO8                                Text files
+1453           ADM3483ARZ                                                                Text files
+1063           ADMP404                                E2                                 Text files
+1144           ADP1111AR                              ADP1111AR                          Text files
+1145           ADP150AUJZ3.0                          ADP150AUJZ3.0                      Text files
+0042           ADP160AUJZ3.0                          SOT235                             Text files
+1146           ADP160AUJZ3.0                          ADP160AUJZ3.0                      Text files
+0138           ADP165160AUJZ3.0                       SOT235                             Text files
+0181           ADP165AUJZ3.0                          SOT235                             Text files
+0494           ADP2291ARM                             MINISO8                            Text files
+1454           ADP2291ARMZ                                                               Text files
+1147           ADP2504AСР                             ADP2504AСР                         Text files
+0447           ADR3425                                SOT236                             Text files
+0953           ADR3425ARJ                             UNIVERSAL1                         Text files
+1148           ADR361AUJ                              ADR361AUJ                          Text files
+1149           ADR441                                 ADR441                             Text files
+1150           ADS1100A0IDBV                          ADS1100A0IDBV                      Text files
+0527           ADS1110                                SOT236                             Text files
+1455           ADS1110A0IDBVT                         SOT236                             Text files
+1151           ADS1115IDGS                            ADS1115IDGS                        Text files
+0535           ADS1222                                QSOP14                             Text files
+1456           ADS1222IPWT                            QSOP14                             Text files
+0660           ADS1271                                QSOP16                             Text files
+1457           ADS1271IPW                             QSOP16                             Text files
+0970           ADS1274                                PQFP6410                           Vibran-4-161
+0991           ADS1274                                TQFP6410                           Vibran-4-161
+1458           ADS1274IPAPT                           RQFP6410                           Vibran-4-161
+0929           ADSPBF514BSWZ4BOTTOM                   LQFP176                            Vibran-4-161
+1459           ADSPBF514BSWZ4F16                      LQFP176                            Vibran-4-161
+1152           ADT7410TRZ                             ADT7410TRZ                         Vibran-4-161
+0422           ADUM3160                               SO167.5                            Vibran-4-161
+1460           ADUM3160BRWZ                           SO1675                             Vibran-4-161
+1153           ADUM3201ARZ                            ADUM3201ARZ                        Vibran-4-161
+1154           ADUM5241ARZ                            ADUM5241ARZ                        Vibran-4-161
+1155           ADXL00170                              ADXL00170                          Vibran-4-161
+1156           ADXL1001BCPZ                           ADXL1001BCPZ                       Vibran-4-161
+1157           ADXL1004BCP                            ADXL1004BCP                        Vibran-4-161
+1158           ADXL1005BCP                            ADXL1005BCP                        Vibran-Inc-Vist-TFT-011
+1159           ADXL320                                ADXL320                            Vibran-Inc-Vist-TFT-011
+1160           ADXL321                                ADXL321                            Vibran-Inc-Vist-TFT-011
+1161           ADXL326                                ADXL326                            Vibran-Inc-Vist-TFT-011
+0185           ADXL343                                LIS202                             Vibran-Inc-Vist-TFT-011
+0335           ADXL343                                ADXL343M                           Vibran-Inc-Vist-TFT-011
+0429           ADXL343                                CC141                              Vibran-Inc-Vist-TFT-011
+0495           ADXL343                                ADXL343                            Vibran-Inc-Vist-TFT-011
+0992           ADXL343                                LGA14                              Vibran-Inc-Vist-TFT-011
+0309           ADXL345                                ADXL343M                           Vibran-Inc-Vist-TFT-011
+0351           ADXL345                                CC141                              Vibran-Inc-Vist-TFT-011
+1020           ADXL345                                LIS202                             Vibran-Inc-Vist-TFT-011
+1162           ADXL78                                 ADXL78                             Vibran-Inc-Vist-TFT-011
+0141           AH49F                                  SOT23                              Vibran-Inc-Vist-TFT-011
+1163           AH49FNTRG1                             AH49FNTRG1                         Vibran-Inc-Vist-TFT-011
+1164           AH8500FDC7                             AH8500FDC7                         Vibran-Inc-Vist-TFT-011
+1165           AH9251PB                               AH9251PB                           Vibran-Inc-Vist-TFT-011
+1166           AL580990                               AL580990                           Vibran-Inc-Vist-TFT-011
+1167           AMC1100DUB                             AMC1100DUB                         Vibran-Inc-Vist-TFT-011
+1168           AOT127A                                AOT127A                            Vibran-Inc-Vist-TFT-012
+0266           AP22802AW5                             SOT235                             VIP-1-31-008
+1169           AP3015KTRG1                            AP3015KTRG1                        VIP-1-31-008
+1170           AP3417AKTRG1                           AP3417AKTRG1                       VIP-1-31-008
+1171           AP3417CKTRG1                           AP3417CKTRG1                       VIP-1-31-008
+1461           AP3429AKT                              SOT235                             VIP-1-31-008
+0619           AP3429AKTTRG1                          SOT235                             VIP-1-31-008
+0686           AP5727WG7                              SOT2351                            VIP-1-31-008
+0703           AP5727WG7                              AP5727WG7                          VIP-1-31-008
+1462           AP5727WG7                                                                 VIP-1-31-008
+0031           APTR3216QBCD                           APTR3216QBCD                       VIP-1-31-008
+1172           AS4C32M16S7TIN                         AS4C32M16S7TIN                     Zond-1-12
+0715           AT24512                                SO8                                Zond-1-12
+0437           AT24C1024BN                            SO8                                Номенклатура
+1463           AT24C1024BNSH25BAT24CM01SSHD           SO8                                Номенклатура
+0273           AT24C1024BNSH2TOP                      SO8                                Номенклатура
+0450           AT24C1024N                             SO8                                Номенклатура
+0406           AT24C256                               SO8                                Номенклатура
+1173           AT24C256CSSHL                          AT24C256CSSHL                      Номенклатура
+0528           AT24C512                               SO8                                Номенклатура
+0336           AT24C512N                              SO8                                Номенклатура
+0721           AT45DB081DSU                           MO8                                Номенклатура
+1174           AT45DB321                              AT45DB321                          Номенклатура
+0973           AT91SAM3U4C                            LQFP10014                          Номенклатура
+0252           AT91SAM7S256                           TQFP6410                           Номенклатура
+0587           AT91SAM7S256DABOTTOM                   TQFP6410                           Номенклатура
+1464           AT91SAM7S256DAU                        TQFP6410                           Номенклатура
+1175           AT91SAM7S512                           AT91SAM7S512                       Номенклатура
+0607           AT91SAM7X512                           LQFP10014                          Номенклатура
+1030           AT91SAM7X512                           LQFP100                            Номенклатура
+1036           AT91SAM7X512                           LQFP100PAS90                       Номенклатура
+1465           AT91SAM7X512AU                         LQFP100                            Номенклатура
+0449           ATINY10                                SOT236                             Номенклатура
+0637           ATMEGA128L                             TQFP6414                           Номенклатура
+1466           ATMEGA128L8AU                                                             Номенклатура
+0270           ATMEGA168                              TQFP32A                            Номенклатура
+1467           ATMEGA16820AU                          TQFP32A                            Номенклатура
+1177           ATMEGA168PAAU1111                      ATMEGA168PAAU1111                  Номенклатура
+1178           ATMEGA328PAU                           ATMEGA328PAU                       Номенклатура
+0293           ATMEGA8                                TQFP32A                            Номенклатура
+1468           ATMEGAA8AAU                            TQFP32A                            Номенклатура
+1469           ATSAM3U4CAAU                           LQFP100                            Номенклатура
+1179           ATSAM3U4EAAU                           ATSAM3U4EAAU                       Номенклатура
+0496           ATSAM4LS2AA                            TQFP48                             Номенклатура
+1470           ATSAM4LS2AAAUR                                                            Номенклатура
+1176           ATSAM4LС2AAAU                          ATSAM4LС2AAAU                      Номенклатура
+0448           ATSAM4S16BAAU                          TQFP6410                           Номенклатура
+0206           ATTINY10                               SOT236                             Номенклатура
+0688           ATTINY10                               SOT2362                            Номенклатура
+0709           ATTINY10                               ATINY10                            Номенклатура
+0590           ATTINY10R                              SOT236                             Номенклатура
+1471           ATTINY10TSHR                           SOT236                             Номенклатура
+1180           ATTINY13                               ATTINY13                           Номенклатура
+1181           ATTINY4520SU                           ATTINY4520SU                       Номенклатура
+1472           ATTINY4520SU                                                              Номенклатура
+0385           ATYPE                                  ATYPE                              Номенклатура
+0384           ATYPET                                 ATYPET                             Номенклатура
+0221           B0540W7F                               MBR0520                            Номенклатура
+0077           B2BPHKS                                B2BPHKS                            Номенклатура
+0026           B4BPHKS                                B4BPHKS                            Номенклатура
+1182           BAS7004W                               BAS7004W                           Номенклатура
+0279           BAT54                                  SOT23                              Номенклатура
+0543           BAT54A                                 SOT23                              Номенклатура
+1345           BAT54A                                                                    Номенклатура
+0424           BAT54C                                 SOT23                              Номенклатура
+1346           BAT54C                                                                    Номенклатура
+0071           BAT54S                                 SOT23                              Номенклатура
+0070           BAV199                                 SOT23                              Номенклатура
+0278           BAV56                                  SOT23                              Номенклатура
+0220           BAV70                                  SOT23                              Номенклатура
+0222           BAV99                                  SOT23                              Номенклатура
+1347           BAV99                                  SOT2399                            Номенклатура
+0943           BAW56                                  SOT23                              Номенклатура
+0260           BC847                                  SOT23                              Номенклатура
+0520           BC847C                                 SOT23                              Номенклатура
+1768           BC847C                                 SOT2384                            Номенклатура
+0374           BC858                                  SOT23                              Номенклатура
+1769           BC858CLT1                              SOT23                              Номенклатура
+1770           BCP5216                                                                   Номенклатура
+1183           BLM21AG102SN1D                         BLM21AG102SN1D                     Номенклатура
+0012           BLM21AH102SN1D                         0805                               Номенклатура
+1184           BLM21AH102SN1D                         BLM21AH102SN1D                     Номенклатура
+0124           BLM21P331                              RC0805                             Номенклатура
+0367           BLM21P331                              CC0805                             Номенклатура
+0123           BLM41PG102SN1                          BLM41                              Номенклатура
+1185           BLM41PG102SN1                          BLM41PG102SN1                      Номенклатура
+1186           BMP280                                 BMP280                             Номенклатура
+0674           BOTTOM                                 CDRH4D28LD1^415.0                  Номенклатура
+0137           BQ21040DBV                             SOT236                             Номенклатура
+0428           BQ24090DGQ                             MINISO10T                          Номенклатура
+0988           BQ24090DGQ                             MINISO10                           Номенклатура
+1473           BQ24090DGQR                            MINISO10                           Номенклатура
+1187           BQ77910                                BQ77910                            Номенклатура
+0025           BSS138LT1G                             SOT23                              Номенклатура
+1188           BSS138LT1G                             BSS138LT1G                         Номенклатура
+1348           BTA225800B                                                                Номенклатура
+1340           C104K8RACTU                            C104K8RACTU                        Номенклатура
+0580           CAT16J4                                CAT16J4                            Номенклатура
+1189           CAT4002ATDGT3                          CAT4002ATDGT3                      Номенклатура
+0383           CC0805                                 CC0805                             Номенклатура
+0388           CC0805T                                CC0805T                            Номенклатура
+1190           CD4002BM                               CD4002BM                           Номенклатура
+0397           CDRH4D28CLD                            CDRH4D28CLD                        Номенклатура
+1191           CDRH5D28NP220NC                        CDRH5D28NP220NC                    Номенклатура
+1192           CDSOD323T15                            CDSOD323T15                        Номенклатура
+0290           CPC1004N                               CPC1004N                           Номенклатура
+0486           CTYPE                                  CTYPE                              Номенклатура
+1062           DA12.7                                 TR102020C                          Номенклатура
+1349           DB107                                                                     Номенклатура
+1771           DD4243                                                                    Номенклатура
+0665           DD5                                    DM3ASFPEJ2M                        Номенклатура
+0978           DD6                                    DM3ASFPEJ2M                        Номенклатура
+1016           DM3ASFPEJ2                             DM3ASFPEJ2M                        Номенклатура
+0616           DM3ASFPEJ2M                            DM3ASFPEJ2M                        Номенклатура
+0717           DM3ASFPEJ2M                            HEROSE                             Номенклатура
+1193           DRV5053EAQDBZT                         DRV5053EAQDBZT                     Номенклатура
+0407           DS1307                                 SO8                                Номенклатура
+1474           DS1307Z                                SO8                                Номенклатура
+0589           DS1337                                 MINISO8                            Номенклатура
+0593           DS1337U                                MINISO8                            Номенклатура
+1475           DS1337U+                               MINISO8                            Номенклатура
+0365           DS1340U                                MINISO8                            Номенклатура
+1029           DS1340U3.3                             MINISO8                            Номенклатура
+0253           DS1340U33                              MINISO8                            Номенклатура
+1476           DS1340Z33+                             MINISO8                            Номенклатура
+0274           DS1629                                 SO8                                Номенклатура
+1477           DS1629S                                SO8                                Номенклатура
+1031           DS18B20                                MINISO8                            Номенклатура
+1478           DS18B20+                                                                  Номенклатура
+0738           DS18B20U                               MINISO8                            Номенклатура
+1479           DS1921GF5                                                                 Номенклатура
+1480           DS1922TF5#                                                                Номенклатура
+1481           DS2433+                                                                   Номенклатура
+1482           DS2438Z                                                                   Номенклатура
+1483           DS485TN                                                                   Номенклатура
+1484           DS9490B                                                                   Номенклатура
+1046           EFM250                                 SFM1440                            Номенклатура
+0748           EP3C5E14417N                           EQFP144                            Номенклатура
+1485           EP3C5E144С8N                                                              Номенклатура
+1048           EPA                                    KT6                                Номенклатура
+1054           EPG0B304HLN                            EPG0B304HLN                        Номенклатура
+0175           ESDA6V1L                               SOT23                              Номенклатура
+0642           ESDA6V1U1                              SO8                                Номенклатура
+1350           ESDA6V1U1                                                                 Номенклатура
+0544           ESDA6V1W5                              SC705                              Номенклатура
+0594           ESDALC6V1W5                            SC705                              Номенклатура
+0024           EVQQ2P03W                              B2BPHKS                            Номенклатура
+0191           EVQQ2P03W                              EVQQ2P03W                          Номенклатура
+0237           EVQQ2P03W                              EVQQ2                              Номенклатура
+1194           EYSFCNZXXTAIYOYUDEN                    EYSFCNZXXTAIYOYUDEN                Номенклатура
+1195           FDC1004DSCT                            FDC1004DSCT                        Номенклатура
+1196           FDC2112DNTT                            FDC2112DNTT                        Номенклатура
+0664           FDD4243                                TO252                              Номенклатура
+1772           FDN304P                                                                   Номенклатура
+1197           FDS8949                                FDS8949                            Номенклатура
+1773           FDT434P                                                                   Номенклатура
+0974           FM25H20                                W25Q80BVZP                         Номенклатура
+1486           FM25H20DG                              W25Q80B                            Номенклатура
+0334           FPF2124                                SOT235                             Номенклатура
+1487           FPF2124                                                                   Номенклатура
+0752           FQT4N20L                               SOT223                             Номенклатура
+0366           FT232RL                                TSSOP28                            Номенклатура
+0488           GMSG9                                  GMSG9                              Номенклатура
+1047           GND                                    VIAOPENEDMASK                      Номенклатура
+1060           GND                                    SIP6                               Номенклатура
+1392           GRM31CR70J226KE19L22МКФ                                                   Номенклатура
+1198           HDC2010YPA                             HDC2010YPA                         Номенклатура
+1199           HDC2080DMBT                            HDC2080DMBT                        Номенклатура
+0938           HEF4013BT                              SO14                               Номенклатура
+0940           HEF4543BT                              SO16                               Номенклатура
+1087           IDC8R                                  PBD04R                             Номенклатура
+0454           INA139NA                               SOT235                             Номенклатура
+1200           IPD70R900P7SAUMA1                      IPD70R900P7SAUMA1                  Номенклатура
+1201           IPD70R950CEAUMA1                       IPD70R950CEAUMA1                   Номенклатура
+1202           IPD90R1K2C3                            IPD90R1K2C3                        Номенклатура
+1203           IRF3205                                IRF3205                            Номенклатура
+1204           IRF7316TRPBFIR                         IRF7316TRPBFIR                     Номенклатура
+1774           IRF7416                                SO8                                Номенклатура
+0615           IRFBC40S                               D2PAK                              Номенклатура
+1205           IRFBG30                                IRFBG30                            Номенклатура
+0622           IRFRC20                                RFD16N06SM                         Номенклатура
+0628           IRFRC20                                DPAK                               Номенклатура
+1775           IRFRC20                                RFD16N06                           Номенклатура
+0410           IRLL2705                               SOT223                             Номенклатура
+1206           IRLL3303                               IRLL3303                           Номенклатура
+1207           IRLML0040                              IRLML0040                          Номенклатура
+0076           IRLML2502                              SOT23                              Номенклатура
+1776           IRLML2502TR                            SOT23                              Номенклатура
+0192           IRLML6402                              SOT23                              Номенклатура
+0693           IRLML6402                              SOT231                             Номенклатура
+0697           IRLML6402                              SOT23TR                            Номенклатура
+0713           IRLML6402                              IRLML6402                          Номенклатура
+1777           IRLML6402                              SOT2364                            Номенклатура
+0435           IRLR024N                               DPAK                               Номенклатура
+0443           IRLR024N                               RFD16N06SM                         Номенклатура
+1778           IRLR024N                               RFD16N06                           Номенклатура
+1208           IRLR9343PBF                            IRLR9343PBF                        Номенклатура
+0645           IRML2502                               SOT23                              Номенклатура
+0644           IRML6402                               SOT23                              Номенклатура
+1343           JR0715KLYAG                            JR0715KLYAG                        Номенклатура
+1344           JR0730KLYAG                            JR0730KLYAG                        Номенклатура
+1341           JRNP09BN301                            JRNP09BN301                        Номенклатура
+0538           KA3528EC                               BTYPE                              Номенклатура
+1351           KA3528EC                                                                  Номенклатура
+0294           KP2012ID                               CC0805                             Номенклатура
+1352           KP2012ID                               SVETODIO                           Номенклатура
+0148           KPBA3010SURKQBDC                       KPBA3010                           Номенклатура
+0652           KPBA3010SURKQBTOP                      KPBA3010                           Номенклатура
+1209           KPBD3224SURCGKC                        KPBD3224SURCGKC                    Номенклатура
+1353           KPBD3224SURCK                                                             Номенклатура
+1210           KPD3224QBC                             KPD3224QBC                         Номенклатура
+1211           KPD3224SYCK                            KPD3224SYCK                        Номенклатура
+1212           KPD3224ZGC                             KPD3224ZGC                         Номенклатура
+0048           KPTB1612SURKQBDC                       KPTB1612SURKQBDC                   Номенклатура
+0186           KPTB1612SURKQBDC                       KPTB16125SURKQBDC                  Номенклатура
+1354           KPTB1612SURKQBDC                                                          Номенклатура
+1355           KPTR3216QBCD                                                              Номенклатура
+1342           KRX5R6BB106                            KRX5R6BB106                        Номенклатура
+1061           KT2                                    TR102020C                          Номенклатура
+1056           KX38T                                  DT38                               Номенклатура
+0402           KX7                                    KX7                                Номенклатура
+1213           KXD942802                              KXD942802                          Номенклатура
+1214           KXRB52050                              KXRB52050                          Номенклатура
+1356           L115WEGW                                                                  Номенклатура
+1357           L2060                                                                     Номенклатура
+1488           L4940V5                                                                   Номенклатура
+1358           L53GD                                                                     Номенклатура
+1359           L53ID                                                                     Номенклатура
+1215           L6203                                  L6203                              Номенклатура
+0357           L6920DB                                MINISO8                            Номенклатура
+1360           L7104LSRD                                                                 Номенклатура
+1216           L78M05CDT                              L78M05CDT                          Номенклатура
+1217           LDLN025PU30RST                         LDLN025PU30RST                     Номенклатура
+0396           LIS202                                 LIS202                             Номенклатура
+0585           LL4148                                 SOD80M                             Номенклатура
+1218           LM1117IMP3.3                           LM1117IMP3.3                       Номенклатура
+1219           LM1117IMPADJ                           LM1117IMPADJ                       Номенклатура
+1220           LM22673MR                              LM22673MR                          Номенклатура
+0403           LM2574M5.0                             SO147.5                            Номенклатура
+1489           LM2574M5.0                             SO1475                             Номенклатура
+1221           LM2575S12                              LM2575S12                          Номенклатура
+1490           LM2575TADJ                                                                Номенклатура
+1222           LM2576Т5.0                             LM2576Т5.0                         Номенклатура
+1223           LM2623MM                               LM2623MM                           Номенклатура
+1224           LM2664M6                               LM2664M6                           Номенклатура
+1225           LM2673TADJ                             LM2673TADJ                         Номенклатура
+0427           LM2700MTADJ                            QSOP14                             Номенклатура
+1491           LM2700MTADJ                            QSOP142                            Номенклатура
+1226           LM2731YMF                              LM2731YMF                          Номенклатура
+0989           LM2733                                 SOT235                             Номенклатура
+0376           LM2733XMF                              SOT235                             Номенклатура
+0200           LM2733Y                                SOT235                             Номенклатура
+1492           LM2733YMF                              SOT235                             Номенклатура
+1227           LM2735XMF                              LM2735XMF                          Номенклатура
+0597           LM2766M6                               SOT236                             Номенклатура
+0598           LM27761DSG                             WSON8                              Номенклатура
+0990           LM27761DSG                             WSON                               Номенклатура
+1493           LM2788MM1.8                                                               Номенклатура
+0971           LM27971.8                              MINISO10                           Номенклатура
+1494           LM2797MM1.8                            MINISO10                           Номенклатура
+1495           LM29803.8                              SOT235                             Номенклатура
+1228           LM331N                                 LM331N                             Номенклатура
+0289           LM334                                  SO8                                Номенклатура
+0993           LM334M                                 SO8                                Номенклатура
+0416           LM339                                  SO14                               Номенклатура
+1496           LM339AM                                AO14                               Номенклатура
+1229           LM3406MH                               LM3406MH                           Номенклатура
+1230           LM3410XMFE                             LM3410XMFE                         Номенклатура
+1231           LM3671MFMF1.8                          LM3671MFMF1.8                      Номенклатура
+0746           LM3674MF1.2                            SOT235                             Номенклатура
+1497           LM3674MF1.2                                                               Номенклатура
+0923           LM3674MFADJ                            SOT235                             Номенклатура
+0417           LM385M32.5                             SOT23                              Номенклатура
+1498           LM385Z2.5                                                                 Номенклатура
+1499           LM3940IMP3.3                                                              Номенклатура
+0714           LM4120IM52.5                           SOT235                             Номенклатура
+0536           LM41211.2                              SOT235                             Номенклатура
+1232           LM4871M                                LM4871M                            Номенклатура
+1233           LM7705MME                              LM7705MME                          Номенклатура
+0636           LM8094.63                              SOT23                              Номенклатура
+1027           LM809M32.63                            SOT23                              Номенклатура
+0362           LM809M32.93                            SOT23                              Номенклатура
+1500           LM809M34.63                                                               Номенклатура
+0247           LM828                                  SOT235                             Номенклатура
+1501           LM828M5                                SOT235                             Номенклатура
+1234           LM8365BALMF2.7L                        LM8365BALMF2.7L                    Номенклатура
+0281           LM8365BALMF22                          SOT235                             Номенклатура
+1235           LM95071CIMF                            LM95071CIMF                        Номенклатура
+1236           LMC555CMM                              LMC555CMM                          Номенклатура
+0452           LMV321IDCK                             SC705                              Номенклатура
+1502           LMV321IDCKR                            SC70532                            Номенклатура
+0744           LMV7219                                SOT235                             Номенклатура
+1503           LMV7219M5                                                                 Номенклатура
+0618           LMV7235                                SOT235                             Номенклатура
+1504           LMV7235M5                              SOT235                             Номенклатура
+1505           LMX9838SB                                                                 Номенклатура
+0753           LOCATIONX                              LAYER                              Номенклатура
+1237           LP295150DR                             LP295150DR                         Номенклатура
+1238           LP29803.8                              LP29803.8                          Номенклатура
+0269           LP2985IM54.0                           SOT235                             Номенклатура
+1239           LP3406MH                               LP3406MH                           Номенклатура
+0740           LP3470IM52.63                          SOT235                             Номенклатура
+0583           LP3470M52.63                           SOT235                             Номенклатура
+0514           LP39853.0                              SOT235                             Номенклатура
+0955           LP39855.0                              SOT235                             Номенклатура
+1506           LP3985IM3.2                                                               Номенклатура
+0669           LP3985IM52.5                           SOT2351                            Номенклатура
+0704           LP3985IM52.5                           LP3985IM52.5                       Номенклатура
+1507           LP3985IM52.5                                                              Номенклатура
+0246           LP3985IM53.0                           SOT235                             Номенклатура
+0668           LP3985IM53.0                           SOT2351                            Номенклатура
+0701           LP3985IM53.0                           LP3985IM53.0                       Номенклатура
+0245           LP3985IM53.3                           SOT235                             Номенклатура
+0199           LP3985IM55.0                           SOT235                             Номенклатура
+0685           LP3985IM55.0                           SOT2351                            Номенклатура
+0702           LP3985IM55.0                           LP3985IM55.0                       Номенклатура
+1508           LP5907MFX3.0                                                              Номенклатура
+0032           LP603449                               LP603449                           Номенклатура
+1072           LP705085                               B2BPHKS                            Номенклатура
+1240           LPC2106FBD4B                           LPC2106FBD4B                       Номенклатура
+1241           LPC4370FET100E                         LPC4370FET100E                     Номенклатура
+0395           LQFP100                                LQFP100                            Номенклатура
+1242           LQH32MN220J23L                         LQH32MN220J23L                     Номенклатура
+1243           LQM2HPN1R0MG0L                         LQM2HPN1R0MG0L                     Номенклатура
+1244           LT6210IS6                              LT6210IS6                          Номенклатура
+1245           LTC1403AIMSE                           LTC1403AIMSE                       Номенклатура
+0478           LTC1968                                MINISO8                            Номенклатура
+1509           LTC1968CMS8                            MINISO8                            Номенклатура
+1246           LTC6905CS580                           LTC6905CS580                       Номенклатура
+0184           M24256BWMN                             SO8                                Номенклатура
+1510           M24256BWMN6P                           SO8                                Номенклатура
+0312           M24512                                 SO8                                Номенклатура
+0344           M24512DRMN                             SO8                                Номенклатура
+0718           M24M01                                 SO8                                Номенклатура
+0147           M24M01RMN6                             SO8                                Номенклатура
+0282           M24M01RMN6TP                           SO8                                Номенклатура
+0326           M25P64                                 SO167.5                            Номенклатура
+1511           M25P64VMF6TP                           SO16                               Номенклатура
+1037           M41T00                                 SO8M                               Номенклатура
+0265           M41T00M6F                              SO8                                Номенклатура
+0515           M41T00M6F                              SO8M                               Номенклатура
+1247           MAX1595                                MAX1595                            Номенклатура
+1248           MAX1606EUA                             MAX1606EUA                         Номенклатура
+1249           MAX1640EEE                             MAX1640EEE                         Номенклатура
+1512           MAX1724EZK33                                                              Номенклатура
+1513           MAX1724EZK50                                                              Номенклатура
+0747           MAX1724EZK50TBOTTOM                    SOT235                             Номенклатура
+1250           MAX1796                                MAX1796                            Номенклатура
+0657           MAX1853EXT                             SC706                              Номенклатура
+1514           MAX1853EXTT                            SC706                              Номенклатура
+0658           MAX1898                                MINISO10                           Номенклатура
+1515           MAX1898EUB42+                                                             Номенклатура
+1251           MAX31855KASA                           MAX31855KASA                       Номенклатура
+1516           MAX4516CSA                                                                Номенклатура
+0377           MAX7400                                SO8                                Номенклатура
+1059           MAX7400CSA                             SO8                                Номенклатура
+1517           MAX7400CSA+                            SO8                                Номенклатура
+1518           MAX7491CEE                                                                Номенклатура
+1252           MAX809STRG                             MAX809STRG                         Номенклатура
+1253           MAX999EUK                              MAX999EUK                          Номенклатура
+0381           MBR0520                                SOD80M                             Номенклатура
+0678           MBR0520                                SOD1231                            Номенклатура
+0679           MBR0520                                SOD1232                            Номенклатура
+0692           MBR0520                                SOD1233                            Номенклатура
+0696           MBR0520                                D0805                              Номенклатура
+0711           MBR0520                                MBR0520                            Номенклатура
+0977           MBR0540                                SOD80M                             Номенклатура
+1015           MBR0540                                MBR0520                            Номенклатура
+1361           MBR0540T10.5A                          SOD8OM                             Номенклатура
+0401           MBRS140                                MBRS140                            Номенклатура
+0305           MBRS140T3                              MLL41                              Номенклатура
+1014           MBRS140T3                              MBRS140                            Номенклатура
+1362           MBRS140T31A                            SOD106                             Номенклатура
+0497           MBRS240T3                              MLL41                              Номенклатура
+1254           MC14023BDG                             MC14023BDG                         Номенклатура
+1255           MC14025BDG                             MC14025BDG                         Номенклатура
+1256           MC74AC244DWG                           MC74AC244DWG                       Номенклатура
+1519           MCP111T240ETT                          SOT23                              Номенклатура
+0730           MCP111T240ETTTOP                       SOT23                              Номенклатура
+0268           MCP112T240ETT                          SOT23                              Номенклатура
+1520           MCP112T240ETT                                                             Номенклатура
+1257           MCP125233X50I                          MCP125233X50I                      Номенклатура
+0013           MCP16311E                              MINISO8                            Номенклатура
+1521           MCP16311EMS                            MINISO8                            Номенклатура
+0229           MCP1640B                               SOT236                             Номенклатура
+1522           MCP1640BTICHY                          SOT236                             Номенклатура
+1034           MCP1640CT                              SOT236                             Номенклатура
+1258           MCP1661TE                              MCP1661TE                          Номенклатура
+0264           MCP1700T3302E                          SOT23                              Номенклатура
+1523           MCP1700T3302ETT                        SOT23                              Номенклатура
+1524           MCP1701AT3302ICB                       SOT23                              Номенклатура
+0719           MCP1701T3002                           SOT23                              Номенклатура
+0723           MCP1701T3302                           SOT23                              Номенклатура
+1259           MCP1703AT3002E                         MCP1703AT3002E                     Номенклатура
+1525           MCP3421A0T                             SOT236                             Номенклатура
+0922           MCP3421AOTEOTBOTTOM                    SOT236                             Номенклатура
+0603           MCP401750                              SC706                              Номенклатура
+1526           MCP4017T503ELT                         SC706                              Номенклатура
+1527           MCP6041ISN                                                                Номенклатура
+1260           MCP6042I                               MCP6042I                           Номенклатура
+0288           MCP607                                 SO8                                Номенклатура
+1528           MCP607ISN                              SO8                                Номенклатура
+0361           MCP616                                 SO8                                Номенклатура
+1529           MCP616ISN                              SO8                                Номенклатура
+1261           MCP6541TI                              MCP6541TI                          Номенклатура
+1262           MCP6561TE                              MCP6561TE                          Номенклатура
+0465           MCP73812                               SOT235                             Номенклатура
+1530           MCP73812T420IOT                        SOT235                             Номенклатура
+1263           MIC2288YDS                             MIC2288YDS                         Номенклатура
+1264           MIC2550AYTS                            MIC2550AYTS                        Номенклатура
+0608           MIC4416BM4                             SOT143                             Номенклатура
+1531           MIC4416YM4                             SOT235                             Номенклатура
+1265           MIC4422AYM                             MIC4422AYM                         Номенклатура
+1266           MIC4422YN                              MIC4422YN                          Номенклатура
+0392           MINISO10                               MINISO10                           Номенклатура
+0391           MINISO8                                MINISO8                            Номенклатура
+0319           MINIUSB                                MINIUSB                            Номенклатура
+1035           MINIUSB                                MINIUSB2                           Номенклатура
+0342           MINIUSB54819                           MINIUSB54819                       Номенклатура
+0681           MINIUSB54819                           MINIUSB2C                          Номенклатура
+0491           MLL41                                  MLL41                              Номенклатура
+0122           MLPFWB5501E3                           MLPFWB5501E3                       Номенклатура
+1267           MLZ2012A1R0WT000                       MLZ2012A1R0WT000                   Номенклатура
+1268           MMA3202                                MMA3202                            Номенклатура
+1269           MMA8451QT                              MMA8451QT                          Номенклатура
+0075           MMBF5484                               SOT23                              Номенклатура
+1270           MMBF5485                               MMBF5485                           Номенклатура
+1532           MOC3083                                                                   Номенклатура
+0421           MOCD217R2M                             SO8                                Номенклатура
+1533           MOCD217R2M                             SOIC8                              Номенклатура
+0493           MOL522071085M                          MOL522071085M                      Номенклатура
+0415           MOL522071685                           MOL522071685M                      Номенклатура
+1085           MOL522710879                           MOL522710879                       Номенклатура
+0578           MOL522711079                           MOL522711079                       Номенклатура
+0935           MOL522711079                           MOL522711079M                      Номенклатура
+0411           MOL522711679                           MOL522071685M                      Номенклатура
+0936           MOL522711679                           MOL522711679M                      Номенклатура
+0490           MOL522711679M                          MOL522711679M                      Номенклатура
+0623           MOL527460870                           MOL527460870                       Номенклатура
+0629           MOL527460870                           MOL527460870M                      Номенклатура
+0078           MOLEX548190572                         MINIUSB54819                       Номенклатура
+0224           MOLEX548190572                         MINIUSB2C                          Номенклатура
+1086           MOLEX548190572                         MINIUSB                            Номенклатура
+1534           MSP430F1121AIDW                                                           Номенклатура
+1535           MSP430F123IDW                                                             Номенклатура
+0364           MSP430F149                             TQFP6410                           Номенклатура
+1536           MSP430F149IPM                          TQFP6410                           Номенклатура
+1271           MSP430F2003                            MSP430F2003                        Номенклатура
+1272           MSP430F2013                            MSP430F2013                        Номенклатура
+0633           MSP430F2121AIPWBOTTOM                  QSOP20                             Номенклатура
+0584           MSP430F2121AIPWTOP                     QSOP20                             Номенклатура
+1537           MSP430F2121IPW                                                            Номенклатура
+0720           MSP430F2418                            TQFP6410                           Номенклатура
+1538           MSP430F2418TPM                         TQFP6410                           Номенклатура
+0537           MSP430F247T                            TQFP6410                           Номенклатура
+1539           MSP430F247T                                                               Номенклатура
+1028           MSP430F249                             TQFP6410                           Номенклатура
+1540           MSP430F249TPM                                                             Номенклатура
+1273           MSP430F2618TPMR                        MSP430F2618TPMR                    Номенклатура
+1274           MSP430G2221                            MSP430G2221                        Номенклатура
+1275           MT48LC32M16A2P                         MT48LC32M16A2P                     Номенклатура
+1276           MT48LC4M16A2P                          MT48LC4M16A2P                      Номенклатура
+1038           MX25L6435E                             MO8                                Номенклатура
+0311           MX25L6435EM2I                          SOP8                               Номенклатура
+1032           MX25L6435EM2I                          SO8                                Номенклатура
+1042           MX25L6435EM2I                          MO8                                Номенклатура
+0979           MX25L6435EZNI                          W25Q80BVZP                         Номенклатура
+1277           NC7SZ74K8X                             NC7SZ74K8X                         Номенклатура
+1278           NC7WZ16P6X                             NC7WZ16P6X                         Номенклатура
+1541           NCP1117ST33T3                                                             Номенклатура
+1542           NCP1400ASN33                                                              Номенклатура
+1543           NCP1400ASN50                           SOT235                             Номенклатура
+1279           NCP3985SN33T1G                         NCP3985SN33T1G                     Номенклатура
+0209           NL45321000.0                           NL4532                             Номенклатура
+0108           NX201632M                              KX7                                Номенклатура
+0121           NX3215SA                               NX2012                             Номенклатура
+1280           OP2177                                 OP2177                             Номенклатура
+1544           OP282GS                                                                   Номенклатура
+1545           OP97FS                                 SO8                                Номенклатура
+1281           OPA170AIDBV                            OPA170AIDBV                        Номенклатура
+1282           OPA2334AIDGS                           OPA2334AIDGS                       Номенклатура
+1546           OPA2335AID                                                                Номенклатура
+1283           OPA2354AIDGK                           OPA2354AIDGK                       Номенклатура
+0358           OPA2376                                SO8                                Номенклатура
+0972           OPA2376AD                              SO8                                Номенклатура
+0948           OPA2376AID                             SO8                                Номенклатура
+0994           OPA2376AIDBVR                          SO8                                Номенклатура
+0144           OPA2376AIDGK                           MINISO8                            Номенклатура
+0183           OPA2376AIDGK                           MSOP8                              Номенклатура
+1547           OPA244NA                                                                  Номенклатура
+1284           OPA333AID                              OPA333AID                          Номенклатура
+0954           OPA376                                 SOT235                             Номенклатура
+0350           OPA376AIDB                             SOT235                             Номенклатура
+0359           OPA376AIDBVR                           SOT235                             Номенклатура
+1023           OPA376AIDBVT                           SOT235                             Номенклатура
+1548           OPA376AIDCKT                                                              Номенклатура
+0446           OPA376DBV                              SOT235                             Номенклатура
+0671           OPA376DBV                              SOT2351                            Номенклатура
+0706           OPA376DBV                              OPA376DBV                          Номенклатура
+0203           OPA376DCK                              SC705                              Номенклатура
+0308           PAM2804AAB010                          SOT235                             Номенклатура
+0498           PAM2841                                MINISO8T                           Номенклатура
+0503           PAM2841                                MINISO8                            Номенклатура
+1549           PAM2841SR                              MINISO8                            Номенклатура
+1285           PCA8565TS                              PCA8565TS                          Номенклатура
+0932           PCA9554TS                              SSOP20                             Номенклатура
+1550           PCF8574T                                                                  Номенклатура
+0639           PCF8583                                SO87.5                             Номенклатура
+1551           PCF8583T                                                                  Номенклатура
+1552           PCM1807PW                                                                 Номенклатура
+1286           PDIUSBD12                              PDIUSBD12                          Номенклатура
+1553           PDIUSBD12PWT3                                                             Номенклатура
+0949           PGA113                                 MINISO10                           Номенклатура
+1554           PGA113AIDGST                           MINISO10                           Номенклатура
+0146           PGA113DGS                              MINISO10                           Номенклатура
+1081           PH1281600T066L03Q                      PH128160                           Номенклатура
+0223           PHR2                                   B2BPHKS                            Номенклатура
+0176           PROG                                   7SIP50PROG                         Номенклатура
+0522           PS56579014                             MINIUSB548191                      Номенклатура
+0966           PS56579014                             MINIUSB                            Номенклатура
+0387           RC0805                                 RC0805                             Номенклатура
+0398           RC0805NT                               RC0805NT                           Номенклатура
+0063           REF1                                   REF2                               Номенклатура
+0098           REF1                                   REF1                               Номенклатура
+1041           REF1                                   LABEL                              Номенклатура
+1287           REF192GS                               REF192GS                           Номенклатура
+0064           REF2                                   REF2                               Номенклатура
+0677           REF2                                   LABEL                              Номенклатура
+1555           REF3012AIDBZR                                                             Номенклатура
+1019           REF3025                                SOT23                              Номенклатура
+0145           REF3025AID                             SOT23                              Номенклатура
+1556           REF3025AIDBZ                           SOT23                              Номенклатура
+1288           REF3125AIDBZ                           REF3125AIDBZ                       Номенклатура
+1289           REF3130AIDBZT                          REF3130AIDBZT                      Номенклатура
+1290           RFD21733                               RFD21733                           Номенклатура
+1291           RFD21735                               RFD21735                           Номенклатура
+1292           RFM22B433S                             RFM22B433S                         Номенклатура
+0046           RN4871VRM128                           RN4871                             Номенклатура
+1090           RT424012                               RT424012                           Номенклатура
+0259           S1A                                    MLL41                              Номенклатура
+0399           S1A                                    S1A                                Номенклатура
+1293           S202S02F                               S202S02F                           Номенклатура
+1294           S8254AAVFTTBG                          S8254AAVFTTBG                      Номенклатура
+0489           SC706                                  SC706                              Номенклатура
+0346           SFM1241                                SFM1241                            Номенклатура
+0345           SFM1440                                SFM1440                            Номенклатура
+1080           SFM1440                                SFM1240                            Номенклатура
+0352           SFM1441                                SFM1441                            Номенклатура
+0030           SFM1740SFM1443                         SFM1740                            Номенклатура
+1295           SG77                                   SG77                               Номенклатура
+1296           SGM20363OYN56                          SGM20363OYN56                      Номенклатура
+1297           SGM6603ADJYN6                          SGM6603ADJYN6                      Номенклатура
+1298           SGM7SZ08YN56                           SGM7SZ08YN56                       Номенклатура
+0545           SI4214                                 SO8                                Номенклатура
+1779           SI4214DDY                                                                 Номенклатура
+1299           SM351LT                                SM351LT                            Номенклатура
+0635           SM6T33CA                               DO214                              Номенклатура
+1363           SM6T33CA                               SOD106                             Номенклатура
+0643           SM6T6V8CA                              DO214                              Номенклатура
+1364           SM6T6V8CA                              SOD106                             Номенклатура
+1365           SMBJ6.5A                               SOD106                             Номенклатура
+0258           SMBJ6.5CA                              SMBK                               Номенклатура
+0475           SMBJ6.5CA                              SMB                                Номенклатура
+0519           SMBJ6.5CA                              SMBJ6.5                            Номенклатура
+0577           SMBJ6.5CA                              SOD106                             Номенклатура
+0492           SMBK                                   SMBK                               Номенклатура
+0386           SMW5.7                                 SMW5.7                             Номенклатура
+0272           SN65C3221PWR                           QSOP16                             Номенклатура
+0931           SN74AHCT1G02                           SOT235                             Номенклатура
+1300           SN74HC595DWR                           SN74HC595DWR                       Номенклатура
+0726           SN74LV4051AD                           SO16                               Номенклатура
+1557           SN74LVC1G86DBVR                        SOT235                             Номенклатура
+0389           SO8                                    SO8                                Номенклатура
+0400           SOT23                                  SOT23                              Номенклатура
+0390           SOT235                                 SOT235                             Номенклатура
+0394           SOT236                                 SOT236                             Номенклатура
+1558           SPBT3.0DP2.                                                               Номенклатура
+1301           SS451A@HONEYW                          SS451A@HONEYW                      Номенклатура
+1559           ST3232BD                                                                  Номенклатура
+0232           ST3485                                 SO8                                Номенклатура
+1560           ST3485EBDR                                                                Номенклатура
+1302           STB18NM60N                             STB18NM60N                         Номенклатура
+1780           STB6N62K3                                                                 Номенклатура
+0513           STC4054                                SOT235                             Номенклатура
+0244           STC4054GP                              SOT235                             Номенклатура
+0041           STC4054GR                              SOT235                             Номенклатура
+0667           STC4054GR                              SOT2351                            Номенклатура
+0700           STC4054GR                              STC4054GR                          Номенклатура
+1307           STM32F072CBU6                          STM32F072CBU6                      Номенклатура
+0011           STM32F401CBU6                          UFQFPN48                           Номенклатура
+0651           STM32F401CBU6                          STM32F401CCU6                      Номенклатура
+0455           STM32F401CCU6                          UFQFPN48                           Номенклатура
+0710           STM32F401CCU6                          STM32F401CCU6                      Номенклатура
+1303           STM32F401RCT6                          STM32F401RCT6                      Номенклатура
+0310           STM32F401VCT6                          LQFP10014                          Номенклатура
+0956           STM32F401VCT6                          LQFP100                            Номенклатура
+1561           STM32F401VCT6ST                        LQFP1001                           Номенклатура
+0581           STM32F401VET6                          LQFP10014                          Номенклатура
+1562           STM32F401VET6                          LQFP1001                           Номенклатура
+1304           STM32F405VGT6                          STM32F405VGT6                      Номенклатура
+0499           STM32F407VET6                          LQFP10014                          Номенклатура
+0995           STM32F407VET6                          LQFP100                            Номенклатура
+1305           STM32F429VIT6                          STM32F429VIT6                      Номенклатура
+0508           STM32F446VE                            LQFP10014                          Номенклатура
+0505           STM32F446VET6                          LQFP10014                          Номенклатура
+1563           STM32F446VET6                          LQFP1001                           Номенклатура
+1306           STM32L052K8T6                          STM32L052K8T6                      Номенклатура
+1088           STM32L052K8U                           QFPN32                             Номенклатура
+0230           STM32L052K8U6                          QFPN32                             Номенклатура
+1564           STM32L052K8U6                                                             Номенклатура
+1308           STM32L433RCI6                          STM32L433RCI6                      Номенклатура
+0119           STM32WB55CCU                           UFQFPN48                           Номенклатура
+0045           STM8L051F3                             QSOP20                             Номенклатура
+1309           STM8L051F3P6                           STM8L051F3P6                       Номенклатура
+1310           STM8L151F3P6                           STM8L151F3P6                       Номенклатура
+1829           SUNTAN                                 TS02002J224KSB0F0R                 Номенклатура
+1311           SX1276MLTRT                            SX1276MLTRT                        Номенклатура
+1312           TC51N2202                              TC51N2202                          Номенклатура
+1313           TC6320TGG                              TC6320TGG                          Номенклатура
+1565           TCA0372DP2G                                                               Номенклатура
+0613           TG04RF01NS8LF                          TG04RF01NS8LF                      Номенклатура
+1314           THS4521ID                              THS4521ID                          Номенклатура
+1315           THS4521IDGK                            THS4521IDGK                        Номенклатура
+0601           THS4531ID                              SO8                                Номенклатура
+0420           TL061                                  SO8                                Номенклатура
+0525           TL061CD                                SO8                                Номенклатура
+0582           TL062                                  SO8                                Номенклатура
+0040           TL062CD                                SO8                                Номенклатура
+1566           TLC2252CD                                                                 Номенклатура
+0043           TLC2933IPW                             QSOP14                             Номенклатура
+1317           TLC2933А                               TLC2933А                           Номенклатура
+1316           TLE52052G                              TLE52052G                          Номенклатура
+0453           TLE9201SG                              TLE9201                            Номенклатура
+1567           TLE9201SG                              DSO1217                            Номенклатура
+1568           TLV2721IDBVT                                                              Номенклатура
+0468           TLV3201                                SOT235                             Номенклатура
+0624           TLV3201AIDBV                           SOT235                             Номенклатура
+1569           TLV3201AIDBVT                          SOT235                             Номенклатура
+1318           TLV3202AIDGK                           TLV3202AIDGK                       Номенклатура
+1319           TLV61220DBV                            TLV61220DBV                        Номенклатура
+0201           TLV70025DCK                            SC705                              Номенклатура
+1570           TLV70025DCK                                                               Номенклатура
+0606           TLV70025DDC                            SOT235                             Номенклатура
+1571           TLV70025DDCR                           SOT235                             Номенклатура
+0139           TLV70030DCK                            SC705                              Номенклатура
+0182           TLV70030DCKR                           SC705                              Номенклатура
+1572           TLV70030DCKR                                                              Номенклатура
+0027           TLV70030DDC                            SOT235                             Номенклатура
+1573           TLV70030DDCT                           SOT2353                            Номенклатура
+0140           TLV70033DCK                            SC705                              Номенклатура
+0736           TLV70033DCK                            SOT235                             Номенклатура
+1574           TLV70033DCK                                                               Номенклатура
+0262           TLV70033DDC                            SOT235                             Номенклатура
+1575           TLV70033DDCR                           SOT2353                            Номенклатура
+1320           TMP007AIYZFT                           TMP007AIYZFT                       Номенклатура
+1321           TMP102AIDRL                            TMP102AIDRL                        Номенклатура
+1073           TO28240320A6TMN019                     XF2M436151A                        Номенклатура
+0689           TOP                                    UFQFPN48WIDE1STM32F401CCU6         Номенклатура
+1576           TPS2032D                                                                  Номенклатура
+0325           TPS2069C                               SOT235                             Номенклатура
+1577           TPS2069CDBV                                                               Номенклатура
+0028           TPS22810DBV                            SOT236                             Номенклатура
+1322           TPS22810DBV                            TPS22810DBV                        Номенклатура
+1323           TPS22918DBV                            TPS22918DBV                        Номенклатура
+1578           TPS27081ADDC                           SOT236                             Номенклатура
+0605           TPS27081ADDCR                          SOT236                             Номенклатура
+1324           TPS3847085DBV                          TPS3847085DBV                      Номенклатура
+1325           TPS55340PWP                            TPS55340PWP                        Номенклатура
+1326           TPS60151DRV                            TPS60151DRV                        Номенклатура
+0947           TPS60401                               SOT235                             Номенклатура
+1579           TPS60401DBV                                                               Номенклатура
+0263           TPS60403DBV                            SOT235                             Номенклатура
+1580           TPS60403DBVR                           SOT235                             Номенклатура
+1327           TPS61040DBVR                           TPS61040DBVR                       Номенклатура
+0698           TPS61041                               SOT235                             Номенклатура
+1581           TPS61041DBV                            SOT235                             Номенклатура
+0631           TPS61070                               SOT236                             Номенклатура
+1582           TPS61070DDCR                                                              Номенклатура
+1583           TPS61073DDCR                                                              Номенклатура
+1584           TPS61130PW                                                                Номенклатура
+1328           TPS61222DCK                            TPS61222DCK                        Номенклатура
+1329           TPS61240DRV                            TPS61240DRV                        Номенклатура
+1585           TPS62046DBV                            MINISO10T                          Номенклатура
+0969           TPS62046DGQ                            MINISO10T                          Номенклатура
+0586           TPS62200                               SOT235                             Номенклатура
+1586           TPS62200DBVT                                                              Номенклатура
+0980           TPS62202                               SOT235                             Номенклатура
+1587           TPS62202DBV                            SOT235                             Номенклатура
+0743           TPS62205                               SOT235                             Номенклатура
+1588           TPS62205DBVT                                                              Номенклатура
+0466           TPS63000                               TPS63000                           Номенклатура
+1589           TPS63000DRCT                           QFM10                              Номенклатура
+1330           TPS63020DSJT                           TPS63020DSJT                       Номенклатура
+0451           TPS71530DCKR                           SC705                              Номенклатура
+1590           TPS71530DCKR                           SC70571                            Номенклатура
+0620           TPS72325DBV                            SOT235                             Номенклатура
+0487           TQFP6410                               TQFP6410                           Номенклатура
+1394           TS02002J224KSB0F0R                                                        Номенклатура
+1591           TS27M4CD                               SO14TS2                            Номенклатура
+0524           TS27M4N                                SO14                               Номенклатура
+0534           TS3A4751                               QSOP14                             Номенклатура
+1592           TS3A4751PWR                                                               Номенклатура
+0532           TS3A5018                               QSOP16                             Номенклатура
+1593           TS3A5018PW                                                                Номенклатура
+1331           TS5A23166DCU                           TS5A23166DCU                       Номенклатура
+0725           TS5A3159                               SOT236                             Номенклатура
+1594           TS5A3159DBVR                                                              Номенклатура
+1332           TS5A3160DBV                            TS5A3160DBV                        Номенклатура
+1333           TS5A3160DCK                            TS5A3160DCK                        Номенклатура
+0047           TS5A3166DBVR                           SOT235                             Номенклатура
+0202           TS5A3166DCK                            SC705                              Номенклатура
+0142           TS5A3359DCU                            US8                                Номенклатура
+0324           TS7001IM8T                             MINISO8                            Номенклатура
+1595           TS7001IM8T                                                                Номенклатура
+0107           TSA1PS130                              TSA4PV130                          Номенклатура
+0066           TSA4PV130                              TSA4PV130                          Номенклатура
+0579           TSC2046EIPWR                           QSOP16                             Номенклатура
+0174           TSSTD26EA                              TSSTD26EA                          Номенклатура
+0219           TSSTD26EA                              TSSTD26EA1                         Номенклатура
+0521           TYCO                                   TYCO                               Номенклатура
+0320           TYCO184953                             MOL52271                           Номенклатура
+0343           TYCO1849530                            MOL522711079M                      Номенклатура
+0354           TYCO1849530                            TYCO1849530                        Номенклатура
+0464           TYCO1849530                            MOL522071085                       Номенклатура
+0502           TYCO1849530                            MOL522071085M                      Номенклатура
+0504           TYCO1849530                            TYCO1849530M                       Номенклатура
+0967           TYCO1849530                            MOL522711079                       Номенклатура
+0382           TYPE                                   PATTERNNAME                        Номенклатура
+0393           UNIVERSAL1                             UNIVERSAL1                         Номенклатура
+0614           US1M                                   MLL41                              Номенклатура
+0751           US1M                                   DO214                              Номенклатура
+0118           USBLC62SC6                             SOT236                             Номенклатура
+0680           USBLC62SC6                             SOT2361                            Номенклатура
+0712           USBLC62SC6                             ATINY10                            Номенклатура
+0239           VALUE                                  TYPE                               Номенклатура
+0444           VALUE                                  PATTERNNAME                        Номенклатура
+0509           VALUE                                  PACKAGE                            Номенклатура
+0942           VALUE                                  RC0805                             Номенклатура
+0982           VALUE                                  DM3ASFPEJ2M                        Номенклатура
+0238           W210504PS                              W210504PS                          Номенклатура
+1052           W210504PS                              8DIP79                             Номенклатура
+1334           W25Q80BVZPIG                           W25Q80BVZPIG                       Номенклатура
+1335           WT41AAI4                               WT41AAI4                           Номенклатура
+1781           X7R0.1UF                               С0402                              Номенклатура
+1076           XF2M20151A                             XF2M20151A                         Номенклатура
+0010           XF2M24151A                             XF2M24151A2                        Номенклатура
+0461           XF2M24151A                             XF2M24151A                         Номенклатура
+1053           XF2M50151A                             XF2M50151A                         Номенклатура
+1336           XR18910IL66                            XR18910IL66                        Номенклатура
+1337           XZMDKCBD56W                            XZMDKCBD56W                        Номенклатура
+1338           ZLLS350TA                              ZLLS350TA                          Номенклатура
+1366           ZLLS350TA                                                                 Номенклатура
+1339           ZTB1000J                               ZTB1000J                           Номенклатура
+1835           ВИБРАНTFT                              ТИПDECAS47МКФ6.3В.7.34.31.9ММ.20%  Номенклатура
+1596           КР1171СП42                                                                Номенклатура
+1597           КР572ПА1А                                                                 Номенклатура
+1598           КР572ПВ5А                                                                 Номенклатура
+1830           ТАНТАЛТИПА10UF10V                      ATYPE                              Номенклатура
+1831           ТАНТАЛТИПА22UF6.3V                     ATYPE                              Номенклатура
+1832           ТАНТАЛТИПА47UF6.3V                     ATYPE                              Номенклатура
+1834           ТИПDECAS100МКФ                         DTYPE                              Номенклатура
+1836           ТИПСT491C107K006AT                     CTYPE                              Номенклатура
+1837           ТИПСT491C226K016ATЧИПТАНТ.16В22МКФ10%  CTYPE                              Номенклатура
+1838           ТИПСT491C476K006AT                     CTYPE                              

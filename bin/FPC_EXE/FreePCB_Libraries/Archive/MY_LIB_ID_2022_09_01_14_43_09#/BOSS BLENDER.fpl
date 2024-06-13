@@ -1,0 +1,195 @@
+name: "S-Panel"
+author: "BOSS BLENDER"
+description: "none"
+units: NM
+sel_rect: -19700000 -4700000 19700000 5000000
+ref_text: 0 -17800000 4200000 0 254000
+value_text: 0 -17960000 -2500000 0 254000
+centroid: 0 0 0 0
+outline_polyline: 150000 -13700000 1500000 1 1 4
+next_corner: -15100000 0 0
+next_corner: -13700000 -1500000 0
+close_polyline: 0
+outline_polyline: 150000 3700000 1500000 1 1 4
+next_corner: 6700000 0 0
+next_corner: 3700000 -1500000 0
+close_polyline: 0
+outline_polyline: 800000 -15000000 3600000 1 0 15
+next_corner: -18600000 0 2
+next_corner: -15000000 -3600000 2
+next_corner: -11400000 0 2
+close_polyline: 2
+outline_polyline: 800000 -15000000 2600000 1 0 15
+next_corner: -17600000 0 2
+next_corner: -15000000 -2600000 2
+next_corner: -12400000 0 2
+close_polyline: 2
+outline_polyline: 800000 -15000000 1600000 1 1 15
+next_corner: -16600000 0 2
+next_corner: -15000000 -1600000 2
+next_corner: -13400000 0 2
+close_polyline: 2
+outline_polyline: 800000 -5000000 1599790 1 1 15
+next_corner: -6600000 -210 2
+next_corner: -5000000 -1600210 2
+next_corner: -3400000 -210 2
+close_polyline: 2
+outline_polyline: 800000 -5000000 2599790 1 0 15
+next_corner: -7600000 -210 2
+next_corner: -5000000 -2600210 2
+next_corner: -2400000 -210 2
+close_polyline: 2
+outline_polyline: 800000 -5000000 3599790 1 0 15
+next_corner: -8600000 -210 2
+next_corner: -5000000 -3600210 2
+next_corner: -1400000 -210 2
+close_polyline: 2
+outline_polyline: 800000 5000000 3599460 1 0 15
+next_corner: 1400000 -540 2
+next_corner: 5000000 -3600540 2
+next_corner: 8600000 -540 2
+close_polyline: 2
+outline_polyline: 800000 5000000 2599460 1 0 15
+next_corner: 2400000 -540 2
+next_corner: 5000000 -2600540 2
+next_corner: 7600000 -540 2
+close_polyline: 2
+outline_polyline: 800000 5000000 1599460 1 1 15
+next_corner: 3400000 -540 2
+next_corner: 5000000 -1600540 2
+next_corner: 6600000 -540 2
+close_polyline: 2
+outline_polyline: 800000 15000000 1599770 1 1 15
+next_corner: 13400000 -240 2
+next_corner: 15000000 -1600240 2
+next_corner: 16600000 -240 2
+close_polyline: 2
+outline_polyline: 800000 15000000 2599770 1 0 15
+next_corner: 12400000 -240 2
+next_corner: 15000000 -2600240 2
+next_corner: 17600000 -240 2
+close_polyline: 2
+outline_polyline: 800000 15000000 3599770 1 0 15
+next_corner: 11400000 -240 2
+next_corner: 15000000 -3600240 2
+next_corner: 18600000 -240 2
+close_polyline: 2
+outline_polyline: 150000 13800000 1200000 1 1 4
+next_corner: 13800000 -1200000 0
+next_corner: 16200000 -1200000 0
+next_corner: 16200000 1200000 0
+close_polyline: 0
+outline_polyline: 150000 -15700000 1500000 1 1 4
+next_corner: -17100000 0 0
+next_corner: -15700000 -1500000 0
+close_polyline: 0
+outline_polyline: 150000 -4300000 1500000 1 1 4
+next_corner: -2900000 0 0
+next_corner: -4300000 -1500000 0
+close_polyline: 0
+outline_polyline: 150000 -6300000 1500000 1 1 4
+next_corner: -4900000 0 0
+next_corner: -6300000 -1500000 0
+close_polyline: 0
+outline_polyline: 1000000 -15000000 4200000 1 0 4
+next_corner: -19200000 0 2
+next_corner: -15000000 -4200000 2
+next_corner: -10800000 0 2
+close_polyline: 2
+outline_polyline: 1000000 -5000000 4200000 1 0 4
+next_corner: -9200000 0 2
+next_corner: -5000000 -4200000 2
+next_corner: -800000 0 2
+close_polyline: 2
+outline_polyline: 1000000 5000000 4200000 1 0 4
+next_corner: 800000 0 2
+next_corner: 5000000 -4200000 2
+next_corner: 9200000 0 2
+close_polyline: 2
+outline_polyline: 1000000 15000000 4200000 1 0 4
+next_corner: 10800000 0 2
+next_corner: 15000000 -4200000 2
+next_corner: 19200000 0 2
+close_polyline: 2
+n_pins: 16
+pin: "1" 400000 -15000000 1600000 0 ""
+top_pad: 1 800000 400000 400000 0
+top_mask: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 800000 1000000 1000000 0
+pin: "1" 400000 -15000000 2600000 0 ""
+top_pad: 1 800000 400000 400000 0
+top_mask: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 800000 1000000 1000000 0
+pin: "1" 400000 -15000000 3600000 0 ""
+top_pad: 1 800000 400000 400000 0
+top_mask: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 800000 1000000 1000000 0
+pin: "2" 400000 -5000000 3599800 0 ""
+top_pad: 1 800000 400000 400000 0
+top_mask: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 800000 1000000 1000000 0
+pin: "2" 400000 -5000000 2599800 0 ""
+top_pad: 1 800000 400000 400000 0
+top_mask: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 800000 1000000 1000000 0
+pin: "2" 400000 -5000000 1599800 0 ""
+top_pad: 1 800000 400000 400000 0
+top_mask: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 800000 1000000 1000000 0
+pin: "3" 400000 5000000 1599500 0 ""
+top_pad: 1 800000 400000 400000 0
+top_mask: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 800000 1000000 1000000 0
+pin: "3" 400000 5000000 2599500 0 ""
+top_pad: 1 800000 400000 400000 0
+top_mask: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 800000 1000000 1000000 0
+pin: "3" 400000 5000000 3599500 0 ""
+top_pad: 1 800000 400000 400000 0
+top_mask: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 800000 1000000 1000000 0
+pin: "4" 400000 15000000 3599800 0 ""
+top_pad: 1 800000 400000 400000 0
+top_mask: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 800000 1000000 1000000 0
+pin: "4" 400000 15000000 2599800 0 ""
+top_pad: 1 800000 400000 400000 0
+top_mask: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 800000 1000000 1000000 0
+pin: "4" 400000 15000000 1599800 0 ""
+top_pad: 1 800000 400000 400000 0
+top_mask: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 800000 1000000 1000000 0
+pin: "gnd" 400000 -15000000 4600000 0 ""
+top_pad: 1 800000 400000 400000 0
+top_mask: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 800000 1000000 1000000 0
+pin: "gnd" 400000 -5000000 4600000 0 ""
+top_pad: 1 800000 400000 400000 0
+top_mask: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 800000 1000000 1000000 0
+pin: "gnd" 400000 5000000 4600000 0 ""
+top_pad: 1 800000 400000 400000 0
+top_mask: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 800000 1000000 1000000 0
+pin: "gnd" 400000 15000000 4600000 0 ""
+top_pad: 1 800000 400000 400000 0
+top_mask: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 800000 1000000 1000000 0
+

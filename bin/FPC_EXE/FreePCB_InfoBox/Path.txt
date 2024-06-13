@@ -1,0 +1,28 @@
+Index
+RefDes
+Package
+FootPrint
+PackageNL
+Value
+ValueNL
+Side
+partX
+partY
+Angle
+Merge
+Pins
+Holes
+Glued
+CompareNetlist
+Ignore_case_in_the_filter
+Only_Latin_symbols
+Embed_R
+Form1_Left: "950"
+Form1_Top: "0"
+Form1_Width: "330"
+Form1_Height: "1024"
+check_refs
+check_values
+check_pinname
+check_netpcb
+end

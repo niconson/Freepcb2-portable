@@ -1,0 +1,31 @@
+name: "CAP-TH15"
+package: ""
+author: "Allan Wright @ freepcb.com"
+source: "Extracted from PCB Libraries IPC-7351 viewer"
+description: "Capacitor,Aluminum Electrolytic;19.20mm L X 19.20mm W X 16.50mm H"
+units: NM
+sel_rect: -12500000 -10600000 12500000 10600000
+ref_text: 1270000 0 11600000 0 177800
+value_text: 1270000 0 -12870000 0 177800
+centroid: 0 0 0 0
+outline_polyline: 177800 9600000 1731000
+next_corner: 9600000 9600000 0
+next_corner: -4800000 9600000 0
+next_corner: -9600000 4800000 0
+next_corner: -9600000 1731000 0
+outline_polyline: 177800 9600000 -1731000
+next_corner: 9600000 -9600000 0
+next_corner: -4800000 -9600000 0
+next_corner: -9600000 -4800000 0
+next_corner: -9600000 -1731000 0
+outline_polyline: 254000 -10489000 2112000
+next_corner: -10362000 2239000 1
+next_corner: -10235000 2112000 1
+next_corner: -10362000 1985000 1
+close_polyline: 1
+n_pins: 2
+pin: "1" 0 -7450000 0 0
+top_pad: 3 2700000 4050000 4050000 0
+pin: "2" 0 7450000 0 0
+top_pad: 3 2700000 4050000 4050000 0
+

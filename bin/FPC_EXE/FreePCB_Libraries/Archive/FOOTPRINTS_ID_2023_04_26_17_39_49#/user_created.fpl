@@ -1,0 +1,88 @@
+name: "RAD-395"
+author: "Ivex"
+package: "RAD-394"
+  units: MIL
+  sel_rect: -101.5 -200.5 298.5 200.5
+  ref_text: 50 98 232 0 7
+  value_text: 50 98 132 0 7
+  centroid: 0 98.5 0 0
+  outline_polyline: 7 -15 -50 1 0 4
+    next_corner: 15 -50 0
+  outline_polyline: 7 0 -35 1 0 4
+    next_corner: 0 -65 0
+  outline_polyline: 7 295 0 1 0 4
+    next_corner: 98 197 2
+    next_corner: -98 0 2
+    next_corner: 98 -197 2
+    close_polyline: 2
+  n_pins: 2
+    pin: "1" 28 197 0 0 ""
+      top_pad: 1 65 32.5 32.5 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 65 32.5 32.5 0
+    pin: "2" 28 0 0 0 ""
+      top_pad: 1 65 32.5 32.5 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 65 32.5 32.5 0
+
+name: "CK14"
+author: "Ivex"
+package: "CK14"
+units: MIL
+sel_rect: -47 -211.810236 847 211.610236
+ref_text: 50 400 148 0 7
+value_text: 50 400 48 0 7
+centroid: 0 400 0 0
+outline_polyline: 7 150 208.110236 1 0 4
+next_corner: 650 208.110236 0
+next_corner: 650 -208.310236 0
+next_corner: 150 -208.310236 0
+close_polyline: 0
+n_pins: 2
+pin: "1" 45 0 0 0 ""
+top_pad: 1 94 47 47 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 94 47 47 0
+pin: "2" 45 800 0 0 ""
+top_pad: 1 94 47 47 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 94 47 47 0
+
+name: "SMALLSWT"
+author: "Ivex"
+package: "SMALLSWT"
+units: NM
+sel_rect: -12788900 -3898900 2628900 3898900
+ref_text: 1270000 -4241800 5080000 0 177800
+value_text: 1270000 -4241800 2540000 0 177800
+centroid: 0 -5080000 0 0
+outline_polyline: 177800 -12700000 2540000 1 0 4
+next_corner: -12700000 -3810000 0
+outline_polyline: 177800 -12700000 -3810000 1 0 4
+next_corner: 2540000 -3810000 0
+outline_polyline: 177800 2540000 -3810000 1 0 4
+next_corner: 2540000 3810000 0
+outline_polyline: 177800 2540000 3810000 1 0 4
+next_corner: -12700000 3810000 0
+outline_polyline: 177800 -12700000 3810000 1 0 4
+next_corner: -12700000 2540000 0
+n_pins: 3
+pin: "2" 2000000 0 0 0 ""
+top_pad: 5 5080000 1500000 1500000 1500000
+top_mask: 1 2800000 1400000 1400000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 5 5080000 1500000 1500000 1500000
+bottom_mask: 1 2800000 1400000 1400000 0
+pin: "1" 2000000 -5080000 0 0 ""
+top_pad: 5 5080000 1500000 1500000 1500000
+top_mask: 1 2800000 1400000 1400000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 5 5080000 1500000 1500000 1500000
+bottom_mask: 1 2800000 1400000 1400000 0
+pin: "3" 2000000 -10160000 0 0 ""
+top_pad: 5 5080000 1500000 1500000 1500000
+top_mask: 1 2800000 1400000 1400000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 5 5080000 1500000 1500000 1500000
+bottom_mask: 1 2800000 1400000 1400000 0
+

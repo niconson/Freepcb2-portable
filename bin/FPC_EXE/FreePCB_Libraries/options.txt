@@ -1,0 +1,2 @@
+Adr C:\FreePcbDoc\FreePcb-2\Projects\Micronix\опенм\version-01
+Pins

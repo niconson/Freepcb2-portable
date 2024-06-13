@@ -1,0 +1,113 @@
+name: "LGA14"
+package: "LIS202"
+author: "unknown"
+description: "Chips"
+units: NM
+sel_rect: -2350000 -3250000 2350000 3352000
+ref_text: 900000 -1500000 -4300000 0 100000
+value_text: 600000 3000000 -1600000 270 50000
+centroid: 0 0 0 0
+outline_polyline: 100000 -2300000 2596920 1 0 4
+next_corner: -2300000 -2500000 0
+next_corner: -1600000 -3200000 0
+next_corner: 1600000 -3200000 0
+next_corner: 2300000 -2500000 0
+next_corner: 2300000 2600000 0
+next_corner: 1600000 3300000 0
+next_corner: -1600000 3296920 0
+close_polyline: 0
+openscad_data: "// // // // Global lift 0.0 //||||// // // // Global rotation 0.0 //||||"
+outline_polyline: 100000 -1524000 2540000 0 0 7
+next_corner: -1524000 -2540000 0
+next_corner: 1524000 -2540000 0
+next_corner: 1524000 2540000 0
+close_polyline: 0
+openscad_data: "// Consider line width //|// Global rotation 0.000 //|// Global lift 0.000 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Black` )|{|    minkowski()|    {|        $fn = 20;|        linear_extrude( 1.000, scale= 1.000 )|        {|            polygon([ *content* ]);|        }|        sphere( *width* );|    }|}|"
+outline_polyline: 100000 -2286000 2540000 1 1 4
+next_corner: -1524000 3302000 0
+next_corner: -1524000 2540000 0
+close_polyline: 0
+openscad_data: "// // // // // // Global lift 0.0 //||||||// // // // // // Global rotation 0.0 //||||||"
+outline_polyline: 100000 -1100000 2300000 0 0 7
+next_corner: -1300000 2100000 0
+next_corner: -1100000 1900000 0
+next_corner: -900000 2100000 0
+close_polyline: 0
+openscad_data: "// it's a hole //|// Consider line width //|// Rotation around vertex1 //|// // Global rotation 0.0 //||// // Global lift 0.0 //||// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    minkowski()|    {|        $fn = 20;|        translate([ 0.000,  0.000,  0.600 ])|        {|            *corner1*, 0.0 ])|            {|                linear_extrude( 0.500, scale= 1.000 )|                {|                    polygon([ *content* ]);|                }|            }|        }|        sphere( *width* );|    }|}|"
+n_pins: 14
+pin: "1" 0 -1200000 2000000 0 ""
+top_pad: 4 500000 650000 650000 0
+pin: "10" 0 1200000 -400000 0 ""
+top_pad: 4 500000 650000 650000 0
+pin: "11" 0 1200000 400000 0 ""
+top_pad: 4 500000 650000 650000 0
+pin: "12" 0 1200000 1200000 0 ""
+top_pad: 4 500000 650000 650000 0
+pin: "13" 0 1200000 2000000 0 ""
+top_pad: 4 500000 650000 650000 0
+pin: "14" 0 0 2200000 90 ""
+top_pad: 4 450000 650000 650000 0
+pin: "2" 0 -1200000 1200000 0 ""
+top_pad: 4 500000 650000 650000 0
+pin: "3" 0 -1200000 400000 0 ""
+top_pad: 4 500000 650000 650000 0
+pin: "4" 0 -1200000 -400000 0 ""
+top_pad: 4 500000 650000 650000 0
+pin: "5" 0 -1200000 -1200000 0 ""
+top_pad: 4 500000 650000 650000 0
+pin: "6" 0 -1200000 -2000000 0 ""
+top_pad: 4 500000 650000 650000 0
+pin: "7" 0 0 -2200000 90 ""
+top_pad: 4 450000 650000 650000 0
+pin: "8" 0 1200000 -2000000 0 ""
+top_pad: 4 500000 650000 650000 0
+pin: "9" 0 1200000 -1200000 0 ""
+top_pad: 4 500000 650000 650000 0
+
+name: "SO-14"
+author: "Ivex"
+description: "none"
+source: "SIEMENS PACKAGE INFORMATION DATA BOOK 1.93"
+units: NM
+sel_rect: -538200 -8388200 6238200 768200
+ref_text: 1270000 2850000 1365000 0 177800
+outline_polyline: 177800 950000 565000
+next_corner: 4750000 565000 0
+next_corner: 4750000 -8185000 0
+next_corner: 950000 -8185000 0
+close_polyline: 0
+outline_polyline: 177800 2300000 565000
+next_corner: 3400000 565000 0
+next_corner: 3400000 -85000 0
+next_corner: 2300000 -85000 0
+close_polyline: 0
+n_pins: 14
+pin: 1 0 0 0 0
+top_pad: 3 670000 800000 800000
+pin: 2 0 0 -1270000 0
+top_pad: 3 670000 800000 800000
+pin: 3 0 0 -2540000 0
+top_pad: 3 670000 800000 800000
+pin: 4 0 0 -3810000 0
+top_pad: 3 670000 800000 800000
+pin: 5 0 0 -5080000 0
+top_pad: 3 670000 800000 800000
+pin: 6 0 0 -6350000 0
+top_pad: 3 670000 800000 800000
+pin: 7 0 0 -7620000 0
+top_pad: 3 670000 800000 800000
+pin: 8 0 5700000 -7620000 0
+top_pad: 3 670000 800000 800000
+pin: 9 0 5700000 -6350000 0
+top_pad: 3 670000 800000 800000
+pin: 10 0 5700000 -5080000 0
+top_pad: 3 670000 800000 800000
+pin: 11 0 5700000 -3810000 0
+top_pad: 3 670000 800000 800000
+pin: 12 0 5700000 -2540000 0
+top_pad: 3 670000 800000 800000
+pin: 13 0 5700000 -1270000 0
+top_pad: 3 670000 800000 800000
+pin: 14 0 5700000 0 0
+top_pad: 3 670000 800000 800000
+

@@ -1,0 +1,100 @@
+name: "DS1013-16S"
+author: "Ivex"
+package: "DS1013-16S"
+  units: NM
+  sel_rect: -14063500 -5263500 14063500 5263500
+  ref_text: 1270000 0 2794000 0 177800
+  value_text: 1270000 0 254000 0 177800
+  centroid: 0 0 0 0
+  outline_polyline: 127000 -14000000 5200000 1 0 4
+    next_corner: -14000000 -5200000 0
+    next_corner: 14000000 -5200000 0
+    next_corner: 14000000 5200000 0
+    close_polyline: 0
+    openscad_data: "// Global lift -3mm //|// Global rotation 0.000 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `[0.2,0.2,0.2]` )|{|    *corner1*, 0.0 ])|    {|        linear_extrude( 2.000, scale= 1.000, convexity=Convexity )|        {|            polygon([ *content* ]);|        }|    }|}|"
+  outline_polyline: 127000 -3000000 5200000 1 0 4
+    next_corner: -3000000 4450000 0
+    next_corner: -13250000 4450000 0
+    next_corner: -13250000 -4550000 0
+    next_corner: 13250000 -4550000 0
+    next_corner: 13250000 4450000 0
+    next_corner: 3000000 4450000 0
+    next_corner: 3000000 5200000 0
+    next_corner: 14000000 5200000 0
+    next_corner: 14000000 -5200000 0
+    next_corner: -14000000 -5200000 0
+    next_corner: -14000000 5200000 0
+    close_polyline: 0
+    openscad_data: "// Global rotation 0.000 //|// Global lift -3.000mm //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `[0.2,0.2,0.2]` )|{|    *corner1*, 0.0 ])|    {|        linear_extrude( 9.000, scale= 1.000, convexity=Convexity )|        {|            polygon([ *content* ]);|        }|    }|}|"
+  outline_polyline: 127000 -8900000 1600000 0 0 7
+    next_corner: -9200000 1300000 0
+    next_corner: -8900000 1000000 0
+    next_corner: -8600000 1300000 0
+    close_polyline: 0
+    openscad_data: "// Global lift -3mm //|// Global rotation 0.000 //|// matrix: 8 2 1 2.540 -2.540 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  0.000,  -3.000 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 12.000, scale= 1.000, convexity=Convexity )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+  n_pins: 16
+    pin: "1" 711200 -8890000 -1270000 0 ""
+      top_pad: 2 1270000 635000 635000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 2 1270000 635000 635000 0
+    pin: "2" 711200 -8890000 1270000 0 ""
+      top_pad: 1 1270000 635000 635000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 1270000 635000 635000 0
+    pin: "3" 711200 -6350000 -1270000 0 ""
+      top_pad: 1 1270000 635000 635000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 1270000 635000 635000 0
+    pin: "4" 711200 -6350000 1270000 0 ""
+      top_pad: 1 1270000 635000 635000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 1270000 635000 635000 0
+    pin: "5" 711200 -3810000 -1270000 0 ""
+      top_pad: 1 1270000 635000 635000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 1270000 635000 635000 0
+    pin: "6" 711200 -3810000 1270000 0 ""
+      top_pad: 1 1270000 635000 635000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 1270000 635000 635000 0
+    pin: "7" 711200 -1270000 -1270000 0 ""
+      top_pad: 1 1270000 635000 635000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 1270000 635000 635000 0
+    pin: "8" 711200 -1270000 1270000 0 ""
+      top_pad: 1 1270000 635000 635000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 1270000 635000 635000 0
+    pin: "9" 711200 1270000 -1270000 0 ""
+      top_pad: 1 1270000 635000 635000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 1270000 635000 635000 0
+    pin: "10" 711200 1270000 1270000 0 ""
+      top_pad: 1 1270000 635000 635000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 1270000 635000 635000 0
+    pin: "11" 711200 3810000 -1270000 0 ""
+      top_pad: 1 1270000 635000 635000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 1270000 635000 635000 0
+    pin: "12" 711200 3810000 1270000 0 ""
+      top_pad: 1 1270000 635000 635000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 1270000 635000 635000 0
+    pin: "13" 711200 6350000 -1270000 0 ""
+      top_pad: 1 1270000 635000 635000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 1270000 635000 635000 0
+    pin: "14" 711200 6350000 1270000 0 ""
+      top_pad: 1 1270000 635000 635000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 1270000 635000 635000 0
+    pin: "15" 711200 8890000 -1270000 0 ""
+      top_pad: 1 1270000 635000 635000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 1270000 635000 635000 0
+    pin: "16" 711200 8890000 1270000 0 ""
+      top_pad: 1 1270000 635000 635000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 1270000 635000 635000 0
+

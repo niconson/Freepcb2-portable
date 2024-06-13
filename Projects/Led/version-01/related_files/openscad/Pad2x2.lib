@@ -1,0 +1,60 @@
+//============================================
+// Code builder for OpenScad via Freepcb-2 app
+// Author: duxahtech © 2014-2023
+//============================================
+
+
+
+// Polylines
+
+
+// Footprint
+module fp_Pad2x2 ()
+{
+    union()
+    {
+        // end of union
+    }
+    // end of module
+}
+
+
+// Footprint
+module FPad2x2 ()
+{
+    difference()
+    {
+        union()
+        {
+            translate([ -0.000,  -0.000,  0.100 ])
+                fp_Pad2x2();
+
+            // pads
+            if( enable_draw_pads )
+            color( "gray" )
+            {
+                $fn=8;
+                translate([ 0.000, 0.000, -0.050 ])
+                  linear_extrude( 0.100 )
+                    polygon([[ 1.500, 0.000 ],
+                            [ 1.207, 0.707 ],
+                            [ 0.500, 1.000 ],
+                            [ -0.500, 1.000 ],
+                            [ -1.207, 0.707 ],
+                            [ -1.500, 0.000 ],
+                            [ -1.500, 0.000 ],
+                            [ -1.207, -0.707 ],
+                            [ -0.500, -1.000 ],
+                            [ 0.500, -1.000 ],
+                            [ 1.207, -0.707 ],
+                            [ 1.500, 0.000 ]]);
+                // end of pins
+            }
+                        // end of union
+        }
+                // end of difference
+    }
+    // end of module
+}
+
+

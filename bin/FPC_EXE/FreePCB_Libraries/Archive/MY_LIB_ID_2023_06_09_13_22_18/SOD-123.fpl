@@ -1,0 +1,18 @@
+name: "SOD-123"
+package: ""
+author: "Ivex"
+source: "SURFACE MOUNT DESIGN AND LAND PATTERN STANDARD SUBSECTION 8.8 (PAGE 3 OF 4)"
+units: NM
+sel_rect: -1253200 -903200 4653200 903200
+ref_text: 1270000 1700000 2300000 0 177800
+outline_polyline: 177800 -1050000 700000
+next_corner: 4450000 700000 0
+next_corner: 4450000 -700000 0
+next_corner: -1050000 -700000 0
+close_polyline: 0
+n_pins: 2
+pin: 1 0 0 0 0
+top_pad: 3 800000 750000 750000
+pin: 2 0 3400000 0 0
+top_pad: 3 800000 750000 750000
+

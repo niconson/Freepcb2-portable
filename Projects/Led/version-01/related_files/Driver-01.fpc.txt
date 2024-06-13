@@ -1,0 +1,13 @@
+C:\FreePcbDoc\PCB\Led\version-01\related_files\Driver-01.fpc.txt
+----------------------------------------------------------------
+Value                 Footprint    Count       Details
+------------------------------------------------------
+910k                  R0402        1           R38
+22uH                  CD54         1           L1
+PAM2841               MSOP-8T      1           DC14
+30k                   R0402        1           R1
+SS12(SS13,SS14,SS15)  SMTDIODE     1           VD3
+10E                   R0402        1           R21
+0.1                   C0402        1           C4
+1.0                   C0402        2           C1, C2
+10.0                  CC0805       1           C3

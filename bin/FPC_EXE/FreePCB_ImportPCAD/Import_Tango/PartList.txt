@@ -1,0 +1,1445 @@
+part: C5
+  ref_text: 500000 117600 180 131 -1138999
+  value: "" 0 0 180 0 0 0
+  pos: 262288000 213550000 0 180 0
+  shape: "CAP_2012_N_0"
+part: C10
+  ref_text: 500000 117600 180 -114434 2444726
+  value: "" 0 0 180 0 0 0
+  pos: 267300000 203550000 0 180 0
+  shape: "CAP_1608_N_1"
+part: C8
+  ref_text: 500000 117600 180 -2114839 695189
+  value: "" 0 0 180 0 0 0
+  pos: 267300000 209800000 0 180 0
+  shape: "CAP_1608_N_2"
+part: C23
+  ref_text: 500000 117600 180 -74937 -270017
+  value: "" 0 0 180 0 0 0
+  pos: 282280000 215300000 1 180 0
+  shape: "CAP_1005_N_3"
+part: C25
+  ref_text: 500000 117600 180 239999 2000000
+  value: "" 0 0 180 0 0 0
+  pos: 282350000 213800000 1 180 0
+  shape: "CAP_1005_N_4"
+part: C21
+  ref_text: 500000 117600 180 73 -634999
+  value: "" 0 0 180 0 0 0
+  pos: 288300000 219050000 1 180 0
+  shape: "CAP_1005_N_5"
+part: C26
+  ref_text: 500000 117600 180 73 -634999
+  value: "" 0 0 180 0 0 0
+  pos: 288300000 213550000 1 180 0
+  shape: "CAP_1005_N_5"
+part: C24
+  ref_text: 500000 117600 180 73 -634999
+  value: "" 0 0 180 0 0 0
+  pos: 321550000 214550000 1 180 0
+  shape: "CAP_1005_N_5"
+part: C2
+  ref_text: 500000 117600 0 -2000000 -425000
+  value: "" 0 0 0 0 0 0
+  pos: 275430000 221300000 0 0 0
+  shape: "CAP_1005_N_6"
+part: C50
+  ref_text: 500000 117600 180 -499861 -600115
+  value: "" 0 0 180 0 0 0
+  pos: 308050000 184300000 1 180 0
+  shape: "CAP_1608_N_7"
+part: C6
+  ref_text: 500000 117600 180 -1549936 -275358
+  value: "" 0 0 180 0 0 0
+  pos: 267320000 212300000 0 180 0
+  shape: "CAP_1005_N_8"
+part: C43
+  ref_text: 500000 117600 360 3600000 -750000
+  value: "" 0 0 360 0 0 0
+  pos: 286550000 190800000 1 360 0
+  shape: "CAP_1608_N_9"
+part: C29
+  ref_text: 500000 117600 270 -1000020 59652
+  value: "" 0 0 270 0 0 0
+  pos: 279500000 209150000 1 270 0
+  shape: "CAP_1005_N_10"
+part: C36
+  ref_text: 500000 117600 180 -2549826 750590
+  value: "" 0 0 180 0 0 0
+  pos: 300050000 198550000 1 180 0
+  shape: "CAP_1608_N_11"
+part: C9
+  ref_text: 500000 117600 0 2400000 -975000
+  value: "" 0 0 0 0 0 0
+  pos: 276030000 209300000 0 0 0
+  shape: "CAP_1005_N_12"
+part: C44
+  ref_text: 500000 117600 180 -3549849 650821
+  value: "" 0 0 180 0 0 0
+  pos: 286550000 188800000 1 180 0
+  shape: "CAP_1608_N_13"
+part: C3
+  ref_text: 500000 117600 180 75000 1730000
+  value: "" 0 0 180 0 0 0
+  pos: 278280000 221300000 0 180 0
+  shape: "CAP_1005_N_14"
+part: C47
+  ref_text: 500000 117600 360 -2649953 -200613
+  value: "" 0 0 360 0 0 0
+  pos: 304050000 186300000 1 360 0
+  shape: "CAP_1608_N_15"
+part: C28
+  ref_text: 500000 117600 360 574874 270266
+  value: "" 0 0 360 0 0 0
+  pos: 276070000 212050000 1 360 0
+  shape: "CAP_1005_N_16"
+part: C45
+  ref_text: 500000 117600 180 64 -559999
+  value: "" 0 0 180 0 0 0
+  pos: 304050000 188300000 1 180 0
+  shape: "CAP_1608_N_17"
+part: C7
+  ref_text: 500000 117600 0 -75000 620000
+  value: "" 0 0 0 0 0 0
+  pos: 281530000 212300000 0 0 0
+  shape: "CAP_1005_N_18"
+part: C39
+  ref_text: 500000 117600 180 -3649826 750844
+  value: "" 0 0 180 0 0 0
+  pos: 286550000 194800000 1 180 0
+  shape: "CAP_1608_N_19"
+part: C4
+  ref_text: 500000 117600 0 0 -1675000
+  value: "" 0 0 0 0 0 0
+  pos: 280800000 219280000 0 0 0
+  shape: "CAP_1005_N_20"
+part: C40
+  ref_text: 500000 117600 360 3500000 -449999
+  value: "" 0 0 360 0 0 0
+  pos: 286550000 192800000 1 360 0
+  shape: "CAP_1608_N_21"
+part: C1
+  ref_text: 500000 117600 180 107 -924999
+  value: "" 0 0 180 0 0 0
+  pos: 276100000 225550000 0 180 0
+  shape: "CAP_1005_N_22"
+part: C58
+  ref_text: 500000 117600 90 1850011 -99785
+  value: "" 0 0 90 0 0 0
+  pos: 252300000 168600000 1 90 0
+  shape: "CAP_1608_N_23"
+part: C54
+  ref_text: 500000 117600 90 1900011 -99780
+  value: "" 0 0 90 0 0 0
+  pos: 252300000 179100000 1 90 0
+  shape: "CAP_1608_N_24"
+part: C53
+  ref_text: 500000 117600 90 1650011 99809
+  value: "" 0 0 90 0 0 0
+  pos: 269050000 181050000 1 90 0
+  shape: "CAP_1608_N_25"
+part: C42
+  ref_text: 500000 117600 90 1700005 -49803
+  value: "" 0 0 90 0 0 0
+  pos: 269050000 190550000 1 90 0
+  shape: "CAP_1608_N_26"
+part: C33
+  ref_text: 500000 117600 90 1800017 -149791
+  value: "" 0 0 90 0 0 0
+  pos: 269050000 200100000 1 90 0
+  shape: "CAP_1608_N_27"
+part: C30
+  ref_text: 500000 117600 90 1800005 49791
+  value: "" 0 0 90 0 0 0
+  pos: 252300000 205350000 1 90 0
+  shape: "CAP_1608_N_28"
+part: C22
+  ref_text: 500000 117600 90 1850005 -49785
+  value: "" 0 0 90 0 0 0
+  pos: 252300000 215100000 1 90 0
+  shape: "CAP_1608_N_29"
+part: FER2
+  ref_text: 500000 117600 180 3000000 1024999
+  value: "" 0 0 180 0 0 0
+  pos: 275750000 223300000 0 180 0
+  shape: "IND_1608_N_30"
+part: FER3
+  ref_text: 500000 117600 180 3750176 1524566
+  value: "" 0 0 270 0 0 0
+  pos: 280550000 209800000 0 90 0
+  shape: "IND_1608_N_31"
+part: FER1
+  ref_text: 500000 117600 180 -550928 2674808
+  value: "" 0 0 270 0 0 0
+  pos: 280300000 223250000 0 90 0
+  shape: "IND_1608_N_32"
+part: Hole4
+  ref_text: 500000 117600 0 0 0
+  value: "" 0 0 0 0 0 0
+  pos: 330300000 152300000 0 0 0
+  shape: "Hole_33"
+part: J1
+  ref_text: 500000 117600 90 9175000 0
+  value: "" 0 0 90 0 0 0
+  pos: 325100000 214300000 0 270 0
+  shape: "RB1-125BAG1A_34"
+part: R17
+  ref_text: 500000 117600 0 -3135239 -688911
+  value: "" 0 0 90 0 0 0
+  pos: 276550000 206800000 0 270 0
+  shape: "RES_1005_N_35"
+part: R1
+  ref_text: 500000 117600 180 -3635326 938738
+  value: "" 0 0 270 0 0 0
+  pos: 269550000 225050000 0 90 0
+  shape: "RES_1005_N_36"
+part: C51
+  ref_text: 500000 117600 0 50115 999994
+  value: "" 0 0 270 0 0 0
+  pos: 297300000 182300000 1 270 0
+  shape: "CAP_1608_N_37"
+part: R2
+  ref_text: 500000 117600 180 -3635326 938738
+  value: "" 0 0 270 0 0 0
+  pos: 271050000 225050000 0 90 0
+  shape: "RES_1005_N_38"
+part: C52
+  ref_text: 500000 117600 0 300115 999965
+  value: "" 0 0 270 0 0 0
+  pos: 293300000 182300000 1 270 0
+  shape: "CAP_1608_N_39"
+part: R3
+  ref_text: 500000 117600 180 -3635326 938738
+  value: "" 0 0 270 0 0 0
+  pos: 272550000 225050000 0 90 0
+  shape: "RES_1005_N_40"
+part: C38
+  ref_text: 500000 117600 180 2850000 650000
+  value: "" 0 0 180 0 0 0
+  pos: 304050000 196550000 1 180 0
+  shape: "CAP_1608_N_41"
+part: R18
+  ref_text: 500000 117600 0 -115000 675000
+  value: "" 0 0 0 0 0 0
+  pos: 286050000 207050000 0 0 0
+  shape: "RES_1005_N_42"
+part: C41
+  ref_text: 500000 117600 180 -199849 -650046
+  value: "" 0 0 180 0 0 0
+  pos: 304050000 192050000 1 180 0
+  shape: "CAP_1608_N_43"
+part: R20
+  ref_text: 500000 117600 0 135000 -2440000
+  value: "" 0 0 0 0 0 0
+  pos: 286050000 205050000 0 0 0
+  shape: "RES_1005_N_44"
+part: C48
+  ref_text: 500000 117600 0 300080 699965
+  value: "" 0 0 270 0 0 0
+  pos: 301300000 185050000 1 270 0
+  shape: "CAP_1608_N_45"
+part: R15
+  ref_text: 500000 117600 0 -3135326 -938911
+  value: "" 0 0 90 0 0 0
+  pos: 272550000 206800000 0 270 0
+  shape: "RES_1005_N_46"
+part: C35
+  ref_text: 500000 117600 360 -2849849 -650659
+  value: "" 0 0 360 0 0 0
+  pos: 304050000 198550000 1 360 0
+  shape: "CAP_1608_N_47"
+part: R16
+  ref_text: 500000 117600 0 -3385239 -688825
+  value: "" 0 0 90 0 0 0
+  pos: 275050000 206800000 0 270 0
+  shape: "RES_1005_N_48"
+part: C64
+  ref_text: 500000 117600 90 -3150069 -198906
+  value: "" 0 0 90 0 0 0
+  pos: 252300000 165000000 1 90 0
+  shape: "CAP_1608_N_49"
+part: C56
+  ref_text: 500000 117600 90 -3200034 -98889
+  value: "" 0 0 90 0 0 0
+  pos: 252300000 175500000 1 90 0
+  shape: "CAP_1608_N_50"
+part: C55
+  ref_text: 500000 117600 90 -3300069 -198854
+  value: "" 0 0 90 0 0 0
+  pos: 269050000 177450000 1 90 0
+  shape: "CAP_1608_N_51"
+part: C46
+  ref_text: 500000 117600 90 -3199971 250370
+  value: "" 0 0 90 0 0 0
+  pos: 269050000 186950000 1 90 0
+  shape: "CAP_1608_N_52"
+part: C37
+  ref_text: 500000 117600 90 -3250017 -48871
+  value: "" 0 0 90 0 0 0
+  pos: 269050000 196500000 1 90 0
+  shape: "CAP_1608_N_53"
+part: C32
+  ref_text: 500000 117600 90 -3149999 728
+  value: "" 0 0 90 0 0 0
+  pos: 252300000 201750000 1 90 0
+  shape: "CAP_1608_N_54"
+part: C27
+  ref_text: 500000 117600 90 -3199994 50370
+  value: "" 0 0 90 0 0 0
+  pos: 252300000 211500000 1 90 0
+  shape: "CAP_1608_N_55"
+part: R19
+  ref_text: 500000 117600 0 115000 675000
+  value: "" 0 0 0 0 0 0
+  pos: 289050000 207050000 0 0 0
+  shape: "RES_1005_N_56"
+part: R21
+  ref_text: 500000 117600 0 -20000 -2440000
+  value: "" 0 0 0 0 0 0
+  pos: 289050000 205050000 0 0 0
+  shape: "RES_1005_N_57"
+part: R12
+  ref_text: 500000 117600 0 311 -2689999
+  value: "" 0 0 90 0 0 0
+  pos: 263050000 211110000 0 270 0
+  shape: "RES_1005_N_58"
+part: R5
+  ref_text: 500000 117600 0 -2750000 -940000
+  value: "" 0 0 0 0 0 0
+  pos: 266300000 219050000 0 0 0
+  shape: "RES_1005_N_59"
+part: R7
+  ref_text: 500000 117600 0 -2500000 -690000
+  value: "" 0 0 0 0 0 0
+  pos: 266300000 217300000 0 0 0
+  shape: "RES_1005_N_60"
+part: R11
+  ref_text: 500000 117600 0 -249935 560028
+  value: "" 0 0 90 0 0 0
+  pos: 261550000 211110000 0 270 0
+  shape: "RES_1005_N_61"
+part: R6
+  ref_text: 500000 117600 180 -4479812 811236
+  value: "" 0 0 180 0 0 0
+  pos: 285300000 217550000 0 180 0
+  shape: "RES_2012_N_62"
+part: R4
+  ref_text: 500000 117600 180 -4229798 871178
+  value: "" 0 0 180 0 0 0
+  pos: 285300000 220550000 0 180 0
+  shape: "RES_2012_N_63"
+part: R10
+  ref_text: 500000 117600 180 -4479812 811236
+  value: "" 0 0 180 0 0 0
+  pos: 285300000 212050000 0 180 0
+  shape: "RES_2012_N_62"
+part: R8
+  ref_text: 500000 117600 180 -4479798 871236
+  value: "" 0 0 180 0 0 0
+  pos: 285300000 215050000 0 180 0
+  shape: "RES_2012_N_64"
+part: R13
+  ref_text: 500000 117600 0 231 -1999999
+  value: "" 0 0 90 0 0 0
+  pos: 268050000 206800000 0 270 0
+  shape: "RES_1608_N_65"
+part: R14
+  ref_text: 500000 117600 180 3385100 864608
+  value: "" 0 0 270 0 0 0
+  pos: 278450000 206800000 0 90 0
+  shape: "RES_1005_N_66"
+part: R9
+  ref_text: 500000 117600 180 64 -559999
+  value: "" 0 0 180 0 0 0
+  pos: 266300000 214050000 0 180 0
+  shape: "RES_1005_N_67"
+part: C31
+  ref_text: 500000 117600 360 3050000 -849999
+  value: "" 0 0 360 0 0 0
+  pos: 280490000 205865000 1 360 0
+  shape: "CAP_1608_N_68"
+part: U1
+  ref_text: 500000 117600 90 4287086 749503
+  value: "" 0 0 90 0 0 0
+  pos: 274300000 215239000 0 270 0
+  shape: "W5200_69"
+part: Y1
+  ref_text: 500000 117600 0 433 -3749999
+  value: "" 0 0 90 0 0 0
+  pos: 263800000 207300000 0 270 0
+  shape: "CTS403_70"
+part: C15
+  ref_text: 500000 117600 180 -249736 -1139057
+  value: "" 0 0 180 0 0 0
+  pos: 262288000 168050000 0 180 0
+  shape: "CAP_2012_N_71"
+part: C20
+  ref_text: 500000 117600 180 134999 2194700
+  value: "" 0 0 180 0 0 0
+  pos: 267300000 158050000 0 180 0
+  shape: "CAP_1608_N_72"
+part: C18
+  ref_text: 500000 117600 180 -114813 -805326
+  value: "" 0 0 180 0 0 0
+  pos: 267300000 164300000 0 180 0
+  shape: "CAP_1608_N_73"
+part: C59
+  ref_text: 500000 117600 180 24999 -470000
+  value: "" 0 0 180 0 0 0
+  pos: 282280000 169800000 1 180 0
+  shape: "CAP_1005_N_74"
+part: C61
+  ref_text: 500000 117600 180 -9525 2050001
+  value: "" 0 0 180 0 0 0
+  pos: 282350000 168300000 1 180 0
+  shape: "CAP_1005_N_75"
+part: C57
+  ref_text: 500000 117600 180 73 -634999
+  value: "" 0 0 180 0 0 0
+  pos: 288300000 173550000 1 180 0
+  shape: "CAP_1005_N_5"
+part: C62
+  ref_text: 500000 117600 180 73 -634999
+  value: "" 0 0 180 0 0 0
+  pos: 288300000 168050000 1 180 0
+  shape: "CAP_1005_N_5"
+part: C60
+  ref_text: 500000 117600 180 73 -634999
+  value: "" 0 0 180 0 0 0
+  pos: 321550000 168800000 1 180 0
+  shape: "CAP_1005_N_5"
+part: C12
+  ref_text: 500000 117600 0 -2250000 -425000
+  value: "" 0 0 0 0 0 0
+  pos: 275430000 175800000 0 0 0
+  shape: "CAP_1005_N_76"
+part: C16
+  ref_text: 500000 117600 180 -1549994 -25358
+  value: "" 0 0 180 0 0 0
+  pos: 267320000 166800000 0 180 0
+  shape: "CAP_1005_N_77"
+part: C65
+  ref_text: 500000 117600 270 -1000020 59652
+  value: "" 0 0 270 0 0 0
+  pos: 279500000 163650000 1 270 0
+  shape: "CAP_1005_N_10"
+part: C19
+  ref_text: 500000 117600 0 2400000 -975000
+  value: "" 0 0 0 0 0 0
+  pos: 276030000 163800000 0 0 0
+  shape: "CAP_1005_N_78"
+part: C13
+  ref_text: 500000 117600 180 -174879 -520040
+  value: "" 0 0 180 0 0 0
+  pos: 278280000 175800000 0 180 0
+  shape: "CAP_1005_N_79"
+part: C63
+  ref_text: 500000 117600 360 574874 270266
+  value: "" 0 0 360 0 0 0
+  pos: 276070000 166550000 1 360 0
+  shape: "CAP_1005_N_80"
+part: C17
+  ref_text: 500000 117600 0 -575000 370000
+  value: "" 0 0 0 0 0 0
+  pos: 281530000 166800000 0 0 0
+  shape: "CAP_1005_N_81"
+part: C14
+  ref_text: 500000 117600 0 0 -1925000
+  value: "" 0 0 0 0 0 0
+  pos: 280800000 173780000 0 0 0
+  shape: "CAP_1005_N_82"
+part: C11
+  ref_text: 500000 117600 180 78 -674999
+  value: "" 0 0 180 0 0 0
+  pos: 276100000 180050000 0 180 0
+  shape: "CAP_1005_N_83"
+part: FER5
+  ref_text: 500000 117600 180 2500000 1274999
+  value: "" 0 0 180 0 0 0
+  pos: 275750000 177800000 0 180 0
+  shape: "IND_1608_N_84"
+part: FER6
+  ref_text: 500000 117600 180 1500205 1774826
+  value: "" 0 0 270 0 0 0
+  pos: 280550000 164300000 0 90 0
+  shape: "IND_1608_N_85"
+part: FER4
+  ref_text: 500000 117600 180 -50754 2174982
+  value: "" 0 0 270 0 0 0
+  pos: 280300000 177750000 0 90 0
+  shape: "IND_1608_N_86"
+part: J2
+  ref_text: 500000 117600 90 9175000 0
+  value: "" 0 0 90 0 0 0
+  pos: 325100000 168550000 0 270 0
+  shape: "RB1-125BAG1A_87"
+part: R38
+  ref_text: 500000 117600 0 -3385326 -938825
+  value: "" 0 0 90 0 0 0
+  pos: 276550000 161300000 0 270 0
+  shape: "RES_1005_N_88"
+part: R22
+  ref_text: 500000 117600 180 -2885239 688998
+  value: "" 0 0 270 0 0 0
+  pos: 269800000 179550000 0 90 0
+  shape: "RES_1005_N_89"
+part: R23
+  ref_text: 500000 117600 180 -2885239 688998
+  value: "" 0 0 270 0 0 0
+  pos: 271300000 179550000 0 90 0
+  shape: "RES_1005_N_90"
+part: R24
+  ref_text: 500000 117600 180 -2885239 688998
+  value: "" 0 0 270 0 0 0
+  pos: 272800000 179550000 0 90 0
+  shape: "RES_1005_N_91"
+part: R39
+  ref_text: 500000 117600 0 -115000 675000
+  value: "" 0 0 0 0 0 0
+  pos: 286050000 161550000 0 0 0
+  shape: "RES_1005_N_92"
+part: R41
+  ref_text: 500000 117600 0 -115000 -2190000
+  value: "" 0 0 0 0 0 0
+  pos: 286050000 159550000 0 0 0
+  shape: "RES_1005_N_93"
+part: R36
+  ref_text: 500000 117600 0 -3135326 -938911
+  value: "" 0 0 90 0 0 0
+  pos: 272550000 161300000 0 270 0
+  shape: "RES_1005_N_94"
+part: R37
+  ref_text: 500000 117600 0 -3385326 -938825
+  value: "" 0 0 90 0 0 0
+  pos: 275050000 161300000 0 270 0
+  shape: "RES_1005_N_95"
+part: R40
+  ref_text: 500000 117600 0 115000 675000
+  value: "" 0 0 0 0 0 0
+  pos: 289050000 161550000 0 0 0
+  shape: "RES_1005_N_96"
+part: R42
+  ref_text: 500000 117600 0 -20000 -2440000
+  value: "" 0 0 0 0 0 0
+  pos: 289050000 159550000 0 0 0
+  shape: "RES_1005_N_97"
+part: R33
+  ref_text: 500000 117600 0 253 -2189999
+  value: "" 0 0 90 0 0 0
+  pos: 263050000 165610000 0 270 0
+  shape: "RES_1005_N_98"
+part: R26
+  ref_text: 500000 117600 0 -2500000 -690000
+  value: "" 0 0 0 0 0 0
+  pos: 266300000 173550000 0 0 0
+  shape: "RES_1005_N_99"
+part: R28
+  ref_text: 500000 117600 0 -2500000 -690000
+  value: "" 0 0 0 0 0 0
+  pos: 266300000 171800000 0 0 0
+  shape: "RES_1005_N_100"
+part: R32
+  ref_text: 500000 117600 0 -249935 560028
+  value: "" 0 0 90 0 0 0
+  pos: 261550000 165610000 0 270 0
+  shape: "RES_1005_N_101"
+part: R27
+  ref_text: 500000 117600 180 -3979812 811120
+  value: "" 0 0 180 0 0 0
+  pos: 285300000 172050000 0 180 0
+  shape: "RES_2012_N_102"
+part: R25
+  ref_text: 500000 117600 180 -3979798 871120
+  value: "" 0 0 180 0 0 0
+  pos: 285300000 175050000 0 180 0
+  shape: "RES_2012_N_103"
+part: R31
+  ref_text: 500000 117600 180 -3979812 811120
+  value: "" 0 0 180 0 0 0
+  pos: 285300000 166550000 0 180 0
+  shape: "RES_2012_N_102"
+part: R29
+  ref_text: 500000 117600 180 -3979856 621120
+  value: "" 0 0 180 0 0 0
+  pos: 285300000 169550000 0 180 0
+  shape: "RES_2012_N_104"
+part: R34
+  ref_text: 500000 117600 0 260 -2249999
+  value: "" 0 0 90 0 0 0
+  pos: 268050000 161300000 0 270 0
+  shape: "RES_1608_N_105"
+part: R35
+  ref_text: 500000 117600 180 3135100 864637
+  value: "" 0 0 270 0 0 0
+  pos: 278450000 161300000 0 90 0
+  shape: "RES_1608_N_106"
+part: R30
+  ref_text: 500000 117600 180 93 -809999
+  value: "" 0 0 180 0 0 0
+  pos: 266300000 168550000 0 180 0
+  shape: "RES_1005_N_107"
+part: C34
+  ref_text: 500000 117600 360 -100150 649976
+  value: "" 0 0 360 0 0 0
+  pos: 295300000 200800000 1 360 0
+  shape: "CAP_1608_N_108"
+part: C49
+  ref_text: 500000 117600 360 -1050138 599757
+  value: "" 0 0 360 0 0 0
+  pos: 312050000 184300000 1 360 0
+  shape: "CAP_1608_N_109"
+part: CN4
+  ref_text: 500000 117600 270 -701072 3089756
+  value: "" 0 0 270 0 0 0
+  pos: 321800000 190300000 1 270 0
+  shape: "CONN_4X1_110"
+part: CN8
+  ref_text: 500000 117600 90 -500971 -2799826
+  value: "" 0 0 90 0 0 0
+  pos: 243300000 166800000 1 90 0
+  shape: "CONN_4X1_111"
+part: CN7
+  ref_text: 500000 117600 90 -950885 -2549670
+  value: "" 0 0 90 0 0 0
+  pos: 243300000 177300000 1 90 0
+  shape: "CONN_4X1_112"
+part: CN6
+  ref_text: 500000 117600 90 -650937 -2699774
+  value: "" 0 0 90 0 0 0
+  pos: 260050000 179250000 1 90 0
+  shape: "CONN_4X1_113"
+part: CN5
+  ref_text: 500000 117600 90 -701006 -2899756
+  value: "" 0 0 90 0 0 0
+  pos: 260050000 188750000 1 90 0
+  shape: "CONN_4X1_114"
+part: CN3
+  ref_text: 500000 117600 90 -951058 -3049670
+  value: "" 0 0 90 0 0 0
+  pos: 260050000 198300000 1 90 0
+  shape: "CONN_4X1_115"
+part: CN2
+  ref_text: 500000 117600 90 -300989 -2849895
+  value: "" 0 0 90 0 0 0
+  pos: 243300000 203550000 1 90 0
+  shape: "CONN_4X1_116"
+part: CN1
+  ref_text: 500000 117600 90 -500989 -2849826
+  value: "" 0 0 90 0 0 0
+  pos: 243300000 213300000 1 90 0
+  shape: "CONN_4X1_117"
+part: U2
+  ref_text: 500000 117600 90 4287115 999503
+  value: "" 0 0 90 0 0 0
+  pos: 274300000 169739000 0 270 0
+  shape: "W5200_118"
+part: Y2
+  ref_text: 500000 117600 0 -251388 -3999912
+  value: "" 0 0 90 0 0 0
+  pos: 263800000 161800000 0 270 0
+  shape: "CTS403_119"
+part: J3
+  ref_text: 500000 117600 90 5650096 -834346
+  value: "" 0 0 90 0 0 0
+  pos: 330025000 189800000 1 90 0
+  shape: "690-005-299-043_120"
+part: LED2
+  ref_text: 500000 117600 360 3500000 -149999
+  value: "" 0 0 360 0 0 0
+  pos: 295300000 207750000 1 360 0
+  shape: "LED0603_121"
+part: LED1
+  ref_text: 500000 117600 180 -3499733 1150809
+  value: "" 0 0 180 0 0 0
+  pos: 295300000 210850000 1 180 0
+  shape: "LED0603_122"
+part: P1
+  ref_text: 500000 117600 90 1050028 -249878
+  value: "" 0 0 90 0 0 0
+  pos: 321800000 196800000 1 90 0
+  shape: "PAD_123"
+part: R50
+  ref_text: 500000 117600 180 2900000 750000
+  value: "" 0 0 180 0 0 0
+  pos: 299300000 204800000 1 180 0
+  shape: "RES_1608_N_124"
+part: R51
+  ref_text: 500000 117600 360 -199537 -2000046
+  value: "" 0 0 360 0 0 0
+  pos: 295300000 204800000 1 360 0
+  shape: "RES_1608_N_125"
+part: R48
+  ref_text: 500000 117600 180 2950000 599999
+  value: "" 0 0 180 0 0 0
+  pos: 300050000 208300000 1 180 0
+  shape: "RES_1608_N_126"
+part: R47
+  ref_text: 500000 117600 360 -2949837 -700682
+  value: "" 0 0 360 0 0 0
+  pos: 300050000 210300000 1 360 0
+  shape: "RES_1608_N_127"
+part: R69
+  ref_text: 500000 117600 360 -149537 -2000034
+  value: "" 0 0 360 0 0 0
+  pos: 304050000 184300000 1 360 0
+  shape: "RES_1608_N_128"
+part: R58
+  ref_text: 500000 117600 180 2800000 650000
+  value: "" 0 0 180 0 0 0
+  pos: 299300000 200800000 1 180 0
+  shape: "RES_1608_N_129"
+part: R80
+  ref_text: 500000 117600 360 -239 689999
+  value: "" 0 0 360 0 0 0
+  pos: 249300000 167800000 1 360 0
+  shape: "RES_1608_N_130"
+part: R74
+  ref_text: 500000 117600 360 -239 689999
+  value: "" 0 0 360 0 0 0
+  pos: 249300000 178300000 1 360 0
+  shape: "RES_1608_N_131"
+part: R72
+  ref_text: 500000 117600 360 -239 689999
+  value: "" 0 0 360 0 0 0
+  pos: 266050000 180250000 1 360 0
+  shape: "RES_1608_N_132"
+part: R64
+  ref_text: 500000 117600 360 -239 689999
+  value: "" 0 0 360 0 0 0
+  pos: 266050000 189750000 1 360 0
+  shape: "RES_1608_N_133"
+part: R60
+  ref_text: 500000 117600 360 -239 689999
+  value: "" 0 0 360 0 0 0
+  pos: 266050000 199300000 1 360 0
+  shape: "RES_1608_N_134"
+part: R52
+  ref_text: 500000 117600 360 -239 689999
+  value: "" 0 0 360 0 0 0
+  pos: 249300000 204550000 1 360 0
+  shape: "RES_1608_N_135"
+part: R44
+  ref_text: 500000 117600 360 -239 689999
+  value: "" 0 0 360 0 0 0
+  pos: 249300000 214300000 1 360 0
+  shape: "RES_1608_N_136"
+part: R67
+  ref_text: 500000 117600 180 199999 -850000
+  value: "" 0 0 180 0 0 0
+  pos: 310050000 186300000 1 180 0
+  shape: "RES_1608_N_137"
+part: R68
+  ref_text: 500000 117600 180 -50347 -999982
+  value: "" 0 0 90 0 0 0
+  pos: 287300000 184050000 1 90 0
+  shape: "RES_1608_N_138"
+part: R70
+  ref_text: 500000 117600 90 -1651145 -3299427
+  value: "" 0 0 90 0 0 0
+  pos: 290050000 182300000 1 90 0
+  shape: "RES_1608_N_139"
+part: R81
+  ref_text: 500000 117600 360 -99421 -2500023
+  value: "" 0 0 360 0 0 0
+  pos: 249300000 165800000 1 360 0
+  shape: "RES_1608_N_140"
+part: R77
+  ref_text: 500000 117600 360 -99421 -2500023
+  value: "" 0 0 360 0 0 0
+  pos: 249300000 176300000 1 360 0
+  shape: "RES_1608_N_141"
+part: R75
+  ref_text: 500000 117600 360 -99421 -2500023
+  value: "" 0 0 360 0 0 0
+  pos: 266050000 178250000 1 360 0
+  shape: "RES_1608_N_142"
+part: R65
+  ref_text: 500000 117600 360 -99421 -2500023
+  value: "" 0 0 360 0 0 0
+  pos: 266050000 187750000 1 360 0
+  shape: "RES_1608_N_143"
+part: R61
+  ref_text: 500000 117600 360 -99421 -2500023
+  value: "" 0 0 360 0 0 0
+  pos: 266050000 197300000 1 360 0
+  shape: "RES_1608_N_144"
+part: R55
+  ref_text: 500000 117600 360 271 -2349999
+  value: "" 0 0 360 0 0 0
+  pos: 249300000 202550000 1 360 0
+  shape: "RES_1608_N_145"
+part: R45
+  ref_text: 500000 117600 360 -99421 -2500023
+  value: "" 0 0 360 0 0 0
+  pos: 249300000 212300000 1 360 0
+  shape: "RES_1608_N_146"
+part: R79
+  ref_text: 500000 117600 90 1850005 49785
+  value: "" 0 0 90 0 0 0
+  pos: 246300000 168600000 1 90 0
+  shape: "RES_1608_N_147"
+part: R73
+  ref_text: 500000 117600 90 1850011 -99785
+  value: "" 0 0 90 0 0 0
+  pos: 246300000 179100000 1 90 0
+  shape: "RES_1608_N_148"
+part: R71
+  ref_text: 500000 117600 90 1700000 0
+  value: "" 0 0 90 0 0 0
+  pos: 263050000 181050000 1 90 0
+  shape: "RES_1608_N_149"
+part: R63
+  ref_text: 500000 117600 90 1700005 -49803
+  value: "" 0 0 90 0 0 0
+  pos: 263050000 190550000 1 90 0
+  shape: "RES_1608_N_150"
+part: R57
+  ref_text: 500000 117600 90 1750011 -99797
+  value: "" 0 0 90 0 0 0
+  pos: 263050000 200100000 1 90 0
+  shape: "RES_1608_N_151"
+part: R49
+  ref_text: 500000 117600 90 1900017 149780
+  value: "" 0 0 90 0 0 0
+  pos: 246300000 205350000 1 90 0
+  shape: "RES_1608_N_152"
+part: R43
+  ref_text: 500000 117600 90 1800011 99791
+  value: "" 0 0 90 0 0 0
+  pos: 246300000 215100000 1 90 0
+  shape: "RES_1608_N_153"
+part: R82
+  ref_text: 500000 117600 90 -3250069 -198871
+  value: "" 0 0 90 0 0 0
+  pos: 246300000 165000000 1 90 0
+  shape: "RES_1608_N_154"
+part: R78
+  ref_text: 500000 117600 90 -3200034 -98889
+  value: "" 0 0 90 0 0 0
+  pos: 246300000 175500000 1 90 0
+  shape: "RES_1608_N_155"
+part: R76
+  ref_text: 500000 117600 90 -3350069 -198837
+  value: "" 0 0 90 0 0 0
+  pos: 263050000 177450000 1 90 0
+  shape: "RES_1608_N_156"
+part: R66
+  ref_text: 500000 117600 90 -3249982 150376
+  value: "" 0 0 90 0 0 0
+  pos: 263050000 186950000 1 90 0
+  shape: "RES_1608_N_157"
+part: R62
+  ref_text: 500000 117600 90 -3200034 -98889
+  value: "" 0 0 90 0 0 0
+  pos: 263050000 196500000 1 90 0
+  shape: "RES_1608_N_158"
+part: R56
+  ref_text: 500000 117600 90 -3300017 -48854
+  value: "" 0 0 90 0 0 0
+  pos: 246300000 201750000 1 90 0
+  shape: "RES_1608_N_159"
+part: R46
+  ref_text: 500000 117600 90 -3200017 -48889
+  value: "" 0 0 90 0 0 0
+  pos: 246300000 211500000 1 90 0
+  shape: "RES_1608_N_160"
+part: R54
+  ref_text: 500000 117600 180 2800000 750000
+  value: "" 0 0 180 0 0 0
+  pos: 299300000 202800000 1 180 0
+  shape: "RES_1608_N_161"
+part: R53
+  ref_text: 500000 117600 360 3095000 -730000
+  value: "" 0 0 360 0 0 0
+  pos: 280490000 203325000 1 360 0
+  shape: "RES_1608_N_162"
+part: R59
+  ref_text: 500000 117600 360 3495000 -710000
+  value: "" 0 0 360 0 0 0
+  pos: 280490000 200785000 1 360 0
+  shape: "RES_1608_N_163"
+part: U3
+  ref_text: 500000 117600 270 -2400017 49166
+  value: "" 0 0 270 0 0 0
+  pos: 287475000 202770000 1 270 0
+  shape: "M24C02-RMN6P_164"
+part: U4
+  ref_text: 500000 117600 90 5178000 0
+  value: "" 0 0 90 0 0 0
+  pos: 295550000 191495000 1 90 0
+  shape: "USB2517_165"
+part: Y3
+  ref_text: 500000 117600 180 -249013 4265057
+  value: "" 0 0 180 0 0 0
+  pos: 310050000 179800000 1 180 0
+  shape: "HC49/4HSMX_166"
+part: SDM1
+  ref_text: 500000 117600 90 32000010 88597
+  value: "" 0 0 90 0 0 0
+  pos: 252346300 189800000 0 270 0
+  shape: "3-1827253-6_167"
+part: Hole2
+  ref_text: 500000 117600 0 0 0
+  value: "" 0 0 0 0 0 0
+  pos: 252300000 227050000 0 0 0
+  shape: "Hole_33"
+part: Hole1
+  ref_text: 500000 117600 0 0 0
+  value: "" 0 0 0 0 0 0
+  pos: 330300000 227550000 0 0 0
+  shape: "Hole_33"
+part: Hole3
+  ref_text: 500000 117600 0 0 0
+  value: "" 0 0 0 0 0 0
+  pos: 252300000 152800000 0 0 0
+  shape: "Hole_33"
+end
+part: Via__7
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 275800000 217050000 0 0 0
+part: Via__8
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 274300000 217050000 0 0 0
+part: Via__9
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 272800000 217050000 0 0 0
+part: Via__10
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 272800000 215550000 0 0 0
+part: Via__11
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 272800000 214050000 0 0 0
+part: Via__12
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 274300000 214050000 0 0 0
+part: Via__13
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 274300000 215550000 0 0 0
+part: Via__14
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 275800000 215550000 0 0 0
+part: Via__15
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 275800000 214050000 0 0 0
+part: Via__51
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 275800000 171550000 0 0 0
+part: Via__52
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 274300000 171550000 0 0 0
+part: Via__53
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 272800000 171550000 0 0 0
+part: Via__54
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 272800000 170050000 0 0 0
+part: Via__55
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 272800000 168550000 0 0 0
+part: Via__56
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 274300000 168550000 0 0 0
+part: Via__57
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 274300000 170050000 0 0 0
+part: Via__58
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 275800000 170050000 0 0 0
+part: Via__59
+ref_text: 0 0 0 0 0
+shape: "80x30"
+pos: 275800000 168550000 0 0 0
+part: Via__89
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 306300000 188300000 0 0 0
+part: Via__90
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 307300000 185800000 0 0 0
+part: Via__91
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 314550000 184300000 0 0 0
+part: Via__92
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 307300000 182550000 0 0 0
+part: Via__93
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 301550000 182550000 0 0 0
+part: Via__94
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 297300000 180050000 0 0 0
+part: Via__95
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 293300000 180050000 0 0 0
+part: Via__96
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 290050000 180300000 0 0 0
+part: Via__97
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 289800000 189050000 0 0 0
+part: Via__98
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 306050000 192050000 0 0 0
+part: Via__99
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 300800000 197050000 0 0 0
+part: Via__100
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 304800000 200050000 0 0 0
+part: Via__101
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 293050000 200800000 0 0 0
+part: Via__102
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 284300000 188800000 0 0 0
+part: Via__103
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 284300000 190800000 0 0 0
+part: Via__104
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 284300000 192800000 0 0 0
+part: Via__105
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 284300000 194800000 0 0 0
+part: Via__106
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 260050000 206050000 0 0 0
+part: Via__107
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 259550000 228550000 0 0 0
+part: Via__108
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 264550000 225050000 0 0 0
+part: Via__109
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 292800000 194550000 0 0 0
+part: Via__110
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 294550000 194550000 0 0 0
+part: Via__111
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 296550000 194550000 0 0 0
+part: Via__112
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 298300000 194550000 0 0 0
+part: Via__113
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 292800000 192800000 0 0 0
+part: Via__114
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 294550000 192800000 0 0 0
+part: Via__115
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 296550000 192800000 0 0 0
+part: Via__116
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 298300000 192800000 0 0 0
+part: Via__117
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 292800000 190800000 0 0 0
+part: Via__118
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 294550000 190800000 0 0 0
+part: Via__119
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 296550000 190800000 0 0 0
+part: Via__120
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 298300000 190800000 0 0 0
+part: Via__121
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 292800000 189050000 0 0 0
+part: Via__122
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 294550000 189050000 0 0 0
+part: Via__123
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 296550000 189050000 0 0 0
+part: Via__124
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 298300000 189050000 0 0 0
+part: Via__125
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 266050000 191300000 0 0 0
+part: Via__134
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 319800000 194050000 0 0 0
+part: Via__135
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 285800000 224800000 0 0 0
+part: Via__136
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 246300000 162800000 0 0 0
+part: Via__137
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 252300000 162800000 0 0 0
+part: Via__138
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 241800000 160050000 0 0 0
+part: Via__139
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 252300000 181300000 0 0 0
+part: Via__140
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 246300000 173300000 0 0 0
+part: Via__141
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 252300000 173300000 0 0 0
+part: Via__142
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 263050000 175250000 0 0 0
+part: Via__143
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 269050000 175250000 0 0 0
+part: Via__144
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 266050000 181800000 0 0 0
+part: Via__145
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 263050000 184800000 0 0 0
+part: Via__146
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 269050000 184750000 0 0 0
+part: Via__147
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 269050000 192750000 0 0 0
+part: Via__148
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 263050000 192750000 0 0 0
+part: Via__149
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 263050000 194300000 0 0 0
+part: Via__150
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 269050000 194300000 0 0 0
+part: Via__151
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 263050000 202300000 0 0 0
+part: Via__152
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 269050000 202300000 0 0 0
+part: Via__153
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 252300000 199550000 0 0 0
+part: Via__154
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 246050000 199550000 0 0 0
+part: Via__155
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 252300000 207550000 0 0 0
+part: Via__156
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 252300000 209300000 0 0 0
+part: Via__157
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 246300000 209300000 0 0 0
+part: Via__158
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 251050000 216800000 0 0 0
+part: Via__159
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 301550000 228300000 0 0 0
+part: Via__160
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 315300000 224550000 0 0 0
+part: Via__161
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 323800000 228300000 0 0 0
+part: Via__162
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 311550000 228300000 0 0 0
+part: Via__163
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 305800000 224550000 0 0 0
+part: Via__164
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 322300000 203050000 0 0 0
+part: Via__165
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 330800000 203050000 0 0 0
+part: Via__166
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 317800000 151300000 0 0 0
+part: Via__167
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 241550000 195300000 0 0 0
+part: Via__168
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 331800000 196050000 0 0 0
+part: Via__169
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 326800000 195800000 0 0 0
+part: Via__170
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 331800000 183800000 0 0 0
+part: Via__171
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 326550000 183800000 0 0 0
+part: Via__172
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 330800000 158050000 0 0 0
+part: Via__173
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 308800000 151550000 0 0 0
+part: Via__174
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 298800000 151050000 0 0 0
+part: Via__175
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 280300000 197550000 0 0 0
+part: Via__176
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 277550000 192300000 0 0 0
+part: Via__177
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 259800000 220550000 0 0 0
+part: Via__178
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 294550000 224550000 0 0 0
+part: Via__179
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 274550000 184050000 0 0 0
+part: Via__180
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 241300000 228800000 0 0 0
+part: Via__181
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 241550000 220800000 0 0 0
+part: Via__182
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 269050000 183300000 0 0 0
+part: Via__183
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 266050000 186300000 0 0 0
+part: Via__184
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 266050000 200800000 0 0 0
+part: Via__185
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 303550000 214300000 0 0 0
+part: Via__186
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 312550000 155050000 0 0 0
+part: Via__187
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 311300000 192300000 0 0 0
+part: Via__188
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 312300000 201550000 0 0 0
+part: Via__189
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 303300000 155050000 0 0 0
+part: Via__190
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 322550000 155300000 0 0 0
+part: Via__191
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 311550000 214300000 0 0 0
+part: Via__192
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 294050000 168300000 0 0 0
+part: Via__193
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 302300000 168300000 0 0 0
+part: Via__194
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 269300000 151300000 0 0 0
+part: Via__195
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 261300000 162300000 0 0 0
+part: Via__196
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 294800000 214300000 0 0 0
+part: Via__197
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 263050000 183050000 0 0 0
+part: Via__198
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 287800000 151050000 0 0 0
+part: Via__199
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 309550000 168300000 0 0 0
+part: Via__200
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 278300000 151050000 0 0 0
+part: Via__201
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 241300000 152050000 0 0 0
+part: Via__202
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 266050000 176550000 0 0 0
+part: Via__203
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 241550000 185300000 0 0 0
+part: Via__204
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 266050000 195800000 0 0 0
+part: Via__205
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 290550000 163550000 0 0 0
+part: Via__206
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 282550000 184800000 0 0 0
+part: Via__207
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 246300000 170800000 0 0 0
+part: Via__216
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 257800000 164550000 0 0 0
+part: Via__217
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 257800000 163300000 0 0 0
+part: Via__218
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 259050000 164550000 0 0 0
+part: Via__219
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 259050000 163300000 0 0 0
+part: Via__220
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 257800000 168050000 0 0 0
+part: Via__221
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 257800000 166800000 0 0 0
+part: Via__222
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 257800000 169300000 0 0 0
+part: Via__223
+ref_text: 0 0 0 0 0
+shape: "Default_Dip0"
+pos: 257800000 170550000 0 0 0
+Total

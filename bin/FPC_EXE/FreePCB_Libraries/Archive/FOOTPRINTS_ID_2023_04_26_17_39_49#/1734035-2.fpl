@@ -1,0 +1,160 @@
+name: "1734035-2"
+package: "MINI USB 54819"
+author: "Deshkov"
+description: "Connectors"
+units: NM
+sel_rect: -5900000 -5130000 5900000 1910000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+text: "1" 1000000 2100000 -5050000 0 100000 0 4
+outline_polyline: 10000 -2651250 1905000 1 0 7
+next_corner: 2540000 1905000 0
+outline_polyline: 10000 -5150000 -2630000 1 0 7
+next_corner: -3850000 -2630000 0
+outline_polyline: 10000 -5150000 -4130000 1 0 7
+next_corner: -5150000 -2630000 0
+outline_polyline: 10000 -3850000 -4130000 1 0 7
+next_corner: -5150000 -4130000 0
+outline_polyline: 10000 -5150000 1650000 1 0 7
+next_corner: -3850000 1650000 0
+outline_polyline: 10000 -5150000 150000 1 0 7
+next_corner: -5150000 1650000 0
+outline_polyline: 10000 -3850000 150000 1 0 7
+next_corner: -5150000 150000 0
+outline_polyline: 10000 3850000 -2630000 1 0 7
+next_corner: 5150000 -2630000 0
+outline_polyline: 10000 5150000 -2630000 1 0 7
+next_corner: 5150000 -4130000 0
+outline_polyline: 10000 5150000 -4130000 1 0 7
+next_corner: 3850000 -4130000 0
+outline_polyline: 10000 3850000 1650000 1 0 7
+next_corner: 5150000 1650000 0
+outline_polyline: 10000 5150000 1650000 1 0 7
+next_corner: 5150000 150000 0
+outline_polyline: 10000 5150000 150000 1 0 7
+next_corner: 3850000 150000 0
+outline_polyline: 10000 -3651250 1705000 1 0 7
+next_corner: -3651250 -4162500 0
+outline_polyline: 10000 3651250 -4162500 1 0 7
+next_corner: 3651250 1705000 0
+n_pins: 21
+pin: "4" 0 -800000 -3630000 180 ""
+top_pad: 3 3000000 200000 200000 0
+pin: "5" 0 -1600000 -3630000 180 ""
+top_pad: 3 3000000 200000 200000 0
+pin: "1" 0 1600000 -3630000 180 ""
+top_pad: 3 3000000 200000 200000 0
+pin: "2" 0 800000 -3630000 180 ""
+top_pad: 3 3000000 200000 200000 0
+pin: "3" 0 0 -3630000 180 ""
+top_pad: 3 3000000 200000 200000 0
+pin: "5" 0 -4400000 -3450000 180 ""
+top_pad: 4 3000000 1500000 1500000 400000
+top_mask: 4 2000000 1000000 1000000 400000
+pin: "5" 0 -4400000 850000 180 ""
+top_pad: 4 2000000 1500000 1500000 400000
+top_mask: 4 1900000 950000 950000 400000
+pin: "5" 350000 -4000000 -400000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 -4800000 -400000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 0 4400000 850000 180 ""
+top_pad: 4 2000000 1500000 1500000 400000
+top_mask: 4 1900000 950000 950000 400000
+pin: "5" 0 4400000 -3450000 180 ""
+top_pad: 4 3000000 1500000 1500000 400000
+top_mask: 4 2000000 1000000 1000000 400000
+pin: "5" 350000 -4800000 -1300000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 -4000000 -1300000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 -4000000 -2200000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 -4800000 -2200000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 4000000 -2200000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 4800000 -2200000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 4800000 -1300000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 4000000 -1300000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 4000000 -400000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 4800000 -400000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+

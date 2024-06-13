@@ -1,0 +1,254 @@
+//============================================
+// Code builder for OpenScad via Freepcb-2 app
+// Author: duxahtech © 2014-2023
+//============================================
+
+
+
+// Polylines
+module Poly3_MSOP_8T ()
+{
+    // Global rotation 90.000 //
+    // Global lift 0.000mm //
+    // matrix: 1 1 1 0.000 0.000 0.000 //
+    // resolution $fn = 20 //
+    color( [0.2,0.2,0.2] )
+    {
+        translate([ 0.000,  0.000,  0.010 ])
+        {
+            translate([ -12.100, 8.700, 0.0 ])
+            {
+                translate([ 1.600, -1.700, 0.0 ])
+                {
+                    linear_extrude( 0.510, scale= 0.900, convexity=Convexity )
+                    {
+                        polygon([ [-1.600, 1.700], 
+                                  [-1.600, -1.700], 
+                                  [1.600, -1.700], 
+                                  [1.600, 1.700] ]);
+                    }
+                }
+            }
+        }
+    }
+    // end of module
+}
+module Poly4_MSOP_8T ()
+{
+    // Global rotation 90.000 //
+    // Global lift 0.000mm //
+    // matrix: 1 1 1 0.000 0.000 0.000 //
+    // resolution $fn = 20 //
+    color( [0.5,0.5,0.5] )
+    {
+        translate([ 3.200,  0.000,  0.000 ])
+        {
+            translate([ -12.100, 8.700, 0.0 ])
+            {
+                rotate([ 0.000,  180.000,  0.000 ])
+                {
+                    translate([ 1.600, -1.700, 0.0 ])
+                    {
+                        linear_extrude( 0.510, scale= 0.900, convexity=Convexity )
+                        {
+                            polygon([ [-1.600, 1.700], 
+                                      [-1.600, -1.700], 
+                                      [1.600, -1.700], 
+                                      [1.600, 1.700] ]);
+                        }
+                    }
+                }
+            }
+        }
+    }
+    // end of module
+}
+module Poly5_MSOP_8T ()
+{
+    // Global rotation 90.000 //
+    // Global lift 0.000mm //
+    // matrix: 4 2 1 0.650 -4.200 0.000 //
+    // resolution $fn = 20 //
+    color( "Aqua" )
+    {
+        translate([ 0.000,  0.000,  -0.500 ])
+        {
+            translate([ -11.650, 9.700, 0.0 ])
+            {
+                linear_extrude( 0.500, scale= 1.000, convexity=Convexity )
+                {
+                    polygon([ [0.000, 0.000], 
+                              [0.000, -1.200], 
+                              [0.350, -1.200], 
+                              [0.350, 0.000] ]);
+                }
+            }
+        }
+    }
+    // end of module
+}
+
+
+// Footprint
+module fp_MSOP_8T ()
+{
+    union()
+    {
+        Poly3_MSOP_8T();
+        Poly4_MSOP_8T();
+        Poly5_MSOP_8T();
+        translate([ 0.000, -4.200, 0.000 ]) {Poly5_MSOP_8T();}
+        translate([ 0.650, -0.000, 0.000 ]) {Poly5_MSOP_8T();}
+        translate([ 0.650, -4.200, 0.000 ]) {Poly5_MSOP_8T();}
+        translate([ 1.300, -0.000, 0.000 ]) {Poly5_MSOP_8T();}
+        translate([ 1.300, -4.200, 0.000 ]) {Poly5_MSOP_8T();}
+        translate([ 1.950, -0.000, 0.000 ]) {Poly5_MSOP_8T();}
+        translate([ 1.950, -4.200, 0.000 ]) {Poly5_MSOP_8T();}
+        // end of union
+    }
+    // end of module
+}
+
+
+// Footprint
+module FMSOP_8T ()
+{
+    difference()
+    {
+        union()
+        {
+            rotate([ 0.0,  0.0,  90.0 ])
+                translate([ 10.500,  -7.000,  0.610 ])
+                fp_MSOP_8T();
+
+            // pads
+            if( enable_draw_pads )
+            color( "gray" )
+            {
+                $fn=8;
+                difference()
+                {
+                    union()
+                    {
+                        translate([ -2.300, 0.975, -board_h/2.0 ])
+                         rotate(22.5)
+                          cylinder( h=board_h+0.100, d1=0.000, d2=0.000, center=true );
+                        translate([ -2.300, 0.975, -0.050 ])
+                          linear_extrude( 0.100 )
+                            polygon([[ 0.800, 0.225 ],
+                                    [ -0.800, 0.225 ],
+                                    [ -0.800, -0.225 ],
+                                    [ 0.800, -0.225 ]]);
+                        translate([ -2.300, 0.325, -board_h/2.0 ])
+                         rotate(22.5)
+                          cylinder( h=board_h+0.100, d1=0.000, d2=0.000, center=true );
+                        translate([ -2.300, 0.325, -0.050 ])
+                          linear_extrude( 0.100 )
+                            polygon([[ 0.800, 0.225 ],
+                                    [ -0.800, 0.225 ],
+                                    [ -0.800, -0.225 ],
+                                    [ 0.800, -0.225 ]]);
+                        translate([ -2.300, -0.325, -board_h/2.0 ])
+                         rotate(22.5)
+                          cylinder( h=board_h+0.100, d1=0.000, d2=0.000, center=true );
+                        translate([ -2.300, -0.325, -0.050 ])
+                          linear_extrude( 0.100 )
+                            polygon([[ 0.800, 0.225 ],
+                                    [ -0.800, 0.225 ],
+                                    [ -0.800, -0.225 ],
+                                    [ 0.800, -0.225 ]]);
+                        translate([ -2.300, -0.975, -board_h/2.0 ])
+                         rotate(22.5)
+                          cylinder( h=board_h+0.100, d1=0.000, d2=0.000, center=true );
+                        translate([ -2.300, -0.975, -0.050 ])
+                          linear_extrude( 0.100 )
+                            polygon([[ 0.800, 0.225 ],
+                                    [ -0.800, 0.225 ],
+                                    [ -0.800, -0.225 ],
+                                    [ 0.800, -0.225 ]]);
+                        translate([ 2.300, -0.975, -board_h/2.0 ])
+                         rotate(22.5)
+                          cylinder( h=board_h+0.100, d1=0.000, d2=0.000, center=true );
+                        translate([ 2.300, -0.975, -0.050 ])
+                          linear_extrude( 0.100 )
+                            polygon([[ 0.800, 0.225 ],
+                                    [ -0.800, 0.225 ],
+                                    [ -0.800, -0.225 ],
+                                    [ 0.800, -0.225 ]]);
+                        translate([ 2.300, -0.325, -board_h/2.0 ])
+                         rotate(22.5)
+                          cylinder( h=board_h+0.100, d1=0.000, d2=0.000, center=true );
+                        translate([ 2.300, -0.325, -0.050 ])
+                          linear_extrude( 0.100 )
+                            polygon([[ 0.800, 0.225 ],
+                                    [ -0.800, 0.225 ],
+                                    [ -0.800, -0.225 ],
+                                    [ 0.800, -0.225 ]]);
+                        translate([ 2.300, 0.325, -board_h/2.0 ])
+                         rotate(22.5)
+                          cylinder( h=board_h+0.100, d1=0.000, d2=0.000, center=true );
+                        translate([ 2.300, 0.325, -0.050 ])
+                          linear_extrude( 0.100 )
+                            polygon([[ 0.800, 0.225 ],
+                                    [ -0.800, 0.225 ],
+                                    [ -0.800, -0.225 ],
+                                    [ 0.800, -0.225 ]]);
+                        translate([ 2.300, 0.975, -board_h/2.0 ])
+                         rotate(22.5)
+                          cylinder( h=board_h+0.100, d1=0.000, d2=0.000, center=true );
+                        translate([ 2.300, 0.975, -0.050 ])
+                          linear_extrude( 0.100 )
+                            polygon([[ 0.800, 0.225 ],
+                                    [ -0.800, 0.225 ],
+                                    [ -0.800, -0.225 ],
+                                    [ 0.800, -0.225 ]]);
+                        translate([ 0.000, 0.000, -board_h/2.0 ])
+                         rotate(22.5)
+                          cylinder( h=board_h+0.100, d1=0.500, d2=0.500, center=true );
+                        translate([ 0.000, 0.000, -0.050 ])
+                          linear_extrude( 0.100 )
+                            polygon([[ 0.925, 1.250 ],
+                                    [ -0.925, 1.250 ],
+                                    [ -0.925, -1.250 ],
+                                    [ 0.925, -1.250 ]]);
+                        // end of union
+                    }
+                    translate([ -2.300, 0.975, -board_h/2.0 ])
+                     rotate(22.5)
+                      cylinder( h=board_h*2.0, d1=-0.200, d2=-0.200, center=true );
+                    translate([ -2.300, 0.325, -board_h/2.0 ])
+                     rotate(22.5)
+                      cylinder( h=board_h*2.0, d1=-0.200, d2=-0.200, center=true );
+                    translate([ -2.300, -0.325, -board_h/2.0 ])
+                     rotate(22.5)
+                      cylinder( h=board_h*2.0, d1=-0.200, d2=-0.200, center=true );
+                    translate([ -2.300, -0.975, -board_h/2.0 ])
+                     rotate(22.5)
+                      cylinder( h=board_h*2.0, d1=-0.200, d2=-0.200, center=true );
+                    translate([ 2.300, -0.975, -board_h/2.0 ])
+                     rotate(22.5)
+                      cylinder( h=board_h*2.0, d1=-0.200, d2=-0.200, center=true );
+                    translate([ 2.300, -0.325, -board_h/2.0 ])
+                     rotate(22.5)
+                      cylinder( h=board_h*2.0, d1=-0.200, d2=-0.200, center=true );
+                    translate([ 2.300, 0.325, -board_h/2.0 ])
+                     rotate(22.5)
+                      cylinder( h=board_h*2.0, d1=-0.200, d2=-0.200, center=true );
+                    translate([ 2.300, 0.975, -board_h/2.0 ])
+                     rotate(22.5)
+                      cylinder( h=board_h*2.0, d1=-0.200, d2=-0.200, center=true );
+                    translate([ 0.000, 0.000, -board_h/2.0 ])
+                     rotate(22.5)
+                      cylinder( h=board_h*2.0, d1=0.300, d2=0.300, center=true );
+                    // end of difference
+                }
+                // end of pins
+            }
+                        // end of union
+        }
+                // end of difference
+    }
+    // end of module
+}
+
+

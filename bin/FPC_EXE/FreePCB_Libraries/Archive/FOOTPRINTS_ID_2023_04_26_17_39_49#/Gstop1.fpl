@@ -1,0 +1,350 @@
+name: "LGA14"
+author: "unknown"
+package: "LIS202"
+description: "Chips"
+  units: NM
+  sel_rect: -2576100 -3250000 2350000 3350000
+  ref_text: 900000 -1500000 -4300000 0 100000
+  value_text: 600000 3000000 -1600000 270 50000
+  centroid: 0 0 0 0
+  outline_polyline: 100000 -2300000 2340920 1 1 4
+    next_corner: -2300000 -2500000 0
+    next_corner: -1600000 -3200000 0
+    next_corner: 1600000 -3200000 0
+    next_corner: 2300000 -2500000 0
+    next_corner: 2300000 2600000 0
+    next_corner: 1600000 3300000 0
+    next_corner: -1600000 3296920 0
+    next_corner: -1917700 2979420 0
+  outline_polyline: 250000 -1595120 2161540 1 1 15
+    next_corner: -2451100 3020060 0
+  n_pins: 14
+    pin: "1" 0 -1200000 2000000 0 ""
+      top_pad: 4 500000 650000 650000 0
+    pin: "10" 0 1200000 -400000 0 ""
+      top_pad: 4 500000 650000 650000 0
+    pin: "11" 0 1200000 400000 0 ""
+      top_pad: 4 500000 650000 650000 0
+    pin: "12" 0 1200000 1200000 0 ""
+      top_pad: 4 500000 650000 650000 0
+    pin: "13" 0 1200000 2000000 0 ""
+      top_pad: 4 500000 650000 650000 0
+    pin: "14" 0 0 2200000 90 ""
+      top_pad: 4 450000 650000 650000 0
+    pin: "2" 0 -1200000 1200000 0 ""
+      top_pad: 4 500000 650000 650000 0
+    pin: "3" 0 -1200000 400000 0 ""
+      top_pad: 4 500000 650000 650000 0
+    pin: "4" 0 -1200000 -400000 0 ""
+      top_pad: 4 500000 650000 650000 0
+    pin: "5" 0 -1200000 -1200000 0 ""
+      top_pad: 4 500000 650000 650000 0
+    pin: "6" 0 -1200000 -2000000 0 ""
+      top_pad: 4 500000 650000 650000 0
+    pin: "7" 0 0 -2200000 90 ""
+      top_pad: 4 450000 650000 650000 0
+    pin: "8" 0 1200000 -2000000 0 ""
+      top_pad: 4 500000 650000 650000 0
+    pin: "9" 0 1200000 -1200000 0 ""
+      top_pad: 4 500000 650000 650000 0
+
+name: "X1"
+author: "Ivex"
+package: "CK05"
+description: "none"
+  units: NM
+  sel_rect: -4525400 -3125400 4525400 2925400
+  ref_text: 1270000 -2800000 -2200000 0 177800
+  value_text: 1270000 -3000000 800000 0 177800
+  centroid: 0 0 0 0
+  text: "ะฮวลาสภ" 1000000 -3400000 -4400000 0 100000 0 4
+  outline_polyline: 200000 -2000000 2800000 1 0 4
+    next_corner: -4400000 400000 2
+    next_corner: -4400000 -600000 0
+    next_corner: -2000000 -3000000 2
+    next_corner: 2000000 -3000000 0
+    next_corner: 4400000 -600000 2
+    next_corner: 4400000 400000 0
+    next_corner: 2000000 2800000 2
+    close_polyline: 0
+  n_pins: 2
+    pin: "1" 0 -2000000 0 0 ""
+      top_pad: 5 4000000 1500000 1500000 1500000
+    pin: "2" 0 2000000 0 0 ""
+      top_pad: 5 4000000 1500000 1500000 1500000
+
+name: "PLS-3"
+author: "Ivex"
+package: "PLS-3"
+  units: NM
+  sel_rect: -4189000 -1649000 4189000 1649000
+  ref_text: 1270000 4622800 -2540000 0 177800
+  value_text: 1270000 4622800 -5080000 0 177800
+  centroid: 0 0 0 0
+  outline_polyline: 250000 -1270000 1016000 1 0 4
+    next_corner: -1778000 1524000 0
+    next_corner: -3556000 1524000 0
+    next_corner: -4064000 1016000 0
+    next_corner: -4064000 -1016000 0
+    next_corner: -3556000 -1524000 0
+    next_corner: -1778000 -1524000 0
+    next_corner: -1270000 -1016000 0
+    next_corner: -762000 -1524000 0
+    next_corner: 762000 -1524000 0
+    next_corner: 1270000 -1016000 0
+    next_corner: 1778000 -1524000 0
+    next_corner: 3556000 -1524000 0
+    next_corner: 4064000 -1016000 0
+    next_corner: 4064000 1016000 0
+    next_corner: 3556000 1524000 0
+    next_corner: 1778000 1524000 0
+    next_corner: 1270000 1016000 0
+    next_corner: 762000 1524000 0
+    next_corner: -762000 1524000 0
+    close_polyline: 0
+  n_pins: 3
+    pin: "1" 1143000 -2540000 0 0 ""
+      top_pad: 1 2032000 1016000 1016000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 2032000 1016000 1016000 0
+    pin: "2" 1143000 0 0 0 ""
+      top_pad: 1 2032000 1016000 1016000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 2032000 1016000 1016000 0
+    pin: "3" 1143000 2540000 0 0 ""
+      top_pad: 1 2032000 1016000 1016000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 2032000 1016000 1016000 0
+
+name: "SOT-23-5"
+author: "Ivex"
+package: "SOT-23-5"
+description: "none"
+  units: MIL
+  sel_rect: -30 -27 105 129
+  ref_text: 50 37 -70 0 7
+  value_text: 50 37 -170 0 7
+  centroid: 0 37.5 51 0
+  outline_polyline: 7 -22 30 1 0 4
+    next_corner: 97 30 0
+    next_corner: 97 72 0
+    next_corner: -22 72 0
+    close_polyline: 0
+  outline_polyline: 7 -22 41 1 0 4
+    next_corner: 0 41 0
+    next_corner: 0 61 0
+    next_corner: -22 61 0
+    close_polyline: 0
+  n_pins: 5
+    pin: "1" 0 0 0 0 ""
+      top_pad: 3 39 13 13 0
+    pin: "2" 0 37 0 0 ""
+      top_pad: 3 39 13 13 0
+    pin: "3" 0 75 0 0 ""
+      top_pad: 3 39 13 13 0
+    pin: "4" 0 75 102 0 ""
+      top_pad: 3 39 13 13 0
+    pin: "5" 0 0 102 0 ""
+      top_pad: 3 39 13 13 0
+
+name: "RC0805"
+author: "i"
+package: "RC0805"
+description: "Resistors"
+  units: NM
+  sel_rect: -2100400 -1250400 2100400 1250400
+  ref_text: 600000 -1450000 50000 0 100000
+  value_text: 500000 -1450000 -650000 0 80000
+  centroid: 0 0 0 0
+  outline_polyline: 150000 -2000000 1150000 1 0 4
+    next_corner: -2000000 -1150000 0
+    next_corner: 2000000 -1150000 0
+    next_corner: 2000000 1150000 0
+    close_polyline: 0
+  n_pins: 2
+    pin: "1" 0 -1000000 0 270 ""
+      top_pad: 4 1000000 650000 650000 0
+      top_mask: 3 1000000 650000 650000 0
+    pin: "2" 0 1000000 0 270 ""
+      top_pad: 4 1000000 650000 650000 0
+      top_mask: 3 1000000 650000 650000 0
+
+name: "LED-T1"
+author: "Ivex"
+package: "LED-T1"
+  units: MIL
+  sel_rect: -67 -139 119 47
+  ref_text: 50 35 105 0 7
+  value_text: 50 35 5 0 7
+  centroid: 0 35.5 -35.5 0
+  outline_polyline: 7 111 -46 1 0 4
+    next_corner: 26 39 2
+  outline_polyline: 7 26 -131 1 0 4
+    next_corner: 111 -46 2
+  outline_polyline: 7 26 39 1 0 4
+    next_corner: -59 -46 2
+  outline_polyline: 7 -59 -46 1 0 4
+    next_corner: 26 -131 0
+  n_pins: 2
+    pin: "1" 26 71 0 0 ""
+      top_pad: 1 50 25 25 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 50 25 25 0
+    pin: "2" 26 0 -71 0 ""
+      top_pad: 1 50 25 25 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 50 25 25 0
+
+name: "QSOP-20"
+author: "unknown"
+package: "QSOP-20"
+description: "none"
+  units: NM
+  sel_rect: -3959860 -4538980 3675000 4375000
+  ref_text: 300000 0 500000 0 50000
+  value_text: 300000 0 0 0 50000
+  centroid: 0 0 0 0
+  text: "." 4000000 -3760000 -4340000 0 400000 0 4
+  outline_polyline: 150000 -3570880 -4300000 1 0 4
+    next_corner: 3600000 -4300000 0
+    next_corner: 3600000 -1900000 0
+    next_corner: 2900000 -1200000 0
+    next_corner: 2900000 1200000 0
+    next_corner: 3600000 1900000 0
+    next_corner: 3600000 4300000 0
+    next_corner: -3600000 4300000 0
+    next_corner: -3600000 1900000 0
+    next_corner: -2883310 1183310 0
+    next_corner: -2883310 -1183310 0
+    next_corner: -3600000 -1900000 0
+    next_corner: -3600000 -4270120 0
+  n_pins: 20
+    pin: "1" 0 -2925000 -2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "2" 0 -2275000 -2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "3" 0 -1625000 -2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "4" 0 -975000 -2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "17" 0 -975000 2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "18" 0 -1625000 2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "19" 0 -2275000 2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "20" 0 -2925000 2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "6" 0 325000 -2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "7" 0 975000 -2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "8" 0 1625000 -2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "9" 0 2275000 -2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "10" 0 2925000 -2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "15" 0 325000 2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "14" 0 975000 2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "13" 0 1625000 2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "12" 0 2275000 2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "11" 0 2925000 2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "5" 0 -325000 -2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+    pin: "16" 0 -325000 2860000 180 ""
+      top_pad: 3 2000000 200000 200000 0
+
+name: "TO-252AA-3"
+package: "TO-252AA-3"
+  units: NM
+  sel_rect: -2900000 -7400000 2900000 3200000
+  ref_text: 0 2540000 5080000 0 254000
+  value_text: 0 2540000 0 0 254000
+  centroid: 0 0 0 0
+  n_pins: 4
+    pin: "4" 0 0 0 0 ""
+      top_pad: 3 6400000 2900000 2900000 0
+    pin: "1" 0 -2300000 -6300000 0 ""
+      top_pad: 3 2200000 600000 600000 0
+    pin: "3" 0 2300000 -6300000 0 ""
+      top_pad: 3 2200000 600000 600000 0
+    pin: "2" 0 0 -6300000 0 ""
+      top_pad: 3 2200000 600000 600000 0
+
+name: "SOT-23"
+author: "Duxah"
+package: "SOT-23"
+description: "Chips"
+  units: NM
+  sel_rect: -1980000 -2895600 1980000 609600
+  ref_text: 900000 -1397000 1143000 0 100000
+  value_text: 600000 -1651000 254000 0 100000
+  centroid: 0 0 -1143000 0
+  outline_polyline: 100000 -635000 -254000 1 0 4
+    next_corner: -1651000 -254000 0
+    next_corner: -1905000 -508000 0
+    next_corner: -1905000 -1651000 0
+    next_corner: -1651000 -1905000 0
+    next_corner: -1651000 -1905000 0
+  outline_polyline: 100000 635000 -254000 1 0 4
+    next_corner: 1651000 -254000 0
+    next_corner: 1905000 -508000 0
+    next_corner: 1905000 -1651000 0
+    next_corner: 1651000 -1905000 0
+    next_corner: 1651000 -1905000 0
+  outline_polyline: 100000 -381000 -1905000 1 0 4
+    next_corner: 381000 -1905000 0
+  n_pins: 3
+    pin: "3" 0 0 0 0 ""
+      top_pad: 3 1219200 508000 508000 0
+    pin: "1" 0 -1016000 -2286000 0 ""
+      top_pad: 3 1219200 508000 508000 0
+    pin: "2" 0 1016000 -2286000 0 ""
+      top_pad: 3 1219200 508000 508000 0
+
+name: "0603"
+author: "Ivex"
+package: "0603"
+description: "none"
+  units: NM
+  sel_rect: -1053200 -1103200 2753200 1103200
+  ref_text: 1270000 850000 1900000 0 177800
+  value_text: 1270000 850000 -640000 0 177800
+  centroid: 0 850000 0 0
+  outline_polyline: 177800 -850000 900000 1 0 4
+    next_corner: 2550000 900000 0
+    next_corner: 2550000 -900000 0
+    next_corner: -850000 -900000 0
+    close_polyline: 0
+  n_pins: 2
+    pin: "1" 0 0 0 0 ""
+      top_pad: 3 1200000 550000 550000 0
+    pin: "2" 0 1700000 0 0 ""
+      top_pad: 3 1200000 550000 550000 0
+
+name: "SOD-123"
+author: "Ivex"
+package: "SOD-123"
+  units: NM
+  sel_rect: -1253200 -903200 4653200 903200
+  ref_text: 1270000 1700000 2300000 0 177800
+  value_text: 1270000 1700000 -240000 0 177800
+  centroid: 0 1700000 0 0
+  outline_polyline: 177800 -1050000 700000 1 0 4
+    next_corner: 4450000 700000 0
+    next_corner: 4450000 -700000 0
+    next_corner: -1050000 -700000 0
+    close_polyline: 0
+  n_pins: 2
+    pin: "1" 0 0 0 0 ""
+      top_pad: 3 800000 750000 750000 0
+    pin: "2" 0 3400000 0 0 ""
+      top_pad: 3 800000 750000 750000 0
+
+[end]

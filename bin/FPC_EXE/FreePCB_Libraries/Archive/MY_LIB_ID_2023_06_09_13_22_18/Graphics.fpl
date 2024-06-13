@@ -1,0 +1,28 @@
+name: "KPTB-1612SURKQBDC"
+package: "KPTB-1612SURKQBDC"
+author: "Duxer"
+description: "Graphics"
+units: NM
+sel_rect: -2349500 -1049020 1225000 1013000
+ref_text: 1000000 1600000 500000 0 100000
+value_text: 1000000 1600000 -900000 0 100000
+centroid: 0 0 0 0
+text: "." 5000000 -2100000 -800000 0 500000 0 4
+outline_polyline: 150000 -799000 785000 1 1 4
+next_corner: -799000 938000 0
+next_corner: 799000 938000 0
+next_corner: 799000 790000 0
+outline_polyline: 150000 -799660 -789600 1 1 4
+next_corner: -799660 -942600 0
+next_corner: 798340 -942600 0
+next_corner: 798340 -794600 0
+n_pins: 4
+pin: "1" 0 -825000 -430000 0 ""
+top_pad: 3 400000 400000 400000 0
+pin: "2" 0 825000 -430000 0 ""
+top_pad: 3 400000 400000 400000 0
+pin: "3" 0 -825000 430000 0 ""
+top_pad: 3 400000 400000 400000 0
+pin: "4" 0 825000 430000 0 ""
+top_pad: 3 400000 400000 400000 0
+

@@ -1,0 +1,22 @@
+name: "RC0805"
+package: "RC0805"
+author: "i"
+description: "Resistors"
+units: NM
+sel_rect: -2100400 -1250400 2100400 1250400
+ref_text: 600000 -1450000 50000 0 100000
+value_text: 500000 -1450000 -650000 0 80000
+centroid: 0 0 0 0
+outline_polyline: 150000 -2000000 1150000 1 0 4
+next_corner: -2000000 -1150000 0
+next_corner: 2000000 -1150000 0
+next_corner: 2000000 1150000 0
+close_polyline: 0
+n_pins: 2
+pin: "1" 0 -1000000 0 270 ""
+top_pad: 4 1000000 650000 650000 0
+top_mask: 3 1000000 650000 650000 0
+pin: "2" 0 1000000 0 270 ""
+top_pad: 4 1000000 650000 650000 0
+top_mask: 3 1000000 650000 650000 0
+

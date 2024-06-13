@@ -1,0 +1,2 @@
+Транзистор IRF5505PBF (TO-252AA-3)
+P-channel 55V 18A

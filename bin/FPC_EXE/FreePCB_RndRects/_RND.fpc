@@ -1,0 +1,4608 @@
+
+
+C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\FreePCBDev\upload_latest_version\FreePcbDev\FPC_EXE\FreePCB_RndRects\_RND.fpc
+
+[options]
+
+app_folder: C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\FreePCBDev\upload_latest_version\FreePcbDev
+version: 2.403
+file_version: 2.403
+project_name: "Box-01"
+library_folder: "c:\users\duxah\desktop\duxah\freepcbdoc\freepcbdev\upload_latest_version\fp_lib"
+full_library_folder: "c:\users\duxah\desktop\duxah\freepcbdoc\freepcbdev\upload_latest_version\fp_lib\my_lib"
+parent_folder: "C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\TRASH\PCB\Bat-Box\"
+CAM_folder: "C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\TRASH\PCB\Bat-Box\version-01\CAM(Bat)(7-8-2022)"
+ses_file_path: ""
+netlist_completed: "1"
+part_search: "h"
+png_settings: "800 0.05"
+netlist_file_path: "C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\TRASH\PCB\Bat-Box\version-01\related_files\CDS_netlist\Box-01.fpc.net"
+SMT_connect_copper: "1"
+default_glue_width: "635000"
+dsn_flags: "3"
+dsn_bounds_poly: "0"
+dsn_signals_poly: "0"
+autosave_interval: 60
+auto_ratline_disable: "1"
+auto_ratline_disable_min_pins: "100"
+netlist_import_flags: 3015
+m_client_rect_left: 110
+m_client_rect_right: 1187
+m_client_rect_bottom: 730
+m_client_rect_top: 0
+m_org_x: -29232
+m_org_y: -20579
+m_scale_factor: 70705
+part_line_visible: 1
+merge_shown: 1
+pdf_pin1: 0.700000
+pdf_use_font: -635000 635000
+units: MM
+
+m_sel_mask: 2147483645
+m_visible_layers: -84229
+m_top_layer: 13
+m_grid_style: 0
+visible_grid_spacing: 10000000.000000
+visible_grid_item: 100mil
+visible_grid_item: 125mil
+visible_grid_item: 200mil
+visible_grid_item: 250mil
+visible_grid_item: 400mil
+visible_grid_item: 500mil
+visible_grid_item: 1000mil
+visible_grid_item: 1mm
+visible_grid_item: 2mm
+visible_grid_item: 2.5mm
+visible_grid_item: 4mm
+visible_grid_item: 5mm
+visible_grid_item: 10mm
+visible_grid_item: 20mm
+visible_grid_item: 25mm
+visible_grid_item: 40mm
+visible_grid_item: 50mm
+visible_grid_item: 100mm
+
+placement_grid_spacing: 250000.000000
+placement_grid_item: 10mil
+placement_grid_item: 20mil
+placement_grid_item: 25mil
+placement_grid_item: 40mil
+placement_grid_item: 50mil
+placement_grid_item: 100mil
+placement_grid_item: 200mil
+placement_grid_item: 250mil
+placement_grid_item: 400mil
+placement_grid_item: 500mil
+placement_grid_item: 1000mil
+placement_grid_item: 0mm
+placement_grid_item: 0.1mm
+placement_grid_item: 0.2mm
+placement_grid_item: 0.25mm
+placement_grid_item: 0.4mm
+placement_grid_item: 0.5mm
+placement_grid_item: 1mm
+placement_grid_item: 2mm
+placement_grid_item: 2.5mm
+placement_grid_item: 4mm
+placement_grid_item: 5mm
+placement_grid_item: 10mm
+
+routing_grid_spacing: 0.000000
+routing_grid_item: 1mil
+routing_grid_item: 2mil
+routing_grid_item: 2.5mil
+routing_grid_item: 3.33330709mil
+routing_grid_item: 4mil
+routing_grid_item: 5mil
+routing_grid_item: 6.665mil
+routing_grid_item: 10mil
+routing_grid_item: 12.5mil
+routing_grid_item: 16.665mil
+routing_grid_item: 20mil
+routing_grid_item: 25mil
+routing_grid_item: 40mil
+routing_grid_item: 50mil
+routing_grid_item: 0mm
+routing_grid_item: 0.01mm
+routing_grid_item: 0.02mm
+routing_grid_item: 0.04mm
+routing_grid_item: 0.05mm
+routing_grid_item: 0.1mm
+routing_grid_item: 0.2mm
+routing_grid_item: 0.25mm
+routing_grid_item: 0.4mm
+routing_grid_item: 0.5mm
+routing_grid_item: 1mm
+routing_grid_item: 2mm
+routing_grid_item: 2.5mm
+routing_grid_item: 4mm
+routing_grid_item: 5mm
+routing_grid_item: 10mm
+
+snap_angle: 45
+
+fp_visible_grid_spacing: 1000000.000000
+fp_visible_grid_item: 100mil
+fp_visible_grid_item: 125mil
+fp_visible_grid_item: 200mil
+fp_visible_grid_item: 250mil
+fp_visible_grid_item: 400mil
+fp_visible_grid_item: 500mil
+fp_visible_grid_item: 1000mil
+fp_visible_grid_item: 1mm
+fp_visible_grid_item: 2mm
+fp_visible_grid_item: 2.5mm
+fp_visible_grid_item: 4mm
+fp_visible_grid_item: 5mm
+fp_visible_grid_item: 10mm
+fp_visible_grid_item: 20mm
+fp_visible_grid_item: 25mm
+fp_visible_grid_item: 40mm
+fp_visible_grid_item: 50mm
+fp_visible_grid_item: 100mm
+
+fp_placement_grid_spacing: 500000.000000
+fp_placement_grid_item: 10mil
+fp_placement_grid_item: 20mil
+fp_placement_grid_item: 25mil
+fp_placement_grid_item: 40mil
+fp_placement_grid_item: 50mil
+fp_placement_grid_item: 100mil
+fp_placement_grid_item: 200mil
+fp_placement_grid_item: 250mil
+fp_placement_grid_item: 400mil
+fp_placement_grid_item: 500mil
+fp_placement_grid_item: 1000mil
+fp_placement_grid_item: 0.02mm
+fp_placement_grid_item: 0.05mm
+fp_placement_grid_item: 0.1mm
+fp_placement_grid_item: 0.2mm
+fp_placement_grid_item: 0.5mm
+fp_placement_grid_item: 1mm
+fp_placement_grid_item: 2mm
+fp_placement_grid_item: 2.5mm
+fp_placement_grid_item: 4mm
+fp_placement_grid_item: 5mm
+fp_placement_grid_item: 10mm
+
+fp_snap_angle: 45
+
+m_seg_clearance: 204080
+fill_clearance: 300000
+mask_clearance: 0
+thermal_width: 400000
+thermal_clearance: 200000
+min_silkscreen_width: 150000
+highlight_width: 127000
+hole_clearance: 400000
+pilot_diameter: 200000
+annular_ring_for_pins: 200000
+annular_ring_for_vias: 200000
+shrink_paste_mask: 0
+cam_flags: 96
+crop_flags: 28255
+cam_layers: 1048639
+cam_drill_file: 1
+cam_units: 1
+cam_n_x: 1
+cam_n_y: 1
+cam_space_x: 0
+cam_space_y: 0
+
+report_options: 4123
+drc_check_unrouted: 1
+drc_trace_width: 170000
+drc_pad_pad: 199000
+drc_pad_trace: 199000
+drc_trace_trace: 199000
+drc_hole_copper: 200000
+drc_annular_ring_pins: 199000
+drc_annular_ring_vias: 199000
+drc_board_edge_copper: 200000
+drc_board_edge_hole: 0
+drc_hole_hole: 600000
+drc_copper_copper: 200000
+
+default_trace_width:0.4mm
+default_via_pad_width:1mm
+default_via_hole_width:0.5mm
+n_width_menu: 4
+width_menu_item: 1 0.4mm 0mil 0mil
+width_menu_item: 2 0.5mm 0mil 0mil
+width_menu_item: 3 0.7mm 0mil 0mil
+width_menu_item: 4 1mm 1.5mm 1mm
+
+n_copper_layers: 2
+layer_info: "dragging" 0 255 255 0 1 127 127 127 0
+layer_info: "background" 1 238 238 238 1 255 255 255 0
+layer_info: "visible grid" 2 238 238 238 0 0 0 0 0
+layer_info: "highlight" 3 255 255 0 1 255 255 0 1
+layer_info: "DRC error" 4 255 0 0 1 128 64 0 0
+layer_info: "board outline" 5 0 125 50 1 0 185 120 1
+layer_info: "scribing" 6 255 0 128 1 127 127 127 0
+layer_info: "top notes" 7 128 64 0 1 255 0 0 0
+layer_info: "bot notes" 8 128 64 0 0 128 128 128 0
+layer_info: "rat line" 9 0 0 128 1 0 0 160 1
+layer_info: "top silk" 10 255 150 255 1 255 255 255 1
+layer_info: "bottom silk" 11 255 170 170 0 255 255 255 0
+layer_info: "thru pad" 12 235 235 235 1 255 255 255 1
+layer_info: "top view" 13 128 128 127 1 214 214 214 1
+layer_info: "bot view" 14 192 127 64 0 127 127 127 0
+layer_info: "top copper" 15 40 180 60 1 47 255 182 1
+layer_info: "bot copper" 16 30 90 30 0 10 100 20 0
+
+[footprints]
+
+name: "JDY-40"
+author: "duxah"
+package: "JDY-40"
+units: NM
+sel_rect: -2124710 -25524460 13888900 88900
+ref_text: 2540000 2540000 -17920000 0 254000
+value_text: 2540000 2540000 -23000000 0 254000
+centroid: 0 5250000 -16800000 0
+outline_polyline: 127000 0 -20000000 1 1 4
+next_corner: 0 -23000000 0
+next_corner: 800000 -23000000 0
+outline_polyline: 127000 13000000 -23000000 1 1 4
+next_corner: 13500000 -23000000 0
+next_corner: 13800000 -23000000 0
+next_corner: 13800000 0 0
+next_corner: 0 0 0
+next_corner: 0 -7500000 0
+outline_polyline: 50800 4000000 -500000 1 1 10
+next_corner: 3000000 -1500000 2
+next_corner: 3000000 -18500000 0
+next_corner: 4000000 -19500000 2
+next_corner: 12000000 -19500000 0
+next_corner: 13000000 -18500000 2
+next_corner: 13000000 -1500000 0
+next_corner: 12000000 -500000 2
+close_polyline: 0
+n_pins: 14
+pin: "1" 0 1900000 -23000000 0 ""
+top_pad: 5 5000000 700000 700000 700000
+pin: "2" 0 3900000 -23000000 0 ""
+top_pad: 5 5000000 700000 700000 700000
+pin: "3" 0 5900000 -23000000 0 ""
+top_pad: 5 5000000 700000 700000 700000
+pin: "4" 0 7900000 -23000000 0 ""
+top_pad: 5 5000000 700000 700000 700000
+pin: "5" 0 9900000 -23000000 0 ""
+top_pad: 5 5000000 700000 700000 700000
+pin: "6" 0 11900000 -23000000 0 ""
+top_pad: 5 5000000 700000 700000 700000
+pin: "7" 0 -600000 -19100000 0 ""
+top_pad: 5 1000000 1500000 1500000 500000
+pin: "8" 0 -600000 -17600000 0 ""
+top_pad: 5 1000000 1500000 1500000 500000
+pin: "9" 0 -600000 -16100000 0 ""
+top_pad: 5 1000000 1500000 1500000 500000
+pin: "10" 0 -600000 -14600000 0 ""
+top_pad: 5 1000000 1500000 1500000 500000
+pin: "11" 0 -600000 -13100000 0 ""
+top_pad: 5 1000000 1500000 1500000 500000
+pin: "12" 0 -600000 -11600000 0 ""
+top_pad: 5 1000000 1500000 1500000 500000
+pin: "13" 0 -600000 -10100000 0 ""
+top_pad: 5 1000000 1500000 1500000 500000
+pin: "14" 0 -600000 -8600000 0 ""
+top_pad: 5 1000000 1500000 1500000 500000
+
+name: "CUT"
+units: MIL
+sel_rect: -159.480315 -159.480315 159.480315 356.330709
+ref_text: 50 0 0 0 5
+value_text: 50 0 -100 0 5
+centroid: 0 0 0 0
+outline_polyline: 2 0 -157.480315 1 1 10
+next_corner: -157.480315 0 1
+next_corner: -157.480315 354.330709 0
+next_corner: 157.480315 354.330709 0
+next_corner: 157.480315 0 0
+close_polyline: 1
+n_pins: 0
+
+name: "HOLE_100_PAD"
+units: MIL
+sel_rect: -120.610236 -120.610236 120.610236 120.610236
+ref_text: 50 0 0 0 5
+value_text: 50 0 -100 0 5
+centroid: 0 0 0 0
+outline_polyline: 5.905512 0 102.362205 1 0 4
+next_corner: -102.362205 0 2
+next_corner: 0 -102.362205 2
+next_corner: 102.362205 0 2
+close_polyline: 2
+outline_polyline: 5.905512 0 118.110236 1 0 4
+next_corner: -118.110236 0 2
+next_corner: 0 -118.110236 2
+next_corner: 118.110236 0 2
+close_polyline: 2
+outline_polyline: 5.905512 -110.23622 0 1 1 4
+next_corner: -102.362205 43.307087 0
+outline_polyline: 5.905512 110.23622 0 1 1 4
+next_corner: 102.362205 -43.307087 0
+outline_polyline: 5.905512 77.948819 77.948819 1 1 4
+next_corner: 103.003937 41.758268 0
+outline_polyline: 5.905512 -77.948819 -77.948819 1 1 4
+next_corner: -103.003543 -41.758268 0
+outline_polyline: 5.905512 0 -110.23622 1 1 4
+next_corner: -43.307087 -102.362205 0
+outline_polyline: 5.905512 0 110.23622 1 1 4
+next_corner: 43.307087 102.362205 0
+outline_polyline: 5.905512 -77.948819 77.948819 1 1 4
+next_corner: -41.758268 103.003543 0
+outline_polyline: 5.905512 77.948819 -77.948819 1 1 4
+next_corner: 41.758268 -103.003543 0
+outline_polyline: 5.905512 -77.948819 -77.948819 1 1 5
+next_corner: -41.758268 -103.003543 0
+outline_polyline: 5.905512 77.948819 77.948819 1 1 5
+next_corner: 41.758268 103.003543 0
+outline_polyline: 5.905512 0 110.23622 1 1 5
+next_corner: -43.307087 102.362205 0
+outline_polyline: 5.905512 0 -110.23622 1 1 5
+next_corner: 43.307087 -102.362205 0
+outline_polyline: 5.905512 77.948819 -77.948819 1 1 5
+next_corner: 103.003543 -41.758268 0
+outline_polyline: 5.905512 -77.948819 77.948819 1 1 5
+next_corner: -103.003937 41.758268 0
+outline_polyline: 5.905512 -110.23622 0 1 1 5
+next_corner: -102.362205 -43.307087 0
+outline_polyline: 5.905512 110.23622 0 1 1 5
+next_corner: 102.362205 43.307087 0
+outline_polyline: 5.905512 0 118.110236 1 0 5
+next_corner: 118.110236 0 1
+next_corner: 0 -118.110236 1
+next_corner: -118.110236 0 1
+close_polyline: 1
+outline_polyline: 5.905512 0 102.362205 1 0 5
+next_corner: 102.362205 0 1
+next_corner: 0 -102.362205 1
+next_corner: -102.362205 0 1
+close_polyline: 1
+n_pins: 1
+pin: "1" 100 0 0 270 ""
+top_pad: 1 200 100 100 0 2
+top_mask: 1 180 90 90 0
+inner_pad: 0 0 0 0 0 2
+bottom_pad: 1 200 100 100 0 2
+bottom_mask: 1 180 90 90 0
+
+name: "JUMP4"
+author: "Ivex"
+units: MIL
+sel_rect: -58 -58 358 58
+ref_text: 50 150 100 0 7
+value_text: 50 150 0 0 7
+centroid: 0 150 0 0
+outline_polyline: 5.905512 -50 50 1 0 4
+next_corner: 350 50 0
+next_corner: 350 -50 0
+next_corner: -50 -50 0
+close_polyline: 0
+n_pins: 4
+pin: "1" 28 0 0 0 ""
+top_pad: 2 60 30 30 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 60 30 30 0
+pin: "2" 28 100 0 0 ""
+top_pad: 1 60 30 30 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 60 30 30 0
+pin: "3" 28 200 0 0 ""
+top_pad: 1 60 30 30 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 60 30 30 0
+pin: "4" 28 300 0 0 ""
+top_pad: 1 60 30 30 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 60 30 30 0
+
+name: "CK05"
+author: "Ivex"
+package: "CK05"
+units: NM
+sel_rect: -4500000 -3900000 4500000 3900000
+ref_text: 1270000 -2800000 -2200000 0 177800
+value_text: 1270000 -3000000 800000 0 177800
+centroid: 0 0 0 0
+outline_polyline: 150000 -2000000 3800000 1 0 4
+next_corner: -4400000 1400000 2
+next_corner: -4400000 -1400000 0
+next_corner: -2000000 -3800000 2
+next_corner: 2000000 -3800000 0
+next_corner: 4400000 -1400000 2
+next_corner: 4400000 1400000 0
+next_corner: 2000000 3800000 2
+close_polyline: 0
+n_pins: 6
+pin: "1" 2000000 -2000000 1400000 0 ""
+top_pad: 0 1905000 952500 952500 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 1905000 952500 952500 0
+pin: "2" 2000000 2000000 -1400000 0 ""
+top_pad: 0 1905000 952500 952500 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 1905000 952500 952500 0
+pin: "1" 2000000 -2000000 -1400000 0 ""
+top_pad: 0 1905000 952500 952500 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 1905000 952500 952500 0
+pin: "2" 2000000 2000000 1400000 0 ""
+top_pad: 0 1905000 952500 952500 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 1905000 952500 952500 0
+pin: "1" 0 -2000000 0 0 ""
+top_pad: 5 6000000 1500000 1500000 1500000
+bottom_pad: 5 6000000 1500000 1500000 1500000
+pin: "2" 0 2000000 0 0 ""
+top_pad: 5 6000000 1500000 1500000 1500000
+bottom_pad: 5 6000000 1500000 1500000 1500000
+
+name: "WX-DC12003_m"
+author: "duxah"
+units: NM
+sel_rect: -7000000 -4000000 18000000 4000000
+ref_text: 1270000 1403600 5280000 0 177800
+value_text: 1270000 1403600 2740000 0 177800
+centroid: 1 0 0 0
+n_pins: 12
+pin: "4" 1000000 -5000000 -2550000 0 ""
+top_pad: 1 2000000 1000000 1000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2000000 1000000 1000000 0
+pin: "4" 1000000 -5000000 2450000 0 ""
+top_pad: 1 2000000 1000000 1000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2000000 1000000 1000000 0
+pin: "3" 1000000 -500000 -2550000 0 ""
+top_pad: 1 2000000 1000000 1000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2000000 1000000 1000000 0
+pin: "3" 1000000 -500000 2450000 0 ""
+top_pad: 1 2000000 1000000 1000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2000000 1000000 1000000 0
+pin: "2" 1000000 11000000 2450000 0 ""
+top_pad: 1 2000000 1000000 1000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2000000 1000000 1000000 0
+pin: "4" 1000000 -5000000 0 0 ""
+top_pad: 3 8000000 2000000 2000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 8000000 2000000 2000000 0
+pin: "2" 1000000 11000000 0 0 ""
+top_pad: 3 8000000 2000000 2000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 8000000 2000000 2000000 0
+pin: "1" 1000000 16000000 0 0 ""
+top_pad: 3 8000000 2000000 2000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 8000000 2000000 2000000 0
+pin: "1" 1000000 16000000 2450000 0 ""
+top_pad: 1 2000000 1000000 1000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2000000 1000000 1000000 0
+pin: "3" 1000000 -500000 0 0 ""
+top_pad: 3 8000000 2000000 2000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 3 8000000 2000000 2000000 0
+pin: "1" 1000000 16000000 -2550000 0 ""
+top_pad: 1 2000000 1000000 1000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2000000 1000000 1000000 0
+pin: "2" 1000000 11000000 -2550000 0 ""
+top_pad: 1 2000000 1000000 1000000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 2000000 1000000 1000000 0
+
+name: "RC0805"
+author: "i"
+package: "RC0805"
+description: "Resistors"
+units: NM
+sel_rect: -2100400 -1250400 2100400 1250400
+ref_text: 600000 -1450000 50000 0 100000
+value_text: 500000 -1450000 -650000 0 80000
+centroid: 0 0 0 0
+outline_polyline: 150000 -2000000 1150000 1 0 4
+next_corner: -2000000 -1150000 0
+next_corner: 2000000 -1150000 0
+next_corner: 2000000 1150000 0
+close_polyline: 0
+n_pins: 2
+pin: "1" 0 -1000000 0 270 ""
+top_pad: 4 1000000 650000 650000 0
+top_mask: 3 1000000 650000 650000 0
+pin: "2" 0 1000000 0 270 ""
+top_pad: 4 1000000 650000 650000 0
+top_mask: 3 1000000 650000 650000 0
+
+name: "SOT-23-5"
+author: "Ivex"
+units: MIL
+sel_rect: -30 -27 105 129
+ref_text: 50 37 -70 0 7
+value_text: 50 37 -170 0 7
+centroid: 0 37.5 51 0
+outline_polyline: 5.905512 -22 30 1 0 4
+next_corner: 97 30 0
+next_corner: 97 72 0
+next_corner: -22 72 0
+close_polyline: 0
+outline_polyline: 5.905512 -22 41 1 0 4
+next_corner: 0 41 0
+next_corner: 0 61 0
+next_corner: -22 61 0
+close_polyline: 0
+n_pins: 5
+pin: "1" 0 0 0 0 ""
+top_pad: 3 39 13 13 0
+pin: "2" 0 37 0 0 ""
+top_pad: 3 39 13 13 0
+pin: "3" 0 75 0 0 ""
+top_pad: 3 39 13 13 0
+pin: "4" 0 75 102 0 ""
+top_pad: 3 39 13 13 0
+pin: "5" 0 0 102 0 ""
+top_pad: 3 39 13 13 0
+
+name: "2SIP79"
+author: "Duxah"
+description: "Connectors"
+units: NM
+sel_rect: -1300400 -900400 3300400 900400
+ref_text: 900000 -200000 1100000 0 127000
+value_text: 600000 -400000 -1600000 0 100000
+centroid: 0 1000000 0 0
+outline_polyline: 150000 -400000 800000 1 0 4
+next_corner: -1200000 0 2
+next_corner: -400000 -800000 2
+next_corner: 2400000 -800000 0
+next_corner: 3200000 0 2
+next_corner: 2400000 800000 2
+close_polyline: 0
+n_pins: 2
+pin: "1" 400000 -400000 0 270 ""
+top_pad: 1 1000000 500000 500000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+pin: "2" 400000 2400000 0 270 ""
+top_pad: 1 1000000 500000 500000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+
+name: "RA-01"
+author: "duxah"
+package: "RA-01"
+description: "LoraWAN"
+units: NM
+sel_rect: -2649220 -63500 17500760 17063500
+ref_text: 2540000 2540000 5080000 0 254000
+value_text: 2540000 2540000 0 0 254000
+centroid: 0 0 0 0
+text: "." 5000000 -2400000 15200000 0 500000 0 4
+outline_polyline: 127000 0 0 1 0 7
+next_corner: 16000000 0 0
+next_corner: 16000000 17000000 0
+next_corner: 0 17000000 0
+close_polyline: 0
+outline_polyline: 50800 4000000 0 1 1 10
+next_corner: 2800000 1200000 1
+next_corner: 2800000 16200000 0
+next_corner: 3600000 17000000 1
+next_corner: 12400000 17000000 0
+next_corner: 13200000 16200000 1
+next_corner: 13200000 1200000 0
+next_corner: 12000000 0 1
+close_polyline: 0
+n_pins: 16
+pin: "1" 1000000 -200 15500400 90 ""
+top_pad: 5 3000000 750000 750000 750000
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 1500000 750000 750000 0
+pin: "2" 1000000 -200 13500400 90 ""
+top_pad: 5 3000000 750000 750000 750000
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 1500000 750000 750000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "3" 0 -240 11500420 90 ""
+top_pad: 5 3000000 750000 750000 750000
+pin: "4" 0 -240 9500420 90 ""
+top_pad: 5 3000000 750000 750000 750000
+pin: "5" 0 -240 7500420 90 ""
+top_pad: 5 3000000 750000 750000 750000
+pin: "6" 0 -240 5500420 90 ""
+top_pad: 5 3000000 750000 750000 750000
+pin: "7" 0 -240 3500420 90 ""
+top_pad: 5 3000000 750000 750000 750000
+pin: "8" 0 430 1500590 90 ""
+top_pad: 5 3000000 750000 750000 750000
+pin: "9" 1000000 16000760 1500550 90 ""
+top_pad: 5 3000000 750000 750000 750000
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 1500000 750000 750000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "10" 0 16000760 3500550 90 ""
+top_pad: 5 3000000 750000 750000 750000
+pin: "11" 0 16000760 5500550 90 ""
+top_pad: 5 3000000 750000 750000 750000
+pin: "12" 0 16000760 7500550 90 ""
+top_pad: 5 3000000 750000 750000 750000
+pin: "13" 0 16000760 9500550 90 ""
+top_pad: 5 3000000 750000 750000 750000
+pin: "14" 0 16000760 11500550 90 ""
+top_pad: 5 3000000 750000 750000 750000
+pin: "15" 0 16000760 13500550 90 ""
+top_pad: 5 3000000 750000 750000 750000
+pin: "16" 1000000 16000760 15500550 90 ""
+top_pad: 5 3000000 750000 750000 750000
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 1500000 750000 750000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+
+name: "ID7150847"
+units: MIL
+sel_rect: -39.370079 -39.370079 39.370079 39.370079
+ref_text: 100 100 200 0 10
+value_text: 100 100 0 0 10
+centroid: 0 0 0 0
+n_pins: 1
+pin: "1" 19.685039 0 0 0 ""
+top_pad: 1 39.370079 19.685039 19.685039 0 3
+top_mask: 0 0 0 0 0
+inner_pad: 1 39.370079 19.685039 19.685039 0 3
+bottom_pad: 1 39.370079 19.685039 19.685039 0 3
+bottom_mask: 0 0 0 0 0
+
+name: "QSOP-20"
+package: "QSOP-20"
+units: NM
+sel_rect: -3752400 -4452400 3752400 4452400
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+outline_polyline: 150000 -3570880 -4300000 1 0 4
+next_corner: 3600000 -4300000 0
+next_corner: 3600000 4300000 0
+next_corner: -3600000 4300000 0
+next_corner: -3600000 1386860 0
+next_corner: -2223310 10170 1
+next_corner: -3600000 -1366520 1
+next_corner: -3600000 -4270120 0
+n_pins: 20
+pin: "1" 0 -2925000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "2" 0 -2275000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "3" 0 -1625000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "4" 0 -975000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "17" 0 -975000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "18" 0 -1625000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "19" 0 -2275000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "20" 0 -2925000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "6" 0 325000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "7" 0 975000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "8" 0 1625000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "9" 0 2275000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "10" 0 2925000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "15" 0 325000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "14" 0 975000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "13" 0 1625000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "12" 0 2275000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "11" 0 2925000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "5" 0 -325000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "16" 0 -325000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+
+name: "CK14-B"
+author: "Ivex"
+units: MIL
+sel_rect: -388.9 -94.5 388.9 94.5
+ref_text: 50 0 148 0 7
+value_text: 50 0 48 0 7
+centroid: 0 0 0 0
+outline_polyline: 5.905512 -250 90 1 0 4
+next_corner: 250 90 0
+next_corner: 250 -90 0
+next_corner: -250 -90 0
+close_polyline: 0
+n_pins: 2
+pin: "1" 45 -340.944882 0 0 ""
+top_pad: 1 94 47 47 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 94 47 47 0
+pin: "2" 45 340.944882 0 0 ""
+top_pad: 1 94 47 47 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 94 47 47 0
+
+name: "1X2HDR-100"
+author: "Ivex"
+units: MIL
+sel_rect: -33 -33 33 133
+ref_text: 50 0 160 0 7
+value_text: 50 0 60 0 7
+centroid: 0 0 50 0
+n_pins: 2
+pin: "1" 28 0 0 0 ""
+top_pad: 2 50 25 25 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 50 25 25 0
+pin: "2" 28 0 100 0 ""
+top_pad: 1 50 25 25 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 1 50 25 25 0
+
+name: "FC-135"
+package: "FC-135"
+units: NM
+sel_rect: -1925000 -775000 1925000 775000
+ref_text: 1270000 0 2300000 0 177800
+value_text: 1270000 0 -3570000 0 177800
+centroid: 0 0 0 0
+outline_polyline: 150000 -521000 -521000 1 0 4
+next_corner: 521000 -521000 0
+close_polyline: 0
+outline_polyline: 150000 -521000 521000 1 0 4
+next_corner: 521000 521000 0
+close_polyline: 0
+n_pins: 2
+pin: "1" 0 -1350000 0 0 ""
+top_pad: 3 1550000 575000 575000 0
+pin: "2" 0 1350000 0 0 ""
+top_pad: 3 1550000 575000 575000 0
+
+name: "S08"
+author: "Ivex"
+units: NM
+sel_rect: -1403200 -1403200 5213200 6403200
+ref_text: 1270000 1905000 8000000 0 177800
+value_text: 1270000 1905000 5460000 0 177800
+centroid: 0 1905000 2500000 0
+outline_polyline: 150000 -700000 1500000 1 0 4
+next_corner: 4410000 1500000 0
+next_corner: 4410000 3500000 0
+next_corner: -700000 3500000 0
+close_polyline: 0
+outline_polyline: 150000 -700000 2000000 1 0 4
+next_corner: -200000 2000000 0
+next_corner: -200000 3000000 0
+next_corner: -700000 3000000 0
+close_polyline: 0
+n_pins: 8
+pin: "1" 0 0 0 0 ""
+top_pad: 3 2400000 400000 400000 0
+pin: "2" 0 1270000 0 0 ""
+top_pad: 3 2400000 400000 400000 0
+pin: "3" 0 2540000 0 0 ""
+top_pad: 3 2400000 400000 400000 0
+pin: "4" 0 3810000 0 0 ""
+top_pad: 3 2400000 400000 400000 0
+pin: "5" 0 3810000 5000000 0 ""
+top_pad: 3 2400000 400000 400000 0
+pin: "6" 0 2540000 5000000 0 ""
+top_pad: 3 2400000 400000 400000 0
+pin: "7" 0 1270000 5000000 0 ""
+top_pad: 3 2400000 400000 400000 0
+pin: "8" 0 0 5000000 0 ""
+top_pad: 3 2400000 400000 400000 0
+
+name: "MINI_USB_v3"
+author: "Deshkov"
+package: "MINI USB 54819"
+description: "Connectors"
+units: NM
+sel_rect: -5900000 -5130000 5900000 1910000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+text: "1" 1000000 2100000 -5050000 0 100000 0 4
+outline_polyline: 10000 -2651250 1905000 1 0 7
+next_corner: 2540000 1905000 0
+outline_polyline: 10000 -5150000 -2630000 1 0 7
+next_corner: -3850000 -2630000 0
+outline_polyline: 10000 -5150000 -4130000 1 0 7
+next_corner: -5150000 -2630000 0
+outline_polyline: 10000 -3850000 -4130000 1 0 7
+next_corner: -5150000 -4130000 0
+outline_polyline: 10000 -5150000 1650000 1 0 7
+next_corner: -3850000 1650000 0
+outline_polyline: 10000 -5150000 150000 1 0 7
+next_corner: -5150000 1650000 0
+outline_polyline: 10000 -3850000 150000 1 0 7
+next_corner: -5150000 150000 0
+outline_polyline: 10000 3850000 -2630000 1 0 7
+next_corner: 5150000 -2630000 0
+outline_polyline: 10000 5150000 -2630000 1 0 7
+next_corner: 5150000 -4130000 0
+outline_polyline: 10000 5150000 -4130000 1 0 7
+next_corner: 3850000 -4130000 0
+outline_polyline: 10000 3850000 1650000 1 0 7
+next_corner: 5150000 1650000 0
+outline_polyline: 10000 5150000 1650000 1 0 7
+next_corner: 5150000 150000 0
+outline_polyline: 10000 5150000 150000 1 0 7
+next_corner: 3850000 150000 0
+outline_polyline: 10000 -3651250 1705000 1 0 7
+next_corner: -3651250 -4162500 0
+outline_polyline: 10000 3651250 -4162500 1 0 7
+next_corner: 3651250 1705000 0
+n_pins: 21
+pin: "4" 0 -800000 -3630000 180 ""
+top_pad: 3 3000000 200000 200000 0
+pin: "5" 0 -1600000 -3630000 180 ""
+top_pad: 3 3000000 200000 200000 0
+pin: "1" 0 1600000 -3630000 180 ""
+top_pad: 3 3000000 200000 200000 0
+pin: "2" 0 800000 -3630000 180 ""
+top_pad: 3 3000000 200000 200000 0
+pin: "3" 0 0 -3630000 180 ""
+top_pad: 3 3000000 200000 200000 0
+pin: "5" 0 -4400000 -3450000 180 ""
+top_pad: 4 3000000 1500000 1500000 400000
+top_mask: 4 2000000 1000000 1000000 400000
+pin: "5" 0 -4400000 850000 180 ""
+top_pad: 4 2000000 1500000 1500000 400000
+top_mask: 4 1900000 950000 950000 400000
+pin: "5" 350000 -4000000 -400000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 -4800000 -400000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 0 4400000 850000 180 ""
+top_pad: 4 2000000 1500000 1500000 400000
+top_mask: 4 1900000 950000 950000 400000
+pin: "5" 0 4400000 -3450000 180 ""
+top_pad: 4 3000000 1500000 1500000 400000
+top_mask: 4 2000000 1000000 1000000 400000
+pin: "5" 350000 -4800000 -1300000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 -4000000 -1300000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 -4000000 -2200000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 -4800000 -2200000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 4000000 -2200000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 4800000 -2200000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 4800000 -1300000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 4000000 -1300000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 4000000 -400000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "5" 350000 4800000 -400000 180 ""
+top_pad: 2 1000000 500000 500000 0
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 2 1000000 500000 500000 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+
+[board]
+
+outline: 8 0 254000 1 -1 -1
+corner: 1 53840000 12450000 0 0
+corner: 2 53840000 -12450000 1 0
+corner: 3 34289980 -32000018 0 0
+corner: 4 -24499984 -32000018 1 0
+corner: 5 -30500000 -26000000 0 0
+corner: 6 -30500000 26000000 1 0
+corner: 7 -24499992 32000006 0 0
+corner: 8 34289988 32000012 1 0
+
+
+[solder_mask_cutouts]
+
+
+[graphics]
+
+
+[parts]
+
+part: BT1
+ref_text: 1000000 150000 90 14749999 -16910420 1
+shape: "JDY-40"
+merge: 0 -1
+value: "JDY-40" 2540000 254000 0 2540000 -23000000 0
+pos: 12839580 11250001 0 270 0
+
+part: C2
+ref_text: 1000000 150000 180 4137203 552655 1
+shape: "RC0805"
+merge: 0 -1
+value: "0.1" 500000 80000 0 -1450000 -650000 0
+pos: 29939583 7250000 0 180 0
+
+part: DD2
+ref_text: 1000000 150000 90 4054760 1393318 1
+shape: "QSOP-20"
+merge: 1 -1
+value: "STM32G031F8P6" 300000 50000 0 0 0 0
+pos: 17229584 -1790000 0 270 0
+
+part: X1
+ref_text: 1000000 150000 180 4499070 -1725860 1
+shape: "JUMP4"
+merge: 1 -1
+value: "PROG" 1270000 177800 0 3810000 0 0
+pos: 15750000 -12250000 0 180 0
+
+part: X2
+ref_text: 1000000 150000 90 447269 -1254740 1
+shape: "2SIP79"
+merge: 1 -1
+pos: 26250000 1840000 0 270 0
+
+part: C3
+ref_text: 1000000 150000 270 552117 -3288539 1
+shape: "RC0805"
+merge: 1 -1
+value: "0.1" 500000 80000 0 -1450000 -650000 0
+pos: 25743200 -1764999 0 90 0
+
+part: X4
+ref_text: 1000000 150000 90 1013989 2185249 1
+shape: "1X2HDR-100"
+merge: 1 -1
+value: "UART" 1270000 177800 0 0 1524000 0
+pos: 21629584 5250000 0 270 0
+
+part: W1
+ref_text: 1000000 150000 0 6600595 17442690 1
+shape: "RA-01"
+merge: 2 -1
+value: "RA-01 SX1278" 2540000 254000 0 2540000 0 0
+pos: -12000000 1527650 0 0 0
+
+part: C1
+ref_text: 1000000 150000 270 553370 -2876410 1
+shape: "RC0805"
+merge: 2 -1
+value: "0.1" 500000 80000 0 -1450000 -650000 0
+pos: -16250000 14028070 0 90 0
+
+part: L1
+ref_text: 1000000 150000 0 -641985 2741939 1
+shape: "CK14-B"
+merge: 3 -1
+value: "3.3mH 1W" 1270000 177800 0 0 1219200 0
+pos: -10160000 -20499999 0 0 0
+
+part: DA1
+ref_text: 1000000 150000 270 1503384 3465450 1
+shape: "SOT-23-5"
+merge: 3 -1
+value: "TLV70030DDC" 1270000 177800 0 939800 -4318000 0
+pos: 5539200 -20500000 0 90 0
+
+part: C5
+ref_text: 1000000 150000 0 -915890 1606326 1
+shape: "RC0805"
+merge: 3 -1
+value: "10.0" 500000 80000 0 -1450000 -650000 0
+pos: 7130000 -17752756 0 0 0
+
+part: C6
+ref_text: 1000000 150000 90 2455430 892992 1
+shape: "RC0805"
+merge: 3 -1
+value: "10.0" 500000 80000 0 -1450000 -650000 0
+pos: 2580823 -21500000 0 270 0
+
+part: Z2
+ref_text: 1000000 150000 0 2304220 -550975 1
+shape: "FC-135"
+merge: 1 -1
+value: "32768" 1270000 177800 0 0 -3570000 0
+pos: 17230000 -7250000 0 0 0
+
+part: DC1
+ref_text: 1000000 150000 90 18378872 1209982 1
+shape: "WX-DC12003_m"
+merge: 4 5
+value: "AC/DC (5V 700mA)" 1270000 177800 0 1403600 2740000 0
+pos: -25300000 -16250001 0 270 0
+
+part: DD1
+ref_text: 1000000 150000 90 4864549 3688925 1
+shape: "S08"
+merge: 6 -1
+value: "CH340N" 1270000 177800 0 1905000 5460000 0
+pos: 41500000 -1740000 0 270 0
+
+part: C4
+ref_text: 1000000 150000 270 552861 -3333010 1
+shape: "RC0805"
+merge: 6 -1
+value: "0.1" 500000 80000 0 -1450000 -650000 0
+pos: 33000000 3070001 0 90 0
+
+part: C7
+ref_text: 1000000 150000 270 551843 -3288559 1
+shape: "RC0805"
+merge: 6 -1
+value: "0.1" 500000 80000 0 -1450000 -650000 0
+pos: 33000000 -2739998 0 90 0
+
+part: X5
+ref_text: 1000000 150000 90 4855030 891489 1
+shape: "CK05"
+merge: 4 5
+value: "220V" 1270000 177800 0 -3000000 800000 0
+pos: -25000000 11000000 0 270 0
+
+part: XS4
+ref_text: 1000000 150000 270 -6279230 -3026334 1
+shape: "MINI_USB_v3"
+value: "Connector" 300000 50000 0 0 0 0
+pos: 51400000 0 0 90 1
+
+part: C8
+ref_text: 1000000 150000 0 2454168 -551280 1
+shape: "RC0805"
+merge: 7 -1
+value: "0.1" 500000 80000 0 -1450000 -650000 0
+pos: 1236802 -13500000 0 0 0
+
+part: DD5
+ref_text: 1000000 150000 180 -1154198 3051355 1
+shape: "S08"
+merge: 7 -1
+value: "M24M01-RMN6" 1270000 177800 0 1905000 5460000 0
+pos: 1506801 -5250000 0 180 0
+
+part: R1
+ref_text: 1000000 150000 0 2455780 -551702 1
+shape: "RC0805"
+merge: 7 -1
+value: "10k1%" 500000 80000 0 -1450000 -650000 0
+pos: -6000000 -12846798 0 0 0
+
+part: R14
+ref_text: 1000000 150000 180 1211060 -1605459 1
+shape: "RC0805"
+merge: 7 -1
+value: "10k1%" 500000 80000 0 -1450000 -650000 0
+pos: -6000000 -10250000 0 180 0
+
+part: VIA2
+ref_text: 1000000 3810 270 500000 907625 1
+shape: "CUT"
+pos: 0 28350000 0 0 0
+
+part: VIA3
+ref_text: 1000000 3810 90 -499999 4091515 1
+shape: "CUT"
+pos: 0 -28350000 0 180 0
+
+part: VIA4
+ref_text: 0 0 0 3090615 -479190 1
+shape: "HOLE_100_PAD"
+pos: -24840000 28550000 0 0 0
+
+part: VIA5
+ref_text: 0 0 0 -1591240 3089675 1
+shape: "HOLE_100_PAD"
+pos: -24840000 -28550000 0 0 0
+
+part: VIA6
+ref_text: 0 0 0 3089205 -479190 1
+shape: "HOLE_100_PAD"
+pos: 24840000 28550000 0 0 0
+
+part: VIA7
+ref_text: 0 0 0 -1593285 3089675 1
+shape: "HOLE_100_PAD"
+pos: 24840000 -28550000 0 0 0
+
+part: VIA8
+ref_text: 0 0 270 499400 -1593795 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 14250000 4250000 0 0 0
+
+part: VIA9
+ref_text: 0 0 270 500855 -1570550 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -29638210 18663480 0 0 0
+
+part: VIA13
+ref_text: 0 0 270 500855 -1887355 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -29638210 -11336520 0 0 0
+
+part: VIA14
+ref_text: 0 0 270 500855 -1910185 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -29638210 -26336520 0 0 0
+
+part: VIA15
+ref_text: 0 0 270 500845 -1888690 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -24638210 21158400 0 0 0
+
+part: VIA19
+ref_text: 0 0 270 500835 -1866480 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -19638210 28663480 0 0 0
+
+part: VIA20
+ref_text: 0 0 270 500835 -2093800 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -19638210 23663480 0 0 0
+
+part: VIA21
+ref_text: 0 0 270 500835 -1888685 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -19638210 18663480 0 0 0
+
+part: VIA22
+ref_text: 0 0 270 500835 -2092460 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -19638210 -11336520 0 0 0
+
+part: VIA24
+ref_text: 0 0 270 500835 -2114655 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -19638210 -26336520 0 0 0
+
+part: VIA25
+ref_text: 0 0 270 500790 -2092370 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -14000000 -9250000 0 0 0
+
+part: VIA26
+ref_text: 0 0 270 500825 -2070945 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -14638210 26158400 0 0 0
+
+part: VIA27
+ref_text: 0 0 270 500825 -2093795 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -14638210 21158400 0 0 0
+
+part: VIA28
+ref_text: 0 0 270 500825 -2093785 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -14638210 16158400 0 0 0
+
+part: VIA29
+ref_text: 0 0 270 500825 -2069585 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -14638210 -18841600 0 0 0
+
+part: VIA30
+ref_text: 0 0 270 500825 -2092435 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -14638210 -23841600 0 0 0
+
+part: VIA31
+ref_text: 0 0 270 500825 -1887955 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -14638210 -28841600 0 0 0
+
+part: VIA32
+ref_text: 0 0 270 500815 -2093810 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -9638210 28663480 0 0 0
+
+part: VIA33
+ref_text: 0 0 270 500815 -2093800 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -9638210 23663480 0 0 0
+
+part: VIA34
+ref_text: 0 0 270 500815 -2114665 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -9638210 -21336520 0 0 0
+
+part: VIA35
+ref_text: 0 0 270 500815 -2092430 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -9638210 -26336520 0 0 0
+
+part: VIA36
+ref_text: 0 0 270 500805 -2070310 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -4638210 26158400 0 0 0
+
+part: VIA37
+ref_text: 0 0 270 500805 -2093160 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -4638210 21158400 0 0 0
+
+part: VIA38
+ref_text: 0 0 270 500805 -2091810 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -4638210 -18841600 0 0 0
+
+part: VIA39
+ref_text: 0 0 270 500805 -2068940 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -4638210 -23841600 0 0 0
+
+part: VIA40
+ref_text: 0 0 0 -2115030 -500190 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -14000000 -250000 0 0 0
+
+part: VIA41
+ref_text: 0 0 270 499515 -1911560 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 5361790 26158400 0 0 0
+
+part: VIA42
+ref_text: 0 0 270 499515 -2116020 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 5361790 21158400 0 0 0
+
+part: VIA43
+ref_text: 0 0 270 499515 -2114660 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 5361790 -23841600 0 0 0
+
+part: VIA44
+ref_text: 0 0 270 499515 -2137510 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 5361790 -28841600 0 0 0
+
+part: VIA45
+ref_text: 0 0 270 499505 -2116035 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 10361790 28663480 0 0 0
+
+part: VIA46
+ref_text: 0 0 270 499505 -2093800 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 10361790 23663480 0 0 0
+
+part: VIA47
+ref_text: 0 0 270 499505 -2116015 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 10361790 18663480 0 0 0
+
+part: VIA48
+ref_text: 0 0 270 499505 -2114665 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 10361790 -21336520 0 0 0
+
+part: VIA49
+ref_text: 0 0 270 499505 -2092430 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 10361790 -26336520 0 0 0
+
+part: VIA50
+ref_text: 0 0 270 500715 -2092315 1
+shape: "ID7150847"
+merge: 8 -1
+pos: -8250000 -5000000 0 0 0
+
+part: VIA51
+ref_text: 0 0 270 499495 -1889335 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 15361790 26158400 0 0 0
+
+part: VIA54
+ref_text: 0 0 270 499495 -2116000 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 15361790 11158400 0 0 0
+
+part: VIA55
+ref_text: 0 0 270 499495 -2092445 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 15361790 -18841600 0 0 0
+
+part: VIA56
+ref_text: 0 0 270 499495 -2069575 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 15361790 -23841600 0 0 0
+
+part: VIA57
+ref_text: 0 0 270 499495 -2092425 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 15361790 -28841600 0 0 0
+
+part: VIA58
+ref_text: 0 0 270 499485 -2093810 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 20361790 28663480 0 0 0
+
+part: VIA61
+ref_text: 0 0 270 499485 -1865140 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 20361790 -6336520 0 0 0
+
+part: VIA62
+ref_text: 0 0 270 499485 -2069580 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 20361790 -21336520 0 0 0
+
+part: VIA63
+ref_text: 0 0 270 499485 -2069570 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 20361790 -26336520 0 0 0
+
+part: VIA66
+ref_text: 0 0 270 499475 -2048045 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 25361790 6158400 0 0 0
+
+part: VIA67
+ref_text: 0 0 270 499475 -2069595 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 25361790 -13841600 0 0 0
+
+part: VIA68
+ref_text: 0 0 270 499475 -2069585 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 25361790 -18841600 0 0 0
+
+part: VIA69
+ref_text: 0 0 270 499475 -2046715 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 25361790 -23841600 0 0 0
+
+part: VIA70
+ref_text: 0 0 270 499465 -2093810 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 30361790 28663480 0 0 0
+
+part: VIA74
+ref_text: 0 0 270 499465 -2114685 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 30361790 -11336520 0 0 0
+
+part: VIA75
+ref_text: 0 0 270 499465 -2092450 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 30361790 -16336520 0 0 0
+
+part: VIA76
+ref_text: 0 0 270 499465 -2069580 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 30361790 -21336520 0 0 0
+
+part: VIA77
+ref_text: 0 0 270 499465 -2092430 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 30361790 -26336520 0 0 0
+
+part: VIA78
+ref_text: 0 0 270 499455 -2093805 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 35361790 26158400 0 0 0
+
+part: VIA79
+ref_text: 0 0 270 499455 -2070915 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 35361790 10658400 0 0 0
+
+part: VIA80
+ref_text: 0 0 270 499455 -2092475 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 35361790 -3841600 0 0 0
+
+part: VIA81
+ref_text: 0 0 270 499455 -1887995 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 35361790 -8841600 0 0 0
+
+part: VIA82
+ref_text: 0 0 270 499455 -2092455 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 35361790 -13841600 0 0 0
+
+part: VIA83
+ref_text: 0 0 270 499455 -2092445 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 35361790 -18841600 0 0 0
+
+part: VIA84
+ref_text: 0 0 270 499455 -2114660 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 35361790 -23841600 0 0 0
+
+part: VIA85
+ref_text: 0 0 270 499455 -2092425 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 35361790 -28841600 0 0 0
+
+part: VIA86
+ref_text: 0 0 270 499445 -2070950 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 40361790 28663480 0 0 0
+
+part: VIA87
+ref_text: 0 0 270 499445 -2093800 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 40361790 23663480 0 0 0
+
+part: VIA88
+ref_text: 0 0 270 499445 -2093790 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 40361790 18663480 0 0 0
+
+part: VIA89
+ref_text: 0 0 270 499445 -2070920 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 40361790 13663480 0 0 0
+
+part: VIA90
+ref_text: 0 0 270 499445 -2070910 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 40361790 8663480 0 0 0
+
+part: VIA91
+ref_text: 0 0 270 499445 -1866430 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 40361790 3663480 0 0 0
+
+part: VIA92
+ref_text: 0 0 270 499445 -2069610 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 40361790 -6336520 0 0 0
+
+part: VIA93
+ref_text: 0 0 270 499445 -2069600 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 40361790 -11336520 0 0 0
+
+part: VIA94
+ref_text: 0 0 270 499445 -2092450 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 40361790 -16336520 0 0 0
+
+part: VIA95
+ref_text: 0 0 270 499445 -2069580 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 40361790 -21336520 0 0 0
+
+part: VIA96
+ref_text: 0 0 270 499445 -2046710 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 40361790 -26336520 0 0 0
+
+part: VIA97
+ref_text: 0 0 270 499435 -2070945 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 45361790 26158400 0 0 0
+
+part: VIA98
+ref_text: 0 0 270 499435 -2070935 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 45361790 21158400 0 0 0
+
+part: VIA99
+ref_text: 0 0 270 499435 -2048065 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 45361790 16158400 0 0 0
+
+part: VIA100
+ref_text: 0 0 270 499435 -2389050 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 45361790 11158400 0 0 0
+
+part: VIA101
+ref_text: 0 0 270 499435 -2184570 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 45361790 6158400 0 0 0
+
+part: VIA102
+ref_text: 0 0 270 499435 -2387750 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 45361790 -3841600 0 0 0
+
+part: VIA103
+ref_text: 0 0 270 499435 -2387740 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 45361790 -8841600 0 0 0
+
+part: VIA104
+ref_text: 0 0 270 499435 -2410590 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 45361790 -13841600 0 0 0
+
+part: VIA105
+ref_text: 0 0 270 499435 -2387720 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 45361790 -18841600 0 0 0
+
+part: VIA106
+ref_text: 0 0 270 499435 -2364850 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 45361790 -23841600 0 0 0
+
+part: VIA107
+ref_text: 0 0 270 499425 -2389065 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 50361790 18663480 0 0 0
+
+part: VIA108
+ref_text: 0 0 270 499425 -2389055 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 50361790 13663480 0 0 0
+
+part: VIA109
+ref_text: 0 0 270 499425 -2366185 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 50361790 8663480 0 0 0
+
+part: VIA110
+ref_text: 0 0 270 499425 -2183285 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 50361790 -1336520 0 0 0
+
+part: VIA111
+ref_text: 0 0 270 499425 -1978805 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 50361790 -6336520 0 0 0
+
+part: VIA112
+ref_text: 0 0 270 499425 -2183265 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 50361790 -11336520 0 0 0
+
+part: VIA113
+ref_text: 0 0 270 499425 -2183255 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 50361790 -16336520 0 0 0
+
+part: VIA114
+ref_text: 0 0 270 499425 -2206105 1
+shape: "ID7150847"
+merge: 8 -1
+pos: 50361790 -21336520 0 0 0
+
+part: VIA115
+ref_text: 0 0 0 -2184345 -499725 1
+shape: "ID7150847"
+pos: 4250000 -10500000 0 0 0
+
+part: VIA116
+ref_text: 0 0 270 499665 -2160580 1
+shape: "ID7150847"
+pos: 8750000 -3750000 0 0 0
+
+part: VIA117
+ref_text: 0 0 270 499705 -2183360 1
+shape: "ID7150847"
+pos: 20500000 -12000000 0 0 0
+
+[nets]
+
+net: "NET00010" 2 1 0 0 0 0 1
+pin: 1 DD2.1
+pin: 2 DD1.7
+connect: 1 1 0 9 0 -1
+vtx: 1 36500000 -470001 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 37458973 -469924 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 37653192 -444342 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 37834174 -369368 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 37989587 -250112 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 38088492 -151207 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 38207727 4204 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 38282650 185191 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 38308151 379406 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 38307275 2502282 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 38245813 2967892 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 38065997 3401754 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 37780067 3774332 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 36653627 4900772 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 36280835 5186825 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 35846709 5366646 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 35380835 5427980 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 32156778 5427980 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 1 31690747 5366604 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 1 31256498 5186664 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 1 30883643 4900429 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 1 29579385 3595468 0 0 0 0 0
+seg: 7 15 400000 0 0
+vtx: 1 29293512 3222739 0 0 0 0 0
+seg: 7 15 400000 0 0
+vtx: 1 29113811 2788737 0 0 0 0 0
+seg: 7 15 400000 0 0
+vtx: 1 29052520 2323019 0 0 0 0 0
+seg: 7 15 400000 0 0
+vtx: 1 29052520 -2571035 0 0 0 0 0
+seg: 8 15 400000 0 0
+vtx: 1 28991186 -3036909 0 0 0 0 0
+seg: 8 15 400000 0 0
+vtx: 1 28811365 -3471035 0 0 0 0 0
+seg: 8 15 400000 0 0
+vtx: 1 28525312 -3843827 0 0 0 0 0
+seg: 8 15 400000 0 0
+vtx: 1 28181346 -4187793 0 0 0 0 0
+seg: 9 15 400000 0 0
+vtx: 1 27808553 -4473847 0 0 0 0 0
+seg: 9 15 400000 0 0
+vtx: 1 27374427 -4653668 0 0 0 0 0
+seg: 9 15 400000 0 0
+vtx: 1 26908553 -4715001 0 0 0 0 0
+seg: 9 15 400000 0 0
+vtx: 10 20089584 -4714999 15 0 0 0 0
+
+net: "NET00008" 2 1 0 0 0 0 1
+pin: 1 DC1.2
+pin: 2 X5.2
+connect: 1 1 0 25 0 4
+vtx: 1 -23600001 13000000 12 0 0 0 0
+seg: 1 15 1000000 0 0
+vtx: 2 -22917150 12999720 0 0 0 0 0
+seg: 2 15 1000000 0 0
+vtx: 1 -22440488 12965448 0 0 0 0 0
+seg: 3 15 1000000 0 0
+vtx: 1 -21973550 12863706 0 0 0 0 0
+seg: 4 15 1000000 0 0
+vtx: 1 -21525840 12696565 0 0 0 0 0
+seg: 5 15 1000000 0 0
+vtx: 1 -21106464 12467425 0 0 0 0 0
+seg: 6 15 1000000 0 0
+vtx: 1 -20723958 12180948 0 0 0 0 0
+seg: 7 15 1000000 0 0
+vtx: 1 -20386100 11842963 0 0 0 0 0
+seg: 8 15 1000000 0 0
+vtx: 1 -20099768 11460347 0 0 0 0 0
+seg: 9 15 1000000 0 0
+vtx: 1 -19870786 11040884 0 0 0 0 0
+seg: 10 15 1000000 0 0
+vtx: 1 -19703816 10593110 0 0 0 0 0
+seg: 11 15 1000000 0 0
+vtx: 1 -19602250 10126135 0 0 0 0 0
+seg: 12 15 1000000 0 0
+vtx: 13 -19568160 9649460 0 0 0 0 0
+seg: 13 15 1000000 0 0
+vtx: 14 -19568160 -2886710 0 0 0 0 0
+seg: 14 15 1000000 0 0
+vtx: 1 -19592306 -3222726 0 0 0 0 0
+seg: 15 15 1000000 0 0
+vtx: 1 -19663986 -3551896 0 0 0 0 0
+seg: 16 15 1000000 0 0
+vtx: 1 -19781744 -3867528 0 0 0 0 0
+seg: 17 15 1000000 0 0
+vtx: 1 -19943188 -4163208 0 0 0 0 0
+seg: 18 15 1000000 0 0
+vtx: 1 -20145034 -4432927 0 0 0 0 0
+seg: 19 15 1000000 0 0
+vtx: 1 -20383182 -4671204 0 0 0 0 0
+seg: 20 15 1000000 0 0
+vtx: 1 -20652794 -4873196 0 0 0 0 0
+seg: 21 15 1000000 0 0
+vtx: 1 -20948386 -5034798 0 0 0 0 0
+seg: 22 15 1000000 0 0
+vtx: 1 -21263954 -5152726 0 0 0 0 0
+seg: 23 15 1000000 0 0
+vtx: 1 -21593086 -5224583 0 0 0 0 0
+seg: 24 15 1000000 0 0
+vtx: 25 -21929090 -5248910 0 0 0 0 0
+seg: 25 15 1000000 0 0
+vtx: 26 -22750000 -5250001 12 0 0 0 0
+
+net: "NET00013" 2 1 0 0 0 0 1
+pin: 1 DD2.18
+pin: 2 X1.3
+connect: 1 1 0 3 0 1
+vtx: 1 10670000 -12250000 12 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 10670000 -5923349 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 10731200 -5457977 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 10910636 -5024249 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 11196107 -4651659 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 11903234 -3943308 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 12276228 -3656672 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 12710752 -3476466 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 13177128 -3414998 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 4 14369584 -3414999 15 0 0 0 0
+
+net: "NET00009" 2 1 0 0 0 0 1
+pin: 1 DC1.1
+pin: 2 X5.1
+connect: 1 1 0 2 0 4
+vtx: 1 -23600000 9000000 12 0 0 0 0
+seg: 1 15 1000000 0 0
+vtx: 1 -23600000 1243999 0 0 0 0 0
+seg: 2 15 1000000 0 0
+vtx: 1 -23559932 911944 0 0 0 0 0
+seg: 2 15 1000000 0 0
+vtx: 1 -23442030 598950 0 0 0 0 0
+seg: 2 15 1000000 0 0
+vtx: 1 -23253061 322985 0 0 0 0 0
+seg: 2 15 1000000 0 0
+vtx: 3 -22750000 -250001 12 0 0 0 0
+
+net: "NET00012" 2 1 0 0 0 0 1
+pin: 1 DD2.20
+pin: 2 DD1.6
+connect: 1 1 0 7 0 -1
+vtx: 1 36500000 800000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 32309524 799131 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 31976516 755225 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 31666214 626638 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 31399760 422129 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 31230193 252527 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 31025740 -13969 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 30897216 -324297 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 30853380 -657314 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 30853380 -4042481 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 30792070 -4508264 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 30612320 -4942317 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 30326372 -5315073 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 27095754 -8546711 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 26722925 -8832871 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 26288726 -9012761 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 25822761 -9074120 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 15383587 -9074120 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 1 15149031 -9042343 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 1 14931385 -8949306 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 1 14746338 -8801714 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 1 14629157 -8679131 0 0 0 0 0
+seg: 7 15 400000 0 0
+vtx: 1 14487685 -8487399 0 0 0 0 0
+seg: 7 15 400000 0 0
+vtx: 1 14399010 -8266237 0 0 0 0 0
+seg: 7 15 400000 0 0
+vtx: 1 14368840 -8029878 0 0 0 0 0
+seg: 7 15 400000 0 0
+vtx: 8 14369584 -4714999 15 0 0 0 0
+
+net: "GND" 119 19 8 0 0 0 1
+pin: 1 BT1.14
+pin: 2 C2.1
+pin: 3 DD2.5
+pin: 4 X1.1
+pin: 5 X2.2
+pin: 6 C3.1
+pin: 7 W1.2
+pin: 8 W1.9
+pin: 9 W1.16
+pin: 10 C1.1
+pin: 11 DA1.2
+pin: 12 C5.1
+pin: 13 C6.1
+pin: 14 DC1.4
+pin: 15 DD1.3
+pin: 16 C4.1
+pin: 17 C7.2
+pin: 18 XS4.5
+pin: 19 XS4.4
+pin: 20 C8.1
+pin: 21 DD5.1
+pin: 22 DD5.2
+pin: 23 DD5.3
+pin: 24 DD5.7
+pin: 25 DD5.4
+pin: 26 VIA8.1
+pin: 27 VIA9.1
+pin: 28 VIA13.1
+pin: 29 VIA14.1
+pin: 30 VIA15.1
+pin: 31 VIA19.1
+pin: 32 VIA20.1
+pin: 33 VIA21.1
+pin: 34 VIA22.1
+pin: 35 VIA24.1
+pin: 36 VIA25.1
+pin: 37 VIA26.1
+pin: 38 VIA27.1
+pin: 39 VIA28.1
+pin: 40 VIA29.1
+pin: 41 VIA30.1
+pin: 42 VIA31.1
+pin: 43 VIA32.1
+pin: 44 VIA33.1
+pin: 45 VIA34.1
+pin: 46 VIA35.1
+pin: 47 VIA36.1
+pin: 48 VIA37.1
+pin: 49 VIA38.1
+pin: 50 VIA39.1
+pin: 51 VIA40.1
+pin: 52 VIA41.1
+pin: 53 VIA42.1
+pin: 54 VIA43.1
+pin: 55 VIA44.1
+pin: 56 VIA45.1
+pin: 57 VIA46.1
+pin: 58 VIA47.1
+pin: 59 VIA48.1
+pin: 60 VIA49.1
+pin: 61 VIA50.1
+pin: 62 VIA51.1
+pin: 63 VIA54.1
+pin: 64 VIA55.1
+pin: 65 VIA56.1
+pin: 66 VIA57.1
+pin: 67 VIA58.1
+pin: 68 VIA61.1
+pin: 69 VIA62.1
+pin: 70 VIA63.1
+pin: 71 VIA66.1
+pin: 72 VIA67.1
+pin: 73 VIA68.1
+pin: 74 VIA69.1
+pin: 75 VIA70.1
+pin: 76 VIA74.1
+pin: 77 VIA75.1
+pin: 78 VIA76.1
+pin: 79 VIA77.1
+pin: 80 VIA78.1
+pin: 81 VIA79.1
+pin: 82 VIA80.1
+pin: 83 VIA81.1
+pin: 84 VIA82.1
+pin: 85 VIA83.1
+pin: 86 VIA84.1
+pin: 87 VIA85.1
+pin: 88 VIA86.1
+pin: 89 VIA87.1
+pin: 90 VIA88.1
+pin: 91 VIA89.1
+pin: 92 VIA90.1
+pin: 93 VIA91.1
+pin: 94 VIA92.1
+pin: 95 VIA93.1
+pin: 96 VIA94.1
+pin: 97 VIA95.1
+pin: 98 VIA96.1
+pin: 99 VIA97.1
+pin: 100 VIA98.1
+pin: 101 VIA99.1
+pin: 102 VIA100.1
+pin: 103 VIA101.1
+pin: 104 VIA102.1
+pin: 105 VIA103.1
+pin: 106 VIA104.1
+pin: 107 VIA105.1
+pin: 108 VIA106.1
+pin: 109 VIA107.1
+pin: 110 VIA108.1
+pin: 111 VIA109.1
+pin: 112 VIA110.1
+pin: 113 VIA111.1
+pin: 114 VIA112.1
+pin: 115 VIA113.1
+pin: 116 VIA114.1
+pin: 117 VIA115.1
+pin: 118 VIA116.1
+pin: 119 VIA117.1
+connect: 1 18 14 1 0 -1
+vtx: 1 47770000 800000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 41500000 800000 15 0 0 0 0
+connect: 2 16 -1 1 0 6
+vtx: 1 33000000 -3739998 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 33000000 -4933968 0 1 1000000 500000 0
+connect: 3 11 -1 1 0 3
+vtx: 1 6130000 -17752756 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 5166350 -17752756 0 1 1000000 500000 0
+connect: 4 12 -1 1 0 3
+vtx: 1 2580823 -22500000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 2580823 -23440199 0 1 1000000 500000 0
+connect: 5 10 -1 1 0 3
+vtx: 1 5539200 -21439800 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 6580312 -21439800 0 1 1000000 500000 0
+connect: 6 19 -1 1 0 7
+vtx: 1 236802 -13500000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 236802 -14695414 0 1 1000000 500000 0
+connect: 7 21 -1 1 0 7
+vtx: 1 236801 -5250000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 236801 -3503744 0 1 1000000 500000 0
+connect: 8 20 -1 1 0 7
+vtx: 1 1506801 -5250000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 1506801 -3506275 0 1 1000000 500000 0
+connect: 9 22 -1 1 0 7
+vtx: 1 -1033199 -5250000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 -1033200 -3492218 0 1 1000000 500000 0
+connect: 10 24 -1 1 0 7
+vtx: 1 -2303199 -5250000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 -2303200 -3505908 0 1 1000000 500000 0
+connect: 11 23 -1 1 0 7
+vtx: 1 236802 -10250000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 236802 -11955852 0 1 1000000 500000 0
+connect: 12 9 -1 1 0 2
+vtx: 1 -16250000 15028070 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 -16250000 16136702 0 1 1000000 500000 0
+connect: 13 18 -1 2 0 -1
+vtx: 1 47770000 800000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 45189208 800000 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 3 45189210 1200000 0 1 1000000 500000 0
+connect: 14 5 -1 1 0 1
+vtx: 1 25743200 -764999 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 26825340 -764999 0 1 1000000 500000 0
+connect: 15 15 -1 1 0 6
+vtx: 1 33000000 4070001 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 34220511 4070001 0 1 1000000 500000 0
+connect: 16 2 -1 1 0 1
+vtx: 1 20089584 -2114999 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 18160675 -2114999 0 1 1000000 500000 0
+connect: 17 1 -1 1 0 0
+vtx: 1 30939583 7250000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 32052932 7250000 0 1 1000000 500000 0
+connect: 18 0 -1 1 0 0
+vtx: 1 21439580 10650003 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 21439580 8716292 0 1 1000000 500000 0
+connect: 19 17 -1 2 0 -1
+vtx: 1 47770000 1600000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 43915716 1600000 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 3 43915716 1200000 0 0 1000000 500000 0
+area: 1 4 15 0 0 -1 -1 0
+corner: 1 -31798900 -32749890 0 0
+corner: 2 -31798900 32777020 0 0
+corner: 3 54749830 32777020 0 0
+corner: 4 54749830 -32749890 0 1
+area: 2 4 16 0 0 -1 -1 0
+corner: 1 -31798900 -32749890 0 0
+corner: 2 -31798900 32777020 0 0
+corner: 3 54749830 32777020 0 0
+corner: 4 54749830 -32749890 0 1
+area: 3 959 16 1 190000 -1 -1 0
+corner: 1 36784260 31404000 0 0
+corner: 2 39237101 30916132 0 0
+corner: 3 41605273 30112298 0 0
+corner: 4 43848244 29006260 0 0
+corner: 5 45927664 27616927 0 0
+corner: 6 47807923 25968089 0 0
+corner: 7 49456878 24087942 0 0
+corner: 8 50846288 22008674 0 0
+corner: 9 51952404 19765842 0 0
+corner: 10 52756286 17397843 0 0
+corner: 11 53244182 14945172 0 0
+corner: 12 53408670 12435737 0 0
+corner: 13 53408670 -12435707 0 0
+corner: 14 53244182 -14945172 0 0
+corner: 15 52756286 -17397843 0 0
+corner: 16 51952404 -19765842 0 0
+corner: 17 50846289 -22008670 0 0
+corner: 18 49456875 -24087945 0 0
+corner: 19 47807923 -25968089 0 0
+corner: 20 45927664 -27616927 0 0
+corner: 21 43848244 -29006260 0 0
+corner: 22 41605273 -30112298 0 0
+corner: 23 39237101 -30916132 0 0
+corner: 24 36784260 -31404000 0 0
+corner: 25 34274629 -31568480 0 0
+corner: 26 4429670 -31568480 0 0
+corner: 27 4429670 -28348940 0 0
+corner: 28 4426637 -28333694 0 0
+corner: 29 4428576 -28318272 0 0
+corner: 30 4387936 -27749312 0 0
+corner: 31 4379807 -27719670 0 0
+corner: 32 4379292 -27688939 0 0
+corner: 33 4258642 -27131409 0 0
+corner: 34 4246054 -27102405 0 0
+corner: 35 4240934 -27071207 0 0
+corner: 36 4040274 -26536537 0 0
+corner: 37 4024215 -26510658 0 0
+corner: 38 4015124 -26481595 0 0
+corner: 39 3742074 -25981215 0 0
+corner: 40 3722317 -25957562 0 0
+corner: 41 3709041 -25929749 0 0
+corner: 42 3367411 -25472549 0 0
+corner: 43 3344266 -25451722 0 0
+corner: 44 3326967 -25425832 0 0
+corner: 45 2923107 -25021972 0 0
+corner: 46 2897216 -25004672 0 0
+corner: 47 2876390 -24981528 0 0
+corner: 48 2419190 -24639898 0 0
+corner: 49 2391756 -24626802 0 0
+corner: 50 2368462 -24607268 0 0
+corner: 51 1868082 -24332948 0 0
+corner: 52 1838207 -24323538 0 0
+corner: 53 1811562 -24307081 0 0
+corner: 54 1276892 -24107691 0 0
+corner: 55 1246124 -24102706 0 0
+corner: 56 1217530 -24090297 0 0
+corner: 57 660000 -23969647 0 0
+corner: 58 629268 -23969131 0 0
+corner: 59 599627 -23961003 0 0
+corner: 60 30667 -23920363 0 0
+corner: 61 0 -23924217 0 0
+corner: 62 -30667 -23920363 0 0
+corner: 63 -599627 -23961003 0 0
+corner: 64 -629268 -23969131 0 0
+corner: 65 -660000 -23969647 0 0
+corner: 66 -1217530 -24090297 0 0
+corner: 67 -1246124 -24102706 0 0
+corner: 68 -1276892 -24107691 0 0
+corner: 69 -1811562 -24307081 0 0
+corner: 70 -1838207 -24323538 0 0
+corner: 71 -1868082 -24332948 0 0
+corner: 72 -2368462 -24607268 0 0
+corner: 73 -2391756 -24626802 0 0
+corner: 74 -2419190 -24639898 0 0
+corner: 75 -2876390 -24981528 0 0
+corner: 76 -2897216 -25004672 0 0
+corner: 77 -2923107 -25021972 0 0
+corner: 78 -3326967 -25425832 0 0
+corner: 79 -3344266 -25451722 0 0
+corner: 80 -3367411 -25472549 0 0
+corner: 81 -3709041 -25929749 0 0
+corner: 82 -3722317 -25957562 0 0
+corner: 83 -3742074 -25981215 0 0
+corner: 84 -4015124 -26481595 0 0
+corner: 85 -4024215 -26510659 0 0
+corner: 86 -4040274 -26536537 0 0
+corner: 87 -4240934 -27071207 0 0
+corner: 88 -4246054 -27102406 0 0
+corner: 89 -4258642 -27131409 0 0
+corner: 90 -4379292 -27688939 0 0
+corner: 91 -4379807 -27719670 0 0
+corner: 92 -4387936 -27749312 0 0
+corner: 93 -4428576 -28318272 0 0
+corner: 94 -4426637 -28333694 0 0
+corner: 95 -4429670 -28348940 0 0
+corner: 96 -4429670 -31568480 0 0
+corner: 97 -24485469 -31568480 0 0
+corner: 98 -25226352 -31519920 0 0
+corner: 99 -25815011 -31402828 0 0
+corner: 100 -23557177 -31402828 0 0
+corner: 101 -21987172 -29832823 0 0
+corner: 102 -21987172 -27267177 0 0
+corner: 103 -23557177 -25697172 0 0
+corner: 104 -26122823 -25697172 0 0
+corner: 105 -27692828 -27267177 0 0
+corner: 106 -27692828 -29832823 0 0
+corner: 107 -26254263 -31271387 0 0
+corner: 108 -26630392 -31143708 0 0
+corner: 109 -27283632 -30821566 0 0
+corner: 110 -27889225 -30416923 0 0
+corner: 111 -28436823 -29936691 0 0
+corner: 112 -28917053 -29389095 0 0
+corner: 113 -29321698 -28783499 0 0
+corner: 114 -29643840 -28130263 0 0
+corner: 115 -29877954 -27440580 0 0
+corner: 116 -30020050 -26726222 0 0
+corner: 117 -30068610 -25985339 0 0
+corner: 118 -30068610 -20865951 0 0
+corner: 119 -29594999 -20865951 0 0
+corner: 120 -29594999 -21145001 0 0
+corner: 121 -28826832 -21145001 0 0
+corner: 122 -27855000 -21145002 0 0
+corner: 123 -27645000 -21145002 0 0
+corner: 124 -27149535 -21145001 0 0
+corner: 125 -25405000 -21145002 0 0
+corner: 126 -25195000 -21145002 0 0
+corner: 127 -23702671 -21145001 0 0
+corner: 128 -22855001 -21145002 0 0
+corner: 129 -22645001 -21145002 0 0
+corner: 130 -21455002 -21145001 0 0
+corner: 131 -21455001 -21145000 0 0
+corner: 132 -21005001 -21145000 0 0
+corner: 133 -21005001 -20865951 0 0
+corner: 134 -20318743 -20865951 0 0
+corner: 135 -20318743 -21181882 0 0
+corner: 136 -19501883 -21998742 0 0
+corner: 137 -18138117 -21998742 0 0
+corner: 138 -17321257 -21181882 0 0
+corner: 139 -17321257 -19818116 0 0
+corner: 140 -18138117 -19001256 0 0
+corner: 141 -19184050 -19001256 0 0
+corner: 142 -19184051 -13692025 0 0
+corner: 143 -20242025 -12634053 0 0
+corner: 144 -30068610 -12634051 0 0
+corner: 145 -30068610 -9365951 0 0
+corner: 146 -20242026 -9365951 0 0
+corner: 147 -19184050 -8307975 0 0
+corner: 148 -19184050 -3307975 0 0
+corner: 149 -19184051 2807975 0 0
+corner: 150 -20242025 3865947 0 0
+corner: 151 -30068610 3865948 0 0
+corner: 152 -30068610 7216304 0 0
+corner: 153 -28227569 5375263 0 0
+corner: 154 -21772431 5375263 0 0
+corner: 155 -19875264 7272430 0 0
+corner: 156 -19875264 10727570 0 0
+corner: 157 -20147694 11000000 0 0
+corner: 158 -19875264 11272430 0 0
+corner: 159 -19875264 14727570 0 0
+corner: 160 -21772430 16624736 0 0
+corner: 161 -28227569 16624737 0 0
+corner: 162 -30068610 14783696 0 0
+corner: 163 -30068610 25985339 0 0
+corner: 164 -30020050 26726222 0 0
+corner: 165 -29877954 27440580 0 0
+corner: 166 -29643840 28130263 0 0
+corner: 167 -29321698 28783499 0 0
+corner: 168 -28917053 29389095 0 0
+corner: 169 -28436827 29936688 0 0
+corner: 170 -27889221 30416925 0 0
+corner: 171 -27283632 30821566 0 0
+corner: 172 -26630392 31143708 0 0
+corner: 173 -26254263 31271387 0 0
+corner: 174 -27692828 29832823 0 0
+corner: 175 -27692828 27267177 0 0
+corner: 176 -26122823 25697172 0 0
+corner: 177 -23557177 25697172 0 0
+corner: 178 -21987172 27267177 0 0
+corner: 179 -21987172 29832823 0 0
+corner: 180 -23557177 31402828 0 0
+corner: 181 -25815011 31402828 0 0
+corner: 182 -25226352 31519920 0 0
+corner: 183 -24485469 31568480 0 0
+corner: 184 -4429670 31568480 0 0
+corner: 185 -4429670 28348939 0 0
+corner: 186 -4426637 28333693 0 0
+corner: 187 -4428576 28318272 0 0
+corner: 188 -4387936 27749312 0 0
+corner: 189 -4379807 27719670 0 0
+corner: 190 -4379292 27688939 0 0
+corner: 191 -4258642 27131409 0 0
+corner: 192 -4246054 27102406 0 0
+corner: 193 -4240934 27071207 0 0
+corner: 194 -4040274 26536537 0 0
+corner: 195 -4024215 26510659 0 0
+corner: 196 -4015124 26481595 0 0
+corner: 197 -3742074 25981215 0 0
+corner: 198 -3722317 25957562 0 0
+corner: 199 -3709041 25929749 0 0
+corner: 200 -3367411 25472549 0 0
+corner: 201 -3344266 25451722 0 0
+corner: 202 -3326967 25425832 0 0
+corner: 203 -2923107 25021972 0 0
+corner: 204 -2897216 25004672 0 0
+corner: 205 -2876390 24981528 0 0
+corner: 206 -2419190 24639898 0 0
+corner: 207 -2391756 24626802 0 0
+corner: 208 -2368462 24607268 0 0
+corner: 209 -1868082 24332948 0 0
+corner: 210 -1838207 24323538 0 0
+corner: 211 -1811562 24307081 0 0
+corner: 212 -1276892 24107691 0 0
+corner: 213 -1246124 24102706 0 0
+corner: 214 -1217530 24090297 0 0
+corner: 215 -660000 23969647 0 0
+corner: 216 -629268 23969131 0 0
+corner: 217 -599627 23961003 0 0
+corner: 218 -30667 23920363 0 0
+corner: 219 0 23924217 0 0
+corner: 220 30667 23920363 0 0
+corner: 221 599627 23961003 0 0
+corner: 222 629268 23969131 0 0
+corner: 223 660000 23969647 0 0
+corner: 224 1217530 24090297 0 0
+corner: 225 1246124 24102707 0 0
+corner: 226 1276892 24107691 0 0
+corner: 227 1811562 24307081 0 0
+corner: 228 1838207 24323538 0 0
+corner: 229 1868082 24332948 0 0
+corner: 230 2368462 24607268 0 0
+corner: 231 2391756 24626802 0 0
+corner: 232 2419190 24639898 0 0
+corner: 233 2876390 24981528 0 0
+corner: 234 2897216 25004672 0 0
+corner: 235 2923107 25021972 0 0
+corner: 236 3326967 25425832 0 0
+corner: 237 3344266 25451722 0 0
+corner: 238 3367411 25472549 0 0
+corner: 239 3709041 25929749 0 0
+corner: 240 3722317 25957562 0 0
+corner: 241 3742074 25981215 0 0
+corner: 242 4015124 26481595 0 0
+corner: 243 4024215 26510658 0 0
+corner: 244 4040274 26536537 0 0
+corner: 245 4240934 27071207 0 0
+corner: 246 4246054 27102405 0 0
+corner: 247 4258642 27131409 0 0
+corner: 248 4379292 27688939 0 0
+corner: 249 4379807 27719670 0 0
+corner: 250 4387936 27749312 0 0
+corner: 251 4428576 28318272 0 0
+corner: 252 4426637 28333694 0 0
+corner: 253 4429670 28348940 0 0
+corner: 254 4429670 31568480 0 0
+corner: 255 34274631 31568480 0 1
+corner: 256 31338519 25392188 0 0
+corner: 257 14339569 25392188 0 0
+corner: 258 14299446 25384207 0 0
+corner: 259 14258865 25389334 0 0
+corner: 260 14115355 25379174 0 0
+corner: 261 14034319 25357005 0 0
+corner: 262 13950318 25355294 0 0
+corner: 263 13811888 25324814 0 0
+corner: 264 13740266 25293422 0 0
+corner: 265 13663024 25281258 0 0
+corner: 266 13528404 25231728 0 0
+corner: 267 13454290 25186400 0 0
+corner: 268 13371485 25160124 0 0
+corner: 269 13247025 25091544 0 0
+corner: 270 13187007 25040994 0 0
+corner: 271 13116128 25007315 0 0
+corner: 272 13001828 24922225 0 0
+corner: 273 12945740 24860117 0 0
+corner: 274 12876162 24813627 0 0
+corner: 275 12774562 24712027 0 0
+corner: 276 12728071 24642448 0 0
+corner: 277 12665964 24586361 0 0
+corner: 278 12580874 24472061 0 0
+corner: 279 12547195 24401183 0 0
+corner: 280 12496644 24341164 0 0
+corner: 281 12428064 24216704 0 0
+corner: 282 12401786 24133895 0 0
+corner: 283 12356461 24059785 0 0
+corner: 284 12306931 23925165 0 0
+corner: 285 12294766 23847922 0 0
+corner: 286 12263375 23776301 0 0
+corner: 287 12232895 23637871 0 0
+corner: 288 12231190 23554228 0 0
+corner: 289 12209066 23473552 0 0
+corner: 290 12198906 23331312 0 0
+corner: 291 12204053 23290364 0 0
+corner: 292 12196002 23249889 0 0
+corner: 293 12196002 15248889 0 0
+corner: 294 12204052 15208414 0 0
+corner: 295 12198906 15167467 0 0
+corner: 296 12209066 15025227 0 0
+corner: 297 12231190 14944550 0 0
+corner: 298 12232895 14860908 0 0
+corner: 299 12263375 14722478 0 0
+corner: 300 12294766 14650856 0 0
+corner: 301 12306931 14573614 0 0
+corner: 302 12356461 14438994 0 0
+corner: 303 12401786 14364883 0 0
+corner: 304 12428064 14282075 0 0
+corner: 305 12496644 14157615 0 0
+corner: 306 12547197 14097593 0 0
+corner: 307 12580875 14026718 0 0
+corner: 308 12665965 13912418 0 0
+corner: 309 12728069 13856332 0 0
+corner: 310 12774562 13786752 0 0
+corner: 311 12876162 13685152 0 0
+corner: 312 12945742 13638659 0 0
+corner: 313 13001828 13576555 0 0
+corner: 314 13116128 13491465 0 0
+corner: 315 13187003 13457787 0 0
+corner: 316 13247025 13407234 0 0
+corner: 317 13371485 13338654 0 0
+corner: 318 13454293 13312376 0 0
+corner: 319 13528404 13267051 0 0
+corner: 320 13663024 13217521 0 0
+corner: 321 13740266 13205356 0 0
+corner: 322 13811888 13173965 0 0
+corner: 323 13950318 13143485 0 0
+corner: 324 14034319 13141773 0 0
+corner: 325 14115355 13119605 0 0
+corner: 326 14258865 13109445 0 0
+corner: 327 14299450 13114572 0 0
+corner: 328 14339570 13106592 0 0
+corner: 329 31338519 13106592 0 0
+corner: 330 31378993 13114642 0 0
+corner: 331 31419941 13109496 0 0
+corner: 332 31562181 13119656 0 0
+corner: 333 31641811 13141493 0 0
+corner: 334 31724369 13143018 0 0
+corner: 335 31864069 13173498 0 0
+corner: 336 31938354 13205887 0 0
+corner: 337 32018370 13218742 0 0
+corner: 338 32151720 13268272 0 0
+corner: 339 32222125 13311630 0 0
+corner: 340 32301046 13336303 0 0
+corner: 341 32426776 13404883 0 0
+corner: 342 32488882 13456739 0 0
+corner: 343 32561961 13491464 0 0
+corner: 344 32676261 13576554 0 0
+corner: 345 32734745 13641316 0 0
+corner: 346 32806993 13690250 0 0
+corner: 347 32907323 13791850 0 0
+corner: 348 32949176 13855348 0 0
+corner: 349 33005979 13905917 0 0
+corner: 350 33092339 14020217 0 0
+corner: 351 33128285 14094500 0 0
+corner: 352 33181444 14157615 0 0
+corner: 353 33250024 14282075 0 0
+corner: 354 33276300 14364880 0 0
+corner: 355 33321628 14438994 0 0
+corner: 356 33371158 14573614 0 0
+corner: 357 33383322 14650856 0 0
+corner: 358 33414714 14722478 0 0
+corner: 359 33445194 14860908 0 0
+corner: 360 33446898 14944551 0 0
+corner: 361 33469023 15025228 0 0
+corner: 362 33479183 15167468 0 0
+corner: 363 33474036 15208412 0 0
+corner: 364 33482088 15248890 0 0
+corner: 365 33482088 23249890 0 0
+corner: 366 33474036 23290367 0 0
+corner: 367 33479183 23331311 0 0
+corner: 368 33469023 23473551 0 0
+corner: 369 33446898 23554227 0 0
+corner: 370 33445194 23637871 0 0
+corner: 371 33414714 23776301 0 0
+corner: 372 33383322 23847922 0 0
+corner: 373 33371158 23925165 0 0
+corner: 374 33321628 24059785 0 0
+corner: 375 33276300 24133898 0 0
+corner: 376 33250024 24216704 0 0
+corner: 377 33181444 24341164 0 0
+corner: 378 33128285 24404278 0 0
+corner: 379 33092339 24478562 0 0
+corner: 380 33005979 24592862 0 0
+corner: 381 32949176 24643430 0 0
+corner: 382 32907323 24706929 0 0
+corner: 383 32806993 24808529 0 0
+corner: 384 32734745 24857462 0 0
+corner: 385 32676261 24922225 0 0
+corner: 386 32561961 25007315 0 0
+corner: 387 32488882 25042039 0 0
+corner: 388 32426776 25093896 0 0
+corner: 389 32301046 25162476 0 0
+corner: 390 32222125 25187148 0 0
+corner: 391 32151720 25230507 0 0
+corner: 392 32018370 25280037 0 0
+corner: 393 31938354 25292891 0 0
+corner: 394 31864069 25325281 0 0
+corner: 395 31724369 25355761 0 0
+corner: 396 31641811 25357285 0 0
+corner: 397 31562181 25379123 0 0
+corner: 398 31419941 25389283 0 0
+corner: 399 31378996 25384136 0 1
+corner: 400 398779 19669568 0 0
+corner: 401 -8399780 19669568 0 0
+corner: 402 -8438003 19661964 0 0
+corner: 403 -8476648 19666979 0 0
+corner: 404 -8589678 19659359 0 0
+corner: 405 -8670395 19637569 0 0
+corner: 406 -8753995 19636207 0 0
+corner: 407 -8865755 19612077 0 0
+corner: 408 -8945599 19577469 0 0
+corner: 409 -9031404 19562950 0 0
+corner: 410 -9138084 19522310 0 0
+corner: 411 -9203673 19481158 0 0
+corner: 412 -9277595 19458121 0 0
+corner: 413 -9377925 19403511 0 0
+corner: 414 -9442024 19350086 0 0
+corner: 415 -9517264 19314006 0 0
+corner: 416 -9608704 19245426 0 0
+corner: 417 -9660220 19187969 0 0
+corner: 418 -9724719 19145604 0 0
+corner: 419 -9805999 19065594 0 0
+corner: 420 -9854414 18994355 0 0
+corner: 421 -9918546 18936854 0 0
+corner: 422 -9987126 18845414 0 0
+corner: 423 -10023206 18770174 0 0
+corner: 424 -10076631 18706075 0 0
+corner: 425 -10131241 18605745 0 0
+corner: 426 -10156047 18526146 0 0
+corner: 427 -10199617 18455066 0 0
+corner: 428 -10238987 18348386 0 0
+corner: 429 -10251680 18268303 0 0
+corner: 430 -10283927 18193905 0 0
+corner: 431 -10307723 18083687 0 0
+corner: 432 -11112429 18888393 0 0
+corner: 433 -12887971 18888393 0 0
+corner: 434 -13860542 17915822 0 0
+corner: 435 -13860542 16140278 0 0
+corner: 436 -13045199 15324935 0 0
+corner: 437 -13045200 15133049 0 0
+corner: 438 -12105199 15133050 0 0
+corner: 439 -11895200 15133049 0 0
+corner: 440 -10955200 15133049 0 0
+corner: 441 -10955200 15324936 0 0
+corner: 442 -10342688 15937448 0 0
+corner: 443 -10342688 2726689 0 0
+corner: 444 -10334279 2684417 0 0
+corner: 445 -10339518 2641642 0 0
+corner: 446 -10326818 2471462 0 0
+corner: 447 -10304992 2392856 0 0
+corner: 448 -10303368 2311286 0 0
+corner: 449 -10266538 2143646 0 0
+corner: 450 -10234051 2069432 0 0
+corner: 451 -10221091 1989466 0 0
+corner: 452 -10161401 1829446 0 0
+corner: 453 -10120127 1762635 0 0
+corner: 454 -10097140 1687549 0 0
+corner: 455 -10015860 1536419 0 0
+corner: 456 -9960941 1469849 0 0
+corner: 457 -9923626 1392035 0 0
+corner: 458 -9820756 1254875 0 0
+corner: 459 -9757742 1198375 0 0
+corner: 460 -9710355 1128253 0 0
+corner: 461 -9588435 1007603 0 0
+corner: 462 -9524919 965642 0 0
+corner: 463 -9474355 908738 0 0
+corner: 464 -9338465 805868 0 0
+corner: 465 -9258530 767094 0 0
+corner: 466 -9190000 710559 0 0
+corner: 467 -9038870 629279 0 0
+corner: 468 -8963783 606291 0 0
+corner: 469 -8896973 565018 0 0
+corner: 470 -8736953 505328 0 0
+corner: 471 -8656986 492367 0 0
+corner: 472 -8582773 459881 0 0
+corner: 473 -8415133 423051 0 0
+corner: 474 -8333562 421426 0 0
+corner: 475 -8254957 399601 0 0
+corner: 476 -8084777 386901 0 0
+corner: 477 -8041998 392139 0 0
+corner: 478 -7999729 383732 0 0
+corner: 479 0 383732 0 0
+corner: 480 42269 392139 0 0
+corner: 481 85047 386901 0 0
+corner: 482 255227 399601 0 0
+corner: 483 333832 421426 0 0
+corner: 484 415403 423051 0 0
+corner: 485 583043 459881 0 0
+corner: 486 657256 492367 0 0
+corner: 487 737223 505328 0 0
+corner: 488 897243 565018 0 0
+corner: 489 965761 607346 0 0
+corner: 490 1042688 631195 0 0
+corner: 491 1192548 712475 0 0
+corner: 492 1257379 766345 0 0
+corner: 493 1333384 802793 0 0
+corner: 494 1470544 905663 0 0
+corner: 495 1523064 964238 0 0
+corner: 496 1588705 1007603 0 0
+corner: 497 1710625 1128253 0 0
+corner: 498 1759908 1201180 0 0
+corner: 499 1825091 1260329 0 0
+corner: 500 1926691 1397489 0 0
+corner: 501 1960517 1469117 0 0
+corner: 502 2011323 1529893 0 0
+corner: 503 2093873 1681023 0 0
+corner: 504 2118454 1759489 0 0
+corner: 505 2161671 1829446 0 0
+corner: 506 2221361 1989466 0 0
+corner: 507 2234322 2069435 0 0
+corner: 508 2266807 2143646 0 0
+corner: 509 2303637 2311286 0 0
+corner: 510 2305345 2397074 0 0
+corner: 511 2327689 2479926 0 0
+corner: 512 2339119 2650106 0 0
+corner: 513 2334113 2688608 0 0
+corner: 514 2341688 2726690 0 0
+corner: 515 2341688 17726660 0 0
+corner: 516 2334168 17764463 0 0
+corner: 517 2339156 17802678 0 0
+corner: 518 2331536 17916978 0 0
+corner: 519 2309696 17998122 0 0
+corner: 520 2308327 18082145 0 0
+corner: 521 2284197 18193905 0 0
+corner: 522 2249589 18273749 0 0
+corner: 523 2235070 18359554 0 0
+corner: 524 2194430 18466234 0 0
+corner: 525 2153278 18531823 0 0
+corner: 526 2130241 18605745 0 0
+corner: 527 2075631 18706075 0 0
+corner: 528 2025469 18766260 0 0
+corner: 529 1992225 18837206 0 0
+corner: 530 1924915 18928646 0 0
+corner: 531 1857543 18990149 0 0
+corner: 532 1806269 19065594 0 0
+corner: 533 1724989 19145604 0 0
+corner: 534 1660490 19187969 0 0
+corner: 535 1608974 19245426 0 0
+corner: 536 1517534 19314006 0 0
+corner: 537 1442294 19350086 0 0
+corner: 538 1378195 19403511 0 0
+corner: 539 1277865 19458121 0 0
+corner: 540 1203943 19481158 0 0
+corner: 541 1138354 19522310 0 0
+corner: 542 1031674 19562950 0 0
+corner: 543 945869 19577469 0 0
+corner: 544 866025 19612077 0 0
+corner: 545 754265 19636207 0 0
+corner: 546 670242 19637576 0 0
+corner: 547 589098 19659416 0 0
+corner: 548 474798 19667036 0 0
+corner: 549 436582 19662048 0 1
+corner: 550 28245332 -1954099 0 0
+corner: 551 27573620 -1954099 0 0
+corner: 552 27098576 -2429143 0 0
+corner: 553 27098576 -3100855 0 0
+corner: 554 27573620 -3575899 0 0
+corner: 555 28007766 -3575899 0 0
+corner: 556 28802468 -4368110 0 0
+corner: 557 28802468 -4799408 0 0
+corner: 558 29277512 -5274452 0 0
+corner: 559 29711659 -5274452 0 0
+corner: 560 30419670 -5980240 0 0
+corner: 561 30419670 -6411536 0 0
+corner: 562 30894714 -6886580 0 0
+corner: 563 31566426 -6886580 0 0
+corner: 564 32041470 -6411536 0 0
+corner: 565 32041470 -5739824 0 0
+corner: 566 31566426 -5264780 0 0
+corner: 567 31132278 -5264780 0 0
+corner: 568 30424268 -4558991 0 0
+corner: 569 30424268 -4127696 0 0
+corner: 570 29949224 -3652652 0 0
+corner: 571 29515078 -3652652 0 0
+corner: 572 28720376 -2860440 0 0
+corner: 573 28720376 -2429143 0 1
+corner: 574 14693000 -12354999 0 0
+corner: 575 14693000 -13159499 0 0
+corner: 576 14840501 -13307000 0 0
+corner: 577 15645001 -13307000 0 0
+corner: 578 15645001 -12355000 0 1
+corner: 579 15854999 -13307000 0 0
+corner: 580 16659499 -13307000 0 0
+corner: 581 16807000 -13159499 0 0
+corner: 582 16807000 -12354999 0 0
+corner: 583 15855000 -12354999 0 1
+corner: 584 16807000 -12145001 0 0
+corner: 585 16807000 -11340501 0 0
+corner: 586 16659499 -11193000 0 0
+corner: 587 15855000 -11193001 0 0
+corner: 588 15855000 -12145001 0 1
+corner: 589 15645000 -11193001 0 0
+corner: 590 14840501 -11193000 0 0
+corner: 591 14693000 -11340501 0 0
+corner: 592 14693001 -12145000 0 0
+corner: 593 15645001 -12145000 0 1
+corner: 594 12145588 -12739128 0 0
+corner: 595 12720873 -13314413 0 0
+corner: 596 13699127 -13314413 0 0
+corner: 597 14274412 -12739128 0 0
+corner: 598 14274412 -11760872 0 0
+corner: 599 13699127 -11185587 0 0
+corner: 600 12720873 -11185587 0 0
+corner: 601 12145587 -11760873 0 1
+corner: 602 9605588 -12739128 0 0
+corner: 603 10180873 -13314413 0 0
+corner: 604 11159127 -13314413 0 0
+corner: 605 11734412 -12739128 0 0
+corner: 606 11734412 -11760872 0 0
+corner: 607 11159127 -11185587 0 0
+corner: 608 10180873 -11185587 0 0
+corner: 609 9605587 -11760873 0 1
+corner: 610 7065588 -12739128 0 0
+corner: 611 7640873 -13314413 0 0
+corner: 612 8619127 -13314413 0 0
+corner: 613 9194412 -12739128 0 0
+corner: 614 9194412 -11760872 0 0
+corner: 615 8619127 -11185587 0 0
+corner: 616 7640873 -11185587 0 0
+corner: 617 7065587 -11760873 0 1
+corner: 618 25449122 1067827 0 0
+corner: 619 25877827 639122 0 0
+corner: 620 26622173 639122 0 0
+corner: 621 27050878 1067827 0 0
+corner: 622 27050878 1812173 0 0
+corner: 623 26622173 2240878 0 0
+corner: 624 25877827 2240878 0 0
+corner: 625 25449122 1812173 0 1
+corner: 626 25455000 4135001 0 0
+corner: 627 25455000 3885412 0 0
+corner: 628 25895411 3445001 0 0
+corner: 629 26145001 3445000 0 0
+corner: 630 26145001 4135000 0 1
+corner: 631 26354999 3445000 0 0
+corner: 632 26604589 3445001 0 0
+corner: 633 27045000 3885412 0 0
+corner: 634 27045000 4135001 0 0
+corner: 635 26355000 4135001 0 1
+corner: 636 27045000 4344999 0 0
+corner: 637 27045000 4594588 0 0
+corner: 638 26604589 5034999 0 0
+corner: 639 26354999 5035000 0 0
+corner: 640 26355000 4344999 0 1
+corner: 641 26145001 5035000 0 0
+corner: 642 25895411 5034999 0 0
+corner: 643 25455001 4594589 0 0
+corner: 644 25455001 4345000 0 0
+corner: 645 26145001 4345000 0 1
+corner: 646 20845609 6182949 0 0
+corner: 647 20696635 6033975 0 0
+corner: 648 20696635 4466025 0 0
+corner: 649 20845609 4317051 0 0
+corner: 650 22413559 4317051 0 0
+corner: 651 22562533 4466025 0 0
+corner: 652 22562533 6033975 0 0
+corner: 653 22413559 6182949 0 1
+corner: 654 18657149 6186669 0 0
+corner: 655 18152915 5682435 0 0
+corner: 656 18152915 4817565 0 0
+corner: 657 18657149 4313331 0 0
+corner: 658 19522019 4313331 0 0
+corner: 659 20026253 4817565 0 0
+corner: 660 20026253 5682435 0 0
+corner: 661 19522019 6186669 0 1
+corner: 662 -11895201 13983050 0 0
+corner: 663 -11542068 13983050 0 0
+corner: 664 -10955200 14569918 0 0
+corner: 665 -10955200 14923051 0 0
+corner: 666 -11895200 14923051 0 1
+corner: 667 -13045200 14923051 0 0
+corner: 668 -13045199 14569917 0 0
+corner: 669 -12458333 13983051 0 0
+corner: 670 -12105199 13983050 0 0
+corner: 671 -12105200 14923051 0 1
+corner: 672 4105759 1983200 0 0
+corner: 673 4458892 1983200 0 0
+corner: 674 5045760 2570068 0 0
+corner: 675 5045760 2923201 0 0
+corner: 676 4105760 2923201 0 1
+corner: 677 5045760 3133199 0 0
+corner: 678 5045760 3486332 0 0
+corner: 679 4458893 4073199 0 0
+corner: 680 4105759 4073200 0 0
+corner: 681 4105760 3133199 0 1
+corner: 682 3895761 4073200 0 0
+corner: 683 3542627 4073199 0 0
+corner: 684 2955761 3486333 0 0
+corner: 685 2955760 3133199 0 0
+corner: 686 3895761 3133200 0 1
+corner: 687 2955760 2923201 0 0
+corner: 688 2955761 2570067 0 0
+corner: 689 3542627 1983201 0 0
+corner: 690 3895761 1983200 0 0
+corner: 691 3895760 2923201 0 1
+corner: 692 4105759 15983200 0 0
+corner: 693 4458892 15983200 0 0
+corner: 694 5045760 16570068 0 0
+corner: 695 5045760 16923201 0 0
+corner: 696 4105760 16923201 0 1
+corner: 697 5045760 17133199 0 0
+corner: 698 5045760 17486332 0 0
+corner: 699 4458893 18073199 0 0
+corner: 700 4105759 18073200 0 0
+corner: 701 4105760 17133199 0 1
+corner: 702 3895761 18073200 0 0
+corner: 703 3542627 18073199 0 0
+corner: 704 2955761 17486333 0 0
+corner: 705 2955760 17133199 0 0
+corner: 706 3895761 17133200 0 1
+corner: 707 2955760 16923201 0 0
+corner: 708 2955761 16570067 0 0
+corner: 709 3542627 15983201 0 0
+corner: 710 3895761 15983200 0 0
+corner: 711 3895760 16923201 0 1
+corner: 712 -1257 -19818116 0 0
+corner: 713 -818117 -19001256 0 0
+corner: 714 -2181883 -19001256 0 0
+corner: 715 -2998743 -19818116 0 0
+corner: 716 -2998743 -21181882 0 0
+corner: 717 -2181883 -21998742 0 0
+corner: 718 -818117 -21998742 0 0
+corner: 719 -1257 -21181882 0 1
+corner: 720 -21455002 -21355001 0 0
+corner: 721 -21455001 -21355001 0 0
+corner: 722 -21005001 -21355002 0 0
+corner: 723 -21005000 -23397500 0 0
+corner: 724 -21152501 -23545001 0 0
+corner: 725 -25195000 -23545000 0 0
+corner: 726 -25195000 -21355000 0 0
+corner: 727 -23100000 -21355001 0 0
+corner: 728 -22855000 -21355001 0 0
+corner: 729 -22645001 -21355000 0 1
+corner: 730 -26455001 -21355001 0 0
+corner: 731 -25404999 -21355001 0 0
+corner: 732 -25405000 -23545000 0 0
+corner: 733 -29447499 -23545001 0 0
+corner: 734 -29595000 -23397500 0 0
+corner: 735 -29594999 -21355001 0 0
+corner: 736 -27645000 -21355001 0 0
+corner: 737 -27645000 -21355000 0 1
+corner: 738 50747499 4794999 0 0
+corner: 739 50895001 4794999 0 0
+corner: 740 50895001 4695000 0 0
+corner: 741 50895002 4695000 0 0
+corner: 742 50895002 4005000 0 0
+corner: 743 50204999 4005000 0 0
+corner: 744 50205000 4695001 0 0
+corner: 745 50205000 4794999 0 0
+corner: 746 50352501 4794999 0 0
+corner: 747 50352502 4795000 0 0
+corner: 748 50550000 4794999 0 0
+corner: 749 50747499 4795000 0 1
+corner: 750 50895000 3895000 0 0
+corner: 751 50895002 3895000 0 0
+corner: 752 50895002 3205000 0 0
+corner: 753 50204999 3205000 0 0
+corner: 754 50205000 3895001 0 0
+corner: 755 50895000 3895001 0 1
+corner: 756 51105000 3205000 0 0
+corner: 757 51647500 3205000 0 0
+corner: 758 51795001 3352501 0 0
+corner: 759 51795001 3895001 0 0
+corner: 760 51105001 3895001 0 1
+corner: 761 51795001 4647499 0 0
+corner: 762 51795001 4647499 0 0
+corner: 763 51795001 4104999 0 0
+corner: 764 51747499 4104999 0 0
+corner: 765 51647500 4005000 0 0
+corner: 766 51105000 4005000 0 0
+corner: 767 51105001 4695001 0 0
+corner: 768 51105001 4794999 0 0
+corner: 769 51647500 4795000 0 1
+corner: 770 50747499 5594999 0 0
+corner: 771 50895001 5594999 0 0
+corner: 772 50895001 4904999 0 0
+corner: 773 50205000 4904999 0 0
+corner: 774 50205000 5594999 0 0
+corner: 775 50352501 5594999 0 0
+corner: 776 50352502 5595000 0 0
+corner: 777 50550000 5594999 0 0
+corner: 778 50747499 5595000 0 1
+corner: 779 51795001 4904999 0 0
+corner: 780 51795001 5447499 0 0
+corner: 781 51647500 5595000 0 0
+corner: 782 51105001 5594999 0 0
+corner: 783 51105001 4904999 0 1
+corner: 784 49847499 5594999 0 0
+corner: 785 49995000 5594999 0 0
+corner: 786 49995000 5447499 0 0
+corner: 787 49995000 5447499 0 0
+corner: 788 49995000 4904999 0 0
+corner: 789 49305000 4904999 0 0
+corner: 790 49305000 5447499 0 0
+corner: 791 49305000 5447499 0 0
+corner: 792 49305000 5594999 0 0
+corner: 793 49452500 5594999 0 0
+corner: 794 49452501 5595000 0 0
+corner: 795 49650000 5594999 0 0
+corner: 796 49847499 5595000 0 1
+corner: 797 49995001 4647499 0 0
+corner: 798 49995001 4104999 0 0
+corner: 799 49995001 4005000 0 0
+corner: 800 49304999 4005000 0 0
+corner: 801 49305000 4695001 0 0
+corner: 802 49305001 4695001 0 0
+corner: 803 49305001 4794999 0 0
+corner: 804 49452500 4794999 0 0
+corner: 805 49452501 4795000 0 0
+corner: 806 49650000 4794999 0 0
+corner: 807 49847500 4795000 0 1
+corner: 808 49995001 3895000 0 0
+corner: 809 49995001 3895000 0 0
+corner: 810 49995001 3205000 0 0
+corner: 811 49305000 3205000 0 0
+corner: 812 49305000 3352500 0 0
+corner: 813 49305000 3352501 0 0
+corner: 814 49305000 3895001 0 0
+corner: 815 49305001 3895000 0 0
+corner: 816 49305001 3895001 0 0
+corner: 817 49995001 3895001 0 1
+corner: 818 49095001 4794999 0 0
+corner: 819 49095001 4104999 0 0
+corner: 820 49095001 4005000 0 0
+corner: 821 48552501 4005000 0 0
+corner: 822 48405001 4152500 0 0
+corner: 823 48405000 4152501 0 0
+corner: 824 48405000 4695001 0 0
+corner: 825 48452502 4695000 0 0
+corner: 826 48552502 4795000 0 1
+corner: 827 48405001 3895001 0 0
+corner: 828 48405001 3352501 0 0
+corner: 829 48552502 3205000 0 0
+corner: 830 49095002 3205000 0 0
+corner: 831 49095002 3895000 0 1
+corner: 832 49095000 5594999 0 0
+corner: 833 48552501 5595000 0 0
+corner: 834 48405000 5447499 0 0
+corner: 835 48405000 4904999 0 0
+corner: 836 49095000 4904999 0 1
+corner: 837 49095001 -3205001 0 0
+corner: 838 48552502 -3205000 0 0
+corner: 839 48405001 -3352501 0 0
+corner: 840 48405001 -3895001 0 0
+corner: 841 49095001 -3895001 0 1
+corner: 842 49095000 -4005001 0 0
+corner: 843 49095000 -4104999 0 0
+corner: 844 49095002 -4105000 0 0
+corner: 845 49095002 -4795000 0 0
+corner: 846 48552502 -4795000 0 0
+corner: 847 48452503 -4695001 0 0
+corner: 848 48405000 -4695001 0 0
+corner: 849 48405000 -4152501 0 0
+corner: 850 48552501 -4005000 0 1
+corner: 851 49847499 -4005000 0 0
+corner: 852 49995002 -4005001 0 0
+corner: 853 49995002 -4695001 0 0
+corner: 854 49995002 -4795000 0 0
+corner: 855 49305000 -4795000 0 0
+corner: 856 49305000 -4695001 0 0
+corner: 857 49305000 -4695001 0 0
+corner: 858 49305000 -4005001 0 0
+corner: 859 49452502 -4005000 0 0
+corner: 860 49452503 -4005000 0 0
+corner: 861 49650001 -4005000 0 0
+corner: 862 49847499 -4005000 0 1
+corner: 863 49847500 -3205000 0 0
+corner: 864 49995001 -3205001 0 0
+corner: 865 49995001 -3895001 0 0
+corner: 866 49305001 -3895001 0 0
+corner: 867 49305001 -3352501 0 0
+corner: 868 49305001 -3205001 0 0
+corner: 869 49452501 -3205000 0 0
+corner: 870 49452502 -3205000 0 0
+corner: 871 49650001 -3205000 0 0
+corner: 872 49847500 -3205000 0 1
+corner: 873 48405000 -4904999 0 0
+corner: 874 48405000 -5447499 0 0
+corner: 875 48552501 -5595000 0 0
+corner: 876 49095001 -5595000 0 0
+corner: 877 49095001 -4905000 0 1
+corner: 878 49995000 -4904999 0 0
+corner: 879 49995003 -4905000 0 0
+corner: 880 49995003 -5595000 0 0
+corner: 881 49304999 -5595000 0 0
+corner: 882 49305000 -4904999 0 0
+corner: 883 49995000 -4904999 0 1
+corner: 884 50895002 -4905000 0 0
+corner: 885 50895002 -4905000 0 0
+corner: 886 50895002 -5595000 0 0
+corner: 887 50205001 -5595000 0 0
+corner: 888 50205001 -5447499 0 0
+corner: 889 50205001 -5447499 0 0
+corner: 890 50205001 -4904999 0 0
+corner: 891 50205002 -4904999 0 0
+corner: 892 50205002 -4904999 0 0
+corner: 893 50895002 -4904999 0 1
+corner: 894 50747501 -4005000 0 0
+corner: 895 50895002 -4152501 0 0
+corner: 896 50895002 -4695001 0 0
+corner: 897 50895001 -4695001 0 0
+corner: 898 50895001 -4795000 0 0
+corner: 899 50205000 -4795000 0 0
+corner: 900 50205000 -4647499 0 0
+corner: 901 50205000 -4647499 0 0
+corner: 902 50205000 -4104999 0 0
+corner: 903 50205001 -4104999 0 0
+corner: 904 50205001 -4104999 0 0
+corner: 905 50205002 -4104999 0 0
+corner: 906 50205002 -4005001 0 0
+corner: 907 50352501 -4005000 0 0
+corner: 908 50352502 -4005000 0 0
+corner: 909 50550001 -4005000 0 0
+corner: 910 50747501 -4005000 0 1
+corner: 911 50747500 -3205000 0 0
+corner: 912 50895000 -3205001 0 0
+corner: 913 50895000 -3352500 0 0
+corner: 914 50895001 -3352501 0 0
+corner: 915 50895001 -3895001 0 0
+corner: 916 50205000 -3895001 0 0
+corner: 917 50205000 -3352501 0 0
+corner: 918 50205001 -3352500 0 0
+corner: 919 50205001 -3205001 0 0
+corner: 920 50352500 -3205000 0 0
+corner: 921 50352501 -3205000 0 0
+corner: 922 50550000 -3205000 0 0
+corner: 923 50747500 -3205000 0 1
+corner: 924 51795000 -4152500 0 0
+corner: 925 51795001 -4152501 0 0
+corner: 926 51795001 -4695001 0 0
+corner: 927 51747498 -4695001 0 0
+corner: 928 51647499 -4795000 0 0
+corner: 929 51104999 -4795000 0 0
+corner: 930 51105000 -4104999 0 0
+corner: 931 51105001 -4104999 0 0
+corner: 932 51105001 -4005001 0 0
+corner: 933 51647500 -4005000 0 1
+corner: 934 51795000 -3895001 0 0
+corner: 935 51795000 -3352501 0 0
+corner: 936 51647499 -3205000 0 0
+corner: 937 51105000 -3205001 0 0
+corner: 938 51105000 -3895001 0 1
+corner: 939 51105000 -5595000 0 0
+corner: 940 51647500 -5595000 0 0
+corner: 941 51795001 -5447499 0 0
+corner: 942 51795001 -4904999 0 0
+corner: 943 51105001 -4904999 0 1
+corner: 944 23557177 31402828 0 0
+corner: 945 21987172 29832823 0 0
+corner: 946 21987172 27267177 0 0
+corner: 947 23557177 25697172 0 0
+corner: 948 26122823 25697172 0 0
+corner: 949 27692828 27267177 0 0
+corner: 950 27692828 29832823 0 0
+corner: 951 26122823 31402828 0 1
+corner: 952 23557177 -25697172 0 0
+corner: 953 21987172 -27267177 0 0
+corner: 954 21987172 -29832823 0 0
+corner: 955 23557177 -31402828 0 0
+corner: 956 26122823 -31402828 0 0
+corner: 957 27692828 -29832823 0 0
+corner: 958 27692828 -27267177 0 0
+corner: 959 26122823 -25697172 0 1
+area: 4 12 15 1 190000 -1 -1 0
+corner: 1 6002534 17409617 0 0
+corner: 2 6002532 16524541 0 0
+corner: 3 5795759 16731314 0 0
+corner: 4 5795760 16923201 0 0
+corner: 5 4105760 16923201 0 0
+corner: 6 3895760 16923201 0 0
+corner: 7 3895761 17133200 0 0
+corner: 8 4105760 17133199 0 0
+corner: 9 5795760 17133199 0 0
+corner: 10 5795759 17486333 0 0
+corner: 11 5332622 17949470 0 0
+corner: 12 5462682 17949470 0 1
+area: 5 46 15 1 190000 -1 -1 0
+corner: 1 37802154 3038207 0 0
+corner: 2 37802265 2767949 0 0
+corner: 3 35151025 2767949 0 0
+corner: 4 35002051 2618975 0 0
+corner: 5 35002051 2574899 0 0
+corner: 6 33947950 2574899 0 0
+corner: 7 33947950 2718976 0 0
+corner: 8 33798975 2867951 0 0
+corner: 9 32201025 2867951 0 0
+corner: 10 32052050 2718976 0 0
+corner: 11 32052050 2574137 0 0
+corner: 12 31838213 2573966 0 0
+corner: 13 31741246 2554597 0 0
+corner: 14 31645352 2535512 0 0
+corner: 15 31645204 2535413 0 0
+corner: 16 31645028 2535378 0 0
+corner: 17 31563523 2480823 0 0
+corner: 18 31481562 2426046 0 0
+corner: 19 29656912 601000 0 0
+corner: 20 29656895 600976 0 0
+corner: 21 29656875 600962 0 0
+corner: 22 29603957 521728 0 0
+corner: 23 29557420 452063 0 0
+corner: 24 29557420 2859262 0 0
+corner: 25 31620126 4923080 0 0
+corner: 26 35917282 4923080 0 1
+corner: 27 33945000 4175001 0 0
+corner: 28 33945000 4717501 0 0
+corner: 29 33797500 4865001 0 0
+corner: 30 33105000 4865001 0 0
+corner: 31 33105000 4175001 0 1
+corner: 32 32895000 4865001 0 0
+corner: 33 32202500 4865001 0 0
+corner: 34 32055000 4717501 0 0
+corner: 35 32055000 4175001 0 0
+corner: 36 32895000 4175001 0 1
+corner: 37 32055000 3965001 0 0
+corner: 38 32055000 3422501 0 0
+corner: 39 32202500 3275001 0 0
+corner: 40 32895000 3275001 0 0
+corner: 41 32895000 3965001 0 1
+corner: 42 33105000 3275001 0 0
+corner: 43 33797500 3275001 0 0
+corner: 44 33945000 3422501 0 0
+corner: 45 33945000 3965001 0 0
+corner: 46 33105000 3965001 0 1
+area: 6 8 15 1 190000 -1 -1 0
+corner: 1 15526310 6262802 0 0
+corner: 2 15526310 1625197 0 0
+corner: 3 15518559 1632948 0 0
+corner: 4 14404263 1632948 0 0
+corner: 5 14369174 1639898 0 0
+corner: 6 13483007 1639178 0 0
+corner: 7 13160449 1961736 0 0
+corner: 8 13160450 8628975 0 1
+area: 7 20 15 1 190000 -1 -1 0
+corner: 1 21084992 8855003 0 0
+corner: 2 21334581 8855003 0 0
+corner: 3 21334581 8869949 0 0
+corner: 4 22163408 8041122 0 0
+corner: 5 22434680 8041122 0 0
+corner: 6 22434680 7460486 0 0
+corner: 7 22473113 7267270 0 0
+corner: 8 22582561 7103468 0 0
+corner: 9 22582564 7103465 0 0
+corner: 10 23035191 6650838 0 0
+corner: 11 23035191 1930143 0 0
+corner: 12 22134484 1029436 0 0
+corner: 13 22134483 4317051 0 0
+corner: 14 22413559 4317051 0 0
+corner: 15 22562533 4466025 0 0
+corner: 16 22562533 6033975 0 0
+corner: 17 22413559 6182949 0 0
+corner: 18 21410671 6182949 0 0
+corner: 19 20730223 6863396 0 0
+corner: 20 20729958 9210036 0 1
+area: 8 290 15 1 190000 -1 -1 0
+corner: 1 13071634 -2619864 0 0
+corner: 2 13071634 -2910098 0 0
+corner: 3 12430631 -2910098 0 0
+corner: 4 12430412 -2910141 0 0
+corner: 5 12430194 -2910098 0 0
+corner: 6 12333443 -2929429 0 0
+corner: 7 12237414 -2948531 0 0
+corner: 8 12237229 -2948654 0 0
+corner: 9 12237010 -2948698 0 0
+corner: 10 12154994 -3003601 0 0
+corner: 11 12073612 -3057979 0 0
+corner: 12 12073488 -3058163 0 0
+corner: 13 12073303 -3058288 0 0
+corner: 14 10312673 -4821968 0 0
+corner: 15 10257950 -4904020 0 0
+corner: 16 10203534 -4985461 0 0
+corner: 17 10203490 -4985678 0 0
+corner: 18 10203367 -4985864 0 0
+corner: 19 10184243 -5082441 0 0
+corner: 20 10165101 -5178677 0 0
+corner: 21 10165100 -11201359 0 0
+corner: 22 9605587 -11760873 0 0
+corner: 23 9605588 -12739128 0 0
+corner: 24 10180873 -13314413 0 0
+corner: 25 11159127 -13314413 0 0
+corner: 26 11734412 -12739128 0 0
+corner: 27 11734412 -11760872 0 0
+corner: 28 11174899 -11201359 0 0
+corner: 29 11174899 -10928932 0 0
+corner: 30 12145587 -11899621 0 0
+corner: 31 12145588 -12739128 0 0
+corner: 32 12720873 -13314413 0 0
+corner: 33 13699127 -13314413 0 0
+corner: 34 14274412 -12739128 0 0
+corner: 35 14274412 -11760872 0 0
+corner: 36 13699127 -11185587 0 0
+corner: 37 12859624 -11185587 0 0
+corner: 38 12029896 -10355858 0 0
+corner: 39 12028923 -5740956 0 0
+corner: 40 13071634 -4696438 0 0
+corner: 41 13071634 -5063973 0 0
+corner: 42 13220609 -5212948 0 0
+corner: 43 13864572 -5212948 0 0
+corner: 44 13863856 -8406612 0 0
+corner: 45 13881975 -8497811 0 0
+corner: 46 13898055 -8589387 0 0
+corner: 47 13901128 -8594219 0 0
+corner: 48 13902245 -8599838 0 0
+corner: 49 13953885 -8677161 0 0
+corner: 50 14003786 -8755612 0 0
+corner: 51 14641770 -9423006 0 0
+corner: 52 14646507 -9426327 0 0
+corner: 53 14649721 -9431138 0 0
+corner: 54 14726975 -9482757 0 0
+corner: 55 14803065 -9536116 0 0
+corner: 56 14808713 -9537372 0 0
+corner: 57 14813523 -9540586 0 0
+corner: 58 14904667 -9558716 0 0
+corner: 59 14995367 -9578891 0 0
+corner: 60 15001063 -9577890 0 0
+corner: 61 15006740 -9579020 0 0
+corner: 62 26568511 -9579020 0 0
+corner: 63 26568552 -9579011 0 0
+corner: 64 26568590 -9579019 0 0
+corner: 65 26663373 -9560150 0 0
+corner: 66 26761727 -9540586 0 0
+corner: 67 26761759 -9540564 0 0
+corner: 68 26761801 -9540556 0 0
+corner: 69 26843404 -9486011 0 0
+corner: 70 26925529 -9431138 0 0
+corner: 71 26925552 -9431102 0 0
+corner: 72 26925585 -9431081 0 0
+corner: 73 30419670 -5935893 0 0
+corner: 74 30419670 -6172542 0 0
+corner: 75 19345039 -17247172 0 0
+corner: 76 8927950 -17247807 0 0
+corner: 77 8927950 -16953782 0 0
+corner: 78 8778974 -16804806 0 0
+corner: 79 8634900 -16804806 0 0
+corner: 80 8634900 -16071505 0 0
+corner: 81 8634899 -16071504 0 0
+corner: 82 8634900 -16071504 0 0
+corner: 83 8634900 -13500000 0 0
+corner: 84 8634899 -13499999 0 0
+corner: 85 8634900 -13499999 0 0
+corner: 86 8634900 -13298640 0 0
+corner: 87 9194412 -12739128 0 0
+corner: 88 9194412 -11760872 0 0
+corner: 89 8619127 -11185587 0 0
+corner: 90 7640873 -11185587 0 0
+corner: 91 7065587 -11760873 0 0
+corner: 92 7065588 -12739128 0 0
+corner: 93 7321560 -12995100 0 0
+corner: 94 3034752 -12995100 0 0
+corner: 95 3034752 -12701026 0 0
+corner: 96 2885776 -12552050 0 0
+corner: 97 2741701 -12552050 0 0
+corner: 98 2741702 -12408407 0 0
+corner: 99 2741701 -12408406 0 0
+corner: 100 2741702 -12408405 0 0
+corner: 101 2703269 -12215188 0 0
+corner: 102 2593820 -12051387 0 0
+corner: 103 2173077 -11630647 0 0
+corner: 104 2204750 -11598975 0 0
+corner: 105 2204750 -8901025 0 0
+corner: 106 2055776 -8752051 0 0
+corner: 107 957827 -8752050 0 0
+corner: 108 869589 -8840288 0 0
+corner: 109 784301 -8755000 0 0
+corner: 110 341801 -8755000 0 0
+corner: 111 341802 -10145001 0 0
+corner: 112 341802 -10354999 0 0
+corner: 113 341802 -11744999 0 0
+corner: 114 784301 -11745000 0 0
+corner: 115 869589 -11659712 0 0
+corner: 116 957826 -11747949 0 0
+corner: 117 1015732 -11747949 0 0
+corner: 118 1040333 -11871626 0 0
+corner: 119 1128010 -12002844 0 0
+corner: 120 1149781 -12035426 0 0
+corner: 121 1149782 -12035427 0 0
+corner: 122 1666408 -12552050 0 0
+corner: 123 1587827 -12552051 0 0
+corner: 124 1438852 -12701026 0 0
+corner: 125 1438852 -14298974 0 0
+corner: 126 1587827 -14447949 0 0
+corner: 127 2885777 -14447949 0 0
+corner: 128 3034752 -14298974 0 0
+corner: 129 3034752 -14004900 0 0
+corner: 130 7625100 -14004900 0 0
+corner: 131 7625100 -15566605 0 0
+corner: 132 -6495100 -15566605 0 0
+corner: 133 -6495100 -13794747 0 0
+corner: 134 -6351025 -13794747 0 0
+corner: 135 -6202050 -13645772 0 0
+corner: 136 -6202050 -12358781 0 0
+corner: 137 -5797950 -12762882 0 0
+corner: 138 -5797950 -13645772 0 0
+corner: 139 -5648975 -13794747 0 0
+corner: 140 -4351025 -13794747 0 0
+corner: 141 -4202050 -13645772 0 0
+corner: 142 -4202050 -13351487 0 0
+corner: 143 -2156327 -13350949 0 0
+corner: 144 -2061656 -13332091 0 0
+corner: 145 -1963243 -13312517 0 0
+corner: 146 -1963184 -13312477 0 0
+corner: 147 -1963120 -13312465 0 0
+corner: 148 -1881686 -13258022 0 0
+corner: 149 -1799442 -13203068 0 0
+corner: 150 -1799350 -13202976 0 0
+corner: 151 -1799347 -13202974 0 0
+corner: 152 -1799344 -13202970 0 0
+corner: 153 -676183 -12079813 0 0
+corner: 154 -676180 -12079811 0 0
+corner: 155 -610570 -11981619 0 0
+corner: 156 -566732 -11916010 0 0
+corner: 157 -533302 -11747949 0 0
+corner: 158 -484224 -11747949 0 0
+corner: 159 -395986 -11659711 0 0
+corner: 160 -310697 -11745000 0 0
+corner: 161 131802 -11744999 0 0
+corner: 162 131803 -10355000 0 0
+corner: 163 131803 -10145000 0 0
+corner: 164 131803 -8755000 0 0
+corner: 165 -310697 -8755000 0 0
+corner: 166 -395986 -8840289 0 0
+corner: 167 -484224 -8752051 0 0
+corner: 168 -1582173 -8752050 0 0
+corner: 169 -1668199 -8838076 0 0
+corner: 170 -1754224 -8752051 0 0
+corner: 171 -2852173 -8752050 0 0
+corner: 172 -3001148 -8901025 0 0
+corner: 173 -3001148 -9745100 0 0
+corner: 174 -4202050 -9745100 0 0
+corner: 175 -4202050 -9451026 0 0
+corner: 176 -4351025 -9302051 0 0
+corner: 177 -4495098 -9302051 0 0
+corner: 178 -4495090 -4472527 0 0
+corner: 179 -2642017 -2619454 0 1
+corner: 180 14693000 -12354999 0 0
+corner: 181 14693000 -13159499 0 0
+corner: 182 14840501 -13307000 0 0
+corner: 183 15645001 -13307000 0 0
+corner: 184 15645001 -12355000 0 1
+corner: 185 15854999 -13307000 0 0
+corner: 186 16659499 -13307000 0 0
+corner: 187 16807000 -13159499 0 0
+corner: 188 16807000 -12354999 0 0
+corner: 189 15855000 -12354999 0 1
+corner: 190 16807000 -12145001 0 0
+corner: 191 16807000 -11340501 0 0
+corner: 192 16659499 -11193000 0 0
+corner: 193 15855000 -11193001 0 0
+corner: 194 15855000 -12145001 0 1
+corner: 195 15645000 -11193001 0 0
+corner: 196 14840501 -11193000 0 0
+corner: 197 14693000 -11340501 0 0
+corner: 198 14693001 -12145000 0 0
+corner: 199 15645001 -12145000 0 1
+corner: 200 131803 -12555000 0 0
+corner: 201 -410698 -12555001 0 0
+corner: 202 -558197 -12702500 0 0
+corner: 203 -558198 -13395001 0 0
+corner: 204 131802 -13395001 0 1
+corner: 205 -558198 -13604999 0 0
+corner: 206 -558197 -14297500 0 0
+corner: 207 -410698 -14444999 0 0
+corner: 208 131802 -14444999 0 0
+corner: 209 131803 -13605000 0 1
+corner: 210 341802 -14444999 0 0
+corner: 211 884302 -14444999 0 0
+corner: 212 1031801 -14297500 0 0
+corner: 213 1031802 -13604999 0 0
+corner: 214 341802 -13604999 0 1
+corner: 215 1031802 -13395001 0 0
+corner: 216 1031802 -12702501 0 0
+corner: 217 884302 -12555001 0 0
+corner: 218 341801 -12555000 0 0
+corner: 219 341802 -13395001 0 1
+corner: 220 931800 -5355000 0 0
+corner: 221 1401802 -5355000 0 0
+corner: 222 1401801 -6744999 0 0
+corner: 223 959302 -6745000 0 0
+corner: 224 871801 -6657499 0 0
+corner: 225 784300 -6745000 0 0
+corner: 226 341801 -6744999 0 0
+corner: 227 341801 -5354999 0 1
+corner: 228 1611801 -6744999 0 0
+corner: 229 2054300 -6745000 0 0
+corner: 230 2201801 -6597499 0 0
+corner: 231 2201800 -5355000 0 0
+corner: 232 1611801 -5354999 0 1
+corner: 233 2201800 -5145000 0 0
+corner: 234 2201801 -3902501 0 0
+corner: 235 2054300 -3755000 0 0
+corner: 236 1611800 -3755000 0 0
+corner: 237 1611801 -5145001 0 1
+corner: 238 1401802 -5145000 0 0
+corner: 239 811801 -5145001 0 0
+corner: 240 811801 -5145000 0 0
+corner: 241 341801 -5145001 0 0
+corner: 242 341800 -3755000 0 0
+corner: 243 784300 -3755000 0 0
+corner: 244 871801 -3842501 0 0
+corner: 245 959302 -3755000 0 0
+corner: 246 1401802 -3755000 0 1
+corner: 247 -338200 -5355000 0 0
+corner: 248 131802 -5355000 0 0
+corner: 249 131801 -6744999 0 0
+corner: 250 -310698 -6745000 0 0
+corner: 251 -398199 -6657499 0 0
+corner: 252 -485700 -6745000 0 0
+corner: 253 -928199 -6744999 0 0
+corner: 254 -928199 -5354999 0 1
+corner: 255 131802 -5145000 0 0
+corner: 256 -458199 -5145001 0 0
+corner: 257 -458199 -5145000 0 0
+corner: 258 -928199 -5145001 0 0
+corner: 259 -928200 -3755000 0 0
+corner: 260 -485700 -3755000 0 0
+corner: 261 -398199 -3842501 0 0
+corner: 262 -310698 -3755000 0 0
+corner: 263 131802 -3755000 0 1
+corner: 264 -1608200 -5355000 0 0
+corner: 265 -1138198 -5355000 0 0
+corner: 266 -1138199 -6744999 0 0
+corner: 267 -1580698 -6745000 0 0
+corner: 268 -1668199 -6657499 0 0
+corner: 269 -1755700 -6745000 0 0
+corner: 270 -2198199 -6744999 0 0
+corner: 271 -2198199 -5354999 0 1
+corner: 272 -1138198 -5145000 0 0
+corner: 273 -1728199 -5145001 0 0
+corner: 274 -1728199 -5145000 0 0
+corner: 275 -2198199 -5145001 0 0
+corner: 276 -2198200 -3755000 0 0
+corner: 277 -1755700 -3755000 0 0
+corner: 278 -1668199 -3842501 0 0
+corner: 279 -1580698 -3755000 0 0
+corner: 280 -1138198 -3755000 0 1
+corner: 281 -2998198 -5355000 0 0
+corner: 282 -2998199 -6597499 0 0
+corner: 283 -2850698 -6745000 0 0
+corner: 284 -2408199 -6744999 0 0
+corner: 285 -2408198 -5355000 0 1
+corner: 286 -2408198 -3755000 0 0
+corner: 287 -2850698 -3755000 0 0
+corner: 288 -2998199 -3902501 0 0
+corner: 289 -2998199 -5145001 0 0
+corner: 290 -2408198 -5145000 0 1
+
+net: "NET00019" 2 1 0 0 0 0 1
+pin: 1 DD2.13
+pin: 2 W1.14
+connect: 1 1 0 5 0 -1
+vtx: 1 4000760 13028200 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 6314912 13028198 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 6780786 12966864 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 7214911 12787043 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 7587703 12500990 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 11274200 8814492 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 11560279 8441655 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 11740101 8007475 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 11801408 7541546 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 11800892 1517122 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 11851524 1132619 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 12000028 774356 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 12236268 466789 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 12549738 153692 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 12774504 -18644 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 13036165 -127056 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 13316952 -164180 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 6 14369584 -165001 15 0 0 0 0
+
+net: "NET00002" 3 2 0 0 0 0 1
+pin: 1 DD2.15
+pin: 2 DD5.6
+pin: 3 R1.2
+connect: 1 2 1 3 0 7
+vtx: 1 -5000000 -12846798 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 -2804838 -12846220 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -2399698 -12792792 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -2022177 -12636360 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -1697986 -12387577 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -1181433 -11871027 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 -1101004 -11766209 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 -1050444 -11644147 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 -1033199 -11513157 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 4 -1033199 -10250000 15 0 0 0 0
+connect: 2 2 0 4 0 -1
+vtx: 1 -5000000 -12846798 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 -5596808 -12249988 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -5820131 -11958947 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -5960517 -11620024 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -6008401 -11256315 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -6008401 -4809533 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 -5947068 -4343659 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 -5767247 -3909533 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 -5481193 -3536741 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 -3936659 -1992208 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 -3563867 -1706155 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 -3129742 -1526334 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 -2663867 -1465001 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 5 14369584 -1465001 15 0 0 0 0
+
+net: "NET00018" 2 1 0 0 0 0 1
+pin: 1 DD2.14
+pin: 2 W1.13
+connect: 1 1 0 5 0 -1
+vtx: 1 4000760 11028200 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 7107056 11028200 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 7572930 10966866 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 8007056 10787045 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 8379848 10500992 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 10420183 8460657 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 10706236 8087865 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 10886057 7653739 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 10947391 7187865 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 10947391 1293211 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 11008816 826991 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 11188902 392592 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 11475356 19661 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 11783674 -288288 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 12156223 -573882 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 12589948 -753436 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 13055349 -814739 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 6 14369584 -815001 15 0 0 0 0
+
+net: "LPUART1-RX" 3 2 0 0 0 0 1
+pin: 1 BT1.10
+pin: 2 DD2.10
+pin: 3 X4.2
+connect: 1 2 1 2 0 1
+vtx: 1 19089584 5250000 12 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 19681421 4658157 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 19902884 4369539 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 20042101 4033437 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 20089585 3672756 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 3 20089584 1134999 15 0 0 0 0
+connect: 2 2 0 5 0 -1
+vtx: 1 19089584 5250000 12 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 19089404 12096103 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 19127268 12383767 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 19238296 12651828 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 19414921 12882018 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 19561410 13028510 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 19791595 13205142 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 20059653 13316177 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 20347315 13354050 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 26180596 13354050 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 26468270 13316188 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 26736351 13205181 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 26966580 13028589 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 27206922 12788355 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 27332706 12624521 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 27411815 12433719 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 27438861 12228947 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 6 27439580 10650000 15 0 0 0 0
+
+net: "NET00003" 2 1 0 0 0 0 1
+pin: 1 BT1.13
+pin: 2 DD2.8
+connect: 1 1 0 5 0 -1
+vtx: 1 20089583 -165000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 21015512 -164999 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 21414520 -112469 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 21786336 41541 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 22105622 286537 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 23012883 1193798 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 23298937 1566590 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 23478758 2000716 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 23540092 2466590 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 23540092 6513341 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 23511577 6729933 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 23427975 6931765 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 23294985 7105081 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 23184686 7215380 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 23051696 7388696 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 22968094 7590528 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 22939580 7807120 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 6 22939580 10650001 15 0 0 0 0
+
+net: "+Ep" 15 14 0 0 0 0 1
+pin: 1 BT1.9
+pin: 2 C2.2
+pin: 3 DD2.4
+pin: 4 X1.4
+pin: 5 C3.2
+pin: 6 W1.3
+pin: 7 C1.2
+pin: 8 DA1.5
+pin: 9 C5.2
+pin: 10 DD1.5
+pin: 11 C4.2
+pin: 12 C8.2
+pin: 13 DD5.8
+pin: 14 R1.1
+pin: 15 R14.2
+connect: 1 6 5 1 1 2
+vtx: 1 -16250000 13028070 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 -12000240 13028070 15 0 0 0 0
+connect: 2 1 0 1 1 0
+vtx: 1 28939583 7250000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 28939580 10649996 15 0 0 0 0
+connect: 3 10 9 1 1 6
+vtx: 1 33000000 2070001 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 36500000 2070000 15 0 0 0 0
+connect: 4 12 11 3 1 7
+vtx: 1 1506801 -10250000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 1506800 -11257029 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 1541463 -11520325 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 1643092 -11765677 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 1804760 -11976366 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 1938842 -12110448 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 2100510 -12321137 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 2202139 -12566489 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 2236802 -12829785 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 4 2236802 -13500000 15 0 0 0 0
+connect: 5 8 7 1 1 3
+vtx: 1 8130000 -17752756 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 8130000 -20500000 15 0 0 0 0
+connect: 6 14 13 1 0 7
+vtx: 1 -7000000 -10250000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 -7000000 -12846798 15 0 0 0 0
+connect: 7 4 2 1 1 1
+vtx: 1 25743200 -2764999 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 20089584 -2764999 15 0 0 0 0
+connect: 8 8 3 3 0 -1
+vtx: 1 8130000 -17752756 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 8130000 -16071505 0 0 0 0 17961
+seg: 2 15 400000 0 0
+vtx: 3 8130000 -13500000 0 0 0 0 17611
+seg: 3 15 400000 0 0
+vtx: 4 8130000 -12250000 12 0 0 0 0
+connect: 9 11 -1 1 0 -1
+vtx: 1 2236802 -13500000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 8130000 -13500000 0 0 0 0 17611
+connect: 10 13 -1 2 0 -1
+vtx: 1 -7000000 -12846798 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 -7000000 -16071505 0 0 0 0 18059
+seg: 2 15 400000 0 0
+vtx: 3 8130000 -16071505 0 0 0 0 17961
+connect: 11 6 -1 13 0 -1
+vtx: 1 -16250000 13028070 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 -16250000 -12746640 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -16216134 -13219678 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 -16115299 -13683078 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 -15949549 -14127414 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 -15722256 -14543641 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 1 -15438046 -14923289 0 0 0 0 0
+seg: 7 15 400000 0 0
+vtx: 1 -15102705 -15258630 0 0 0 0 0
+seg: 8 15 400000 0 0
+vtx: 1 -14723057 -15542839 0 0 0 0 0
+seg: 9 15 400000 0 0
+vtx: 1 -14306829 -15770131 0 0 0 0 0
+seg: 10 15 400000 0 0
+vtx: 1 -13862493 -15935881 0 0 0 0 0
+seg: 11 15 400000 0 0
+vtx: 1 -13399093 -16036715 0 0 0 0 0
+seg: 12 15 400000 0 0
+vtx: 13 -12926060 -16070580 0 0 0 0 0
+seg: 13 15 400000 0 0
+vtx: 14 -7000000 -16071505 0 0 0 0 18059
+connect: 12 4 1 4 0 -1
+vtx: 1 25743200 -2764999 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 27909476 -2764999 0 0 1000000 500000 19519
+seg: 2 15 400000 0 0
+vtx: 1 27909476 2651057 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 27958389 3022596 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 28101798 3368814 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 28329928 3666119 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 28519131 3855322 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 28747261 4152627 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 28890670 4498845 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 28939584 4870384 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 5 28939583 7250000 15 0 0 0 0
+connect: 13 8 -1 4 0 -1
+vtx: 1 8130000 -17752756 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 18808669 -17752105 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 19274505 -17690752 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 19708591 -17510932 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 20081352 -17224897 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 3 31230570 -6075680 0 0 1000000 500000 0
+seg: 3 16 400000 0 0
+vtx: 4 29613368 -4463552 0 0 1000000 500000 19920
+seg: 4 16 400000 0 0
+vtx: 5 27909476 -2764999 0 0 0 0 19519
+connect: 14 10 -1 4 1 -1
+vtx: 1 33000000 2070001 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 32312652 2069448 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 32016452 2030245 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 31740464 1915779 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 31503464 1733838 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 30541200 771365 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 30255154 398486 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 30075380 -35726 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 30014130 -501675 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 30014846 -3830251 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 29995806 -3975072 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 29939923 -4110027 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 29851007 -4225913 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 5 29613368 -4463552 0 0 0 0 19920
+
+net: "LPUART1-TX" 3 2 0 0 0 0 1
+pin: 1 BT1.11
+pin: 2 DD2.9
+pin: 3 X4.1
+connect: 1 2 1 3 0 1
+vtx: 1 21629584 5250000 12 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 21629585 1044981 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 21612698 916699 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 21563185 797157 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 21484421 694503 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 21367069 577141 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 21301213 526619 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 21224515 494886 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 21142215 484109 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 4 20089584 484999 15 0 0 0 0
+connect: 2 2 0 6 0 -1
+vtx: 1 21629584 5250000 12 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 20752471 6127112 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 20466451 6499845 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 20286632 6933899 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 20225263 7399701 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 20224801 11491594 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 20262645 11779256 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 20373662 12047317 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 20550284 12277504 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 20696775 12423995 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 20926963 12600630 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 21195021 12711677 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 21482685 12749571 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 24681608 12749856 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 24969272 12712009 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 25237337 12600994 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 25467533 12424377 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 25939580 11952374 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 7 25939580 10650000 15 0 0 0 0
+
+net: "NET00001" 3 2 0 0 0 0 1
+pin: 1 DD2.16
+pin: 2 DD5.5
+pin: 3 R14.1
+connect: 1 2 1 1 0 7
+vtx: 1 -5000000 -10250000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 -2303199 -10250000 15 0 0 0 0
+connect: 2 2 0 3 0 -1
+vtx: 1 -5000000 -10250000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 -4999991 -5008972 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -4938657 -4543099 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -4758836 -4108974 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -4472783 -3736183 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -3378377 -2641777 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 -3005571 -2355715 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 -2571429 -2175894 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 -2105538 -2114569 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 4 14369584 -2114999 15 0 0 0 0
+
+net: "NET00006" 2 1 0 0 0 0 1
+pin: 1 DD1.1
+pin: 2 XS4.2
+connect: 1 1 0 3 0 -1
+vtx: 1 47770000 -800000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 45912852 -799999 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 45573813 -844635 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 45257880 -975499 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 44986582 -1183673 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 44813929 -1356326 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 44542631 -1564500 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 44226698 -1695364 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 43887659 -1740000 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 4 41500000 -1740000 15 0 0 0 0
+
+net: "NET00015" 2 1 0 0 0 0 1
+pin: 1 DD2.6
+pin: 2 X2.1
+connect: 1 1 0 3 0 1
+vtx: 1 26250000 1440000 12 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 25771742 1439354 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 25565630 1411991 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 25373581 1332315 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 25208631 1205733 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 23064369 -937590 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 22691775 -1223412 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 22257930 -1403133 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 21792363 -1464520 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 4 20089584 -1465001 15 0 0 0 0
+
+net: "NET00020" 2 1 0 0 0 0 1
+pin: 1 DD2.17
+pin: 2 W1.4
+connect: 1 1 0 11 0 -1
+vtx: 1 -12000240 11028070 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 -10985377 11028070 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -10744437 11059790 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -10519916 11152789 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -10327116 11300730 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -10204418 11423428 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 -10056477 11616228 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 -9963478 11840749 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 -9931758 12081689 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 -9931758 18479845 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 -9900037 18720785 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 -9807038 18945306 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 -9659097 19138107 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 -9536399 19260804 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 -9343599 19408745 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 -9119078 19501745 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 -8878138 19533466 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 5054991 19533467 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 1 5520865 19472134 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 1 5954991 19292313 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 1 6327783 19006259 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 1 6893441 18440602 0 0 0 0 0
+seg: 7 15 400000 0 0
+vtx: 1 7147411 18109622 0 0 0 0 0
+seg: 7 15 400000 0 0
+vtx: 1 7307064 17724188 0 0 0 0 0
+seg: 7 15 400000 0 0
+vtx: 1 7361520 17310566 0 0 0 0 0
+seg: 7 15 400000 0 0
+vtx: 1 7361522 17012684 0 0 0 0 0
+seg: 8 15 400000 0 0
+vtx: 1 7415974 16599057 0 0 0 0 0
+seg: 8 15 400000 0 0
+vtx: 1 7575615 16213613 0 0 0 0 0
+seg: 8 15 400000 0 0
+vtx: 1 7829568 15882615 0 0 0 0 0
+seg: 8 15 400000 0 0
+vtx: 1 16358175 7352787 0 0 0 0 0
+seg: 9 15 400000 0 0
+vtx: 1 16644180 6980011 0 0 0 0 0
+seg: 9 15 400000 0 0
+vtx: 1 16823969 6545918 0 0 0 0 0
+seg: 9 15 400000 0 0
+vtx: 1 16885291 6080085 0 0 0 0 0
+seg: 9 15 400000 0 0
+vtx: 1 16885290 -1127267 0 0 0 0 0
+seg: 10 15 400000 0 0
+vtx: 1 16835990 -1501734 0 0 0 0 0
+seg: 10 15 400000 0 0
+vtx: 1 16691451 -1850681 0 0 0 0 0
+seg: 10 15 400000 0 0
+vtx: 1 16461522 -2150329 0 0 0 0 0
+seg: 10 15 400000 0 0
+vtx: 1 16147470 -2464380 0 0 0 0 0
+seg: 11 15 400000 0 0
+vtx: 1 15935047 -2627385 0 0 0 0 0
+seg: 11 15 400000 0 0
+vtx: 1 15687678 -2729869 0 0 0 0 0
+seg: 11 15 400000 0 0
+vtx: 1 15422215 -2764850 0 0 0 0 0
+seg: 11 15 400000 0 0
+vtx: 12 14369584 -2764999 15 0 0 0 0
+
+net: "NET00007" 2 1 0 0 0 0 1
+pin: 1 DD1.8
+pin: 2 C7.1
+connect: 1 1 0 1 1 6
+vtx: 1 33000000 -1739998 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 36500000 -1740000 15 0 0 0 0
+
+net: "NET00014" 2 1 0 0 0 0 1
+pin: 1 DD2.19
+pin: 2 X1.2
+connect: 1 1 0 4 0 1
+vtx: 1 13210000 -12250000 12 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 12052091 -11092089 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 11766101 -10719406 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 11586283 -10285416 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 11524884 -9819678 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 11524137 -6277014 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 11585270 -5811506 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 11764708 -5377643 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 12050243 -5004944 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 12758258 -4295702 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 12921841 -4170024 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 13112419 -4091068 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 13316952 -4064237 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 5 14369584 -4065000 15 0 0 0 0
+
+net: "NET00021" 2 1 0 0 0 0 1
+pin: 1 DD2.2
+pin: 2 Z2.2
+connect: 1 1 0 5 0 1
+vtx: 1 18580000 -7250000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 17887492 -7249428 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 17682159 -7222252 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 17490834 -7142911 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 17326529 -7016799 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 17221968 -6912238 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 17095894 -6747936 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 17016641 -6556602 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 16989610 -6351275 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 16989610 -6130334 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 17020787 -5893519 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 17112194 -5672844 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 17257601 -5483345 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 18420682 -4320264 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 18601183 -4181760 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 18811382 -4094694 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 19036952 -4064997 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 6 20089584 -4065000 15 0 0 0 0
+
+net: "NET00004" 2 1 0 0 0 0 1
+pin: 1 L1.1
+pin: 2 DC1.3
+connect: 1 1 0 2 1 -1
+vtx: 1 -22750000 -16750000 12 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 -22643469 -16750000 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -22597562 -16756043 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -22554783 -16773763 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 -22518049 -16801950 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 3 -18820000 -20499999 12 0 0 0 0
+
+net: "NET00017" 2 1 0 0 0 0 1
+pin: 1 DD2.12
+pin: 2 W1.12
+connect: 1 1 0 11 0 -1
+vtx: 1 4000760 9028200 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 2938366 9027677 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 2697414 9059283 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 2472856 9152182 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 2279998 9300042 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 2157253 9422692 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 2009242 9615434 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 1916168 9839920 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 1884374 10080847 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 1882251 17400748 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 1913912 17641686 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 2006875 17866211 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 2154801 18059011 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 2277498 18181708 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 2470299 18329649 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 2694820 18422649 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 2935761 18454370 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 5189478 18454370 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 1 5490866 18414691 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 1 5771716 18298359 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 1 6012887 18113303 0 0 0 0 0
+seg: 6 15 400000 0 0
+vtx: 1 6166367 17959822 0 0 0 0 0
+seg: 7 15 400000 0 0
+vtx: 1 6351424 17718652 0 0 0 0 0
+seg: 7 15 400000 0 0
+vtx: 1 6467755 17437802 0 0 0 0 0
+seg: 7 15 400000 0 0
+vtx: 1 6507433 17136414 0 0 0 0 0
+seg: 7 15 400000 0 0
+vtx: 1 6507432 16658921 0 0 0 0 0
+seg: 8 15 400000 0 0
+vtx: 1 6561881 16245297 0 0 0 0 0
+seg: 8 15 400000 0 0
+vtx: 1 6721520 15859856 0 0 0 0 0
+seg: 8 15 400000 0 0
+vtx: 1 6975472 15528861 0 0 0 0 0
+seg: 8 15 400000 0 0
+vtx: 1 15504086 6999113 0 0 0 0 0
+seg: 9 15 400000 0 0
+vtx: 1 15790095 6626336 0 0 0 0 0
+seg: 9 15 400000 0 0
+vtx: 1 15969886 6192241 0 0 0 0 0
+seg: 9 15 400000 0 0
+vtx: 1 16031210 5726405 0 0 0 0 0
+seg: 9 15 400000 0 0
+vtx: 1 16031210 1044732 0 0 0 0 0
+seg: 10 15 400000 0 0
+vtx: 1 16014324 916475 0 0 0 0 0
+seg: 10 15 400000 0 0
+vtx: 1 15964819 796958 0 0 0 0 0
+seg: 10 15 400000 0 0
+vtx: 1 15886067 694327 0 0 0 0 0
+seg: 10 15 400000 0 0
+vtx: 1 15820752 629012 0 0 0 0 0
+seg: 11 15 400000 0 0
+vtx: 1 15718123 550285 0 0 0 0 0
+seg: 11 15 400000 0 0
+vtx: 1 15598600 500838 0 0 0 0 0
+seg: 11 15 400000 0 0
+vtx: 1 15470347 484047 0 0 0 0 0
+seg: 11 15 400000 0 0
+vtx: 12 14369584 485000 15 0 0 0 0
+
+net: "NET00022" 2 1 0 0 0 0 1
+pin: 1 DD2.3
+pin: 2 Z2.1
+connect: 1 1 0 3 0 1
+vtx: 1 15880000 -7250000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 15879489 -6484768 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 15922715 -6155018 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 16049882 -5847719 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 16252309 -5583850 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 17987367 -3848793 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 18294780 -3612954 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 18652786 -3464783 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 19036952 -3414394 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 4 20089584 -3414999 15 0 0 0 0
+
+net: "NET00005" 2 1 0 0 0 0 1
+pin: 1 DD1.2
+pin: 2 XS4.3
+connect: 1 1 0 3 0 -1
+vtx: 1 47770000 0 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 44928030 0 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 44758510 -22317 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 44600544 -87749 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 44464895 -191836 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 44378568 -278163 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 44242919 -382250 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 44084953 -447682 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 43915433 -469999 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 4 41500000 -470000 15 0 0 0 0
+
+net: "NET00016" 2 1 0 0 0 0 1
+pin: 1 DD2.11
+pin: 2 W1.15
+connect: 1 1 0 5 0 -1
+vtx: 1 4000760 15028200 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 5522763 15028199 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 5988638 14966865 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 6422763 14787044 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 6795555 14500991 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 12128344 9168201 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 12414398 8795408 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 12594219 8361282 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 12655552 7895408 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 12655550 2109610 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 12684918 1886534 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 12771022 1678660 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 12907994 1500155 0 0 0 0 0
+seg: 4 15 400000 0 0
+vtx: 1 13243696 1164453 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 13265152 1147994 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 13290139 1137656 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 1 13316952 1134144 0 0 0 0 0
+seg: 5 15 400000 0 0
+vtx: 6 14369584 1134999 15 0 0 0 0
+
+net: "NET00023" 4 3 0 0 0 0 1
+pin: 1 L1.2
+pin: 2 DA1.3
+pin: 3 DA1.1
+pin: 4 C6.2
+connect: 1 3 0 1 1 3
+vtx: 1 2580823 -20500000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 -1500000 -20499999 12 0 0 0 0
+connect: 2 3 2 2 1 3
+vtx: 1 2580823 -20500000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 2 4402936 -20500000 0 0 0 0 16730
+seg: 2 15 400000 0 0
+vtx: 3 5539200 -20500000 15 0 0 0 0
+connect: 3 1 -1 2 0 3
+vtx: 1 5539200 -22405000 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 4402939 -22405000 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 3 4402936 -20500000 0 0 0 0 16730
+
+net: "NET00011" 2 1 0 0 0 0 1
+pin: 1 BT1.12
+pin: 2 DD2.7
+connect: 1 1 0 3 0 -1
+vtx: 1 20089584 -815001 15 0 0 0 0
+seg: 1 15 400000 0 0
+vtx: 1 21162217 -815000 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 21624443 -754147 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 22055170 -575734 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 22425044 -291920 0 0 0 0 0
+seg: 2 15 400000 0 0
+vtx: 1 23912372 1195407 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 24198425 1568199 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 24378246 2002325 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 1 24439580 2468199 0 0 0 0 0
+seg: 3 15 400000 0 0
+vtx: 4 24439580 10650001 15 0 0 0 0
+
+[texts]
+
+text: "Box-01" -19000000 -30000000 10 0 0 2540000 254000 0 -1 -1
+text_line: -18999200 -27574240 -18999200 -29999940
+text_line: -18999200 -27574240 -17960340 -27574240
+text_line: -17960340 -27574240 -17613630 -27689810
+text_line: -17613630 -27689810 -17498060 -27805380
+text_line: -17498060 -27805380 -17382490 -28036520
+text_line: -17382490 -28036520 -17382490 -28267660
+text_line: -17382490 -28267660 -17498060 -28498800
+text_line: -17498060 -28498800 -17613630 -28614370
+text_line: -17613630 -28614370 -17960340 -28729940
+text_line: -18999200 -28729940 -17960340 -28729940
+text_line: -17960340 -28729940 -17613630 -28844240
+text_line: -17613630 -28844240 -17498060 -28959810
+text_line: -17498060 -28959810 -17382490 -29190950
+text_line: -17382490 -29190950 -17382490 -29537660
+text_line: -17382490 -29537660 -17498060 -29768800
+text_line: -17498060 -29768800 -17613630 -29884370
+text_line: -17613630 -29884370 -17960340 -29999940
+text_line: -17960340 -29999940 -18999200 -29999940
+text_line: -15882620 -28383230 -16112490 -28498800
+text_line: -16112490 -28498800 -16343630 -28729940
+text_line: -16343630 -28729940 -16459200 -29075380
+text_line: -16459200 -29075380 -16459200 -29306520
+text_line: -16459200 -29306520 -16343630 -29653230
+text_line: -16343630 -29653230 -16112490 -29884370
+text_line: -16112490 -29884370 -15882620 -29999940
+text_line: -15882620 -29999940 -15535910 -29999940
+text_line: -15535910 -29999940 -15304770 -29884370
+text_line: -15304770 -29884370 -15073630 -29653230
+text_line: -15073630 -29653230 -14958060 -29306520
+text_line: -14958060 -29306520 -14958060 -29075380
+text_line: -14958060 -29075380 -15073630 -28729940
+text_line: -15073630 -28729940 -15304770 -28498800
+text_line: -15304770 -28498800 -15535910 -28383230
+text_line: -15535910 -28383230 -15882620 -28383230
+text_line: -14034770 -28383230 -12764770 -29999940
+text_line: -12764770 -28383230 -14034770 -29999940
+text_line: -11841480 -28959810 -9762490 -28959810
+text_line: -8147050 -27574240 -8492490 -27689810
+text_line: -8492490 -27689810 -8723630 -28036520
+text_line: -8723630 -28036520 -8839200 -28614370
+text_line: -8839200 -28614370 -8839200 -28959810
+text_line: -8839200 -28959810 -8723630 -29537660
+text_line: -8723630 -29537660 -8492490 -29884370
+text_line: -8492490 -29884370 -8147050 -29999940
+text_line: -8147050 -29999940 -7915910 -29999940
+text_line: -7915910 -29999940 -7569200 -29884370
+text_line: -7569200 -29884370 -7338060 -29537660
+text_line: -7338060 -29537660 -7222490 -28959810
+text_line: -7222490 -28959810 -7222490 -28614370
+text_line: -7222490 -28614370 -7338060 -28036520
+text_line: -7338060 -28036520 -7569200 -27689810
+text_line: -7569200 -27689810 -7915910 -27574240
+text_line: -7915910 -27574240 -8147050 -27574240
+text_line: -6299200 -28036520 -6068060 -27920950
+text_line: -6068060 -27920950 -5722620 -27574240
+text_line: -5722620 -27574240 -5722620 -29999940
+selection: -5595620 -30126940 -5595620 -27447240 -19126200 -27447240 -19126200 -30126940
+
+text: "Box-01" -6500000 -30000000 11 0 1 2540000 254000 0 -1 -1
+text_line: -6499860 -27574240 -6499860 -29999940
+text_line: -6499860 -27574240 -7538720 -27574240
+text_line: -7538720 -27574240 -7885430 -27689810
+text_line: -7885430 -27689810 -7999730 -27805380
+text_line: -7999730 -27805380 -8115300 -28036520
+text_line: -8115300 -28036520 -8115300 -28267660
+text_line: -8115300 -28267660 -7999730 -28498800
+text_line: -7999730 -28498800 -7885430 -28614370
+text_line: -7885430 -28614370 -7538720 -28729940
+text_line: -6499860 -28729940 -7538720 -28729940
+text_line: -7538720 -28729940 -7885430 -28844240
+text_line: -7885430 -28844240 -7999730 -28959810
+text_line: -7999730 -28959810 -8115300 -29190950
+text_line: -8115300 -29190950 -8115300 -29537660
+text_line: -8115300 -29537660 -7999730 -29768800
+text_line: -7999730 -29768800 -7885430 -29884370
+text_line: -7885430 -29884370 -7538720 -29999940
+text_line: -7538720 -29999940 -6499860 -29999940
+text_line: -9616440 -28383230 -9385300 -28498800
+text_line: -9385300 -28498800 -9155430 -28729940
+text_line: -9155430 -28729940 -9039860 -29075380
+text_line: -9039860 -29075380 -9039860 -29306520
+text_line: -9039860 -29306520 -9155430 -29653230
+text_line: -9155430 -29653230 -9385300 -29884370
+text_line: -9385300 -29884370 -9616440 -29999940
+text_line: -9616440 -29999940 -9963150 -29999940
+text_line: -9963150 -29999940 -10194290 -29884370
+text_line: -10194290 -29884370 -10425430 -29653230
+text_line: -10425430 -29653230 -10539730 -29306520
+text_line: -10539730 -29306520 -10539730 -29075380
+text_line: -10539730 -29075380 -10425430 -28729940
+text_line: -10425430 -28729940 -10194290 -28498800
+text_line: -10194290 -28498800 -9963150 -28383230
+text_line: -9963150 -28383230 -9616440 -28383230
+text_line: -11464290 -28383230 -12734290 -29999940
+text_line: -12734290 -28383230 -11464290 -29999940
+text_line: -13657580 -28959810 -15735300 -28959810
+text_line: -17352010 -27574240 -17005300 -27689810
+text_line: -17005300 -27689810 -16775430 -28036520
+text_line: -16775430 -28036520 -16659860 -28614370
+text_line: -16659860 -28614370 -16659860 -28959810
+text_line: -16659860 -28959810 -16775430 -29537660
+text_line: -16775430 -29537660 -17005300 -29884370
+text_line: -17005300 -29884370 -17352010 -29999940
+text_line: -17352010 -29999940 -17583150 -29999940
+text_line: -17583150 -29999940 -17929860 -29884370
+text_line: -17929860 -29884370 -18159730 -29537660
+text_line: -18159730 -29537660 -18275300 -28959810
+text_line: -18275300 -28959810 -18275300 -28614370
+text_line: -18275300 -28614370 -18159730 -28036520
+text_line: -18159730 -28036520 -17929860 -27689810
+text_line: -17929860 -27689810 -17583150 -27574240
+text_line: -17583150 -27574240 -17352010 -27574240
+text_line: -19199860 -28036520 -19429730 -27920950
+text_line: -19429730 -27920950 -19776440 -27574240
+text_line: -19776440 -27574240 -19776440 -29999940
+selection: -6372860 -30126940 -6372860 -27447240 -19903440 -27447240 -19903440 -30126940
+
+[merges]
+
+merge: "JDY-40" 1000000
+merge: "MPU" 0
+merge: "LoraWan" 1000000
+merge: "+EP" 0
+merge: "AC/DC" 2000000
+merge: "AC/DC(5V)" 0
+merge: "CH340N" 0
+merge: "Flash" 0
+merge: "ID7150847" 0
+
+[end]

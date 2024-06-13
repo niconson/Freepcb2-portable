@@ -1,0 +1,116 @@
+//============================================
+// Code builder for OpenScad via Freepcb-2 app
+// Author: duxahtech © 2014-2023
+//============================================
+
+
+
+// Polylines
+module Poly1_C0402 ()
+{
+    // Global rotation 0.000 //
+    // Global lift 0.000mm //
+    // matrix: 1 1 1 0.000 0.000 0.000 //
+    // resolution $fn = 20 //
+    color( "Brown" )
+    {
+        translate([ 0.000,  0.000,  0.200 ])
+        {
+            translate([ -2.300, 2.900, 0.0 ])
+            {
+                linear_extrude( 0.700, scale= 1.000, convexity=Convexity )
+                {
+                    polygon([ [0.000, 0.000], 
+                              [0.000, -0.800], 
+                              [1.600, -0.800], 
+                              [1.600, 0.000] ]);
+                }
+            }
+        }
+    }
+    // end of module
+}
+module Poly2_C0402 ()
+{
+    // Consider line width //
+    // Global rotation 0.000 //
+    // Global lift 0.000mm //
+    // matrix: 2 1 1 1.200 0.000 0.000 //
+    // resolution $fn = 20 //
+    color( "Aqua" )
+    {
+        minkowski()
+        {
+            $fn = 20;
+            translate([ 0.000,  0.000,  0.200 ])
+            {
+                translate([ -2.300, 2.900, 0.0 ])
+                {
+                    linear_extrude( 0.700, scale= 1.000, convexity=Convexity )
+                    {
+                        polygon([ [0.000, 0.000], 
+                                  [0.000, -0.800], 
+                                  [0.400, -0.800], 
+                                  [0.400, 0.000] ]);
+                    }
+                }
+            }
+            sphere( 0.050 );
+        }
+    }
+    // end of module
+}
+
+
+// Footprint
+module fp_C0402 ()
+{
+    union()
+    {
+        Poly1_C0402();
+        Poly2_C0402();
+        translate([ 1.200, 0.000, 0.000 ]) {Poly2_C0402();}
+        // end of union
+    }
+    // end of module
+}
+
+
+// Footprint
+module FC0402 ()
+{
+    difference()
+    {
+        union()
+        {
+            translate([ 0.650,  0.000,  0.0 ])
+                translate([ 1.500,  -2.500,  -0.050 ])
+                fp_C0402();
+
+            // pads
+            if( enable_draw_pads )
+            color( "gray" )
+            {
+                $fn=8;
+                translate([ 0.000, 0.000, -0.050 ])
+                  linear_extrude( 0.100 )
+                    polygon([[ 0.450, 0.400 ],
+                            [ -0.450, 0.400 ],
+                            [ -0.450, -0.400 ],
+                            [ 0.450, -0.400 ]]);
+                translate([ 1.300, 0.000, -0.050 ])
+                  linear_extrude( 0.100 )
+                    polygon([[ 0.450, 0.400 ],
+                            [ -0.450, 0.400 ],
+                            [ -0.450, -0.400 ],
+                            [ 0.450, -0.400 ]]);
+                // end of pins
+            }
+                        // end of union
+        }
+                // end of difference
+    }
+    // end of module
+}
+
+

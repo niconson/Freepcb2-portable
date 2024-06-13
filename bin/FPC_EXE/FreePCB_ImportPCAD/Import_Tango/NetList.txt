@@ -1,0 +1,666 @@
+net: "+A3V3"
+pin: C24.1
+pin: C28.1
+pin: C7.1
+pin: C4.1
+pin: FER1.2
+pin: J1.3
+pin: U1.11
+pin: U1.15
+pin: U1.23
+net: "3V3"
+pin: C43.1
+pin: C36.1
+pin: C44.2
+pin: C1.1
+pin: FER2.1
+pin: FER1.1
+pin: R17.1
+pin: R1.1
+pin: C51.1
+pin: R2.1
+pin: C52.1
+pin: R3.1
+pin: C38.1
+pin: R18.1
+pin: C41.1
+pin: R20.1
+pin: C48.1
+pin: R15.1
+pin: C35.2
+pin: R16.1
+pin: R12.1
+pin: R5.1
+pin: R7.1
+pin: C31.1
+pin: C11.1
+pin: FER5.1
+pin: FER4.1
+pin: R38.1
+pin: R22.1
+pin: R23.1
+pin: R24.1
+pin: R39.1
+pin: R41.1
+pin: R36.1
+pin: R37.1
+pin: R33.1
+pin: R26.1
+pin: R28.1
+pin: LED1.1
+pin: R50.2
+pin: R47.1
+pin: R58.2
+pin: R68.2
+pin: R54.2
+pin: R53.2
+pin: R59.2
+pin: U3.8
+pin: U4.5
+pin: U4.10
+pin: U4.24
+pin: U4.46
+pin: U4.52
+pin: U4.57
+pin: U4.64
+pin: SDM1.B110
+pin: SDM1.B109
+pin: SDM1.B108
+pin: SDM1.B107
+pin: SDM1.B106
+pin: SDM1.B105
+net: "DiffPair 10_N"
+pin: C46.2
+pin: R65.1
+pin: U4.8
+net: "DiffPair 10_P"
+pin: C42.1
+pin: R64.1
+pin: U4.9
+net: "DiffPair 11_N"
+pin: C55.2
+pin: R75.1
+pin: U4.6
+net: "DiffPair 11_P"
+pin: C53.1
+pin: R72.1
+pin: U4.7
+net: "DiffPair 12_N"
+pin: C56.2
+pin: R77.1
+pin: U4.3
+net: "DiffPair 12_P"
+pin: C54.1
+pin: R74.1
+pin: U4.4
+net: "DiffPair 13_N"
+pin: C64.2
+pin: R81.1
+pin: U4.1
+net: "DiffPair 13_P"
+pin: C58.1
+pin: R80.1
+pin: U4.2
+net: "DiffPair 14_N"
+pin: J1.2
+pin: R8.2
+pin: U1.18
+net: "DiffPair 14_P"
+pin: J1.1
+pin: R10.2
+pin: U1.17
+net: "DiffPair 15_N"
+pin: J1.8
+pin: R4.2
+pin: U1.21
+net: "DiffPair 15_P"
+pin: J1.7
+pin: R6.2
+pin: U1.20
+net: "DiffPair 16_N"
+pin: J2.8
+pin: R25.2
+pin: U2.21
+net: "DiffPair 16_P"
+pin: J2.7
+pin: R27.2
+pin: U2.20
+net: "DiffPair 17_N"
+pin: J2.2
+pin: R29.2
+pin: U2.18
+net: "DiffPair 17_P"
+pin: J2.1
+pin: R31.2
+pin: U2.17
+net: "DiffPair 18_N"
+pin: CN4.2
+pin: J3.2
+pin: U4.58
+net: "DiffPair 18_P"
+pin: CN4.3
+pin: J3.3
+pin: U4.59
+net: "DiffPair 1_N"
+pin: CN7.2
+pin: R77.2
+pin: R78.2
+pin: SDM1.A42
+net: "DiffPair 1_P"
+pin: CN7.3
+pin: R74.2
+pin: R73.1
+pin: SDM1.A43
+net: "DiffPair 2_N"
+pin: CN2.2
+pin: R55.2
+pin: R56.2
+pin: SDM1.A39
+net: "DiffPair 2_P"
+pin: CN2.3
+pin: R52.2
+pin: R49.1
+pin: SDM1.A40
+net: "DiffPair 3_N"
+pin: CN1.2
+pin: R45.2
+pin: R46.2
+pin: SDM1.A36
+net: "DiffPair 3_P"
+pin: CN1.3
+pin: R44.2
+pin: R43.1
+pin: SDM1.A37
+net: "DiffPair 4_N"
+pin: CN6.2
+pin: R75.2
+pin: R76.2
+pin: SDM1.B45
+net: "DiffPair 4_P"
+pin: CN6.3
+pin: R72.2
+pin: R71.1
+pin: SDM1.B46
+net: "DiffPair 5_N"
+pin: CN5.2
+pin: R65.2
+pin: R66.2
+pin: SDM1.B42
+net: "DiffPair 5_P"
+pin: CN5.3
+pin: R64.2
+pin: R63.1
+pin: SDM1.B43
+net: "DiffPair 6_N"
+pin: CN3.2
+pin: R61.2
+pin: R62.2
+pin: SDM1.B39
+net: "DiffPair 6_P"
+pin: CN3.3
+pin: R60.2
+pin: R57.1
+pin: SDM1.B40
+net: "DiffPair 7_N"
+pin: C27.2
+pin: R45.1
+pin: U4.55
+net: "DiffPair 7_P"
+pin: C22.1
+pin: R44.1
+pin: U4.56
+net: "DiffPair 8_N"
+pin: C32.2
+pin: R55.1
+pin: U4.53
+net: "DiffPair 8_P"
+pin: C30.1
+pin: R52.1
+pin: U4.54
+net: "DiffPair 9_N"
+pin: C37.2
+pin: R61.1
+pin: U4.11
+net: "DiffPair 9_P"
+pin: C33.1
+pin: R60.1
+pin: U4.12
+net: "DiffPair_N"
+pin: CN8.2
+pin: R81.2
+pin: R82.2
+pin: SDM1.A45
+net: "DiffPair_P"
+pin: CN8.3
+pin: R80.2
+pin: R79.1
+pin: SDM1.A46
+net: "GND"
+pin: C5.2
+pin: C10.2
+pin: C8.2
+pin: C23.2
+pin: C25.2
+pin: C21.2
+pin: C26.2
+pin: C24.2
+pin: C2.2
+pin: C50.1
+pin: C6.2
+pin: C43.2
+pin: C29.2
+pin: C36.2
+pin: C9.2
+pin: C44.1
+pin: C3.2
+pin: C47.1
+pin: C28.2
+pin: C45.2
+pin: C7.2
+pin: C39.1
+pin: C4.2
+pin: C40.2
+pin: C1.2
+pin: C58.2
+pin: C54.2
+pin: C53.2
+pin: C42.2
+pin: C33.2
+pin: C30.2
+pin: C22.2
+pin: J1.L2
+pin: J1.L4
+pin: J1.9
+pin: J1.10
+pin: C51.2
+pin: C52.2
+pin: C38.2
+pin: C41.2
+pin: C48.2
+pin: C35.1
+pin: C64.1
+pin: C56.1
+pin: C55.1
+pin: C46.1
+pin: C37.1
+pin: C32.1
+pin: C27.1
+pin: R14.2
+pin: R9.2
+pin: C31.2
+pin: U1.9
+pin: U1.10
+pin: U1.13
+pin: U1.19
+pin: U1.22
+pin: U1.24
+pin: U1.26
+pin: U1.28
+pin: U1.32
+pin: U1.33
+pin: U1.34
+pin: U1.35
+pin: U1.36
+pin: U1.37
+pin: U1.38
+pin: U1.39
+pin: U1.48
+pin: U1.49
+pin: C15.2
+pin: C20.2
+pin: C18.2
+pin: C59.2
+pin: C61.2
+pin: C57.2
+pin: C62.2
+pin: C60.2
+pin: C12.2
+pin: C16.2
+pin: C65.2
+pin: C19.2
+pin: C13.2
+pin: C63.2
+pin: C17.2
+pin: C14.2
+pin: C11.2
+pin: J2.L2
+pin: J2.L4
+pin: J2.9
+pin: J2.10
+pin: R35.2
+pin: R30.2
+pin: C34.2
+pin: C49.1
+pin: CN4.4
+pin: CN8.4
+pin: CN7.4
+pin: CN6.4
+pin: CN5.4
+pin: CN3.4
+pin: CN2.4
+pin: CN1.4
+pin: U2.9
+pin: U2.10
+pin: U2.13
+pin: U2.19
+pin: U2.22
+pin: U2.24
+pin: U2.26
+pin: U2.28
+pin: U2.32
+pin: U2.33
+pin: U2.34
+pin: U2.35
+pin: U2.36
+pin: U2.37
+pin: U2.38
+pin: U2.39
+pin: U2.48
+pin: U2.49
+pin: J3.5
+pin: J3.6
+pin: J3.7
+pin: J3.8
+pin: J3.9
+pin: LED2.2
+pin: R48.2
+pin: R69.1
+pin: R70.1
+pin: R79.2
+pin: R73.2
+pin: R71.2
+pin: R63.2
+pin: R57.2
+pin: R49.2
+pin: R43.2
+pin: R82.1
+pin: R78.1
+pin: R76.1
+pin: R66.1
+pin: R62.1
+pin: R56.1
+pin: R46.1
+pin: U3.1
+pin: U3.2
+pin: U3.3
+pin: U3.4
+pin: U3.7
+pin: U4.19
+pin: U4.65
+pin: SDM1.A35
+pin: SDM1.A38
+pin: SDM1.A41
+pin: SDM1.A44
+pin: SDM1.B101
+pin: SDM1.B100
+pin: SDM1.B99
+pin: SDM1.B98
+pin: SDM1.B97
+pin: SDM1.B96
+pin: SDM1.B95
+pin: SDM1.B94
+pin: SDM1.B47
+pin: SDM1.B44
+pin: SDM1.B41
+pin: SDM1.B38
+net: "MISO"
+pin: U1.44
+pin: SDM1.B15
+net: "MOSI"
+pin: U1.43
+pin: SDM1.B13
+net: "Net 0"
+pin: R1.2
+pin: U1.31
+net: "Net 1"
+pin: R5.2
+pin: U1.40
+net: "Net 2"
+pin: C9.1
+pin: C3.1
+pin: FER3.2
+pin: U1.8
+pin: U1.25
+net: "Net 3"
+pin: R30.1
+pin: U2.45
+net: "Net 4"
+pin: C2.1
+pin: C6.1
+pin: FER2.2
+pin: U1.27
+pin: U1.47
+net: "Net 5"
+pin: C26.1
+pin: R10.1
+pin: R8.1
+net: "Net 6"
+pin: R3.2
+pin: U1.29
+net: "Net 7"
+pin: C18.1
+pin: R34.2
+pin: U2.1
+pin: Y2.3
+net: "Net 8"
+pin: R2.2
+pin: U1.30
+net: "Net 9"
+pin: R35.1
+pin: U2.12
+net: "Net 10"
+pin: C20.1
+pin: R34.1
+pin: U2.2
+pin: Y2.1
+net: "Net 12"
+pin: C5.1
+pin: R12.2
+pin: R11.2
+pin: U1.46
+net: "Net 14"
+pin: C60.1
+pin: C63.1
+pin: C17.1
+pin: C14.1
+pin: FER4.2
+pin: J2.3
+pin: U2.11
+pin: U2.15
+pin: U2.23
+net: "Net 15"
+pin: R17.2
+pin: U1.7
+net: "Net 21"
+pin: U2.44
+pin: SDM1.B84
+net: "Net 22"
+pin: J1.L1
+pin: R19.2
+net: "Net 23"
+pin: J1.L3
+pin: R21.2
+net: "Net 24"
+pin: U2.43
+pin: SDM1.B82
+net: "Net 25"
+pin: R26.2
+pin: U2.40
+net: "Net 26"
+pin: C19.1
+pin: C13.1
+pin: FER6.2
+pin: U2.8
+pin: U2.25
+net: "Net 27"
+pin: C12.1
+pin: C16.1
+pin: FER5.2
+pin: U2.27
+pin: U2.47
+net: "Net 28"
+pin: C62.1
+pin: R31.1
+pin: R29.1
+net: "Net 29"
+pin: R24.2
+pin: U2.29
+net: "Net 30"
+pin: R23.2
+pin: U2.30
+net: "Net 31"
+pin: R22.2
+pin: U2.31
+net: "Net 32"
+pin: C15.1
+pin: R33.2
+pin: R32.2
+pin: U2.46
+net: "Net 33"
+pin: R38.2
+pin: U2.7
+net: "Net 34"
+pin: J2.L1
+pin: R40.2
+net: "Net 35"
+pin: J2.L3
+pin: R42.2
+net: "Net 36"
+pin: R39.2
+pin: R40.1
+pin: U2.5
+net: "Net 37"
+pin: R41.2
+pin: R42.1
+pin: U2.4
+net: "Net 38"
+pin: R36.2
+pin: U2.3
+net: "Net 39"
+pin: R37.2
+pin: U2.6
+net: "Net 40"
+pin: R18.2
+pin: R19.1
+pin: U1.5
+net: "Net 41"
+pin: R20.2
+pin: R21.1
+pin: U1.4
+net: "Net 42"
+pin: C59.1
+pin: C61.1
+pin: U2.16
+net: "Net 43"
+pin: C65.1
+pin: FER6.1
+pin: U2.14
+net: "Net 44"
+pin: C57.1
+pin: R27.1
+pin: R25.1
+net: "Net 45"
+pin: U2.42
+pin: SDM1.B80
+net: "Net 46"
+pin: R28.2
+pin: U2.41
+pin: SDM1.B78
+net: "Net 47"
+pin: R9.1
+pin: U1.45
+net: "Net 48"
+pin: C8.1
+pin: R13.2
+pin: U1.1
+pin: Y1.3
+net: "Net 49"
+pin: R14.1
+pin: U1.12
+net: "Net 50"
+pin: C10.1
+pin: R13.1
+pin: U1.2
+pin: Y1.1
+net: "Net 115"
+pin: R7.2
+pin: U1.41
+pin: SDM1.B9
+net: "Net 282"
+pin: R15.2
+pin: U1.3
+net: "Net 283"
+pin: R16.2
+pin: U1.6
+net: "Net 284"
+pin: C23.1
+pin: C25.1
+pin: U1.16
+net: "Net 377"
+pin: C29.1
+pin: FER3.1
+pin: U1.14
+net: "Net 384"
+pin: C21.1
+pin: R6.1
+pin: R4.1
+net: "Net 474"
+pin: R69.2
+pin: U4.63
+net: "Net 482"
+pin: C39.2
+pin: C40.1
+pin: U4.25
+net: "Net 483"
+pin: C47.2
+pin: C45.1
+pin: U4.62
+net: "Net 485"
+pin: R58.1
+pin: U4.45
+net: "Net 486"
+pin: R54.1
+pin: U4.44
+net: "Net 487"
+pin: LED2.1
+pin: LED1.2
+pin: R51.1
+pin: R48.1
+pin: R47.2
+net: "Net 488"
+pin: R68.1
+pin: R70.2
+pin: U4.13
+net: "Net 489"
+pin: R53.1
+pin: U3.6
+pin: U4.41
+net: "Net 490"
+pin: R59.1
+pin: U3.5
+pin: U4.40
+net: "Net 58"
+pin: C50.2
+pin: R67.1
+pin: U4.61
+pin: Y3.1
+net: "Net 59"
+pin: C49.2
+pin: R67.2
+pin: U4.60
+pin: Y3.2
+net: "Net 89"
+pin: R51.2
+pin: U4.42
+net: "Net 51"
+pin: CN4.1
+pin: J3.1
+pin: P1.1
+net: "RESET_N"
+pin: C34.1
+pin: R50.1
+pin: U4.43
+net: "SCK"
+pin: U1.42
+pin: SDM1.B11
+end

@@ -1,0 +1,169 @@
+name: "ANT_2_4G_v3"
+author: "Texas Instruments"
+description: "none"
+units: NM
+sel_rect: -10845000 -400000 3551050 5405000
+ref_text: 300000 3750000 750000 0 10000
+value_text: 300000 3550000 0 0 10000
+centroid: 0 -3624480 600000 0
+outline_polyline: 50000 3526000 770000 1 1 15
+next_corner: 3526000 5380000 0
+next_corner: -1450000 5380000 0
+next_corner: -1450000 2750000 0
+next_corner: -3480000 2750000 0
+next_corner: -3480000 5370000 0
+next_corner: -6130000 5370000 0
+next_corner: -6130000 2800000 0
+next_corner: -8180000 2800000 0
+next_corner: -8180000 5370000 0
+next_corner: -10820000 5370000 0
+next_corner: -10820000 990000 0
+next_corner: -10370000 990000 0
+next_corner: -10370000 4920000 0
+next_corner: -8630000 4920000 0
+next_corner: -8630000 2280000 0
+next_corner: -5680000 2280000 0
+next_corner: -5680000 4920000 0
+next_corner: -3930000 4920000 0
+next_corner: -3930000 2270000 0
+next_corner: -980000 2270000 0
+next_corner: -980000 4920000 0
+next_corner: 770000 4920000 0
+next_corner: 770000 -220000 0
+next_corner: 1220000 -220000 0
+next_corner: 1220000 4920000 0
+next_corner: 2675000 4920000 0
+next_corner: 2675000 770000 0
+close_polyline: 0
+n_pins: 17
+pin: "2" 350000 3000000 0 90 ""
+top_pad: 1 800000 400000 400000 0 3
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 3
+bottom_pad: 1 800000 400000 400000 0 3
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 0 -5400000 0 0 ""
+top_pad: 3 800000 5400000 5400000 0 3
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+bottom_pad: 3 800000 5400000 5400000 0 3
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 350000 -1000000 0 90 ""
+top_pad: 1 800000 400000 400000 0 3
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 3
+bottom_pad: 1 800000 400000 400000 0 3
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 350000 -2000000 0 90 ""
+top_pad: 1 800000 400000 400000 0 3
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 3
+bottom_pad: 1 800000 400000 400000 0 3
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 350000 -3000000 0 90 ""
+top_pad: 1 800000 400000 400000 0 3
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 3
+bottom_pad: 1 800000 400000 400000 0 3
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 350000 -4000000 0 90 ""
+top_pad: 1 800000 400000 400000 0 3
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 3
+bottom_pad: 1 800000 400000 400000 0 3
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 350000 -5000000 0 90 ""
+top_pad: 1 800000 400000 400000 0 3
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 3
+bottom_pad: 1 800000 400000 400000 0 3
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 350000 -6000000 0 90 ""
+top_pad: 1 800000 400000 400000 0 3
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 3
+bottom_pad: 1 800000 400000 400000 0 3
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 350000 -7000000 0 90 ""
+top_pad: 1 800000 400000 400000 0 3
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 3
+bottom_pad: 1 800000 400000 400000 0 3
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 350000 -8000000 0 90 ""
+top_pad: 1 800000 400000 400000 0 3
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 3
+bottom_pad: 1 800000 400000 400000 0 3
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 350000 -9000000 0 90 ""
+top_pad: 1 800000 400000 400000 0 3
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 3
+bottom_pad: 1 800000 400000 400000 0 3
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 350000 -10000000 0 90 ""
+top_pad: 1 800000 400000 400000 0 3
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 3
+bottom_pad: 1 800000 400000 400000 0 3
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "1" 0 990000 11000 90 ""
+top_pad: 2 500000 250000 250000 0 3
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 0 3100700 600000 90 ""
+top_pad: 3 900700 1000000 1000000 0 3
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 350000 0 0 90 ""
+top_pad: 1 800000 400000 400000 0 3
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 3
+bottom_pad: 1 800000 400000 400000 0 3
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 350000 2000000 0 90 ""
+top_pad: 1 800000 400000 400000 0 3
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 3
+bottom_pad: 1 800000 400000 400000 0 3
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+pin: "2" 0 2550000 0 0 ""
+top_pad: 5 800000 1000000 1000000 400000 3
+top_mask: 0 0 0 0 0
+top_paste: 0 0 0 0 0
+bottom_pad: 5 800000 1000000 1000000 400000 3
+bottom_mask: 0 0 0 0 0
+bottom_paste: 0 0 0 0 0
+

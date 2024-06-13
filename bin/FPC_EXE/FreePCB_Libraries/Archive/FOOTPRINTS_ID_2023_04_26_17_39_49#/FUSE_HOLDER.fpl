@@ -1,0 +1,19 @@
+name: "FUSE_HOLDER"
+author: "Ivex"
+package: "FUSE_HOLDER"
+  units: NM
+  sel_rect: -8088900 -3088900 8088900 3088900
+  ref_text: 1270000 -12700 -3810000 0 177800
+  value_text: 1270000 -12700 -6350000 0 177800
+  centroid: 0 0 0 0
+  outline_polyline: 177800 -8000000 3000000 1 0 4
+    next_corner: 8000000 3000000 0
+    next_corner: 8000000 -3000000 0
+    next_corner: -8000000 -3000000 0
+    close_polyline: 0
+  n_pins: 2
+    pin: "1" 0 -4687700 0 0 ""
+      top_pad: 3 5000000 2500000 2500000 0
+    pin: "2" 0 4687700 0 0 ""
+      top_pad: 3 5000000 2500000 2500000 0
+

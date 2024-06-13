@@ -1,0 +1,126 @@
+name: "WX-DC12003"
+author: "Ivex"
+package: "WX-DC12003"
+  units: NM
+  sel_rect: -11975400 -4125000 13450000 22375000
+  ref_text: 1270000 -4096400 10105000 0 177800
+  value_text: 1270000 -4096400 7565000 0 177800
+  centroid: 1 0 0 0
+  outline_polyline: 200000 -11500000 5025000 1 0 7
+    next_corner: -11500000 1975000 0
+    next_corner: -5150000 1975000 0
+    next_corner: -5150000 -1025000 0
+    next_corner: -3150000 -1025000 0
+    next_corner: -650000 -4025000 2
+    next_corner: 1850000 -1025000 2
+    next_corner: 3850000 -1025000 0
+    next_corner: 3850000 -25000 0
+    next_corner: 4350000 -25000 0
+    next_corner: 8350000 -4024999 2
+    next_corner: 12500000 125002 2
+    next_corner: 12500000 5025000 0
+    close_polyline: 0
+    openscad_data: "// Global lift -2.500mm //|// Global rotation 0.000 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `[0.5,0.5,0.5]` )|{|    translate([ 0.000,  0.000,  5.000 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 11.000, scale= 1.000, convexity=Convexity )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+  outline_polyline: 50800 3500000 4775000 1 1 10
+    next_corner: 4500000 3775000 2
+    next_corner: 11800000 3775000 0
+    next_corner: 12800000 4775000 2
+    next_corner: 11800000 5775000 2
+    next_corner: 4500000 5775000 0
+    close_polyline: 2
+    openscad_data: "// Global lift -2.500mm //|// Global rotation 0.000 //|"
+  outline_polyline: 50800 -10950000 3825000 1 1 10
+    next_corner: -11950000 4825000 1
+    next_corner: -10950000 5825000 1
+    next_corner: -6000000 5825000 0
+    next_corner: -5000000 4825000 1
+    next_corner: -6000000 3825000 1
+    close_polyline: 0
+    openscad_data: "// Global lift -2.500mm //|// Global rotation 0.000 //|"
+  outline_polyline: 200000 -10650000 5475000 0 0 4
+    next_corner: -5650000 5475000 0
+    next_corner: -5650000 7475000 0
+    next_corner: -4650000 8475000 1
+    next_corner: 3350000 8475000 0
+    next_corner: 4350000 7475000 1
+    next_corner: 4350000 5475000 0
+    next_corner: 7350000 5475000 0
+    next_corner: 7350000 7475000 0
+    next_corner: 8350000 8475000 1
+    next_corner: 9350000 7475000 1
+    next_corner: 9350000 5475000 0
+    next_corner: 12350000 5475000 0
+    next_corner: 12350000 7475000 0
+    next_corner: 13350000 8475000 1
+    next_corner: 13350000 22275000 0
+    next_corner: -11650000 22275000 0
+    next_corner: -11650000 8475000 0
+    next_corner: -10650000 7475000 1
+    close_polyline: 0
+    openscad_data: "// Global rotation 0.000 //|// Global lift -2.500mm //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Gray` )|{|    *corner1*, 0.0 ])|    {|        rotate([ 90.000,  0.000,  0.000 ])|        {|            linear_extrude( 1.500, scale= 1.000, convexity=Convexity )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+  outline_polyline: 200000 -8500000 3500000 0 0 4
+    next_corner: -5500000 500000 1
+    next_corner: -8500000 -2500000 1
+    next_corner: -11500000 500000 1
+    close_polyline: 1
+    openscad_data: "// Global lift -2.500mm //|// Global rotation 0.000 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `[0.5,0.5,0.5]` )|{|    translate([ 0.000,  0.000,  12.000 ])|    {|        *corner1*, 0.0 ])|        {|            rotate([ 90.000,  0.000,  0.000 ])|            {|                linear_extrude( 9.000, scale= 1.000, convexity=Convexity )|                {|                    polygon([ *content* ]);|                }|            }|        }|    }|}|"
+  n_pins: 10
+    pin: "4" 889000 -10000000 2275000 0 ""
+      top_pad: 1 2000000 1000000 1000000 0
+      top_mask: 0 1500000 750000 750000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 2000000 1000000 1000000 0
+      bottom_mask: 1 1500000 750000 750000 0
+    pin: "4" 889000 -10000000 7275000 0 ""
+      top_pad: 1 2000000 1000000 1000000 0
+      top_mask: 0 1500000 750000 750000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 2000000 1000000 1000000 0
+      bottom_mask: 1 1500000 750000 750000 0
+    pin: "3" 889000 -7000000 2275000 0 ""
+      top_pad: 2 2000000 1000000 1000000 0
+      top_mask: 0 1500000 750000 750000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 2 2000000 1000000 1000000 0
+      bottom_mask: 2 1500000 750000 750000 0
+    pin: "3" 889000 -7000000 7275000 0 ""
+      top_pad: 2 2000000 1000000 1000000 0
+      top_mask: 0 1500000 750000 750000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 2 2000000 1000000 1000000 0
+      bottom_mask: 2 1500000 750000 750000 0
+    pin: "2" 1000000 6000000 7275000 0 ""
+      top_pad: 3 2000000 1500000 1500000 0
+      top_mask: 0 1500000 1250000 1250000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 3 2000000 1500000 1500000 0
+      bottom_mask: 3 1500000 1250000 1250000 0
+    pin: "4" 0 -9250000 7275000 0 ""
+      top_pad: 3 2000000 750000 750000 0 3
+      top_mask: 0 1500000 750000 750000 0
+      bottom_pad: 3 2000000 750000 750000 0 3
+      bottom_mask: 3 1500000 750000 750000 0
+    pin: "4" 0 -9250000 2275000 0 ""
+      top_pad: 3 2000000 750000 750000 0 3
+      top_mask: 0 1500000 750000 750000 0
+      bottom_pad: 3 2000000 750000 750000 0 3
+      bottom_mask: 3 1500000 750000 750000 0
+    pin: "2" 1000000 6000000 2275000 0 ""
+      top_pad: 3 2000000 1500000 1500000 0
+      top_mask: 0 1500000 1250000 1250000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 3 2000000 1500000 1500000 0
+      bottom_mask: 3 1500000 1250000 1250000 0
+    pin: "1" 1000000 10200000 2275000 0 ""
+      top_pad: 3 2000000 1500000 1500000 0
+      top_mask: 0 1500000 1250000 1250000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 3 2000000 1500000 1500000 0
+      bottom_mask: 3 1500000 1250000 1250000 0
+    pin: "1" 1000000 10200000 7275000 0 ""
+      top_pad: 3 2000000 1500000 1500000 0
+      top_mask: 0 1500000 1250000 1250000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 3 2000000 1500000 1500000 0
+      bottom_mask: 3 1500000 1250000 1250000 0
+

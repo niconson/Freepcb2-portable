@@ -1,0 +1,43 @@
+name: "PLS-3"
+author: "Ivex"
+package: "PLS-3"
+  units: NM
+  sel_rect: -4189000 -1649000 4189000 1649000
+  ref_text: 1270000 4622800 -2540000 0 177800
+  value_text: 1270000 4622800 -5080000 0 177800
+  centroid: 0 0 0 0
+  outline_polyline: 250000 -1270000 1016000 1 0 4
+    next_corner: -1778000 1524000 0
+    next_corner: -3556000 1524000 0
+    next_corner: -4064000 1016000 0
+    next_corner: -4064000 -1016000 0
+    next_corner: -3556000 -1524000 0
+    next_corner: -1778000 -1524000 0
+    next_corner: -1270000 -1016000 0
+    next_corner: -762000 -1524000 0
+    next_corner: 762000 -1524000 0
+    next_corner: 1270000 -1016000 0
+    next_corner: 1778000 -1524000 0
+    next_corner: 3556000 -1524000 0
+    next_corner: 4064000 -1016000 0
+    next_corner: 4064000 1016000 0
+    next_corner: 3556000 1524000 0
+    next_corner: 1778000 1524000 0
+    next_corner: 1270000 1016000 0
+    next_corner: 762000 1524000 0
+    next_corner: -762000 1524000 0
+    close_polyline: 0
+  n_pins: 3
+    pin: "1" 1143000 -2540000 0 0 ""
+      top_pad: 1 2032000 1016000 1016000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 2032000 1016000 1016000 0
+    pin: "2" 1143000 0 0 0 ""
+      top_pad: 1 2032000 1016000 1016000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 2032000 1016000 1016000 0
+    pin: "3" 1143000 2540000 0 0 ""
+      top_pad: 1 2032000 1016000 1016000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 2032000 1016000 1016000 0
+

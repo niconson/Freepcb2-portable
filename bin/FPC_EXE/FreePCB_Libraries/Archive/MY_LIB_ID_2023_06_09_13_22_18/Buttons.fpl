@@ -1,0 +1,307 @@
+name: "SWT41"
+author: "i"
+package: "SWT41"
+description: "Buttons"
+  units: NM
+  sel_rect: -4700000 -3127000 4700000 3127000
+  ref_text: 300000 0 500000 0 50000
+  value_text: 300000 0 0 0 50000
+  centroid: 0 0 0 0
+  outline_polyline: 254000 -3400000 2700000 1 0 4
+    next_corner: -3400000 3000000 0
+  outline_polyline: 254000 -3400000 -3000000 1 0 4
+    next_corner: -3400000 -2700000 0
+  outline_polyline: 254000 -3400000 -1300000 1 0 4
+    next_corner: -3400000 1300000 0
+  outline_polyline: 254000 3400000 -3000000 1 0 4
+    next_corner: 3400000 -2700000 0
+  outline_polyline: 254000 3400000 -1300000 1 0 4
+    next_corner: 3400000 1300000 0
+  outline_polyline: 254000 3400000 2700000 1 0 4
+    next_corner: 3400000 3000000 0
+  outline_polyline: 254000 -1500000 350 1 0 4
+    next_corner: -1467370 -311170 0
+    next_corner: -1370760 -609110 0
+    next_corner: -1214380 -880500 0
+    next_corner: -1005050 -1113490 0
+    next_corner: -751900 -1297940 0
+    next_corner: -465970 -1425790 0
+    next_corner: -159710 -1491470 0
+    next_corner: 153500 -1492120 0
+    next_corner: 459690 -1427820 0
+    next_corner: 745890 -1301400 0
+    next_corner: 999630 -1118360 0
+    next_corner: 1209880 -886670 0
+    next_corner: 1367500 -616400 0
+    next_corner: 1465620 -319310 0
+    next_corner: 1499980 -8330 0
+    next_corner: 1469070 303010 0
+    next_corner: 1373980 601810 0
+    next_corner: 1218850 874300 0
+    next_corner: 1010450 1108600 0
+    next_corner: 757900 1294440 0
+    next_corner: 472230 1423730 0
+    next_corner: 165930 1490790 0
+    next_corner: -147630 1492720 0
+    next_corner: -454400 1429520 0
+    next_corner: -741370 1303980 0
+    next_corner: -996000 1121600 0
+    next_corner: -1207210 890300 0
+    next_corner: -1365780 620190 0
+    next_corner: -1464800 323040 0
+    next_corner: -1500000 1040 0
+  outline_polyline: 254000 -1900000 440 1 0 4
+    next_corner: -1858670 -394140 0
+    next_corner: -1736300 -771540 0
+    next_corner: -1538220 -1115300 0
+    next_corner: -1273070 -1410420 0
+    next_corner: -952410 -1644050 0
+    next_corner: -590220 -1806000 0
+    next_corner: -202300 -1889200 0
+    next_corner: 194440 -1890020 0
+    next_corner: 582280 -1808580 0
+    next_corner: 944790 -1648440 0
+    next_corner: 1266200 -1416590 0
+    next_corner: 1532520 -1123110 0
+    next_corner: 1732160 -780770 0
+    next_corner: 1856450 -404460 0
+    next_corner: 1899970 -10550 0
+    next_corner: 1860830 383820 0
+    next_corner: 1740380 762290 0
+    next_corner: 1543870 1107450 0
+    next_corner: 1279910 1404220 0
+    next_corner: 960010 1639630 0
+    next_corner: 598160 1803390 0
+    next_corner: 210170 1888340 0
+    next_corner: -187000 1890770 0
+    next_corner: -575580 1810720 0
+    next_corner: -939060 1651710 0
+    next_corner: -1261600 1420690 0
+    next_corner: -1529130 1127720 0
+    next_corner: -1729990 785580 0
+    next_corner: -1855420 409180 0
+    next_corner: -1900000 1320 0
+  outline_polyline: 254000 -3400000 3000000 1 0 4
+    next_corner: 3400000 3000000 0
+  outline_polyline: 254000 -3400000 -3000000 1 0 4
+    next_corner: 3400000 -3000000 0
+  n_pins: 4
+    pin: "1" 0 -3400000 2000000 0 ""
+      top_pad: 3 1000000 1300000 1300000 0
+    pin: "2" 0 -3400000 -2000000 0 ""
+      top_pad: 3 1000000 1300000 1300000 0
+    pin: "3" 0 3400000 -2000000 0 ""
+      top_pad: 3 1000000 1300000 1300000 0
+    pin: "4" 0 3400000 2000000 0 ""
+      top_pad: 3 1000000 1300000 1300000 0
+
+name: "EVQQ2"
+package: "EVQQ2"
+author: "DESHKOV"
+description: "Buttons"
+units: NM
+sel_rect: -4700000 -3127000 4700000 3127000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+outline_polyline: 254000 -3400000 2700000 1 0 4
+next_corner: -3400000 3000000 0
+outline_polyline: 254000 -3400000 -3000000 1 0 4
+next_corner: -3400000 -2700000 0
+outline_polyline: 254000 -3400000 -1300000 1 0 4
+next_corner: -3400000 1300000 0
+outline_polyline: 254000 3400000 -3000000 1 0 4
+next_corner: 3400000 -2700000 0
+outline_polyline: 254000 3400000 -1300000 1 0 4
+next_corner: 3400000 1300000 0
+outline_polyline: 254000 3400000 2700000 1 0 4
+next_corner: 3400000 3000000 0
+outline_polyline: 254000 -1500000 350 1 0 4
+next_corner: -1467370 -311170 0
+next_corner: -1370760 -609110 0
+next_corner: -1214380 -880500 0
+next_corner: -1005050 -1113490 0
+next_corner: -751900 -1297940 0
+next_corner: -465970 -1425790 0
+next_corner: -159710 -1491470 0
+next_corner: 153500 -1492120 0
+next_corner: 459690 -1427820 0
+next_corner: 745890 -1301400 0
+next_corner: 999630 -1118360 0
+next_corner: 1209880 -886670 0
+next_corner: 1367500 -616400 0
+next_corner: 1465620 -319310 0
+next_corner: 1499980 -8330 0
+next_corner: 1469070 303010 0
+next_corner: 1373980 601810 0
+next_corner: 1218850 874300 0
+next_corner: 1010450 1108600 0
+next_corner: 757900 1294440 0
+next_corner: 472230 1423730 0
+next_corner: 165930 1490790 0
+next_corner: -147630 1492720 0
+next_corner: -454400 1429520 0
+next_corner: -741370 1303980 0
+next_corner: -996000 1121600 0
+next_corner: -1207210 890300 0
+next_corner: -1365780 620190 0
+next_corner: -1464800 323040 0
+next_corner: -1500000 1040 0
+outline_polyline: 254000 -1900000 440 1 0 4
+next_corner: -1858670 -394140 0
+next_corner: -1736300 -771540 0
+next_corner: -1538220 -1115300 0
+next_corner: -1273070 -1410420 0
+next_corner: -952410 -1644050 0
+next_corner: -590220 -1806000 0
+next_corner: -202300 -1889200 0
+next_corner: 194440 -1890020 0
+next_corner: 582280 -1808580 0
+next_corner: 944790 -1648440 0
+next_corner: 1266200 -1416590 0
+next_corner: 1532520 -1123110 0
+next_corner: 1732160 -780770 0
+next_corner: 1856450 -404460 0
+next_corner: 1899970 -10550 0
+next_corner: 1860830 383820 0
+next_corner: 1740380 762290 0
+next_corner: 1543870 1107450 0
+next_corner: 1279910 1404220 0
+next_corner: 960010 1639630 0
+next_corner: 598160 1803390 0
+next_corner: 210170 1888340 0
+next_corner: -187000 1890770 0
+next_corner: -575580 1810720 0
+next_corner: -939060 1651710 0
+next_corner: -1261600 1420690 0
+next_corner: -1529130 1127720 0
+next_corner: -1729990 785580 0
+next_corner: -1855420 409180 0
+next_corner: -1900000 1320 0
+outline_polyline: 254000 -3400000 3000000 1 0 4
+next_corner: 3400000 3000000 0
+outline_polyline: 254000 -3400000 -3000000 1 0 4
+next_corner: 3400000 -3000000 0
+n_pins: 4
+pin: "1" 0 -3400000 2000000 0 ""
+top_pad: 3 1000000 1300000 1300000 0
+pin: "2" 0 -3400000 -2000000 0 ""
+top_pad: 3 1000000 1300000 1300000 0
+pin: "3" 0 3400000 -2000000 0 ""
+top_pad: 3 1000000 1300000 1300000 0
+pin: "4" 0 3400000 2000000 0 ""
+top_pad: 3 1000000 1300000 1300000 0
+
+name: "SWT20"
+package: "SWT20"
+author: "Duxer"
+description: "Buttons"
+units: NM
+sel_rect: -4545250 -3592750 4545250 3592750
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+outline_polyline: 10000 -4286250 -3333750 1 0 4
+next_corner: -4286250 3333750 0
+outline_polyline: 10000 4286250 -3333750 1 0 4
+next_corner: 4286250 3333750 0
+outline_polyline: 10000 -4286250 -3333750 1 0 4
+next_corner: 4286250 -3333750 0
+outline_polyline: 10000 -4286250 3333750 1 0 4
+next_corner: 4286250 3333750 0
+outline_polyline: 10000 -2000000 460 1 0 4
+next_corner: -1956490 -414890 0
+next_corner: -1827680 -812150 0
+next_corner: -1619170 -1174000 0
+next_corner: -1340070 -1484660 0
+next_corner: -1002540 -1730580 0
+next_corner: -621290 -1901050 0
+next_corner: -212950 -1988630 0
+next_corner: 204670 -1989500 0
+next_corner: 612930 -1903760 0
+next_corner: 994520 -1735200 0
+next_corner: 1332840 -1491150 0
+next_corner: 1613180 -1182220 0
+next_corner: 1823330 -821860 0
+next_corner: 1954160 -425750 0
+next_corner: 1999970 -11110 0
+next_corner: 1958770 404020 0
+next_corner: 1831980 802410 0
+next_corner: 1625130 1165740 0
+next_corner: 1347270 1478130 0
+next_corner: 1010530 1725920 0
+next_corner: 629640 1898300 0
+next_corner: 221230 1987730 0
+next_corner: -196840 1990290 0
+next_corner: -605870 1906020 0
+next_corner: -988490 1738640 0
+next_corner: -1328000 1495460 0
+next_corner: -1609610 1187070 0
+next_corner: -1821040 826920 0
+next_corner: -1953070 430720 0
+next_corner: -2000000 1390 0
+n_pins: 4
+pin: "2" 1000000 -3175000 -2222500 0 ""
+top_pad: 1 2000000 1000000 1000000 500000
+inner_pad: 1 2000000 1000000 1000000 500000 0
+bottom_pad: 1 3000000 1000000 1000000 500000
+pin: "1" 1000000 -3175000 2222500 0 ""
+top_pad: 1 2000000 1000000 1000000 500000
+inner_pad: 1 2000000 1000000 1000000 500000 0
+bottom_pad: 1 3000000 1000000 1000000 500000
+pin: "4" 1000000 3175000 -2222500 0 ""
+top_pad: 1 2000000 1000000 1000000 500000
+inner_pad: 1 2000000 1000000 1000000 500000 0
+bottom_pad: 1 3000000 1000000 1000000 500000
+pin: "3" 1000000 3175000 2222500 0 ""
+top_pad: 1 2000000 1000000 1000000 500000
+inner_pad: 1 2000000 1000000 1000000 500000 0
+bottom_pad: 1 3000000 1000000 1000000 500000
+
+name: "TSS-TD-26EA"
+package: "TSS-TD-26EA"
+author: "Duxah"
+description: "Buttons"
+units: NM
+sel_rect: -7100000 -3455000 1000000 905000
+ref_text: 300000 -3050000 -350000 0 50000
+value_text: 300000 -3050000 -850000 0 50000
+centroid: 0 -3050000 -850000 0
+outline_polyline: 100000 -5400000 -2600000 1 0 4
+next_corner: -3300000 -2600000 0
+outline_polyline: 100000 -4350000 -2600000 1 0 4
+next_corner: -4350000 -3450000 0
+outline_polyline: 100000 -5400000 900000 1 0 4
+next_corner: -3300000 900000 0
+outline_polyline: 100000 -2800000 -2600000 1 0 4
+next_corner: -700000 -2600000 0
+outline_polyline: 100000 -1750000 -3450000 1 0 4
+next_corner: -1750000 -2600000 0
+outline_polyline: 100000 -2800000 900000 1 0 4
+next_corner: -700000 900000 0
+outline_polyline: 100000 -5400000 -2600000 1 0 4
+next_corner: -5400000 900000 0
+outline_polyline: 100000 -700000 -2600000 1 0 4
+next_corner: -700000 900000 0
+outline_polyline: 100000 -4350000 -3450000 1 0 4
+next_corner: -1750000 -3450000 0
+n_pins: 6
+pin: "2" 0 -6350000 -1700000 0 ""
+top_pad: 5 1000000 750000 750000 500000
+pin: "1" 0 -6350000 0 0 ""
+top_pad: 5 1000000 750000 750000 500000
+pin: "2" 600000 250000 -1700000 0 ""
+top_pad: 5 1000000 750000 750000 500000
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 5 1000000 750000 750000 500000
+pin: "1" 0 250000 0 0 ""
+top_pad: 5 1000000 750000 750000 500000
+pin: "Hole" 800000 -3050000 500000 0 ""
+top_pad: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 0 0 0 0
+pin: "Hole" 800000 -3050000 -2200000 0 ""
+top_pad: 0 0 0 0 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 0 0 0 0
+

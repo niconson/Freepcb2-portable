@@ -1,0 +1,22 @@
+name: "CK14-B"
+package: ""
+author: "Ivex"
+source: "PRINTED CIRCUIT DESIGN METHODS PAGE 411"
+units: MIL
+sel_rect: -55 -98 855 98
+ref_text: 50 400 148 0 7
+outline_polyline: 7 150 90
+next_corner: 650 90 0
+next_corner: 650 -90 0
+next_corner: 150 -90 0
+close_polyline: 0
+n_pins: 2
+pin: 1 45 0 0 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+pin: 2 45 800 0 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+

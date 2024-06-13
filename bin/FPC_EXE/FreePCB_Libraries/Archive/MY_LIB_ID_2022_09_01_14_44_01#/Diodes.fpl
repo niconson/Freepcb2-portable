@@ -1,0 +1,135 @@
+name: "ABM3"
+package: "ABM3"
+author: "DESHKOV"
+description: "Diodes"
+units: NM
+sel_rect: -3454000 -1904000 3454000 1904000
+ref_text: 300000 -2600000 -100000 0 50000
+value_text: 300000 1500000 -100000 0 50000
+centroid: 0 0 0 0
+outline_polyline: 100000 -2200000 -1600000 1 0 4
+next_corner: -2500000 -1300000 0
+outline_polyline: 100000 -2500000 -1250000 1 0 4
+next_corner: -2500000 -1300000 0
+outline_polyline: 100000 -2500000 1300000 1 0 4
+next_corner: -2200000 1600000 0
+outline_polyline: 100000 -2500000 1300000 1 0 4
+next_corner: -2500000 1250000 0
+outline_polyline: 100000 2200000 -1600000 1 0 4
+next_corner: 2500000 -1300000 0
+outline_polyline: 100000 2500000 -1250000 1 0 4
+next_corner: 2500000 -1300000 0
+outline_polyline: 100000 2500000 1300000 1 0 4
+next_corner: 2200000 1600000 0
+outline_polyline: 100000 2500000 1300000 1 0 4
+next_corner: 2500000 1250000 0
+outline_polyline: 100000 -2200000 -1600000 1 0 4
+next_corner: 2200000 -1600000 0
+outline_polyline: 100000 -2200000 1600000 1 0 4
+next_corner: 2200000 1600000 0
+n_pins: 2
+pin: "1" 0 -2150000 0 0 ""
+top_pad: 3 2400000 1050000 1050000 525000
+pin: "2" 0 2150000 0 0 ""
+top_pad: 3 2400000 1050000 1050000 525000
+
+name: "MBRS140"
+package: "MBRS140"
+author: "Duxah"
+description: "Diodes"
+units: NM
+sel_rect: -4009000 -2509000 4009000 2459000
+ref_text: 700000 -1250000 2700000 0 100000
+value_text: 500000 -2200000 1500000 0 100000
+centroid: 0 0 0 0
+text: "K" 1000000 500000 -1950000 0 200000 0 4
+outline_polyline: 100000 -3550000 1550000 1 0 4
+next_corner: -3750000 1350000 2
+next_corner: -3750000 -1300000 0
+next_corner: -3500000 -1550000 2
+next_corner: -2700000 -1550000 0
+next_corner: -2550000 -1700000 0
+next_corner: -2550000 -2100000 0
+next_corner: -2400000 -2250000 0
+next_corner: 2400000 -2250000 0
+next_corner: 2550000 -2100000 0
+next_corner: 2550000 -1700000 0
+next_corner: 2700000 -1550000 0
+next_corner: 3500000 -1550000 0
+next_corner: 3750000 -1300000 2
+next_corner: 3750000 1350000 0
+next_corner: 3550000 1550000 2
+next_corner: 2700000 1550000 0
+next_corner: 2550000 1700000 0
+next_corner: 2550000 2050000 0
+next_corner: 2400000 2200000 0
+next_corner: -2400000 2200000 0
+next_corner: -2550000 2050000 0
+next_corner: -2550000 1700000 0
+next_corner: -2700000 1550000 0
+close_polyline: 0
+outline_polyline: 100000 -1250000 0 1 0 4
+next_corner: 1200000 0 0
+outline_polyline: 100000 -800000 600000 1 0 4
+next_corner: -800000 -600000 0
+next_corner: 500000 0 0
+close_polyline: 0
+outline_polyline: 100000 550000 600000 1 0 4
+next_corner: 550000 -600000 0
+outline_polyline: 100000 -700000 450000 1 0 4
+next_corner: -700000 -450000 0
+outline_polyline: 100000 -500000 350000 1 0 4
+next_corner: -500000 -350000 0
+outline_polyline: 100000 -300000 250000 1 0 4
+next_corner: -300000 -250000 0
+outline_polyline: 100000 -100000 150000 1 0 4
+next_corner: -100000 -150000 0
+outline_polyline: 100000 100000 100000 1 0 4
+next_corner: 100000 -100000 0
+outline_polyline: 100000 200000 -50000 1 0 4
+next_corner: 200000 50000 0
+n_pins: 2
+pin: "1" 0 -2500000 0 90 ""
+top_pad: 4 2000000 1250000 1250000 0
+pin: "2" 0 2500000 0 90 ""
+top_pad: 4 2000000 1250000 1250000 0
+
+name: "S1A"
+package: "S1A"
+author: "Duxah"
+description: "Diodes"
+units: NM
+sel_rect: -3249930 -1853000 3059000 2603500
+ref_text: 300000 -600000 2100000 0 50000
+value_text: 300000 -1000000 900000 0 50000
+centroid: 0 0 0 0
+text: "K" 1000000 -3200000 1600000 0 100000 0 4
+outline_polyline: 150000 -2286000 -1778000 1 0 4
+next_corner: -2286000 -1397000 0
+outline_polyline: 150000 -2286000 1778000 1 0 4
+next_corner: -2286000 1397000 0
+outline_polyline: 150000 2286000 -1778000 1 0 4
+next_corner: 2286000 -1397000 0
+outline_polyline: 150000 2286000 1397000 1 0 4
+next_corner: 2286000 1778000 0
+outline_polyline: 150000 -2286000 -1778000 1 0 4
+next_corner: 2286000 -1778000 0
+outline_polyline: 150000 2286000 1778000 1 0 4
+next_corner: -2286000 1778000 0
+outline_polyline: 150000 -1000000 0 1 0 4
+next_corner: -600000 0 0
+next_corner: -600000 600000 0
+next_corner: -600000 -600000 0
+next_corner: -600000 0 0
+next_corner: 600000 600000 0
+next_corner: 600000 -600000 0
+next_corner: -600000 0 0
+next_corner: 600000 -600000 0
+next_corner: 600000 0 0
+next_corner: 1000000 0 0
+n_pins: 2
+pin: "2" 0 -2159000 0 0 ""
+top_pad: 3 2500000 900000 900000 0
+pin: "1" 0 2159000 0 0 ""
+top_pad: 3 2500000 900000 900000 0
+

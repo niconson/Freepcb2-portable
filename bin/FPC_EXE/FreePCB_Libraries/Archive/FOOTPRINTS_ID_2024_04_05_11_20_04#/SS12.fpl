@@ -1,0 +1,52 @@
+name: "SS12"
+author: "Ivex"
+package: "SMTDIODE"
+units: MIL
+sel_rect: -58 -60 266 60
+ref_text: 50 131 99 0 7
+value_text: 50 131 -1 0 7
+centroid: 0 104 0 0
+outline_polyline: 5.905512 -57 59 1 0 4
+next_corner: 265 59 0
+outline_polyline: 5.905512 265 59 1 0 4
+next_corner: 265 -59 0
+openscad_data: "// Global lift 0.0 mm //|// Global rotation 0.0 //|"
+outline_polyline: 5.905512 265 -59 1 0 4
+next_corner: -57 -59 0
+openscad_data: "// Global lift 0.0 mm //|// Global rotation 0.0 //|"
+outline_polyline: 5.905512 -57 -59 1 0 4
+next_corner: -57 59 0
+openscad_data: "// Global lift 0.0 mm //|// Global rotation 0.0 //|"
+outline_polyline: 5.905512 50 50 1 0 4
+next_corner: 50 -50 0
+openscad_data: "// Global lift 0.0 mm //|// Global rotation 0.0 //|"
+outline_polyline: 5.905512 -50 50 1 0 4
+next_corner: -50 -50 0
+openscad_data: "// Global lift 0.0 mm //|// Global rotation 0.0 //|"
+outline_polyline: 5.905512 60 50 1 0 4
+next_corner: 60 -50 0
+openscad_data: "// Global lift 0.0 mm //|// Global rotation 0.0 //|"
+outline_polyline: 5.905512 60 50 1 0 4
+next_corner: 60 55 0
+openscad_data: "// Global lift 0.0 mm //|// Global rotation 0.0 //|"
+outline_polyline: 5.905512 50 50 1 0 4
+next_corner: 50 55 0
+openscad_data: "// Global lift 0.0 mm //|// Global rotation 0.0 //|"
+outline_polyline: 5.905512 50 -50 1 0 4
+next_corner: 50 -55 0
+openscad_data: "// Global lift 0.0 mm //|// Global rotation 0.0 //|"
+outline_polyline: 5.905512 60 -50 1 0 4
+next_corner: 60 -55 0
+openscad_data: "// Global lift 0.0 mm //|// Global rotation 0.0 //|"
+outline_polyline: 5.905512 -50 50 1 0 4
+next_corner: -50 55 0
+openscad_data: "// Global lift 0.0 mm //|// Global rotation 0.0 //|"
+outline_polyline: 5.905512 -50 -50 1 0 4
+next_corner: -50 -55 0
+openscad_data: "// Global lift 0.0 mm //|// Global rotation 0.0 //|"
+n_pins: 2
+pin: "1" 0 0 0 0 ""
+top_pad: 4 95 39 39 12
+pin: "2" 0 208 0 0 ""
+top_pad: 4 95 39 39 12
+

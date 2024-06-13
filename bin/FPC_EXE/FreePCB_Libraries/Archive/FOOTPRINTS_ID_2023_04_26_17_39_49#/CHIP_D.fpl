@@ -1,0 +1,18 @@
+name: "CHIP_D"
+package: ""
+author: "Ivex, Allan Wright"
+description: "Capacitor, Case size D, EIA code 7343-31"
+units: MIL
+sel_rect: -67 -72 343 72
+ref_text: 50 138 104 0 7
+outline_polyline: 7 -57 64
+next_corner: 333 64 0
+next_corner: 333 -64 0
+next_corner: -57 -64 0
+close_polyline: 0
+n_pins: 2
+pin: 1 0 0 0 0
+top_pad: 3 119 39 39
+pin: 2 0 276 0 0
+top_pad: 3 119 39 39
+

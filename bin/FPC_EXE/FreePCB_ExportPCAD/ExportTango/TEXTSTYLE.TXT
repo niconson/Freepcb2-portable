@@ -1,0 +1,78 @@
+  (textStyleDef "T1.0000x0.1000"
+    (font 
+      (fontType Stroke)
+      (fontFamily SanSerif)
+      (fontFace "Quality")
+      (fontHeight 1.4000)
+      (strokeWidth 0.1000)
+    )
+    (textStyleAllowTType False)
+    (textStyleDisplayTType False)
+  )
+  (textStyleDef "T0.9000x0.1000"
+    (font 
+      (fontType Stroke)
+      (fontFamily SanSerif)
+      (fontFace "Quality")
+      (fontHeight 1.2600)
+      (strokeWidth 0.1000)
+    )
+    (textStyleAllowTType False)
+    (textStyleDisplayTType False)
+  )
+  (textStyleDef "T1.2700x0.1778"
+    (font 
+      (fontType Stroke)
+      (fontFamily SanSerif)
+      (fontFace "Quality")
+      (fontHeight 1.7780)
+      (strokeWidth 0.1778)
+    )
+    (textStyleAllowTType False)
+    (textStyleDisplayTType False)
+  )
+  (textStyleDef "T0.6000x0.1000"
+    (font 
+      (fontType Stroke)
+      (fontFamily SanSerif)
+      (fontFace "Quality")
+      (fontHeight 0.8400)
+      (strokeWidth 0.1000)
+    )
+    (textStyleAllowTType False)
+    (textStyleDisplayTType False)
+  )
+  (textStyleDef "T0.6000x0.0500"
+    (font 
+      (fontType Stroke)
+      (fontFamily SanSerif)
+      (fontFace "Quality")
+      (fontHeight 0.8400)
+      (strokeWidth 0.0500)
+    )
+    (textStyleAllowTType False)
+    (textStyleDisplayTType False)
+  )
+  (textStyleDef "T0.0000x0.0000"
+    (font 
+      (fontType Stroke)
+      (fontFamily SanSerif)
+      (fontFace "Quality")
+      (fontHeight 0.0000)
+      (strokeWidth 0.0000)
+    )
+    (textStyleAllowTType False)
+    (textStyleDisplayTType False)
+  )
+  (textStyleDef "T0.3000x0.0500"
+    (font 
+      (fontType Stroke)
+      (fontFamily SanSerif)
+      (fontFace "Quality")
+      (fontHeight 0.4200)
+      (strokeWidth 0.0500)
+    )
+    (textStyleAllowTType False)
+    (textStyleDisplayTType False)
+  )
+END

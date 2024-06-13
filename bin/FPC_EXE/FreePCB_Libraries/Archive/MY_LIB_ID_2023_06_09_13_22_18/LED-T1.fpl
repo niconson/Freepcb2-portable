@@ -1,0 +1,25 @@
+name: "LED-T1"
+package: ""
+author: "Ivex"
+source: "DIGIKEY CATALOG NO.941, PG. 120"
+units: MIL
+sel_rect: -67 -139 119 47
+ref_text: 50 35 105 0 7
+outline_polyline: 7 111 -46
+next_corner: 26 39 2
+outline_polyline: 7 26 -131
+next_corner: 111 -46 2
+outline_polyline: 7 26 39
+next_corner: -59 -46 2
+outline_polyline: 7 -59 -46
+next_corner: 26 -131 0
+n_pins: 2
+pin: 1 26 71 0 0
+top_pad: 1 50 25 25
+bottom_pad: 1 50 25 25
+inner_pad: 1 50 25 25
+pin: 2 26 0 -71 0
+top_pad: 1 50 25 25
+bottom_pad: 1 50 25 25
+inner_pad: 1 50 25 25
+

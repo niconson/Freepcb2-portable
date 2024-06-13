@@ -1,0 +1,122 @@
+name: "CDRH3D16NP"
+package: "CDRH3D16NP"
+author: "Duxah"
+description: "Inductors"
+units: NM
+sel_rect: -2859000 -2844000 2859000 2844000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+outline_polyline: 100000 0 -2540000 1 0 4
+next_corner: 1587490 -952510 0
+outline_polyline: 100000 0 -2540000 1 0 4
+next_corner: -1587500 -952490 0
+outline_polyline: 100000 1587500 952490 1 0 4
+next_corner: 0 2540000 0
+outline_polyline: 100000 -1587490 952510 1 0 4
+next_corner: 0 2540000 0
+n_pins: 2
+pin: "1" 0 -1905000 0 0 ""
+top_pad: 3 1500000 700000 700000 350000
+pin: "2" 0 1905000 0 0 ""
+top_pad: 3 1500000 700000 700000 350000
+
+name: "CDRH4D28C"
+package: "CDRH4D28C/LD"
+author: "Duxah"
+description: "Inductors"
+units: NM
+sel_rect: -2900000 -3150000 2900000 3100000
+ref_text: 900000 3800000 -2450000 0 100000
+value_text: 500000 3800000 -1200000 0 100000
+centroid: 0 0 0 0
+outline_polyline: 120000 350000 -2600000 1 0 4
+next_corner: -2100000 -2600000 0
+next_corner: -2100000 -1650000 0
+outline_polyline: 120000 -350000 2600000 1 0 4
+next_corner: 2150000 2600000 0
+next_corner: 2150000 1650000 0
+n_pins: 4
+pin: "1" 0 -1900000 150000 90 ""
+top_pad: 3 2000000 1650000 1650000 0 3
+pin: "2" 0 1900000 -250000 90 ""
+top_pad: 3 2000000 1650000 1650000 0 3
+pin: "1" 0 -1650000 1850000 90 ""
+top_pad: 1 2500000 1250000 1250000 0 3
+pin: "2" 0 1650000 -1900000 90 ""
+top_pad: 1 2500000 1250000 1250000 0 3
+
+name: "CDRH5D28NP"
+package: "CDRH5D28NP"
+author: "i"
+description: "Inductors"
+units: NM
+sel_rect: -3138800 -3000000 3138750 3000000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+outline_polyline: 150000 -793750 -2857500 1 0 4
+next_corner: 793750 -2857500 0
+outline_polyline: 150000 -793750 2857500 1 0 4
+next_corner: 793750 2857500 0
+n_pins: 6
+pin: "1" 0 -2063800 0 0 ""
+top_pad: 3 6000000 1075000 1075000 0
+top_paste: 0 0 0 0 0
+pin: "2" 0 2063750 0 0 ""
+top_pad: 3 6000000 1075000 1075000 0
+top_paste: 0 0 0 0 0
+pin: "3" 0 -2050000 1650000 0 ""
+top_mask: 0 0 0 0 0
+top_paste: 2 2000000 1000000 1000000 0
+pin: "4" 0 -2050000 -1650000 0 ""
+top_mask: 0 0 0 0 0
+top_paste: 2 2000000 1000000 1000000 0
+pin: "5" 0 2050000 1650000 0 ""
+top_mask: 0 0 0 0 0
+top_paste: 2 2000000 1000000 1000000 0
+pin: "6" 0 2050000 -1650000 0 ""
+top_mask: 0 0 0 0 0
+top_paste: 2 2000000 1000000 1000000 0
+
+name: "SR0603"
+package: "SR0603"
+author: "DESHKOV"
+description: "Inductors"
+units: NM
+sel_rect: -3000000 -2900010 3000000 2900000
+ref_text: 1050000 -1676400 3378200 0 150000
+value_text: 1050000 -2844800 -381000 0 150000
+centroid: 0 0 0 0
+outline_polyline: 20000 -715250 -2707110 1 0 4
+next_corner: -477240 -2759030 0
+next_corner: -234980 -2790130 0
+next_corner: 9070 -2799990 0
+next_corner: 253050 -2788550 0
+next_corner: 495110 -2755880 0
+next_corner: 733400 -2702250 0
+next_corner: 743560 -2699470 0
+outline_polyline: 20000 715250 2707110 1 0 4
+next_corner: 476610 2759140 0
+next_corner: 234330 2790180 0
+next_corner: -9720 2799990 0
+next_corner: -253700 2788490 0
+next_corner: -495750 2755770 0
+next_corner: -734030 2702080 0
+next_corner: -743560 2699470 0
+n_pins: 6
+pin: "1" 0 -1925000 0 90 ""
+top_pad: 3 2150000 2900000 2900000 0 3
+top_paste: 0 0 0 0 0
+pin: "2" 0 1925000 -10 90 ""
+top_pad: 3 2150000 2900000 2900000 0 3
+top_paste: 0 0 0 0 0
+pin: "3" 0 1900000 1500000 90 ""
+top_paste: 3 2000000 1200000 1200000 0
+pin: "4" 0 1900000 -1500000 90 ""
+top_paste: 3 2000000 1200000 1200000 0
+pin: "5" 0 -1900000 1500000 90 ""
+top_paste: 3 2000000 1200000 1200000 0
+pin: "6" 0 -1900000 -1500000 90 ""
+top_paste: 3 2000000 1200000 1200000 0
+

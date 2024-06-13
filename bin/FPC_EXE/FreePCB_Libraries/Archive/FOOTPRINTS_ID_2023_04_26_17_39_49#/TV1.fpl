@@ -1,0 +1,36 @@
+name: "TV1"
+author: "Ivex"
+package: "TV1"
+  units: NM
+  sel_rect: -33250000 8500000 33250000 25500000
+  ref_text: 1270000 -5250000 -15700000 0 177800
+  value_text: 1270000 -5250000 -18240000 0 177800
+  centroid: 0 0 0 0
+  outline_polyline: 177800 -30500000 11500000 1 1 7
+    next_corner: -11721560 17415080 1
+    next_corner: -5678292 14959106 1
+    next_corner: -6660695 13941823 1
+    next_corner: -7677994 14924206 1
+    next_corner: -5222014 17467423 1
+    next_corner: -2678838 15011481 1
+    next_corner: -3661190 13994217 1
+    next_corner: -4678438 14976561 1
+    next_corner: -2222520 17519775 1
+    next_corner: 320705 15063811 1
+    next_corner: -661685 14046548 1
+    next_corner: -1678997 15028910 1
+    next_corner: 777022 17572142 1
+    next_corner: 3320264 15116170 1
+    next_corner: 2337869 14098893 1
+    next_corner: 1320565 15081261 1
+    next_corner: 3776556 17624505 1
+    next_corner: 6319822 15168534 1
+    next_corner: 5337419 14151221 1
+    next_corner: 4320106 15133621 1
+    next_corner: 30500000 22500000 1
+  n_pins: 2
+    pin: "1" 0 -30250000 11500000 0 ""
+      top_pad: 2 6000000 3000000 3000000 0
+    pin: "2" 0 30250000 22500000 0 ""
+      top_pad: 2 6000000 3000000 3000000 0
+

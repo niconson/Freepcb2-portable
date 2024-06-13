@@ -1,0 +1,148 @@
+name: "A_TYPE"
+package: "A_TYPE"
+author: "DESHKOV"
+description: "Capasitors"
+units: NM
+sel_rect: -2891790 -700000 2078750 1512570
+ref_text: 700000 -2200000 1275000 0 100000
+value_text: 700000 460000 -840000 270 100000
+centroid: 0 0 0 0
+text: "+" 1000000 -2792000 595000 0 200000 0 4
+n_pins: 2
+pin: "1" 0 -1428800 0 90 ""
+top_pad: 3 1300000 700000 700000 0
+pin: "2" 0 1428750 0 90 ""
+top_pad: 3 1300000 700000 700000 0
+
+name: "C_TYPE"
+package: "C_TYPE"
+author: "DESHKOV"
+description: "Capasitors"
+units: NM
+sel_rect: -3754000 -2016700 3754000 2016700
+ref_text: 700000 -2575000 2075000 0 100000
+value_text: 700000 -3025000 -300000 0 100000
+centroid: 0 0 0 0
+outline_polyline: 20000 -3200000 1400000 1 0 4
+next_corner: -2850000 1750000 1
+next_corner: 2700000 1750000 0
+next_corner: 3050000 1400000 1
+outline_polyline: 20000 -3200000 -1400000 1 0 4
+next_corner: -2850000 -1750000 2
+next_corner: 2700000 -1750000 0
+next_corner: 3050000 -1400000 2
+outline_polyline: 25400 -1850000 1400000 1 0 4
+next_corner: -1500000 1750000 1
+outline_polyline: 25400 -1840000 -1400000 1 0 4
+next_corner: -1490000 -1750000 2
+outline_polyline: 25400 -3200000 1400000 1 0 4
+next_corner: -1850000 1400000 0
+outline_polyline: 25400 -3160000 1520000 1 0 4
+next_corner: -1840000 1520000 0
+outline_polyline: 25400 -3080000 1640000 1 0 4
+next_corner: -1760000 1640000 0
+outline_polyline: 25400 -3200000 -1400000 1 0 4
+next_corner: -1840000 -1400000 0
+outline_polyline: 25400 -3160000 -1520000 1 0 4
+next_corner: -1840000 -1520000 0
+outline_polyline: 25400 -3080000 -1640000 1 0 4
+next_corner: -1760000 -1640000 0
+n_pins: 2
+pin: "1" 0 -2350000 0 90 ""
+top_pad: 3 2300000 1200000 1200000 0
+pin: "2" 0 2350000 0 90 ""
+top_pad: 3 2300000 1200000 1200000 0
+
+name: "CC0805"
+package: "CC0805"
+author: "i"
+description: "Capasitors"
+units: NM
+sel_rect: -1912700 -1112700 1912700 1112700
+ref_text: 600000 -1300000 50000 0 100000
+value_text: 500000 -1300000 -650000 0 50000
+centroid: 0 0 0 0
+outline_polyline: 150000 1650000 900000 1 0 4
+next_corner: -1650000 900000 0
+next_corner: -1650000 -900000 0
+next_corner: 1650000 -900000 0
+next_corner: 1650000 900000 0
+outline_polyline: 25400 -1900000 1100000 0 1 4
+next_corner: -1900000 -1100000 0
+next_corner: 1900000 -1100000 0
+next_corner: 1900000 1100000 0
+next_corner: -1900000 1100000 0
+n_pins: 2
+pin: "1" 0 -920000 0 0 ""
+top_pad: 4 1300000 500000 500000 0
+pin: "2" 0 920000 0 0 ""
+top_pad: 4 1300000 500000 500000 0
+
+name: "D_TYPE"
+package: "D_TYPE"
+author: "Duxah"
+description: "Capasitors"
+units: NM
+sel_rect: -6334760 -2275000 4875000 2275000
+ref_text: 600000 -4040000 2540000 0 100000
+value_text: 600000 -4025000 -275000 0 100000
+centroid: 0 0 0 0
+text: "+" 1000000 -6260000 1340000 0 150000 0 4
+outline_polyline: 150000 -4500000 2200000 1 0 4
+next_corner: -5225000 1975000 0
+next_corner: -4700000 1750000 0
+next_corner: -5265000 1485000 0
+next_corner: -4700000 1220000 0
+next_corner: -5250000 970000 0
+next_corner: -4700000 720000 0
+next_corner: -5220000 500000 0
+next_corner: -4700000 280000 0
+next_corner: -5240000 40000 0
+next_corner: -4700000 -200000 0
+next_corner: -5260000 -460000 0
+next_corner: -4700000 -720000 0
+next_corner: -5250000 -970000 0
+next_corner: -4700000 -1220000 0
+next_corner: -5265000 -1485000 0
+next_corner: -4700000 -1750000 0
+next_corner: -5225000 -1975000 0
+next_corner: -4500000 -2200000 0
+next_corner: 4350000 -2200000 0
+next_corner: 4800000 -1750000 2
+next_corner: 4800000 1750000 0
+next_corner: 4350000 2200000 2
+close_polyline: 0
+n_pins: 2
+pin: "1" 0 -2800000 0 0 ""
+top_pad: 4 3500000 1600000 1600000 0
+top_paste: 1 3000000 1500000 1500000 0
+pin: "2" 0 2800000 0 0 ""
+top_pad: 4 3500000 1600000 1600000 0
+top_paste: 1 3000000 1500000 1500000 0
+
+name: "WIMA01"
+package: "WIMA01"
+author: "i"
+description: "Capasitors"
+units: MIL
+sel_rect: -148.031496 -69.291339 148.031496 69.291339
+ref_text: 33 -43.307087 82.677165 0 5
+value_text: 100 165.354331 -82.677165 0 10
+centroid: 0 0 0 0
+outline_polyline: 4.724409 -129.92126 66.929134 0 0 4
+next_corner: -145.669291 51.181102 2
+next_corner: -145.669291 -51.181102 0
+next_corner: -129.92126 -66.929134 2
+next_corner: 129.92126 -66.929134 0
+next_corner: 145.669291 -51.181102 2
+next_corner: 145.669291 51.181102 0
+next_corner: 129.92126 66.929134 2
+close_polyline: 0
+n_pins: 2
+pin: "1" 0 -98 0 0 ""
+top_pad: 4 118 39.5 39.5 8
+top_paste: 0 0 0 0 0
+pin: "2" 0 98 0 0 ""
+top_pad: 4 118 39.5 39.5 8
+top_paste: 0 0 0 0 0
+

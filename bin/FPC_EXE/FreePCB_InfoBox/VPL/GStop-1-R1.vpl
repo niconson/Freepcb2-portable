@@ -1,0 +1,15 @@
+100R		0805		GStop-1-R1.vpl
+1k		0805		GStop-1-R1.vpl
+IRFR5505PBF	TO-252AA-3	GStop-1-R1.vpl
+LIS302DL	LIS202		GStop-1-R1.vpl
+10k		0805		GStop-1-R1.vpl
+FYL-3014HD	LED-T1		GStop-1-R1.vpl
+BC817-16,215	SOT-23		GStop-1-R1.vpl
+TLV70433DBVR	SOT-23-5	GStop-1-R1.vpl
+---		CK05		GStop-1-R1.vpl
+0.1uF		0603		GStop-1-R1.vpl
+1N4148W		SOD-123		GStop-1-R1.vpl
+2.2uF		0603		GStop-1-R1.vpl
+STM32F030F4P6	QSOP-20		GStop-1-R1.vpl
+PROG		PLS-3		GStop-1-R1.vpl
+---		ID5348146	GStop-1-R1.vpl

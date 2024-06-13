@@ -1,0 +1,154 @@
+/* ___________________
+  |                   |
+  |     FOOTPRINTS    |
+  |___________________|
+*/
+include <C0402.lib>
+include <Pad2x2.lib>
+include <CD54.lib>
+include <MSOP_8T.lib>
+include <SMTDIODE.lib>
+include <CC0805.lib>
+include <Package.lib>
+include <Shield.lib>
+
+
+/* ___________________
+  |                   |
+  |       PARTS       |
+  |___________________|
+*/
+module Pcb_Driver_01 ()
+{
+    if( enable_draw_C0402 != 0 )
+      Draw_C0402();
+    if( enable_draw_Pad2x2 != 0 )
+      Draw_Pad2x2();
+    if( enable_draw_CD54 != 0 )
+      Draw_CD54();
+    if( enable_draw_MSOP_8T != 0 )
+      Draw_MSOP_8T();
+    if( enable_draw_SMTDIODE != 0 )
+      Draw_SMTDIODE();
+    if( enable_draw_CC0805 != 0 )
+      Draw_CC0805();
+    if( enable_draw_Package != 0 )
+      Draw_Package();
+    if( enable_draw_Shield != 0 )
+      Draw_Shield();
+    if( enable_draw_board_outline != 0 )
+      Draw_BO_Driver_01();
+}
+
+
+/* ___________________
+      |                   |
+      |   BOARD OUTLINE   |
+      |___________________|
+    */
+module Draw_BO_Driver_01()
+{
+    color( "green" )
+      translate([ 0.0, 0.0, -board_h/2.0 ])
+        difference()
+        {
+          $fn=20;
+          linear_extrude( board_h, center=true )
+            polygon([[12.000, -5.250], 
+                    [-12.000, -5.250], 
+                    [-12.000, 5.250], 
+                    [12.000, 5.250]]);
+          if( enable_draw_holes != 0 )
+          {
+           if( enable_draw_MSOP_8T != 0 )
+            translate([ -0.584, -2.515, 0.0 ])
+              cube([ 0.362, 0.362, board_h*2.0 ], center=true );
+           else
+            translate([ -0.584, -2.515, 0.0 ])
+              cylinder( d=0.362, h=board_h*2.0, center=true );
+           translate([ -0.084, -3.315, 0.0 ])
+              cylinder( d=0.500, h=board_h*2.0, center=true );
+           translate([ -1.084, -3.315, 0.0 ])
+              cylinder( d=0.500, h=board_h*2.0, center=true );
+          }
+        }
+}
+
+
+/* ___________________
+  |                   |
+  |      MODULES      |
+  |___________________|
+*/
+module Draw_C0402 ()
+{
+    translate([ 6.000, -2.420, 0.0 ])
+      rotate([ 0.0, 0.0, -0.000 ])
+        FC0402();
+    translate([ 4.310, -0.890, 0.0 ])
+      rotate([ 0.0, 0.0, -90.000 ])
+        FC0402();
+    translate([ 4.500, -4.250, 0.0 ])
+      rotate([ 0.0, 0.0, -0.000 ])
+        FC0402();
+    translate([ -7.000, -3.990, 0.0 ])
+      rotate([ 0.0, 0.0, -0.000 ])
+        FC0402();
+    translate([ -7.000, -1.690, 0.0 ])
+      rotate([ 0.0, 0.0, -0.000 ])
+        FC0402();
+    translate([ 6.000, -0.890, 0.0 ])
+      rotate([ 0.0, 0.0, -270.000 ])
+        FC0402();
+}
+module Draw_Pad2x2 ()
+{
+    translate([ -10.000, -1.140, 0.0 ])
+      rotate([ 0.0, 0.0, -0.000 ])
+        FPad2x2();
+    translate([ 10.000, -3.750, 0.0 ])
+      rotate([ 0.0, 0.0, -0.000 ])
+        FPad2x2();
+    translate([ 10.000, -0.250, 0.0 ])
+      rotate([ 0.0, 0.0, -0.000 ])
+        FPad2x2();
+    translate([ -10.000, 3.250, 0.0 ])
+      rotate([ 0.0, 0.0, -180.000 ])
+        FPad2x2();
+}
+module Draw_CD54 ()
+{
+    translate([ -0.100, 2.250, 0.0 ])
+      rotate([ 0.0, 0.0, -180.000 ])
+        FCD54();
+}
+module Draw_MSOP_8T ()
+{
+    translate([ -0.584, -2.515, 0.0 ])
+      rotate([ 0.0, 0.0, -0.000 ])
+        FMSOP_8T();
+}
+module Draw_SMTDIODE ()
+{
+    translate([ 3.500, 2.750, 0.0 ])
+      rotate([ 0.0, 0.0, -0.000 ])
+        FSMTDIODE();
+}
+module Draw_CC0805 ()
+{
+    translate([ -7.000, 0.830, 0.0 ])
+      rotate([ 0.0, 0.0, -270.000 ])
+        FCC0805();
+}
+module Draw_Package ()
+{
+    translate([ 0.000, 0.000, 0.0 ])
+      rotate([ 0.0, 0.0, -180.000 ])
+        FPackage();
+}
+module Draw_Shield ()
+{
+    translate([ 0.000, 12.000, 0.0 ])
+      rotate([ 0.0, 0.0, -180.000 ])
+        FShield();
+}

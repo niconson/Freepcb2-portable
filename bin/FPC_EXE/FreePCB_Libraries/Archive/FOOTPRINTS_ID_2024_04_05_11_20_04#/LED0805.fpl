@@ -1,0 +1,30 @@
+name: "LED0805"
+author: "duxahtech"
+package: "LED0805"
+description: "Resistor,Chip;2.54mm L X 1.27mm W X 0.63mm H"
+units: NM
+sel_rect: -3038900 -1088900 3038900 1088900
+ref_text: 1270000 0 2300000 0 177800
+value_text: 1270000 0 -3570000 0 177800
+centroid: 0 0 0 0
+outline_polyline: 150000 -1950000 1000000 1 0 4
+next_corner: -2950000 0 2
+next_corner: -1950000 -1000000 2
+next_corner: 1950000 -1000000 0
+next_corner: 2950000 0 2
+next_corner: 1950000 1000000 2
+close_polyline: 0
+n_pins: 5
+pin: "1" 0 -1350000 0 0 ""
+top_pad: 3 1550000 575000 575000 0
+pin: "2" 0 1350000 0 0 ""
+top_pad: 3 1550000 575000 575000 0
+pin: "3" 1200000 0 0 0 ""
+top_pad: 0 1550000 575000 575000 0
+inner_pad: 0 0 0 0 0 0
+bottom_pad: 0 1550000 575000 575000 0
+pin: "1" 0 -1920000 0 0 ""
+top_pad: 1 1550000 775000 775000 0
+pin: "2" 0 1920000 0 0 ""
+top_pad: 1 1550000 775000 775000 0
+

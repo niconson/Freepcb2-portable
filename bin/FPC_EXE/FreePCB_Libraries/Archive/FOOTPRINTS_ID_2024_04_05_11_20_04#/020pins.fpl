@@ -1,0 +1,96 @@
+name: "QSOP-20"
+package: "QSOP-20"
+author: "unknown"
+description: "none"
+units: NM
+sel_rect: -12250000 -4375000 3675000 4375000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+outline_polyline: 150000 -3570880 -4300000 1 0 4
+next_corner: 3600000 -4300000 0
+next_corner: 3600000 -1900000 0
+next_corner: 2900000 -1200000 0
+next_corner: 2900000 1200000 0
+next_corner: 3600000 1900000 0
+next_corner: 3600000 4300000 0
+next_corner: -3600000 4300000 0
+next_corner: -3600000 1900000 0
+next_corner: -2883310 1183310 0
+next_corner: -2883310 -1183310 0
+next_corner: -3600000 -1900000 0
+next_corner: -3600000 -4270120 0
+openscad_data: "// // // // // // // // Global lift 0.0 //||||||||// // // // // // // // Global rotation 90.0 //||||||||"
+outline_polyline: 100000 -11200000 -600000 0 1 7
+next_corner: -7100000 -600000 0
+next_corner: -6900000 0 0
+next_corner: -7100000 600000 0
+next_corner: -10800000 600000 0
+next_corner: -10900000 500000 0
+next_corner: -11000000 600000 0
+next_corner: -11200000 600000 0
+next_corner: -11400000 0 0
+close_polyline: 0
+openscad_data: "// Global rotation 90.000 //|// Global lift 0.000 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `Brown` )|{|    rotate([ 90.000,  0.000,  0.000 ])|    {|        linear_extrude( 6.600, scale= 1.000 )|        {|            polygon([ *content* ]);|        }|    }|}|"
+outline_polyline: 100000 -11600000 -700000 0 1 4
+next_corner: -12200000 -700000 0
+next_corner: -12200000 -500000 0
+next_corner: -11800000 -500000 0
+next_corner: -11800000 200000 0
+next_corner: -6500000 200000 0
+next_corner: -6500000 -500000 0
+next_corner: -6100000 -500000 0
+next_corner: -6100000 -700000 0
+next_corner: -6700000 -700000 0
+next_corner: -6700000 0 0
+next_corner: -9100000 0 0
+next_corner: -11600000 0 0
+close_polyline: 0
+openscad_data: "// // Global rotation 90.0 //||// // Global lift 0.0 //||// matrix: 1 10 1 0.000 0.650 0.000 //|// resolution $fn = 20 //|color( `Aqua` )|{|    translate([ 0.000,  -5.950,  0.000 ])|    {|        rotate([ 90.000,  0.000,  0.000 ])|        {|            linear_extrude( 0.400, scale= 1.000 )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+outline_polyline: 150000 -4400000 -2700000 1 1 4
+next_corner: -4400000 -3200000 0
+next_corner: -3900000 -3200000 0
+next_corner: -3900000 -2700000 0
+close_polyline: 0
+n_pins: 20
+pin: "1" 0 -2925000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "2" 0 -2275000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "3" 0 -1625000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "4" 0 -975000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "17" 0 -975000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "18" 0 -1625000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "19" 0 -2275000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "20" 0 -2925000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "6" 0 325000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "7" 0 975000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "8" 0 1625000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "9" 0 2275000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "10" 0 2925000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "15" 0 325000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "14" 0 975000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "13" 0 1625000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "12" 0 2275000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "11" 0 2925000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "5" 0 -325000 -2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+pin: "16" 0 -325000 2860000 180 ""
+top_pad: 3 2000000 200000 200000 0
+

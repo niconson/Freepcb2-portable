@@ -1,0 +1,26 @@
+name: "RAD-394"
+package: ""
+author: "Ivex"
+source: "DIGI-KEY CATALOG NO. 941 PAGE 161"
+units: MIL
+sel_rect: -106 -205 303 205
+ref_text: 50 98 232 0 7
+outline_polyline: 7 -15 -50
+next_corner: 15 -50 0
+outline_polyline: 7 0 -35
+next_corner: 0 -65 0
+outline_polyline: 7 295 0
+next_corner: 98 197 2
+next_corner: -98 0 2
+next_corner: 98 -197 2
+close_polyline: 2
+n_pins: 2
+pin: 1 28 197 0 0
+top_pad: 1 65 32 32
+bottom_pad: 1 65 32 32
+inner_pad: 1 65 32 32
+pin: 2 28 0 0 0
+top_pad: 1 65 32 32
+bottom_pad: 1 65 32 32
+inner_pad: 1 65 32 32
+

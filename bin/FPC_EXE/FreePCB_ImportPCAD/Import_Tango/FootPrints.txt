@@ -1,0 +1,5085 @@
+name: "CAP_2012_N_0"
+package: "CAP_2012_N"
+units: NM
+sel_rect: -1354000 -984000 1354000 984000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -120000 730000
+    next_corner: 120000 730000 0
+  outline_polyline: 120000 -120000 -730000
+    next_corner: 120000 -730000 0
+  outline_polyline: 120000 -1100000 730000
+    next_corner: 1100000 730000 0
+  outline_polyline: 120000 1100000 730000
+    next_corner: 1100000 -730000 0
+  outline_polyline: 120000 1100000 -730000
+    next_corner: -1100000 -730000 0
+  outline_polyline: 120000 -1100000 -730000
+    next_corner: -1100000 730000 0
+n_pins: 2
+  pin: "1" 0 -849999 196 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 850000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_1"
+package: "CAP_1608_N"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_2"
+package: "CAP_1608_N"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_3"
+package: "CAP_1005_N"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_4"
+package: "CAP_1005_N"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_5"
+package: "CAP_1005_N"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_6"
+package: "CAP_1005_N"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_7"
+package: "CAP_1608_N"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_8"
+package: "CAP_1005_N"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_9"
+package: "CAP_1608_N"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_10"
+package: "CAP_1005_N_10"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_11"
+package: "CAP_1608_N_11"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_12"
+package: "CAP_1005_N_12"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_13"
+package: "CAP_1608_N_13"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_14"
+package: "CAP_1005_N_14"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_15"
+package: "CAP_1608_N_15"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_16"
+package: "CAP_1005_N_16"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_17"
+package: "CAP_1608_N_17"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_18"
+package: "CAP_1005_N_18"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_19"
+package: "CAP_1608_N_19"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_20"
+package: "CAP_1005_N_20"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_21"
+package: "CAP_1608_N_21"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_22"
+package: "CAP_1005_N_22"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_23"
+package: "CAP_1608_N_23"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_24"
+package: "CAP_1608_N_24"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_25"
+package: "CAP_1608_N_25"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_26"
+package: "CAP_1608_N_26"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_27"
+package: "CAP_1608_N_27"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_28"
+package: "CAP_1608_N_28"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_29"
+package: "CAP_1608_N_29"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "IND_1608_N_30"
+package: "IND_1608_N_30"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -160000 480000
+    next_corner: 160000 480000 0
+  outline_polyline: 120000 -160000 -480000
+    next_corner: 160000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -764999 177 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 765000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "IND_1608_N_31"
+package: "IND_1608_N_31"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -160000 480000
+    next_corner: 160000 480000 0
+  outline_polyline: 120000 -160000 -480000
+    next_corner: 160000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -764999 177 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 765000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "IND_1608_N_32"
+package: "IND_1608_N_32"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -160000 480000
+    next_corner: 160000 480000 0
+  outline_polyline: 120000 -160000 -480000
+    next_corner: 160000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -764999 177 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 765000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "Hole_33"
+package: "Hole_33"
+units: NM
+sel_rect: -254000 -254000 254000 254000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+n_pins: 1
+  pin: "hole1" 3000000 0 0 0
+
+name: "RB1-125BAG1A_34"
+package: "RB1-125BAG1A_34"
+units: NM
+sel_rect: -8162800 -11104000 8162800 11104000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 254000 -7908800 2039800
+    next_corner: -7908800 -10850000 0
+  outline_polyline: 254000 -7908800 -10850000
+    next_corner: 7908800 -10850000 0
+  outline_polyline: 254000 7908800 -10850000
+    next_corner: 7908800 2039800 0
+  outline_polyline: 254000 -7908800 5555200
+    next_corner: -7908800 10850000 0
+  outline_polyline: 254000 -7908800 10850000
+    next_corner: 7908800 10850000 0
+  outline_polyline: 254000 7908800 10850000
+    next_corner: 7908800 5642000 0
+n_pins: 14
+  pin: "1" 900000 -4445000 6400000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "2" 900000 -3175000 8940000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "3" 900000 -1905000 6400000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "4" 900000 -635000 8940000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "5" 900000 635000 6400000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "6" 900000 1905000 8940000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "7" 900000 3175000 6400000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "8" 900000 4445000 8940000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "L1" 900000 6325000 -3330000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "L2" 900000 3785000 -4850000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "L3" 900000 -3785000 -3330000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "L4" 900000 -6325000 -4850000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "9" 1600000 7775000 3860000 0
+    top_pad: 1 2800000 1400000 1400000 700000 0
+    inner_pad: 1 2800000 1400000 1400000 700000 0
+    bottom_pad: 1 2800000 1400000 1400000 700000 0
+  pin: "10" 1600000 -7775000 3860000 0
+    top_pad: 1 2800000 1400000 1400000 700000 0
+    inner_pad: 1 2800000 1400000 1400000 700000 0
+    bottom_pad: 1 2800000 1400000 1400000 700000 0
+
+name: "RES_1005_N_35"
+package: "RES_1005_N_35"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_36"
+package: "RES_1005_N_36"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_37"
+package: "CAP_1608_N_37"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_38"
+package: "RES_1005_N_38"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_39"
+package: "CAP_1608_N_39"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_40"
+package: "RES_1005_N_40"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_41"
+package: "CAP_1608_N_41"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_42"
+package: "RES_1005_N_42"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_43"
+package: "CAP_1608_N_43"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_44"
+package: "RES_1005_N_44"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_45"
+package: "CAP_1608_N_45"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_46"
+package: "RES_1005_N_46"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_47"
+package: "CAP_1608_N_47"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_48"
+package: "RES_1005_N_48"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_49"
+package: "CAP_1608_N_49"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_50"
+package: "CAP_1608_N_50"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_51"
+package: "CAP_1608_N_51"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_52"
+package: "CAP_1608_N_52"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_53"
+package: "CAP_1608_N_53"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_54"
+package: "CAP_1608_N_54"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_55"
+package: "CAP_1608_N_55"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_56"
+package: "RES_1005_N_56"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_57"
+package: "RES_1005_N_57"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_58"
+package: "RES_1005_N_58"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_59"
+package: "RES_1005_N_59"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_60"
+package: "RES_1005_N_60"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_61"
+package: "RES_1005_N_61"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_2012_N_62"
+package: "RES_2012_N_62"
+units: NM
+sel_rect: -1334000 -954000 1334000 954000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -230000 700000
+    next_corner: 230000 700000 0
+  outline_polyline: 120000 -230000 -700000
+    next_corner: 230000 -700000 0
+  outline_polyline: 120000 -1080000 700000
+    next_corner: 1080000 700000 0
+  outline_polyline: 120000 1080000 700000
+    next_corner: 1080000 -700000 0
+  outline_polyline: 120000 1080000 -700000
+    next_corner: -1080000 -700000 0
+  outline_polyline: 120000 -1080000 -700000
+    next_corner: -1080000 700000 0
+n_pins: 2
+  pin: "1" 0 -894999 207 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 894999 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_2012_N_63"
+package: "RES_2012_N_63"
+units: NM
+sel_rect: -1334000 -954000 1334000 954000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -230000 700000
+    next_corner: 230000 700000 0
+  outline_polyline: 120000 -230000 -700000
+    next_corner: 230000 -700000 0
+  outline_polyline: 120000 -1080000 700000
+    next_corner: 1080000 700000 0
+  outline_polyline: 120000 1080000 700000
+    next_corner: 1080000 -700000 0
+  outline_polyline: 120000 1080000 -700000
+    next_corner: -1080000 -700000 0
+  outline_polyline: 120000 -1080000 -700000
+    next_corner: -1080000 700000 0
+n_pins: 2
+  pin: "1" 0 -894999 207 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 894999 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_2012_N_64"
+package: "RES_2012_N_64"
+units: NM
+sel_rect: -1334000 -954000 1334000 954000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -230000 700000
+    next_corner: 230000 700000 0
+  outline_polyline: 120000 -230000 -700000
+    next_corner: 230000 -700000 0
+  outline_polyline: 120000 -1080000 700000
+    next_corner: 1080000 700000 0
+  outline_polyline: 120000 1080000 700000
+    next_corner: 1080000 -700000 0
+  outline_polyline: 120000 1080000 -700000
+    next_corner: -1080000 -700000 0
+  outline_polyline: 120000 -1080000 -700000
+    next_corner: -1080000 700000 0
+n_pins: 2
+  pin: "1" 0 -894999 207 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 894999 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_65"
+package: "RES_1608_N_65"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_66"
+package: "RES_1005_N_66"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_67"
+package: "RES_1005_N_67"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_68"
+package: "CAP_1608_N_68"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "W5200_69"
+package: "W5200_69"
+units: NM
+sel_rect: -3545000 -3857700 4164700 3857700
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 254000 -3291000 -3100000
+    next_corner: -3291000 -3603700 0
+  outline_polyline: 254000 -3291000 -3603700
+    next_corner: -2788500 -3603700 0
+  outline_polyline: 254000 3910700 3603700
+    next_corner: 3408200 3603700 0
+  outline_polyline: 254000 3910700 3603700
+    next_corner: 3910700 3100000 0
+  outline_polyline: 254000 3408200 -3603700
+    next_corner: 3910700 -3603700 0
+  outline_polyline: 254000 3910700 -3100000
+    next_corner: 3910700 -3603700 0
+  outline_polyline: 254000 -3190500 3200800
+    next_corner: -2889000 3503000 0
+n_pins: 49
+  pin: "1" 0 -3138000 2750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "2" 0 -3138000 2250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "3" 0 -3138000 1750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "4" 0 -3138000 1250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "5" 0 -3138000 750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "6" 0 -3138000 250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "7" 0 -3138000 -250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "8" 0 -3138000 -750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "9" 0 -3138000 -1250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "10" 0 -3138000 -1750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "11" 0 -3138000 -2250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "12" 0 -3138000 -2750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "13" 0 -2438300 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "14" 0 -1938300 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "15" 0 -1438300 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "16" 0 -938300 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "17" 0 -438300 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "18" 0 61700 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "19" 0 561700 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "20" 0 1061700 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "21" 0 1561700 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "22" 0 2061700 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "23" 0 2561700 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "24" 0 3061700 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "25" 0 3762000 -2750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "26" 0 3762000 -2250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "27" 0 3762000 -1750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "28" 0 3762000 -1250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "29" 0 3762000 -750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "30" 0 3762000 -250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "31" 0 3762000 250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "32" 0 3762000 750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "33" 0 3762000 1250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "34" 0 3762000 1750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "35" 0 3762000 2250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "36" 0 3762000 2750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "37" 0 3061700 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "38" 0 2561700 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "39" 0 2061700 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "40" 0 1561700 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "41" 0 1061700 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "42" 0 561700 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "43" 0 61700 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "44" 0 -438300 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "45" 0 -938300 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "46" 0 -1438300 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "47" 0 -1938300 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "48" 0 -2438300 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "49" 0 312000 0 0
+    top_pad: 3 5200000 2600000 2600000 1300000 0
+
+name: "CTS403_70"
+package: "CTS403_70"
+units: NM
+sel_rect: -2054000 -1754000 2054000 1754000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 200000 -1800000 1500000
+    next_corner: 1800000 1500000 0
+  outline_polyline: 200000 1800000 1500000
+    next_corner: 1800000 -1500000 0
+  outline_polyline: 200000 1800000 -1500000
+    next_corner: -1800000 -1500000 0
+  outline_polyline: 200000 -1800000 -1500000
+    next_corner: -1800000 1500000 0
+n_pins: 4
+  pin: "1" 0 -1075000 -775000 90
+    top_pad: 3 900000 500000 500000 225000 0
+  pin: "2" 0 1075000 -775000 90
+    top_pad: 3 900000 500000 500000 225000 0
+  pin: "3" 0 1075000 775000 90
+    top_pad: 3 900000 500000 500000 225000 0
+  pin: "4" 0 -1075000 775000 90
+    top_pad: 3 900000 500000 500000 225000 0
+
+name: "CAP_2012_N_71"
+package: "CAP_2012_N_71"
+units: NM
+sel_rect: -1354000 -984000 1354000 984000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -120000 730000
+    next_corner: 120000 730000 0
+  outline_polyline: 120000 -120000 -730000
+    next_corner: 120000 -730000 0
+  outline_polyline: 120000 -1100000 730000
+    next_corner: 1100000 730000 0
+  outline_polyline: 120000 1100000 730000
+    next_corner: 1100000 -730000 0
+  outline_polyline: 120000 1100000 -730000
+    next_corner: -1100000 -730000 0
+  outline_polyline: 120000 -1100000 -730000
+    next_corner: -1100000 730000 0
+n_pins: 2
+  pin: "1" 0 -849999 196 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 850000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_72"
+package: "CAP_1608_N_72"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_73"
+package: "CAP_1608_N_73"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_74"
+package: "CAP_1005_N_74"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_75"
+package: "CAP_1005_N_75"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_76"
+package: "CAP_1005_N_76"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_77"
+package: "CAP_1005_N_77"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_78"
+package: "CAP_1005_N_78"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_79"
+package: "CAP_1005_N_79"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_80"
+package: "CAP_1005_N_80"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_81"
+package: "CAP_1005_N_81"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_82"
+package: "CAP_1005_N_82"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1005_N_83"
+package: "CAP_1005_N_83"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -489999 113 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 490000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "IND_1608_N_84"
+package: "IND_1608_N_84"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -160000 480000
+    next_corner: 160000 480000 0
+  outline_polyline: 120000 -160000 -480000
+    next_corner: 160000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -764999 177 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 765000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "IND_1608_N_85"
+package: "IND_1608_N_85"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -160000 480000
+    next_corner: 160000 480000 0
+  outline_polyline: 120000 -160000 -480000
+    next_corner: 160000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -764999 177 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 765000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "IND_1608_N_86"
+package: "IND_1608_N_86"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -160000 480000
+    next_corner: 160000 480000 0
+  outline_polyline: 120000 -160000 -480000
+    next_corner: 160000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -764999 177 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 765000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RB1-125BAG1A_87"
+package: "RB1-125BAG1A_87"
+units: NM
+sel_rect: -8162800 -11104000 8162800 11104000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 254000 -7908800 2039800
+    next_corner: -7908800 -10850000 0
+  outline_polyline: 254000 -7908800 -10850000
+    next_corner: 7908800 -10850000 0
+  outline_polyline: 254000 7908800 -10850000
+    next_corner: 7908800 2039800 0
+  outline_polyline: 254000 -7908800 5555200
+    next_corner: -7908800 10850000 0
+  outline_polyline: 254000 -7908800 10850000
+    next_corner: 7908800 10850000 0
+  outline_polyline: 254000 7908800 10850000
+    next_corner: 7908800 5642000 0
+n_pins: 14
+  pin: "1" 900000 -4445000 6400000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "2" 900000 -3175000 8940000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "3" 900000 -1905000 6400000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "4" 900000 -635000 8940000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "5" 900000 635000 6400000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "6" 900000 1905000 8940000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "7" 900000 3175000 6400000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "8" 900000 4445000 8940000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "L1" 900000 6325000 -3330000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "L2" 900000 3785000 -4850000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "L3" 900000 -3785000 -3330000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "L4" 900000 -6325000 -4850000 0
+    top_pad: 1 1500000 750000 750000 375000 0
+    inner_pad: 1 1500000 750000 750000 375000 0
+    bottom_pad: 1 1500000 750000 750000 375000 0
+  pin: "9" 1600000 7775000 3860000 0
+    top_pad: 1 2800000 1400000 1400000 700000 0
+    inner_pad: 1 2800000 1400000 1400000 700000 0
+    bottom_pad: 1 2800000 1400000 1400000 700000 0
+  pin: "10" 1600000 -7775000 3860000 0
+    top_pad: 1 2800000 1400000 1400000 700000 0
+    inner_pad: 1 2800000 1400000 1400000 700000 0
+    bottom_pad: 1 2800000 1400000 1400000 700000 0
+
+name: "RES_1005_N_88"
+package: "RES_1005_N_88"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_89"
+package: "RES_1005_N_89"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_90"
+package: "RES_1005_N_90"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_91"
+package: "RES_1005_N_91"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_92"
+package: "RES_1005_N_92"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_93"
+package: "RES_1005_N_93"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_94"
+package: "RES_1005_N_94"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_95"
+package: "RES_1005_N_95"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_96"
+package: "RES_1005_N_96"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_97"
+package: "RES_1005_N_97"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_98"
+package: "RES_1005_N_98"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_99"
+package: "RES_1005_N_99"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_100"
+package: "RES_1005_N_100"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_101"
+package: "RES_1005_N_101"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_2012_N_102"
+package: "RES_2012_N_102"
+units: NM
+sel_rect: -1334000 -954000 1334000 954000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -230000 700000
+    next_corner: 230000 700000 0
+  outline_polyline: 120000 -230000 -700000
+    next_corner: 230000 -700000 0
+  outline_polyline: 120000 -1080000 700000
+    next_corner: 1080000 700000 0
+  outline_polyline: 120000 1080000 700000
+    next_corner: 1080000 -700000 0
+  outline_polyline: 120000 1080000 -700000
+    next_corner: -1080000 -700000 0
+  outline_polyline: 120000 -1080000 -700000
+    next_corner: -1080000 700000 0
+n_pins: 2
+  pin: "1" 0 -894999 207 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 894999 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_2012_N_103"
+package: "RES_2012_N_103"
+units: NM
+sel_rect: -1334000 -954000 1334000 954000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -230000 700000
+    next_corner: 230000 700000 0
+  outline_polyline: 120000 -230000 -700000
+    next_corner: 230000 -700000 0
+  outline_polyline: 120000 -1080000 700000
+    next_corner: 1080000 700000 0
+  outline_polyline: 120000 1080000 700000
+    next_corner: 1080000 -700000 0
+  outline_polyline: 120000 1080000 -700000
+    next_corner: -1080000 -700000 0
+  outline_polyline: 120000 -1080000 -700000
+    next_corner: -1080000 700000 0
+n_pins: 2
+  pin: "1" 0 -894999 207 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 894999 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_2012_N_104"
+package: "RES_2012_N_104"
+units: NM
+sel_rect: -1334000 -954000 1334000 954000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -230000 700000
+    next_corner: 230000 700000 0
+  outline_polyline: 120000 -230000 -700000
+    next_corner: 230000 -700000 0
+  outline_polyline: 120000 -1080000 700000
+    next_corner: 1080000 700000 0
+  outline_polyline: 120000 1080000 700000
+    next_corner: 1080000 -700000 0
+  outline_polyline: 120000 1080000 -700000
+    next_corner: -1080000 -700000 0
+  outline_polyline: 120000 -1080000 -700000
+    next_corner: -1080000 700000 0
+n_pins: 2
+  pin: "1" 0 -894999 207 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 894999 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_105"
+package: "RES_1608_N_105"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_106"
+package: "RES_1608_N_106"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1005_N_107"
+package: "RES_1005_N_107"
+units: NM
+sel_rect: -804000 -554000 804000 554000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -70000 300000
+    next_corner: 70000 300000 0
+  outline_polyline: 120000 -70000 -300000
+    next_corner: 70000 -300000 0
+  outline_polyline: 120000 -550000 300000
+    next_corner: 550000 300000 0
+  outline_polyline: 120000 550000 300000
+    next_corner: 550000 -300000 0
+  outline_polyline: 120000 550000 -300000
+    next_corner: -550000 -300000 0
+  outline_polyline: 120000 -550000 -300000
+    next_corner: -550000 300000 0
+n_pins: 2
+  pin: "1" 0 -514999 119 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 515000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_108"
+package: "CAP_1608_N_108"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CAP_1608_N_109"
+package: "CAP_1608_N_109"
+units: NM
+sel_rect: -1134000 -734000 1134000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -140000 480000
+    next_corner: 140000 480000 0
+  outline_polyline: 120000 -140000 -480000
+    next_corner: 140000 -480000 0
+  outline_polyline: 120000 -880000 480000
+    next_corner: 880000 480000 0
+  outline_polyline: 120000 880000 480000
+    next_corner: 880000 -480000 0
+  outline_polyline: 120000 880000 -480000
+    next_corner: -880000 -480000 0
+  outline_polyline: 120000 -880000 -480000
+    next_corner: -880000 480000 0
+n_pins: 2
+  pin: "1" 0 -749999 173 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 750000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "CONN_4X1_110"
+package: "CONN_4X1_110"
+units: NM
+sel_rect: -4254000 -1254000 4254000 1254000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 254000 -4000000 1000000
+    next_corner: 4000000 1000000 0
+  outline_polyline: 254000 4000000 1000000
+    next_corner: 4000000 -1000000 0
+  outline_polyline: 254000 4000000 -1000000
+    next_corner: -4000000 -1000000 0
+  outline_polyline: 254000 -4000000 -1000000
+    next_corner: -4000000 1000000 0
+n_pins: 4
+  pin: "1" 1000000 -3000000 0 0
+    top_pad: 3 1600000 800000 800000 400000 0
+    inner_pad: 3 1600000 800000 800000 400000 0
+    bottom_pad: 3 1600000 800000 800000 400000 0
+  pin: "2" 1000000 -1000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+  pin: "3" 1000000 1000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+  pin: "4" 1000000 3000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+
+name: "CONN_4X1_111"
+package: "CONN_4X1_111"
+units: NM
+sel_rect: -4254000 -1254000 4254000 1254000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 254000 -4000000 1000000
+    next_corner: 4000000 1000000 0
+  outline_polyline: 254000 4000000 1000000
+    next_corner: 4000000 -1000000 0
+  outline_polyline: 254000 4000000 -1000000
+    next_corner: -4000000 -1000000 0
+  outline_polyline: 254000 -4000000 -1000000
+    next_corner: -4000000 1000000 0
+n_pins: 4
+  pin: "1" 1000000 -3000000 0 0
+    top_pad: 3 1600000 800000 800000 400000 0
+    inner_pad: 3 1600000 800000 800000 400000 0
+    bottom_pad: 3 1600000 800000 800000 400000 0
+  pin: "2" 1000000 -1000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+  pin: "3" 1000000 1000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+  pin: "4" 1000000 3000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+
+name: "CONN_4X1_112"
+package: "CONN_4X1_112"
+units: NM
+sel_rect: -4254000 -1254000 4254000 1254000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 254000 -4000000 1000000
+    next_corner: 4000000 1000000 0
+  outline_polyline: 254000 4000000 1000000
+    next_corner: 4000000 -1000000 0
+  outline_polyline: 254000 4000000 -1000000
+    next_corner: -4000000 -1000000 0
+  outline_polyline: 254000 -4000000 -1000000
+    next_corner: -4000000 1000000 0
+n_pins: 4
+  pin: "1" 1000000 -3000000 0 0
+    top_pad: 3 1600000 800000 800000 400000 0
+    inner_pad: 3 1600000 800000 800000 400000 0
+    bottom_pad: 3 1600000 800000 800000 400000 0
+  pin: "2" 1000000 -1000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+  pin: "3" 1000000 1000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+  pin: "4" 1000000 3000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+
+name: "CONN_4X1_113"
+package: "CONN_4X1_113"
+units: NM
+sel_rect: -4254000 -1254000 4254000 1254000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 254000 -4000000 1000000
+    next_corner: 4000000 1000000 0
+  outline_polyline: 254000 4000000 1000000
+    next_corner: 4000000 -1000000 0
+  outline_polyline: 254000 4000000 -1000000
+    next_corner: -4000000 -1000000 0
+  outline_polyline: 254000 -4000000 -1000000
+    next_corner: -4000000 1000000 0
+n_pins: 4
+  pin: "1" 1000000 -3000000 0 0
+    top_pad: 3 1600000 800000 800000 400000 0
+    inner_pad: 3 1600000 800000 800000 400000 0
+    bottom_pad: 3 1600000 800000 800000 400000 0
+  pin: "2" 1000000 -1000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+  pin: "3" 1000000 1000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+  pin: "4" 1000000 3000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+
+name: "CONN_4X1_114"
+package: "CONN_4X1_114"
+units: NM
+sel_rect: -4254000 -1254000 4254000 1254000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 254000 -4000000 1000000
+    next_corner: 4000000 1000000 0
+  outline_polyline: 254000 4000000 1000000
+    next_corner: 4000000 -1000000 0
+  outline_polyline: 254000 4000000 -1000000
+    next_corner: -4000000 -1000000 0
+  outline_polyline: 254000 -4000000 -1000000
+    next_corner: -4000000 1000000 0
+n_pins: 4
+  pin: "1" 1000000 -3000000 0 0
+    top_pad: 3 1600000 800000 800000 400000 0
+    inner_pad: 3 1600000 800000 800000 400000 0
+    bottom_pad: 3 1600000 800000 800000 400000 0
+  pin: "2" 1000000 -1000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+  pin: "3" 1000000 1000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+  pin: "4" 1000000 3000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+
+name: "CONN_4X1_115"
+package: "CONN_4X1_115"
+units: NM
+sel_rect: -4254000 -1254000 4254000 1254000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 254000 -4000000 1000000
+    next_corner: 4000000 1000000 0
+  outline_polyline: 254000 4000000 1000000
+    next_corner: 4000000 -1000000 0
+  outline_polyline: 254000 4000000 -1000000
+    next_corner: -4000000 -1000000 0
+  outline_polyline: 254000 -4000000 -1000000
+    next_corner: -4000000 1000000 0
+n_pins: 4
+  pin: "1" 1000000 -3000000 0 0
+    top_pad: 3 1600000 800000 800000 400000 0
+    inner_pad: 3 1600000 800000 800000 400000 0
+    bottom_pad: 3 1600000 800000 800000 400000 0
+  pin: "2" 1000000 -1000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+  pin: "3" 1000000 1000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+  pin: "4" 1000000 3000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+
+name: "CONN_4X1_116"
+package: "CONN_4X1_116"
+units: NM
+sel_rect: -4254000 -1254000 4254000 1254000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 254000 -4000000 1000000
+    next_corner: 4000000 1000000 0
+  outline_polyline: 254000 4000000 1000000
+    next_corner: 4000000 -1000000 0
+  outline_polyline: 254000 4000000 -1000000
+    next_corner: -4000000 -1000000 0
+  outline_polyline: 254000 -4000000 -1000000
+    next_corner: -4000000 1000000 0
+n_pins: 4
+  pin: "1" 1000000 -3000000 0 0
+    top_pad: 3 1600000 800000 800000 400000 0
+    inner_pad: 3 1600000 800000 800000 400000 0
+    bottom_pad: 3 1600000 800000 800000 400000 0
+  pin: "2" 1000000 -1000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+  pin: "3" 1000000 1000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+  pin: "4" 1000000 3000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+
+name: "CONN_4X1_117"
+package: "CONN_4X1_117"
+units: NM
+sel_rect: -4254000 -1254000 4254000 1254000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 254000 -4000000 1000000
+    next_corner: 4000000 1000000 0
+  outline_polyline: 254000 4000000 1000000
+    next_corner: 4000000 -1000000 0
+  outline_polyline: 254000 4000000 -1000000
+    next_corner: -4000000 -1000000 0
+  outline_polyline: 254000 -4000000 -1000000
+    next_corner: -4000000 1000000 0
+n_pins: 4
+  pin: "1" 1000000 -3000000 0 0
+    top_pad: 3 1600000 800000 800000 400000 0
+    inner_pad: 3 1600000 800000 800000 400000 0
+    bottom_pad: 3 1600000 800000 800000 400000 0
+  pin: "2" 1000000 -1000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+  pin: "3" 1000000 1000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+  pin: "4" 1000000 3000000 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+
+name: "W5200_118"
+package: "W5200_118"
+units: NM
+sel_rect: -3545000 -3857700 4164700 3857700
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 254000 -3291000 -3100000
+    next_corner: -3291000 -3603700 0
+  outline_polyline: 254000 -3291000 -3603700
+    next_corner: -2788500 -3603700 0
+  outline_polyline: 254000 3910700 3603700
+    next_corner: 3408200 3603700 0
+  outline_polyline: 254000 3910700 3603700
+    next_corner: 3910700 3100000 0
+  outline_polyline: 254000 3408200 -3603700
+    next_corner: 3910700 -3603700 0
+  outline_polyline: 254000 3910700 -3100000
+    next_corner: 3910700 -3603700 0
+  outline_polyline: 254000 -3190500 3200800
+    next_corner: -2889000 3503000 0
+n_pins: 49
+  pin: "1" 0 -3138000 2750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "2" 0 -3138000 2250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "3" 0 -3138000 1750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "4" 0 -3138000 1250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "5" 0 -3138000 750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "6" 0 -3138000 250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "7" 0 -3138000 -250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "8" 0 -3138000 -750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "9" 0 -3138000 -1250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "10" 0 -3138000 -1750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "11" 0 -3138000 -2250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "12" 0 -3138000 -2750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "13" 0 -2438300 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "14" 0 -1938300 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "15" 0 -1438300 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "16" 0 -938300 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "17" 0 -438300 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "18" 0 61700 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "19" 0 561700 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "20" 0 1061700 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "21" 0 1561700 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "22" 0 2061700 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "23" 0 2561700 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "24" 0 3061700 -3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "25" 0 3762000 -2750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "26" 0 3762000 -2250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "27" 0 3762000 -1750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "28" 0 3762000 -1250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "29" 0 3762000 -750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "30" 0 3762000 -250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "31" 0 3762000 250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "32" 0 3762000 750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "33" 0 3762000 1250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "34" 0 3762000 1750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "35" 0 3762000 2250000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "36" 0 3762000 2750000 90
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "37" 0 3061700 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "38" 0 2561700 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "39" 0 2061700 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "40" 0 1561700 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "41" 0 1061700 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "42" 0 561700 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "43" 0 61700 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "44" 0 -438300 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "45" 0 -938300 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "46" 0 -1438300 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "47" 0 -1938300 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "48" 0 -2438300 3450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "49" 0 312000 0 0
+    top_pad: 3 5200000 2600000 2600000 1300000 0
+
+name: "CTS403_119"
+package: "CTS403_119"
+units: NM
+sel_rect: -2054000 -1754000 2054000 1754000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 200000 -1800000 1500000
+    next_corner: 1800000 1500000 0
+  outline_polyline: 200000 1800000 1500000
+    next_corner: 1800000 -1500000 0
+  outline_polyline: 200000 1800000 -1500000
+    next_corner: -1800000 -1500000 0
+  outline_polyline: 200000 -1800000 -1500000
+    next_corner: -1800000 1500000 0
+n_pins: 4
+  pin: "1" 0 -1075000 -775000 90
+    top_pad: 3 900000 500000 500000 225000 0
+  pin: "2" 0 1075000 -775000 90
+    top_pad: 3 900000 500000 500000 225000 0
+  pin: "3" 0 1075000 775000 90
+    top_pad: 3 900000 500000 500000 225000 0
+  pin: "4" 0 -1075000 775000 90
+    top_pad: 3 900000 500000 500000 225000 0
+
+name: "690-005-299-043_120"
+package: "690-005-299-043_120"
+units: NM
+sel_rect: -4604000 -4379099 4604000 5529000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 254000 3903700 5275000
+    next_corner: -3903700 5275000 0
+  outline_polyline: 254000 3903700 5275000
+    next_corner: 3903700 3671400 0
+  outline_polyline: 254000 3903700 875600
+    next_corner: 3903700 -1825100 0
+  outline_polyline: 254000 3203300 -4125099
+    next_corner: 2204200 -4125099 0
+  outline_polyline: 254000 -2296900 -4125099
+    next_corner: -3203300 -4125099 0
+  outline_polyline: 254000 -3903700 -1825100
+    next_corner: -3903700 875600 0
+  outline_polyline: 254000 -3903700 3671400
+    next_corner: -3903700 5275000 0
+n_pins: 9
+  pin: "1" 0 1600000 -3625000 0
+    top_pad: 3 2000000 250000 250000 125000 0
+  pin: "2" 0 800000 -3625000 0
+    top_pad: 3 2000000 250000 250000 125000 0
+  pin: "3" 0 0 -3625000 0
+    top_pad: 3 2000000 250000 250000 125000 0
+  pin: "4" 0 -800000 -3625000 0
+    top_pad: 3 2000000 250000 250000 125000 0
+  pin: "5" 0 -1600000 -3625000 0
+    top_pad: 3 2000000 250000 250000 125000 0
+  pin: "6" 0 4350000 -3225000 0
+    top_pad: 3 2000000 800000 800000 400000 0
+  pin: "7" 0 -4350000 -3225000 0
+    top_pad: 3 2000000 800000 800000 400000 0
+  pin: "8" 0 4350000 2275000 0
+    top_pad: 3 2000000 800000 800000 400000 0
+  pin: "9" 0 -4350000 2275000 0
+    top_pad: 3 2000000 800000 800000 400000 0
+
+name: "LED0603_121"
+package: "LED0603_121"
+units: NM
+sel_rect: -1854000 -1604000 1854000 1604000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 254000 -1600000 1350000
+    next_corner: 1600000 1350000 0
+  outline_polyline: 254000 1600000 1350000
+    next_corner: 1600000 -251100 0
+  outline_polyline: 254000 1600000 -251100
+    next_corner: -1600000 -251100 0
+  outline_polyline: 254000 -1600000 -251100
+    next_corner: -1600000 1350000 0
+  outline_polyline: 254000 -300800 -550800
+    next_corner: -300800 -1350000 0
+  outline_polyline: 254000 -300800 -1350000
+    next_corner: 300800 -950400 0
+  outline_polyline: 254000 300800 -950400
+    next_corner: -300800 -550800 0
+  outline_polyline: 254000 300800 -550800
+    next_corner: 300800 -1350000 0
+n_pins: 2
+  pin: "1" 0 -825000 550000 270
+    top_pad: 3 800000 400000 400000 200000 0
+  pin: "2" 0 825000 550000 270
+    top_pad: 3 800000 400000 400000 200000 0
+
+name: "LED0603_122"
+package: "LED0603_122"
+units: NM
+sel_rect: -1854000 -1604000 1854000 1604000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 254000 -1600000 1350000
+    next_corner: 1600000 1350000 0
+  outline_polyline: 254000 1600000 1350000
+    next_corner: 1600000 -251100 0
+  outline_polyline: 254000 1600000 -251100
+    next_corner: -1600000 -251100 0
+  outline_polyline: 254000 -1600000 -251100
+    next_corner: -1600000 1350000 0
+  outline_polyline: 254000 -300800 -550800
+    next_corner: -300800 -1350000 0
+  outline_polyline: 254000 -300800 -1350000
+    next_corner: 300800 -950400 0
+  outline_polyline: 254000 300800 -950400
+    next_corner: -300800 -550800 0
+  outline_polyline: 254000 300800 -550800
+    next_corner: 300800 -1350000 0
+n_pins: 2
+  pin: "1" 0 -825000 550000 270
+    top_pad: 3 800000 400000 400000 200000 0
+  pin: "2" 0 825000 550000 270
+    top_pad: 3 800000 400000 400000 200000 0
+
+name: "PAD_123"
+package: "PAD_123"
+units: NM
+sel_rect: -254000 -254000 254000 254000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+n_pins: 1
+  pin: "1" 1000000 0 0 0
+    top_pad: 1 1600000 800000 800000 400000 0
+    inner_pad: 1 1600000 800000 800000 400000 0
+    bottom_pad: 1 1600000 800000 800000 400000 0
+
+name: "RES_1608_N_124"
+package: "RES_1608_N_124"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_125"
+package: "RES_1608_N_125"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_126"
+package: "RES_1608_N_126"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_127"
+package: "RES_1608_N_127"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_128"
+package: "RES_1608_N_128"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_129"
+package: "RES_1608_N_129"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_130"
+package: "RES_1608_N_130"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_131"
+package: "RES_1608_N_131"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_132"
+package: "RES_1608_N_132"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_133"
+package: "RES_1608_N_133"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_134"
+package: "RES_1608_N_134"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_135"
+package: "RES_1608_N_135"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_136"
+package: "RES_1608_N_136"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_137"
+package: "RES_1608_N_137"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_138"
+package: "RES_1608_N_138"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_139"
+package: "RES_1608_N_139"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_140"
+package: "RES_1608_N_140"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_141"
+package: "RES_1608_N_141"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_142"
+package: "RES_1608_N_142"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_143"
+package: "RES_1608_N_143"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_144"
+package: "RES_1608_N_144"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_145"
+package: "RES_1608_N_145"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_146"
+package: "RES_1608_N_146"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_147"
+package: "RES_1608_N_147"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_148"
+package: "RES_1608_N_148"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_149"
+package: "RES_1608_N_149"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_150"
+package: "RES_1608_N_150"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_151"
+package: "RES_1608_N_151"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_152"
+package: "RES_1608_N_152"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_153"
+package: "RES_1608_N_153"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_154"
+package: "RES_1608_N_154"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_155"
+package: "RES_1608_N_155"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_156"
+package: "RES_1608_N_156"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_157"
+package: "RES_1608_N_157"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_158"
+package: "RES_1608_N_158"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_159"
+package: "RES_1608_N_159"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_160"
+package: "RES_1608_N_160"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_161"
+package: "RES_1608_N_161"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_162"
+package: "RES_1608_N_162"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "RES_1608_N_163"
+package: "RES_1608_N_163"
+units: NM
+sel_rect: -1104000 -734000 1104000 734000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -240000 480000
+    next_corner: 240000 480000 0
+  outline_polyline: 120000 -240000 -480000
+    next_corner: 240000 -480000 0
+  outline_polyline: 120000 -850000 480000
+    next_corner: 850000 480000 0
+  outline_polyline: 120000 850000 480000
+    next_corner: 850000 -480000 0
+  outline_polyline: 120000 850000 -480000
+    next_corner: -850000 -480000 0
+  outline_polyline: 120000 -850000 -480000
+    next_corner: -850000 480000 0
+n_pins: 2
+  pin: "1" 0 -794999 183 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 795000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "M24C02-RMN6P_164"
+package: "M24C02-RMN6P_164"
+units: NM
+sel_rect: -2674000 -2679918 2834000 2679422
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -2340000 2000000
+    next_corner: -2420000 2000000 0
+  outline_polyline: 120000 -2420000 2000000
+    next_corner: -2420000 -2000000 0
+  outline_polyline: 120000 -2420000 -2000000
+    next_corner: -2340000 -2000000 0
+  outline_polyline: 120000 2500000 2000000
+    next_corner: 2580000 2000000 0
+  outline_polyline: 120000 2580000 2000000
+    next_corner: 2580000 -2000000 0
+  outline_polyline: 120000 2580000 -2000000
+    next_corner: 2500000 -2000000 0
+  outline_polyline: 120000 -2420000 2000000
+    next_corner: 2580000 2000000 0
+  outline_polyline: 120000 2580000 2000000
+    next_corner: 2580000 -2000000 0
+  outline_polyline: 120000 2580000 -2000000
+    next_corner: -1420000 -2000000 0
+  outline_polyline: 120000 -1420000 -2000000
+    next_corner: -2420000 -1000000 0
+  outline_polyline: 120000 -2420000 -1000000
+    next_corner: -2420000 2000000 0
+n_pins: 8
+  pin: "1" 0 -1825561 -2424577 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 -555561 -2424871 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "3" 0 713877 -2425330 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "4" 0 1983877 -2425918 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "5" 0 1985000 2424999 180
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "6" 0 715000 2425000 180
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "7" 0 -554438 2425128 180
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "8" 0 -1824438 2425422 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "USB2517_165"
+package: "USB2517_165"
+units: NM
+sel_rect: -4541400 -4758500 5059200 4856000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 254000 -4194200 -4153500
+    next_corner: -4194200 -4504500 0
+  outline_polyline: 254000 -4194200 -4504500
+    next_corner: -3842100 -4504500 0
+  outline_polyline: 254000 4453100 4504500
+    next_corner: 4805200 4504500 0
+  outline_polyline: 254000 4805200 4153500
+    next_corner: 4805200 4504500 0
+  outline_polyline: 254000 4453100 -4504500
+    next_corner: 4805200 -4504500 0
+  outline_polyline: 254000 4805200 -4504500
+    next_corner: 4805200 -4153500 0
+  outline_polyline: 254000 -4287400 4202200
+    next_corner: -3893900 4602000 0
+n_pins: 65
+  pin: "1" 0 -4147000 3750000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "2" 0 -4147000 3250000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "3" 0 -4147000 2750000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "4" 0 -4147000 2250000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "5" 0 -4147000 1750000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "6" 0 -4147000 1250000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "7" 0 -4147000 750000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "8" 0 -4147000 250000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "9" 0 -4147000 -250000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "10" 0 -4147000 -750000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "11" 0 -4147000 -1250000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "12" 0 -4147000 -1750000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "13" 0 -4147000 -2250000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "14" 0 -4147000 -2750000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "15" 0 -4147000 -3250000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "16" 0 -4147000 -3750000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "17" 0 -3447000 -4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "18" 0 -2947000 -4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "19" 0 -2447000 -4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "20" 0 -1947000 -4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "21" 0 -1447000 -4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "22" 0 -947000 -4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "23" 0 -447000 -4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "24" 0 53000 -4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "25" 0 553000 -4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "26" 0 1053000 -4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "27" 0 1553000 -4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "28" 0 2053000 -4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "29" 0 2553000 -4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "30" 0 3053000 -4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "31" 0 3553000 -4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "32" 0 4053000 -4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "33" 0 4753000 -3750000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "34" 0 4753000 -3250000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "35" 0 4753000 -2750000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "36" 0 4753000 -2250000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "37" 0 4753000 -1750000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "38" 0 4753000 -1250000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "39" 0 4753000 -750000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "40" 0 4753000 -250000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "41" 0 4753000 250000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "42" 0 4753000 750000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "43" 0 4753000 1250000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "44" 0 4753000 1750000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "45" 0 4753000 2250000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "46" 0 4753000 2750000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "47" 0 4753000 3250000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "48" 0 4753000 3750000 270
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "49" 0 4053000 4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "50" 0 3553000 4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "51" 0 3053000 4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "52" 0 2553000 4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "53" 0 2053000 4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "54" 0 1553000 4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "55" 0 1053000 4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "56" 0 553000 4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "57" 0 53000 4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "58" 0 -447000 4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "59" 0 -947000 4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "60" 0 -1447000 4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "61" 0 -1947000 4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "62" 0 -2447000 4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "63" 0 -2947000 4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "64" 0 -3447000 4450000 0
+    top_pad: 5 850000 150000 150000 75000 0
+  pin: "65" 0 303000 0 0
+    top_pad: 3 7400000 3700000 3700000 1850000 0
+
+name: "HC49/4HSMX_166"
+package: "HC49/4HSMX_166"
+units: NM
+sel_rect: -6054000 -2704000 6054000 2704000
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 120000 -5800000 940000
+    next_corner: -5800000 2450000 0
+  outline_polyline: 120000 -5800000 2450000
+    next_corner: 5800000 2450000 0
+  outline_polyline: 120000 5800000 2450000
+    next_corner: 5800000 940000 0
+  outline_polyline: 120000 -5800000 -940000
+    next_corner: -5800000 -2450000 0
+  outline_polyline: 120000 -5800000 -2450000
+    next_corner: 5800000 -2450000 0
+  outline_polyline: 120000 5800000 -2450000
+    next_corner: 5800000 -940000 0
+  outline_polyline: 120000 -5800000 2450000
+    next_corner: 5800000 2450000 0
+  outline_polyline: 120000 5800000 2450000
+    next_corner: 5800000 -2450000 0
+  outline_polyline: 120000 5800000 -2450000
+    next_corner: -5800000 -2450000 0
+  outline_polyline: 120000 -5800000 -2450000
+    next_corner: -5800000 2450000 0
+n_pins: 2
+  pin: "1" 0 -4699999 1087 0
+    top_pad: 1 254000 500000 500000 63500 3
+  pin: "2" 0 4700000 0 180
+    top_pad: 1 254000 500000 500000 63500 3
+
+name: "3-1827253-6_167"
+package: "3-1827253-6_167"
+units: NM
+sel_rect: -32254000 -4256799 32254000 4256799
+ref_text: 300000 0 500000 0 50000
+value_text: 300000 0 0 0 50000
+centroid: 0 0 0 0
+  outline_polyline: 254000 -32000000 4002799
+    next_corner: 32000000 4002799 0
+  outline_polyline: 254000 32000000 4002799
+    next_corner: 32000000 -4002799 0
+  outline_polyline: 254000 32000000 -4002799
+    next_corner: -32000000 -4002799 0
+  outline_polyline: 254000 -32000000 -4002799
+    next_corner: -32000000 4002799 0
+n_pins: 222
+  pin: "A1" 0 27250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A2" 0 26750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A3" 0 26250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A4" 0 25750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A5" 0 25250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A6" 0 24750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A7" 0 24250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A8" 0 23750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A9" 0 23250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A10" 0 22750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A11" 0 22250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A12" 0 21750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A13" 0 21250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A14" 0 20750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A15" 0 20250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A16" 0 19750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A17" 0 19250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A18" 0 18750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A19" 0 18250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A20" 0 17750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A21" 0 17250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A22" 0 16750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A23" 0 16250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A24" 0 15750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A25" 0 15250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A26" 0 14750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A27" 0 14250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A28" 0 13750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A29" 0 13250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A30" 0 12750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A31" 0 12250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A32" 0 11750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A33" 0 11250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A34" 0 10750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A35" 0 10250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A36" 0 9750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A37" 0 9250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A38" 0 8750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A39" 0 8250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A40" 0 7750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A41" 0 7250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A42" 0 6750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A43" 0 6250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A44" 0 5750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A45" 0 5250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A46" 0 4750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A47" 0 4250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A48" 0 3750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A49" 0 3250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A50" 0 2750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A51" 0 2250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A52" 0 1750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A53" 0 1250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A54" 0 750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A55" 0 250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A56" 0 -250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A57" 0 -750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A58" 0 -1250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A59" 0 -1750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A60" 0 -2250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A61" 0 -2750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A62" 0 -3250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A63" 0 -3750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A64" 0 -4250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A65" 0 -4750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A66" 0 -5250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A67" 0 -5750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A68" 0 -6250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A69" 0 -6750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A70" 0 -7250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A71" 0 -7750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A72" 0 -8250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A73" 0 -8750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A74" 0 -9250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A75" 0 -9750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A76" 0 -10250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A77" 0 -10750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A78" 0 -11250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A79" 0 -11750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A80" 0 -12250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A81" 0 -12750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A82" 0 -13250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A83" 0 -13750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A84" 0 -14250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A85" 0 -14750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A86" 0 -15250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A87" 0 -15750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A88" 0 -16250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A89" 0 -16750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A90" 0 -17250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A91" 0 -17750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A92" 0 -18250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A93" 0 -18750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A94" 0 -19250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A95" 0 -19750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A96" 0 -20250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A97" 0 -20750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A98" 0 -21250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A99" 0 -21750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A100" 0 -22250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A101" 0 -22750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A102" 0 -23250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A103" 0 -23750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A104" 0 -24250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A105" 0 -24750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A106" 0 -25250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A107" 0 -25750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A108" 0 -26250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A109" 0 -26750000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "A110" 0 -27250000 2796300 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B110" 0 -27250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B109" 0 -26750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B108" 0 -26250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B107" 0 -25750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B106" 0 -25250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B105" 0 -24750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B104" 0 -24250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B103" 0 -23750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B102" 0 -23250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B101" 0 -22750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B100" 0 -22250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B99" 0 -21750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B98" 0 -21250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B97" 0 -20750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B96" 0 -20250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B95" 0 -19750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B94" 0 -19250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B93" 0 -18750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B92" 0 -18250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B91" 0 -17750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B90" 0 -17250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B89" 0 -16750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B88" 0 -16250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B87" 0 -15750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B86" 0 -15250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B85" 0 -14750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B84" 0 -14250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B83" 0 -13750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B82" 0 -13250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B81" 0 -12750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B80" 0 -12250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B79" 0 -11750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B78" 0 -11250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B77" 0 -10750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B76" 0 -10250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B75" 0 -9750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B74" 0 -9250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B73" 0 -8750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B72" 0 -8250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B71" 0 -7750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B70" 0 -7250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B69" 0 -6750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B68" 0 -6250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B67" 0 -5750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B66" 0 -5250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B65" 0 -4750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B64" 0 -4250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B63" 0 -3750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B62" 0 -3250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B61" 0 -2750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B60" 0 -2250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B59" 0 -1750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B58" 0 -1250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B57" 0 -750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B56" 0 -250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B55" 0 250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B54" 0 750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B53" 0 1250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B52" 0 1750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B51" 0 2250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B50" 0 2750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B49" 0 3250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B48" 0 3750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B47" 0 4250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B46" 0 4750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B45" 0 5250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B44" 0 5750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B43" 0 6250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B42" 0 6750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B41" 0 7250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B40" 0 7750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B39" 0 8250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B38" 0 8750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B37" 0 9250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B36" 0 9750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B35" 0 10250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B34" 0 10750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B33" 0 11250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B32" 0 11750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B31" 0 12250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B30" 0 12750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B29" 0 13250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B28" 0 13750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B27" 0 14250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B26" 0 14750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B25" 0 15250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B24" 0 15750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B23" 0 16250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B22" 0 16750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B21" 0 17250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B20" 0 17750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B19" 0 18250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B18" 0 18750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B17" 0 19250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B16" 0 19750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B15" 0 20250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B14" 0 20750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B13" 0 21250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B12" 0 21750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B11" 0 22250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B10" 0 22750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B9" 0 23250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B8" 0 23750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B7" 0 24250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B6" 0 24750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B5" 0 25250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B4" 0 25750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B3" 0 26250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B2" 0 26750000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "B1" 0 27250000 -2803700 90
+    top_pad: 3 250000 700000 700000 62500 0
+  pin: "221" 0 -30575000 -3700 90
+    top_pad: 3 1450000 1650000 1650000 362500 0
+  pin: "222" 0 30575000 -3700 90
+    top_pad: 3 1650000 1650000 1650000 412500 0
+
+end
+name: "80x30"
+  units: NM
+  sel_rect: -250000 -250000 250000 250000
+  ref_text: 0 0 0 0 0
+  value_text: 0 0 0 0 0
+  centroid: 0 0 0 0
+  n_pins: 1
+  pin: "1" 300000 0 0 0
+    top_pad: 1 800000 400000 400000 0
+    bottom_pad: 1 800000 400000 400000 0
+name: "Default_Dip0"
+  units: NM
+  sel_rect: -300000 -300000 300000 300000
+  ref_text: 0 0 0 0 0
+  value_text: 0 0 0 0 0
+  centroid: 0 0 0 0
+  n_pins: 1
+  pin: "1" 400000 0 0 0
+    top_pad: 1 800000 400000 400000 0
+    bottom_pad: 1 800000 400000 400000 0
+Total
