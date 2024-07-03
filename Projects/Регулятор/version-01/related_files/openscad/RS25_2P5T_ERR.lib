@@ -1,6 +1,7 @@
 //============================================
 // Code builder for OpenScad via Freepcb-2 app
-// Author: duxahtech © 2014-2023
+// Author: duxahtech © 2014-2024
+// Site: https://github.com/niconson
 //============================================
 
 
@@ -213,21 +214,9 @@ module FRS25_2P5T_ERR ()
                 }
                 // end of pins
             }
-            
-            translate([0,0,0]) // (automatic adjustment when moving the footprint origin)
-            scale([1,1,1])     // (automatic adjustment when changing the project units)
-            {
-                //-------------------
-                // add your code here, for example:
-                color("Aqua")
-                translate([0,0,20])
-                rotate([0,180,0])
-                import("..\\..\\..\\..\\..\\3D\\knob.stl");
-                //-------------------
-            }
             // end of union
         }
-                // end of difference
+        // end of difference
     }
     // end of module
 }

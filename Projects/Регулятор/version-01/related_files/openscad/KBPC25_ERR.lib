@@ -1,0 +1,116 @@
+//============================================
+// Code builder for OpenScad via Freepcb-2 app
+// Author: duxahtech © 2014-2024
+// Site: https://github.com/niconson
+//============================================
+
+
+
+// Polylines
+
+
+// Footprint
+module fp_KBPC25_ERR ()
+{
+    union()
+    {
+        // end of union
+    }
+    // end of module
+}
+
+
+// Footprint
+module FKBPC25_ERR ()
+{
+    difference()
+    {
+        union()
+        {
+            translate([ -22.650,  -6.350,  0.0 ])
+                translate([ -0.000,  -0.000,  0.100 ])
+                fp_KBPC25_ERR();
+
+            // pads
+            if( enable_draw_pads )
+            color( "gray" )
+            {
+                $fn=8;
+                difference()
+                {
+                    union()
+                    {
+                        translate([ -12.300, 0.000, -board_h/2.0 ])
+                         rotate(22.5)
+                          cylinder( h=board_h+0.100, d1=2.000, d2=2.000, center=true );
+                        translate([ -12.300, 0.000, -0.050 ])
+                          linear_extrude( 0.100 )
+                            polygon([[ 2.500, 2.500 ],
+                                    [ -2.500, 2.500 ],
+                                    [ -2.500, -2.500 ],
+                                    [ 2.500, -2.500 ]]);
+                        translate([ -12.300, 0.000, -(board_h+0.050) ])
+                          linear_extrude( 0.100 )
+                            polygon([[ 2.500, 2.500 ],
+                                    [ -2.500, 2.500 ],
+                                    [ -2.500, -2.500 ],
+                                    [ 2.500, -2.500 ]]);
+                        translate([ 0.000, 0.000, -board_h/2.0 ])
+                         rotate(22.5)
+                          cylinder( h=board_h+0.100, d1=2.000, d2=2.000, center=true );
+                        translate([ 0.000, 0.000, -0.050 ])
+                          rotate( 22.500 )
+                            linear_extrude( 0.100 )
+                              circle( d=5.000 );
+                        translate([ 0.000, 0.000, -(board_h+0.050) ])
+                          rotate( 22.500 )
+                            linear_extrude( 0.100 )
+                              circle( d=5.000 );
+                        translate([ 0.000, 16.300, -board_h/2.0 ])
+                         rotate(22.5)
+                          cylinder( h=board_h+0.100, d1=2.000, d2=2.000, center=true );
+                        translate([ 0.000, 16.300, -0.050 ])
+                          rotate( 22.500 )
+                            linear_extrude( 0.100 )
+                              circle( d=5.000 );
+                        translate([ 0.000, 16.300, -(board_h+0.050) ])
+                          rotate( 22.500 )
+                            linear_extrude( 0.100 )
+                              circle( d=5.000 );
+                        translate([ -16.300, 16.300, -board_h/2.0 ])
+                         rotate(22.5)
+                          cylinder( h=board_h+0.100, d1=2.000, d2=2.000, center=true );
+                        translate([ -16.300, 16.300, -0.050 ])
+                          rotate( 22.500 )
+                            linear_extrude( 0.100 )
+                              circle( d=5.000 );
+                        translate([ -16.300, 16.300, -(board_h+0.050) ])
+                          rotate( 22.500 )
+                            linear_extrude( 0.100 )
+                              circle( d=5.000 );
+                        // end of union
+                    }
+                    translate([ -12.300, 0.000, -board_h/2.0 ])
+                     rotate(22.5)
+                      cylinder( h=board_h*2.0, d1=1.800, d2=1.800, center=true );
+                    translate([ 0.000, 0.000, -board_h/2.0 ])
+                     rotate(22.5)
+                      cylinder( h=board_h*2.0, d1=1.800, d2=1.800, center=true );
+                    translate([ 0.000, 16.300, -board_h/2.0 ])
+                     rotate(22.5)
+                      cylinder( h=board_h*2.0, d1=1.800, d2=1.800, center=true );
+                    translate([ -16.300, 16.300, -board_h/2.0 ])
+                     rotate(22.5)
+                      cylinder( h=board_h*2.0, d1=1.800, d2=1.800, center=true );
+                    // end of difference
+                }
+                // end of pins
+            }
+            // end of union
+        }
+        // end of difference
+    }
+    // end of module
+}
+
+

@@ -1,0 +1,89 @@
+//============================================
+// Code builder for OpenScad via Freepcb-2 app
+// Author: duxahtech © 2014-2024
+// Site: https://github.com/niconson
+//============================================
+
+
+
+// Polylines
+
+
+// Footprint
+module fp_Pad3x3 ()
+{
+    union()
+    {
+        // end of union
+    }
+    // end of module
+}
+
+
+// Footprint
+module FPad3x3 ()
+{
+    difference()
+    {
+        union()
+        {
+            translate([ -0.000,  -0.000,  0.100 ])
+                fp_Pad3x3();
+
+            // pads
+            if( enable_draw_pads )
+            color( "gray" )
+            {
+                $fn=8;
+                difference()
+                {
+                    union()
+                    {
+                        translate([ 0.000, 0.000, -board_h/2.0 ])
+                         rotate(22.5)
+                          cylinder( h=board_h+0.100, d1=2.000, d2=2.000, center=true );
+                        translate([ 0.000, 0.000, -0.050 ])
+                          linear_extrude( 0.100 )
+                            polygon([[ 2.500, 1.500 ],
+                                    [ 2.207, 2.207 ],
+                                    [ 1.500, 2.500 ],
+                                    [ -1.500, 2.500 ],
+                                    [ -2.207, 2.207 ],
+                                    [ -2.500, 1.500 ],
+                                    [ -2.500, -1.500 ],
+                                    [ -2.207, -2.207 ],
+                                    [ -1.500, -2.500 ],
+                                    [ 1.500, -2.500 ],
+                                    [ 2.207, -2.207 ],
+                                    [ 2.500, -1.500 ]]);
+                        translate([ 0.000, 0.000, -(board_h+0.050) ])
+                          linear_extrude( 0.100 )
+                            polygon([[ 2.500, 1.500 ],
+                                    [ 2.207, 2.207 ],
+                                    [ 1.500, 2.500 ],
+                                    [ -1.500, 2.500 ],
+                                    [ -2.207, 2.207 ],
+                                    [ -2.500, 1.500 ],
+                                    [ -2.500, -1.500 ],
+                                    [ -2.207, -2.207 ],
+                                    [ -1.500, -2.500 ],
+                                    [ 1.500, -2.500 ],
+                                    [ 2.207, -2.207 ],
+                                    [ 2.500, -1.500 ]]);
+                        // end of union
+                    }
+                    translate([ 0.000, 0.000, -board_h/2.0 ])
+                     rotate(22.5)
+                      cylinder( h=board_h*2.0, d1=1.800, d2=1.800, center=true );
+                    // end of difference
+                }
+                // end of pins
+            }
+            // end of union
+        }
+        // end of difference
+    }
+    // end of module
+}
+
+

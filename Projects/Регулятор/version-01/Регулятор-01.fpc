@@ -1,11 +1,11 @@
 [options]
 
-app_folder: D:\Разработки\Freepcb2-portable\bin
+app_folder: D:\FreePCBDev\FreePCB-2\.\Debug
 version: 2.416
 file_version: 2.416
 project_name: "Регулятор-01"
 library_folder: "d:\разработки\freepcb2-portable\fp_lib"
-full_library_folder: "d:\разработки\freepcb2-portable\fp_lib\lib_ipc7351-nominal"
+full_library_folder: "d:\разработки\freepcb2-portable\fp_lib\my_lib"
 CAM_folder: "C:\Рабочая папка\PCB_NEW\Регулятор\version-01\CAM(Регулятор-01)(9-1-2021)"
 ses_file_path: ""
 netlist_completed: "1"
@@ -21,13 +21,13 @@ autosave_interval: 60
 auto_ratline_disable: "0"
 auto_ratline_disable_min_pins: "100"
 netlist_import_flags: 3015
-m_client_rect_left: 0
+m_client_rect_left: 110
 m_client_rect_right: 1514
-m_client_rect_bottom: 651
+m_client_rect_bottom: 652
 m_client_rect_top: 0
-m_org_x: -132435
-m_org_y: -28133
-m_scale_factor: 134224
+m_org_x: -163375
+m_org_y: -57574
+m_scale_factor: 226838
 part_line_visible: 1
 merge_shown: 1
 pdf_pin1: 0.700000
@@ -137,7 +137,7 @@ fp_visible_grid_spacing: 1000000.000000
   fp_visible_grid_item: 50mm
   fp_visible_grid_item: 100mm
 
-fp_placement_grid_spacing: 50000.000000
+fp_placement_grid_spacing: 1000000.000000
   fp_placement_grid_item: 10mil
   fp_placement_grid_item: 20mil
   fp_placement_grid_item: 25mil
@@ -229,32 +229,6 @@ n_copper_layers: 4
 
 [footprints]
 
-name: "SIP15"
-author: "Duxah"
-package: "SIP15"
-description: "Connectors"
-  units: NM
-  sel_rect: -2938900 -2988900 17938900 2888900
-  ref_text: 900000 1400000 1500000 0 127000
-  value_text: 600000 5700000 -300000 0 100000
-  centroid: 1 7500000 0 0
-  outline_polyline: 127000 0 2800000 1 0 4
-    next_corner: -2850000 -50000 2
-    next_corner: 0 -2900000 2
-    next_corner: 15000000 -2900000 0
-    next_corner: 17850000 -50000 2
-    next_corner: 15000000 2800000 2
-    close_polyline: 0
-  n_pins: 2
-    pin: "1" 1000000 0 0 0 ""
-      top_pad: 1 4000000 2000000 2000000 0
-      inner_pad: 0 0 0 0 0 0
-      bottom_pad: 1 4000000 2000000 2000000 0
-    pin: "2" 1000000 15000000 0 0 ""
-      top_pad: 1 4000000 2000000 2000000 0
-      inner_pad: 0 0 0 0 0 0
-      bottom_pad: 1 4000000 2000000 2000000 0
-
 name: "R"
 author: "Duxah"
 package: "R"
@@ -277,6 +251,32 @@ description: "Connectors"
       inner_pad: 0 0 0 0 0 0
       bottom_pad: 1 4000000 2000000 2000000 0
     pin: "2" 1000000 7000000 0 0 ""
+      top_pad: 1 4000000 2000000 2000000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 4000000 2000000 2000000 0
+
+name: "SIP15"
+author: "Duxah"
+package: "SIP15"
+description: "Connectors"
+  units: NM
+  sel_rect: -2938900 -2988900 17938900 2888900
+  ref_text: 900000 1400000 1500000 0 127000
+  value_text: 600000 5700000 -300000 0 100000
+  centroid: 1 7500000 0 0
+  outline_polyline: 127000 0 2800000 1 0 4
+    next_corner: -2850000 -50000 2
+    next_corner: 0 -2900000 2
+    next_corner: 15000000 -2900000 0
+    next_corner: 17850000 -50000 2
+    next_corner: 15000000 2800000 2
+    close_polyline: 0
+  n_pins: 2
+    pin: "1" 1000000 0 0 0 ""
+      top_pad: 1 4000000 2000000 2000000 0
+      inner_pad: 0 0 0 0 0 0
+      bottom_pad: 1 4000000 2000000 2000000 0
+    pin: "2" 1000000 15000000 0 0 ""
       top_pad: 1 4000000 2000000 2000000 0
       inner_pad: 0 0 0 0 0 0
       bottom_pad: 1 4000000 2000000 2000000 0
@@ -618,16 +618,6 @@ net: "NET00008" 2 1 0 0 0 0 1
     seg: 2 15 5000320 0 0
     vtx: 3 -44049998 29450004 12 0 0 0 0
 
-net: "NET00009" 2 1 0 0 0 0 1
-  pin: 1 VD1.AC1
-  pin: 2 X2.1
-  connect: 1 1 0 2 0 -1
-    vtx: 1 -33349998 51950004 12 0 0 0 0
-    seg: 1 15 5000320 0 0
-    vtx: 2 -54150012 51950000 0 0 0 0 0
-    seg: 2 15 5000320 0 0
-    vtx: 3 -60349998 45750004 12 0 0 0 0
-
 net: "nK" 6 3 4 0 0 0 1
   pin: 1 VD1.-
   pin: 2 T1.K
@@ -740,6 +730,16 @@ net: "nK" 6 3 4 0 0 0 1
     corner: 27 -62021490 42124359 0 0
     corner: 28 -58678506 42124359 0 0
     corner: 29 -56724353 44078512 0 1
+
+net: "NET00009" 2 1 0 0 0 0 1
+  pin: 1 VD1.AC1
+  pin: 2 X2.1
+  connect: 1 1 0 2 0 -1
+    vtx: 1 -33349998 51950004 12 0 0 0 0
+    seg: 1 15 5000320 0 0
+    vtx: 2 -54150012 51950000 0 0 0 0 0
+    seg: 2 15 5000320 0 0
+    vtx: 3 -60349998 45750004 12 0 0 0 0
 
 net: "NET00002" 3 2 0 0 0 0 1
   pin: 1 C1.1
@@ -864,7 +864,7 @@ net: "NET00001" 4 3 0 0 0 0 1
     seg: 1 15 2000580 0 0
     vtx: 2 -44650001 -10350004 0 0 0 0 0
     seg: 2 15 2000580 0 0
-    vtx: 3 -50149998 -10350000 12 0 0 0 0
+    vtx: 3 -50149998 -10350000 15 0 0 0 0
   connect: 2 3 2 3 0 -1
     vtx: 1 -40149998 -5850000 12 0 0 0 0
     seg: 1 15 3999560 0 0
@@ -937,30 +937,6 @@ net: "NET00006" 2 1 0 0 0 0 1
     vtx: 25 -17651218 32156860 0 0 0 0 0
     seg: 25 15 1000000 0 0
     vtx: 26 -17649998 33650004 12 0 0 0 0
-
-net: "NET00007" 2 1 0 0 0 0 1
-  pin: 1 B1.1
-  pin: 2 R5.2
-  connect: 1 1 0 9 0 -1
-    vtx: 1 2850002 21850000 12 0 0 0 0
-    seg: 1 15 1000000 0 0
-    vtx: 2 -5234428 29933090 0 0 0 0 0
-    seg: 2 15 1000000 0 0
-    vtx: 3 -5595412 30255904 0 0 0 0 0
-    seg: 3 15 1000000 0 0
-    vtx: 4 -5990262 30536284 0 0 0 0 0
-    seg: 4 15 1000000 0 0
-    vtx: 5 -6414012 30770708 0 0 0 0 0
-    seg: 5 15 1000000 0 0
-    vtx: 6 -6861340 30956224 0 0 0 0 0
-    seg: 6 15 1000000 0 0
-    vtx: 7 -7326624 31090508 0 0 0 0 0
-    seg: 7 15 1000000 0 0
-    vtx: 8 -7804012 31171868 0 0 0 0 0
-    seg: 8 15 1000000 0 0
-    vtx: 9 -8287508 31199280 0 0 0 0 0
-    seg: 9 15 1000000 0 0
-    vtx: 10 -13149998 31200004 12 0 0 0 0
 
 net: "nA" 8 5 4 0 0 0 1
   pin: 1 VD1.+
@@ -1093,6 +1069,30 @@ net: "nA" 8 5 4 0 0 0 1
     corner: 25 -59040303 -2270490 0 0
     corner: 26 -59040303 32036360 0 0
     corner: 27 -46760779 32036360 0 1
+
+net: "NET00007" 2 1 0 0 0 0 1
+  pin: 1 B1.1
+  pin: 2 R5.2
+  connect: 1 1 0 9 0 -1
+    vtx: 1 2850002 21850000 12 0 0 0 0
+    seg: 1 15 1000000 0 0
+    vtx: 2 -5234428 29933090 0 0 0 0 0
+    seg: 2 15 1000000 0 0
+    vtx: 3 -5595412 30255904 0 0 0 0 0
+    seg: 3 15 1000000 0 0
+    vtx: 4 -5990262 30536284 0 0 0 0 0
+    seg: 4 15 1000000 0 0
+    vtx: 5 -6414012 30770708 0 0 0 0 0
+    seg: 5 15 1000000 0 0
+    vtx: 6 -6861340 30956224 0 0 0 0 0
+    seg: 6 15 1000000 0 0
+    vtx: 7 -7326624 31090508 0 0 0 0 0
+    seg: 7 15 1000000 0 0
+    vtx: 8 -7804012 31171868 0 0 0 0 0
+    seg: 8 15 1000000 0 0
+    vtx: 9 -8287508 31199280 0 0 0 0 0
+    seg: 9 15 1000000 0 0
+    vtx: 10 -13149998 31200004 12 0 0 0 0
 
 net: "NET00004" 2 1 0 0 0 0 1
   pin: 1 B1.4
