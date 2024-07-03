@@ -25,9 +25,9 @@ m_client_rect_left: 110
 m_client_rect_right: 1514
 m_client_rect_bottom: 652
 m_client_rect_top: 0
-m_org_x: -163375
-m_org_y: -57574
-m_scale_factor: 226838
+m_org_x: -39245
+m_org_y: 17101
+m_scale_factor: 61094
 part_line_visible: 1
 merge_shown: 1
 pdf_pin1: 0.700000
@@ -284,38 +284,39 @@ description: "Connectors"
 name: "RS25-2P5T_ERR"
 package: "ERROR"
   units: NM
-  sel_rect: -15588900 -15588900 15588900 9588900
+  sel_rect: -11624310 -14674850 11624310 8675370
   ref_text: 0 -7560000 1580000 0 254000
   value_text: 0 -7560000 -3500000 0 254000
   centroid: 0 0 -3000000 0
-  outline_polyline: 127000 0 0 1 1 4
+  outline_polyline: 127000 0 0 0 1 4
     next_corner: -3000000 -3000000 2
     next_corner: 0 -6000000 2
     next_corner: 3000000 -3000000 2
     close_polyline: 2
-  outline_polyline: 127000 0 9500000 1 0 4
+  outline_polyline: 127000 0 9500000 0 0 4
     next_corner: -15500000 -3000000 2
     next_corner: 0 -15500000 2
     next_corner: 15500000 -3000000 2
     close_polyline: 2
+    openscad_data: "// Global lift 0.0 mm //|// Global rotation 0.0 //|"
   outline_polyline: 50800 -14700000 -2950000 0 1 8
     next_corner: -14700000 -1300000 0
     next_corner: -13700000 -300000 1
     next_corner: -12700000 -1300000 1
-    next_corner: -12700000 -3050000 0
     next_corner: -12700000 -4700000 0
     next_corner: -13700000 -5700000 1
     next_corner: -14700000 -4700000 1
     close_polyline: 0
+    openscad_data: "// Global lift 0.0 mm //|// Global rotation 0.0 //|"
   outline_polyline: 50800 12700000 -2950000 0 1 8
     next_corner: 12700000 -1300000 0
     next_corner: 13700000 -300000 1
     next_corner: 14700000 -1300000 1
-    next_corner: 14700000 -3050000 0
     next_corner: 14700000 -4700000 0
     next_corner: 13700000 -5700000 1
     next_corner: 12700000 -4700000 1
     close_polyline: 0
+    openscad_data: "// Global lift 0.0 mm //|// Global rotation 0.0 //|"
   n_pins: 12
     pin: "0" 2000000 -5500000 -3000000 0 ""
       top_pad: 1 3000000 1500000 1500000 0
@@ -864,7 +865,7 @@ net: "NET00001" 4 3 0 0 0 0 1
     seg: 1 15 2000580 0 0
     vtx: 2 -44650001 -10350004 0 0 0 0 0
     seg: 2 15 2000580 0 0
-    vtx: 3 -50149998 -10350000 15 0 0 0 0
+    vtx: 3 -50149998 -10350000 12 0 0 0 0
   connect: 2 3 2 3 0 -1
     vtx: 1 -40149998 -5850000 12 0 0 0 0
     seg: 1 15 3999560 0 0

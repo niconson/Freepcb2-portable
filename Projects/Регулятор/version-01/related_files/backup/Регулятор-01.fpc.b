@@ -1,11 +1,11 @@
 [options]
 
-app_folder: D:\FreePCBDev\FreePCB-2\.\Debug
+app_folder: D:\Разработки\bin
 version: 2.416
 file_version: 2.416
 project_name: "Регулятор-01"
 library_folder: "d:\разработки\freepcb2-portable\fp_lib"
-full_library_folder: "d:\разработки\freepcb2-portable\fp_lib\lib_ipc7351-nominal"
+full_library_folder: "d:\разработки\freepcb2-portable\fp_lib\my_lib"
 CAM_folder: "C:\Рабочая папка\PCB_NEW\Регулятор\version-01\CAM(Регулятор-01)(9-1-2021)"
 ses_file_path: ""
 netlist_completed: "1"
@@ -22,12 +22,12 @@ auto_ratline_disable: "0"
 auto_ratline_disable_min_pins: "100"
 netlist_import_flags: 3015
 m_client_rect_left: 0
-m_client_rect_right: 762
-m_client_rect_bottom: 718
+m_client_rect_right: 1514
+m_client_rect_bottom: 652
 m_client_rect_top: 0
-m_org_x: -106022
-m_org_y: -20232
-m_scale_factor: 134224
+m_org_x: -163375
+m_org_y: -57574
+m_scale_factor: 226838
 part_line_visible: 1
 merge_shown: 1
 pdf_pin1: 0.700000
@@ -284,38 +284,40 @@ description: "Connectors"
 name: "RS25-2P5T_ERR"
 package: "ERROR"
   units: NM
-  sel_rect: -15588900 -15588900 15588900 9588900
+  sel_rect: -11624310 -14674850 11624310 8675370
   ref_text: 0 -7560000 1580000 0 254000
   value_text: 0 -7560000 -3500000 0 254000
   centroid: 0 0 -3000000 0
-  outline_polyline: 127000 0 0 1 1 4
+  outline_polyline: 127000 0 0 0 1 4
     next_corner: -3000000 -3000000 2
     next_corner: 0 -6000000 2
     next_corner: 3000000 -3000000 2
     close_polyline: 2
-  outline_polyline: 127000 0 9500000 1 0 4
+    openscad_data: "// Like a cap //|// Global rotation 0.000 //|// Global lift 0.000mm //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `[0.5,0.5,0.5]` )|{|    *corner1*, 0.0 ])|    {|        // linear_extrude( -2.000, scale= 1.000 )|        $fn = 20;|        render(convexity=2) |        for(ang=[0:10:90.5])hull(){|        translate([0,0,2.000*(ang?sin(ang):-0.05)])|            linear_extrude( 0.1, convexity=Convexity )|                offset(r=2.000*(1-cos(ang)))|                    polygon([ *content* ]);||        translate([0,0,2.000*((ang+10)>=90?1:sin(ang+10))])|            linear_extrude( 0.1, convexity=Convexity )|                offset(r=2.000*(1-cos(ang+10)))|                    polygon([ *content* ]);|        }|    }|}|"
+  outline_polyline: 127000 0 9500000 0 0 4
     next_corner: -15500000 -3000000 2
     next_corner: 0 -15500000 2
     next_corner: 15500000 -3000000 2
     close_polyline: 2
+    openscad_data: "// Global lift 0.000mm //|// Global rotation 0.000 //|// Like a cap //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `[0.5,0.5,0.5]` )|{|    *corner1*, 0.0 ])|    {|        // linear_extrude( 2.000, scale= 1.000 )|        render(convexity=2) hull()|        for(ang=[0:10:90.5])|        linear_extrude( 2.000*(ang>0.5?sin(ang):sin(10)/3.0), convexity=Convexity )|        offset(r=2.000*(cos(ang)-1))|        {|            polygon([ *content* ]);|        }|    }|}|"
   outline_polyline: 50800 -14700000 -2950000 0 1 8
     next_corner: -14700000 -1300000 0
     next_corner: -13700000 -300000 1
     next_corner: -12700000 -1300000 1
-    next_corner: -12700000 -3050000 0
     next_corner: -12700000 -4700000 0
     next_corner: -13700000 -5700000 1
     next_corner: -14700000 -4700000 1
     close_polyline: 0
+    openscad_data: "// Global lift 0.000mm //|// Global rotation 0.000 //|"
   outline_polyline: 50800 12700000 -2950000 0 1 8
     next_corner: 12700000 -1300000 0
     next_corner: 13700000 -300000 1
     next_corner: 14700000 -1300000 1
-    next_corner: 14700000 -3050000 0
     next_corner: 14700000 -4700000 0
     next_corner: 13700000 -5700000 1
     next_corner: 12700000 -4700000 1
     close_polyline: 0
+    openscad_data: "// Global lift 0.000mm //|// Global rotation 0.000 //|"
   n_pins: 12
     pin: "0" 2000000 -5500000 -3000000 0 ""
       top_pad: 1 3000000 1500000 1500000 0
@@ -369,26 +371,10 @@ package: "ERROR"
 name: "BT152_ERR"
 package: "ERROR"
   units: NM
-  sel_rect: -10088900 -3524250 5088900 26088900
+  sel_rect: -8624570 -3524250 3425190 24474170
   ref_text: 0 -8410000 780000 0 254000
   value_text: 0 -8410000 -4300000 0 254000
   centroid: 0 -2600000 10975000 0
-  outline_polyline: 127000 -10000000 26000000 1 0 4
-    next_corner: -10000000 7000000 0
-    next_corner: -8000000 5000000 2
-    next_corner: 2999999 5000000 0
-    next_corner: 5000000 7000000 2
-    next_corner: 5000000 26000000 0
-    close_polyline: 0
-    openscad_data: "// it's a hole //|// Like a cap //|// Global rotation 0.000 //|// Global lift 0.000mm //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 40 //|color( `Aqua` )|{|    *corner1*, 0.0 ])|    {|        // linear_extrude( -2.000, scale= 1.000 )|        $fn = 40;|render(convexity=2) |        for(ang=[0:5:90.5])hull(){|        translate([0,0,2.000*sin(ang)])|        linear_extrude( 0.1, convexity=Convexity )|        offset(r=2.000*(1-cos(ang)))|                    polygon([ *content* ]);||        translate([0,0,2.000*((ang+5)>=90?1:sin(ang+5))])|        linear_extrude( 0.1, convexity=Convexity )|        offset(r=2.000*(1-cos(ang+5)))|                    polygon([ *content* ]);|        }|    }|}|"
-  outline_polyline: 127000 -21000000 9000000 0 0 4
-    next_corner: -20000000 10000000 1
-    next_corner: 10000000 10000000 0
-    next_corner: 10000000 -7000000 0
-    next_corner: -5499999 -22500000 1
-    next_corner: -21000000 -7000000 1
-    close_polyline: 0
-    openscad_data: "// Global lift 0.000mm //|// Global rotation 0.000 //|// Like a cap //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 40 //|color( `Aqua` )|{|    *corner1*, 0.0 ])|    {|        // linear_extrude( 2.000, scale= 1.000 )|        render(convexity=2) hull()|        for(ang=[0:5:90.5])|        linear_extrude( 2.000*(ang>0.5?sin(ang):sin(5)/3.0), convexity=Convexity )|        offset(r=2.000*(cos(ang)-1))|        {|            polygon([ *content* ]);|        }|    }|}|"
   n_pins: 10
     pin: "K" 0 -5200000 0 0 ""
       top_pad: 5 7000000 1000000 1000000 1000000
@@ -880,7 +866,7 @@ net: "NET00001" 4 3 0 0 0 0 1
     seg: 1 15 2000580 0 0
     vtx: 2 -44650001 -10350004 0 0 0 0 0
     seg: 2 15 2000580 0 0
-    vtx: 3 -50149998 -10350000 15 0 0 0 0
+    vtx: 3 -50149998 -10350000 12 0 0 0 0
   connect: 2 3 2 3 0 -1
     vtx: 1 -40149998 -5850000 12 0 0 0 0
     seg: 1 15 3999560 0 0
