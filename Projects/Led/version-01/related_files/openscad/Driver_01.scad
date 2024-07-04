@@ -23,7 +23,7 @@ MODE = 1;
 // 1 - 3D view
 // 2 - projection (top)
 // 3 - projection (right)
-
+// 4 - projection with mt.holes (right)
 
 if( MODE == 1 )
     OBJ();
@@ -31,8 +31,8 @@ else if( MODE == 2 )
     projection(true)
     translate([0,0,-3.89])
     OBJ();
-else if( MODE == 3 )
-    projection(false)
+else if( MODE == 3 || MODE == 4 )
+    projection(MODE==3?false:true)
     difference()
     {
         rotate([90,0,0])
@@ -59,4 +59,4 @@ module OBJ() difference()
     rotate([90,0,0])
     Draw_Shield ();
 }  
-            
+                

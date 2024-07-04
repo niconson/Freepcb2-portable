@@ -1,6 +1,7 @@
 //============================================
 // Code builder for OpenScad via Freepcb-2 app
-// Author: duxahtech © 2014-2023
+// Author: duxahtech © 2014-2024
+// Site: https://github.com/niconson
 //============================================
 
 
@@ -150,7 +151,7 @@ module FCD54 ()
                             [ 1.250, -2.000 ]]);
                 // end of pins
             }
-                        // end of union
+            // end of union
         }
         
         translate([0,0,0]) // (automatic adjustment when moving the footprint origin)
@@ -165,7 +166,7 @@ module FCD54 ()
             text("22uH",1);
             //-------------------
         }
-        // end of difference
+// end of difference
     }
     // end of module
 }

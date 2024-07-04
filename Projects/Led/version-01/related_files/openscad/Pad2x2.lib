@@ -1,6 +1,7 @@
 //============================================
 // Code builder for OpenScad via Freepcb-2 app
-// Author: duxahtech © 2014-2023
+// Author: duxahtech © 2014-2024
+// Site: https://github.com/niconson
 //============================================
 
 
@@ -50,9 +51,9 @@ module FPad2x2 ()
                             [ 1.500, 0.000 ]]);
                 // end of pins
             }
-                        // end of union
+            // end of union
         }
-                // end of difference
+        // end of difference
     }
     // end of module
 }

@@ -1,6 +1,7 @@
 //============================================
 // Code builder for OpenScad via Freepcb-2 app
-// Author: duxahtech © 2014-2023
+// Author: duxahtech © 2014-2024
+// Site: https://github.com/niconson
 //============================================
 
 
@@ -130,72 +131,48 @@ module FMSOP_8T ()
                 {
                     union()
                     {
-                        translate([ -2.300, 0.975, -board_h/2.0 ])
-                         rotate(22.5)
-                          cylinder( h=board_h+0.100, d1=0.000, d2=0.000, center=true );
                         translate([ -2.300, 0.975, -0.050 ])
                           linear_extrude( 0.100 )
                             polygon([[ 0.800, 0.225 ],
                                     [ -0.800, 0.225 ],
                                     [ -0.800, -0.225 ],
                                     [ 0.800, -0.225 ]]);
-                        translate([ -2.300, 0.325, -board_h/2.0 ])
-                         rotate(22.5)
-                          cylinder( h=board_h+0.100, d1=0.000, d2=0.000, center=true );
                         translate([ -2.300, 0.325, -0.050 ])
                           linear_extrude( 0.100 )
                             polygon([[ 0.800, 0.225 ],
                                     [ -0.800, 0.225 ],
                                     [ -0.800, -0.225 ],
                                     [ 0.800, -0.225 ]]);
-                        translate([ -2.300, -0.325, -board_h/2.0 ])
-                         rotate(22.5)
-                          cylinder( h=board_h+0.100, d1=0.000, d2=0.000, center=true );
                         translate([ -2.300, -0.325, -0.050 ])
                           linear_extrude( 0.100 )
                             polygon([[ 0.800, 0.225 ],
                                     [ -0.800, 0.225 ],
                                     [ -0.800, -0.225 ],
                                     [ 0.800, -0.225 ]]);
-                        translate([ -2.300, -0.975, -board_h/2.0 ])
-                         rotate(22.5)
-                          cylinder( h=board_h+0.100, d1=0.000, d2=0.000, center=true );
                         translate([ -2.300, -0.975, -0.050 ])
                           linear_extrude( 0.100 )
                             polygon([[ 0.800, 0.225 ],
                                     [ -0.800, 0.225 ],
                                     [ -0.800, -0.225 ],
                                     [ 0.800, -0.225 ]]);
-                        translate([ 2.300, -0.975, -board_h/2.0 ])
-                         rotate(22.5)
-                          cylinder( h=board_h+0.100, d1=0.000, d2=0.000, center=true );
                         translate([ 2.300, -0.975, -0.050 ])
                           linear_extrude( 0.100 )
                             polygon([[ 0.800, 0.225 ],
                                     [ -0.800, 0.225 ],
                                     [ -0.800, -0.225 ],
                                     [ 0.800, -0.225 ]]);
-                        translate([ 2.300, -0.325, -board_h/2.0 ])
-                         rotate(22.5)
-                          cylinder( h=board_h+0.100, d1=0.000, d2=0.000, center=true );
                         translate([ 2.300, -0.325, -0.050 ])
                           linear_extrude( 0.100 )
                             polygon([[ 0.800, 0.225 ],
                                     [ -0.800, 0.225 ],
                                     [ -0.800, -0.225 ],
                                     [ 0.800, -0.225 ]]);
-                        translate([ 2.300, 0.325, -board_h/2.0 ])
-                         rotate(22.5)
-                          cylinder( h=board_h+0.100, d1=0.000, d2=0.000, center=true );
                         translate([ 2.300, 0.325, -0.050 ])
                           linear_extrude( 0.100 )
                             polygon([[ 0.800, 0.225 ],
                                     [ -0.800, 0.225 ],
                                     [ -0.800, -0.225 ],
                                     [ 0.800, -0.225 ]]);
-                        translate([ 2.300, 0.975, -board_h/2.0 ])
-                         rotate(22.5)
-                          cylinder( h=board_h+0.100, d1=0.000, d2=0.000, center=true );
                         translate([ 2.300, 0.975, -0.050 ])
                           linear_extrude( 0.100 )
                             polygon([[ 0.800, 0.225 ],
@@ -213,30 +190,6 @@ module FMSOP_8T ()
                                     [ 0.925, -1.250 ]]);
                         // end of union
                     }
-                    translate([ -2.300, 0.975, -board_h/2.0 ])
-                     rotate(22.5)
-                      cylinder( h=board_h*2.0, d1=-0.200, d2=-0.200, center=true );
-                    translate([ -2.300, 0.325, -board_h/2.0 ])
-                     rotate(22.5)
-                      cylinder( h=board_h*2.0, d1=-0.200, d2=-0.200, center=true );
-                    translate([ -2.300, -0.325, -board_h/2.0 ])
-                     rotate(22.5)
-                      cylinder( h=board_h*2.0, d1=-0.200, d2=-0.200, center=true );
-                    translate([ -2.300, -0.975, -board_h/2.0 ])
-                     rotate(22.5)
-                      cylinder( h=board_h*2.0, d1=-0.200, d2=-0.200, center=true );
-                    translate([ 2.300, -0.975, -board_h/2.0 ])
-                     rotate(22.5)
-                      cylinder( h=board_h*2.0, d1=-0.200, d2=-0.200, center=true );
-                    translate([ 2.300, -0.325, -board_h/2.0 ])
-                     rotate(22.5)
-                      cylinder( h=board_h*2.0, d1=-0.200, d2=-0.200, center=true );
-                    translate([ 2.300, 0.325, -board_h/2.0 ])
-                     rotate(22.5)
-                      cylinder( h=board_h*2.0, d1=-0.200, d2=-0.200, center=true );
-                    translate([ 2.300, 0.975, -board_h/2.0 ])
-                     rotate(22.5)
-                      cylinder( h=board_h*2.0, d1=-0.200, d2=-0.200, center=true );
                     translate([ 0.000, 0.000, -board_h/2.0 ])
                      rotate(22.5)
                       cylinder( h=board_h*2.0, d1=0.300, d2=0.300, center=true );
@@ -244,9 +197,9 @@ module FMSOP_8T ()
                 }
                 // end of pins
             }
-                        // end of union
+            // end of union
         }
-                // end of difference
+        // end of difference
     }
     // end of module
 }

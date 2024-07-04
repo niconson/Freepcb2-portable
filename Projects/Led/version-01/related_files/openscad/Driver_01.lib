@@ -49,6 +49,7 @@ module Pcb_Driver_01 ()
 module Draw_BO_Driver_01()
 {
     color( "green" )
+     render( convexity=3 )
       translate([ 0.0, 0.0, -board_h/2.0 ])
         difference()
         {

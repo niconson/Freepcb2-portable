@@ -1,6 +1,7 @@
 //============================================
 // Code builder for OpenScad via Freepcb-2 app
-// Author: duxahtech © 2014-2023
+// Author: duxahtech © 2014-2024
+// Site: https://github.com/niconson
 //============================================
 
 
@@ -194,9 +195,9 @@ module FSMTDIODE ()
                             [ 0.991, -0.902 ]]);
                 // end of pins
             }
-                        // end of union
+            // end of union
         }
-                // end of difference
+        // end of difference
     }
     // end of module
 }

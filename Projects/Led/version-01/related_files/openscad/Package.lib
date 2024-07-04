@@ -1,6 +1,7 @@
 //============================================
 // Code builder for OpenScad via Freepcb-2 app
-// Author: duxahtech © 2014-2023
+// Author: duxahtech © 2014-2024
+// Site: https://github.com/niconson
 //============================================
 
 
@@ -81,7 +82,7 @@ module Poly1_Package ()
             translate([ -14.000, -6.500, 0.0 ])
             {
                 // linear_extrude( 1.000, scale= 1.000 )
-                hull()
+                render(convexity=2) hull()
                 for(ang=[0:10:90.5])
                 linear_extrude( 1.000*(ang>0.5?sin(ang):sin(10)/3.0), convexity=Convexity )
                 offset(r=1.000*(cos(ang)-1))
@@ -148,7 +149,7 @@ module Poly2_Package ()
         translate([ -11.500, -5.000, 0.0 ])
         {
             // linear_extrude( 2.000, scale= 1.000 )
-            hull()
+            render(convexity=2) hull()
             for(ang=[0:10:90.5])
             linear_extrude( 2.000*(ang>0.5?sin(ang):sin(10)/3.0), convexity=Convexity )
             offset(r=2.000*(cos(ang)-1))
@@ -315,7 +316,7 @@ module Poly5_Package ()
         translate([ 11.500, 5.000, 0.0 ])
         {
             // linear_extrude( 2.000, scale= 1.000 )
-            hull()
+            render(convexity=2) hull()
             for(ang=[0:10:90.5])
             linear_extrude( 2.000*(ang>0.5?sin(ang):sin(10)/3.0), convexity=Convexity )
             offset(r=2.000*(cos(ang)-1))
@@ -658,9 +659,9 @@ module FPackage ()
             translate([ -0.000,  -0.000,  -4.300 ])
                 fp_Package();
 
-                        // end of union
+            // end of union
         }
-                // end of difference
+        // end of difference
     }
     // end of module
 }
