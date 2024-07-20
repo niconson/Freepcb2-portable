@@ -23,4 +23,6 @@ The units of measurement used here are those that were set for the entire projec
 4) matrix
 5) global procedures. These are procedures that are applied simultaneously to all 3D objects in the current footprint so that you can rotate and lift up the finished model along the Z axis. Global procedures do not move the finished model along the X and Y axes, since the program automatically calculates the geometric center of the finished model, consisting from one or many extrusion polylines and places it in place of the centroid. Therefore, no matter where these polyline sketches are located, the object will still end up at the location of the centroid. Thus, you can always freely move the origin of coordinates in the footprint and this will not affect the position of the 3D model in any way (the position of the 3D model can be changed by moving the centroid).
 
+Now, to see what happened, you need to, in the mode when nothing is selected, press the right-click menu and select `Generate OpenSCAD data`
+
 ![PCB](https://github.com/Duxah/FreePCB-2/blob/master/pictures/scad_1.png)
