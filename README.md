@@ -26,3 +26,7 @@ The units of measurement used here are those that were set for the entire projec
 Now, to see what happened, you need to, in the mode when nothing is selected, press the right-click menu and select `Generate OpenSCAD data`. The program will create 3D `.scad` files in the project folder (\related_files\openscad) and open them through OpenSCAD (OpenSCAD must be installed independently, I recommend the 2024 developer version with the ability to switch to the `Manifold` library in the parameters in the `Functions` tab)
 
 ![PCB](https://github.com/Duxah/FreePCB-2/blob/master/pictures/scad_1.png)
+
+This was a review of a single PCB part. Now, to view the entire printed circuit board in 3D, exit the footprint editor and in the main window, in the VIEW menu, select `Switch to 3D-model`
+
+[View previous versions on GitHub](https://github.com/Duxah/FreePCB-2)
