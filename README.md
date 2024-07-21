@@ -30,3 +30,5 @@ Now, to see what happened, you need to, in the mode when nothing is selected, pr
 This was a review of a single PCB part. Now, to view the entire printed circuit board in 3D, exit the footprint editor and in the main window, in the VIEW menu, select `Switch to 3D-model`
 
 [View previous versions on GitHub](https://github.com/Duxah/FreePCB-2)
+
+Contacts: [snapchat](https://www.snapchat.com/add/niconson.com) [telegram](https://www.t.me/niconson) 
