@@ -23,7 +23,7 @@ auto_ratline_disable_min_pins: "100"
 netlist_import_flags: 19399
 m_client_rect_left: 110
 m_client_rect_right: 1514
-m_client_rect_bottom: 652
+m_client_rect_bottom: 651
 m_client_rect_top: 0
 m_org_x: -22236
 m_org_y: -6936
@@ -404,31 +404,35 @@ package: "CD54"
     pin: "2" 0 3900000 0 0 ""
       top_pad: 3 4000000 1250000 1250000 0
 
-name: "CC0805"
-author: "i"
-package: "CC0805"
-description: "Capasitors"
+name: "Shield"
+author: "Ivex"
+package: "Shield"
   units: NM
-  sel_rect: -1912700 -1112700 1912700 1112700
-  ref_text: 600000 -1300000 50000 0 100000
-  value_text: 500000 -1300000 -650000 0 50000
+  sel_rect: -10114300 -2614300 10114300 2614300
+  ref_text: 1270000 2000000 -5000000 0 177800
+  value_text: 1270000 1950000 -6540000 0 177800
   centroid: 0 0 0 0
-  outline_polyline: 150000 1650000 900000 1 0 4
-    next_corner: -1650000 900000 0
-    next_corner: -1650000 -900000 0
-    next_corner: 1650000 -900000 0
-    next_corner: 1650000 900000 0
-  outline_polyline: 25400 -1900000 1100000 0 1 4
-    next_corner: -1900000 -1100000 0
-    next_corner: 1900000 -1100000 0
-    next_corner: 1900000 1100000 0
-    next_corner: -1900000 1100000 0
-    openscad_data: "// Global lift 0.0 mm //|// Global rotation 0.0 //|"
-  n_pins: 2
-    pin: "1" 0 -920000 0 0 ""
-      top_pad: 4 1300000 500000 500000 0
-    pin: "2" 0 920000 0 0 ""
-      top_pad: 4 1300000 500000 500000 0
+  outline_polyline: 177800 -9000000 2500000 1 0 4
+    next_corner: -10000000 1500000 2
+    next_corner: -10000000 -1500000 0
+    next_corner: -9000000 -2500000 2
+    next_corner: 9000000 -2500000 0
+    next_corner: 10000000 -1500000 2
+    next_corner: 10000000 1500000 0
+    next_corner: 9000000 2500000 2
+    close_polyline: 0
+    openscad_data: "// hull()/*fill the space*/ //|// Global lift 0.000mm //|// Global rotation 0.000 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `[0.5,0.5,0.5]` )|{|    *corner1*, 0.0 ])|    {|        linear_extrude( 1.000, scale= 1.000, convexity=Convexity )|        {|            polygon([ *content* ]);|        }|    }|}|"
+  outline_polyline: 177800 -9000000 3500000 0 0 4
+    next_corner: -11000000 1500000 2
+    next_corner: -11000000 -1500000 0
+    next_corner: -9000000 -3500000 2
+    next_corner: 9000000 -3500000 0
+    next_corner: 11000000 -1500000 2
+    next_corner: 11000000 1500000 0
+    next_corner: 9000000 3500000 2
+    close_polyline: 0
+    openscad_data: "// Global rotation 0.000 //|// Global lift 0.000mm //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `[0.5,0.5,0.5]` )|{|    translate([ 0.000,  0.000,  1.000 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 1.000, scale= 1.000, convexity=Convexity )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
+  n_pins: 0
 
 name: "C0402"
 author: "Ivex"
@@ -461,35 +465,31 @@ package: "R0402"
     pin: "2" 0 1300000 0 0 ""
       top_pad: 3 800000 450000 450000 0
 
-name: "Shield"
-author: "Ivex"
-package: "Shield"
+name: "CC0805"
+author: "i"
+package: "CC0805"
+description: "Capasitors"
   units: NM
-  sel_rect: -10114300 -2614300 10114300 2614300
-  ref_text: 1270000 2000000 -5000000 0 177800
-  value_text: 1270000 1950000 -6540000 0 177800
+  sel_rect: -1912700 -1112700 1912700 1112700
+  ref_text: 600000 -1300000 50000 0 100000
+  value_text: 500000 -1300000 -650000 0 50000
   centroid: 0 0 0 0
-  outline_polyline: 177800 -9000000 2500000 1 0 4
-    next_corner: -10000000 1500000 2
-    next_corner: -10000000 -1500000 0
-    next_corner: -9000000 -2500000 2
-    next_corner: 9000000 -2500000 0
-    next_corner: 10000000 -1500000 2
-    next_corner: 10000000 1500000 0
-    next_corner: 9000000 2500000 2
-    close_polyline: 0
-    openscad_data: "// hull()/*fill the space*/ //|// Global lift 0.000mm //|// Global rotation 0.000 //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `[0.5,0.5,0.5]` )|{|    *corner1*, 0.0 ])|    {|        linear_extrude( 1.000, scale= 1.000, convexity=Convexity )|        {|            polygon([ *content* ]);|        }|    }|}|"
-  outline_polyline: 177800 -9000000 3500000 0 0 4
-    next_corner: -11000000 1500000 2
-    next_corner: -11000000 -1500000 0
-    next_corner: -9000000 -3500000 2
-    next_corner: 9000000 -3500000 0
-    next_corner: 11000000 -1500000 2
-    next_corner: 11000000 1500000 0
-    next_corner: 9000000 3500000 2
-    close_polyline: 0
-    openscad_data: "// Global rotation 0.000 //|// Global lift 0.000mm //|// matrix: 1 1 1 0.000 0.000 0.000 //|// resolution $fn = 20 //|color( `[0.5,0.5,0.5]` )|{|    translate([ 0.000,  0.000,  1.000 ])|    {|        *corner1*, 0.0 ])|        {|            linear_extrude( 1.000, scale= 1.000, convexity=Convexity )|            {|                polygon([ *content* ]);|            }|        }|    }|}|"
-  n_pins: 0
+  outline_polyline: 150000 1650000 900000 1 0 4
+    next_corner: -1650000 900000 0
+    next_corner: -1650000 -900000 0
+    next_corner: 1650000 -900000 0
+    next_corner: 1650000 900000 0
+  outline_polyline: 25400 -1900000 1100000 0 1 4
+    next_corner: -1900000 -1100000 0
+    next_corner: 1900000 -1100000 0
+    next_corner: 1900000 1100000 0
+    next_corner: -1900000 1100000 0
+    openscad_data: "// Global lift 0.0 mm //|// Global rotation 0.0 //|"
+  n_pins: 2
+    pin: "1" 0 -920000 0 0 ""
+      top_pad: 4 1300000 500000 500000 0
+    pin: "2" 0 920000 0 0 ""
+      top_pad: 4 1300000 500000 500000 0
 
 name: "SMTDIODE"
 author: "Ivex"
@@ -748,6 +748,31 @@ part: VIA2
 
 [nets]
 
+net: "OUT-" 3 2 0 0 0 0 1
+  pin: 1 DC14.6
+  pin: 2 KT3.1
+  pin: 3 R3.2
+  connect: 1 2 0 5 0 -1
+    vtx: 1 5800001 -4250000 15 0 0 0 0
+    seg: 1 15 400000 0 0
+    vtx: 2 5799050 -3648530 0 0 0 0 0
+    seg: 2 15 400000 0 0
+    vtx: 3 5406620 -3254830 0 0 0 0 0
+    seg: 3 15 400000 0 0
+    vtx: 4 3524392 -3254651 0 0 0 0 0
+    seg: 4 15 400000 0 0
+    vtx: 5 3110075 -2840334 0 0 0 0 0
+    seg: 5 15 400000 0 0
+    vtx: 6 1716140 -2840330 15 0 0 0 0
+  connect: 2 2 1 3 0 -1
+    vtx: 1 5800001 -4250000 15 0 0 0 0
+    seg: 1 15 400000 0 0
+    vtx: 2 7215100 -4250510 0 0 0 0 0
+    seg: 2 15 400000 0 0
+    vtx: 3 7715480 -3750130 0 0 0 0 0
+    seg: 3 15 400000 0 0
+    vtx: 4 10000000 -3749999 15 0 0 0 0
+
 net: "+E" 5 2 2 0 0 0 1
   pin: 1 C1.2
   pin: 2 L1.2
@@ -782,31 +807,6 @@ net: "+E" 5 2 2 0 0 0 1
     corner: 8 -11411460 263370 0 0
     corner: 9 -11411460 4249600 0 0
     corner: 10 -2284120 4249600 0 1
-
-net: "OUT-" 3 2 0 0 0 0 1
-  pin: 1 DC14.6
-  pin: 2 KT3.1
-  pin: 3 R3.2
-  connect: 1 2 0 5 0 -1
-    vtx: 1 5800001 -4250000 15 0 0 0 0
-    seg: 1 15 400000 0 0
-    vtx: 2 5799050 -3648530 0 0 0 0 0
-    seg: 2 15 400000 0 0
-    vtx: 3 5406620 -3254830 0 0 0 0 0
-    seg: 3 15 400000 0 0
-    vtx: 4 3524392 -3254651 0 0 0 0 0
-    seg: 4 15 400000 0 0
-    vtx: 5 3110075 -2840334 0 0 0 0 0
-    seg: 5 15 400000 0 0
-    vtx: 6 1716140 -2840330 15 0 0 0 0
-  connect: 2 2 1 3 0 -1
-    vtx: 1 5800001 -4250000 15 0 0 0 0
-    seg: 1 15 400000 0 0
-    vtx: 2 7215100 -4250510 0 0 0 0 0
-    seg: 2 15 400000 0 0
-    vtx: 3 7715480 -3750130 0 0 0 0 0
-    seg: 3 15 400000 0 0
-    vtx: 4 10000000 -3749999 15 0 0 0 0
 
 net: "SET" 2 1 0 0 0 0 1
   pin: 1 KT1.1
