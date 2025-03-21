@@ -1,1 +1,0 @@
-The ’HC595 devices contain an 8-bit serial-in, parallel-out shift register

@@ -1,1 +1,0 @@
-TLV700 200mA, Low-IQ, Low-Dropout Regulator for Portable Devices

@@ -1,5 +1,0 @@
-Микроконтроллер AT32F413CBT7 (LQFP-48)
-Микроконтроллер Artery, ядро M4. 
-Конфигурируемые Flash и SRAM память. 
-До 128КБ Flash, до 64КБ SRAM. 
-2 CAN, USB device
