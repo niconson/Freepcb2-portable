@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
-* text eol=crlf
+* text=auto
+*.fpl text eol=crlf
+*.cfg text eol=crlf
+*.txt text eol=crlf
+*.fpc text eol=crlf
+*.csv text eol=crlf
+*.exe binary
